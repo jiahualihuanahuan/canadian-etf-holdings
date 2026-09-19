@@ -1,0 +1,352 @@
+ticker,exchange,name,provider
+QCD,TSX,AGFiQ Enhanced Core Canadian Equity ETF,AGFiQ
+QUS,TSX,AGFiQ Enhanced Core US Equity ETF,AGFiQ
+QIE,TSX,AGFiQ Enhanced Core International Equity ETF,AGFiQ
+QEM,TSX,AGFiQ Enhanced Core Emerging Markets Equity ETF,AGFiQ
+QIF,TSX,AGFiQ Enhanced Global Infrastructure ETF,AGFiQ
+QEF,TSX,AGFiQ Enhanced Global ESG Factors ETF,AGFiQ
+QGL,TSX,AGFiQ Global Equity Rotation ETF,AGFiQ
+QMA,TSX,AGFiQ MultiAsset Allocation ETF,AGFiQ
+QMY,TSX,AGFiQ MultiAsset Income Allocation ETF,AGFiQ
+XIU,TSX,iShares S&P/TSX 60 Index ETF,BlackRock Inc
+XIC,TSX,iShares S&P/TSX Capped Composite Index ETF,BlackRock Inc
+XMD,TSX,iShares S&P/TSX MidCap Index ETF,BlackRock Inc
+XCS,TSX,iShares S&P/TSX SmallCap Index ETF,BlackRock Inc
+XEF,TSX,iShares Core MSCI EAFE IMI Index ETF,BlackRock Inc
+XEG,TSX,iShares S&P/TSX Capped Energy Index ETF,BlackRock Inc
+XIT,TSX,iShares S&P/TSX Capped Information Technology Index ETF,BlackRock Inc
+XGD,TSX,iShares S&P/TSX Capped Gold Index ETF,BlackRock Inc
+XFN,TSX,iShares S&P/TSX Capped Financials Index ETF,BlackRock Inc
+XMA,TSX,iShares S&P/TSX Capped Materials Index ETF,BlackRock Inc
+XRE,TSX,iShares S&P/TSX Capped REIT Index ETF,BlackRock Inc
+XTR,TSX,iShares S&P/TSX Income Trust Index ETF,BlackRock Inc
+XDV,TSX,iShares Dow Jones Canada Select Dividend Index ETF,BlackRock Inc
+XCG,TSX,iShares Dow Jones Canada Select Growth Index ETF,BlackRock Inc
+XCV,TSX,iShares Dow Jones Canada Select Value Index ETF,BlackRock Inc
+XEN,TSX,iShares Jantzi Social Index ETF,BlackRock Inc
+XSB,TSX,iShares Core Canadian Short Term Bond Index ETF,BlackRock Inc
+XBB,TSX,iShares Core Canadian Universe Bond Index ETF,BlackRock Inc
+XRB,TSX,iShares Canadian Real Return Bond Index ETF,BlackRock Inc
+XCB,TSX,iShares Canadian Corporate Bond Index ETF,BlackRock Inc
+XGB,TSX,iShares Canadian Government Bond Index ETF,BlackRock Inc
+XLB,TSX,iShares Core Canadian Long Term Bond Index ETF,BlackRock Inc
+XSP,TSX,iShares Core S&P 500 Index ETF ( CAD-hedged ),BlackRock Inc
+XUS,TSX,iShares Core S&P 500 Index ETF,BlackRock Inc
+XSU,TSX,iShares Russell 2000 Index ETF (CAD-hedged),BlackRock Inc
+XIN,TSX,iShares MSCI EAFE Index ETF (CAD-hedged),BlackRock Inc
+XEM,TSX,iShares MSCI Emerging Markets Index ETF,BlackRock Inc
+XWD,TSX,iShares MSCI World Index ETF,BlackRock Inc
+XQQ,TSX,iShares Nasdaq 100 Index ETF,BlackRock Inc
+XCHP,TSX,iShares Semiconductor Index ETF,BlackRock Inc
+ZCN,TSX,BMO TSX Capped Composite ETF,BMO Asset Management
+ZCLN,TSX,BMO Clean Energy Index ETF,BMO Asset Management
+ZDJ,TSX,BMO Dow Jones Industrial Average Hedged to CAD Index ETF,BMO Asset Management
+ZUE,TSX,BMO US Equity Hedged to CAD Index ETF,BMO Asset Management
+ZDM,TSX,BMO International Equity Hedged to CAD Index ETF,BMO Asset Management
+ZEM,TSX,BMO Emerging Markets Equity Index ETF,BMO Asset Management
+ZCH,TSX,BMO China Equity Hedged to CAD Index ETF,BMO Asset Management
+ZID,TSX,BMO India Equity Hedged to CAD Index ETF,BMO Asset Management
+ZEB,TSX,BMO S&P/TSX Equal Weight Banks Index ETF,BMO Asset Management
+ZEO,TSX,BMO S&P/TSX Equal Weight Oil & Gas Index ETF,BMO Asset Management
+ZUT,TSX,BMO Equal Weight Utilities Index ETF,BMO Asset Management
+ZRE,TSX,BMO Equal Weight REITs Index ETF,BMO Asset Management
+ZQQ,TSX,BMO NASDAQ 100 Equity Hedged to CAD Index ETF,BMO Asset Management
+ZUH,TSX,BMO Equal Weight U.S. Health Care Hedged to CAD Index ETF,BMO Asset Management
+ZUB,TSX,BMO Equal Weight U.S. Banks Hedged to CAD Index ETF,BMO Asset Management
+ZGI,TSX,BMO Global Infrastructure Index ETF,BMO Asset Management
+ZMT,TSX,BMO S&P/TSX Equal Weight Global Base Metals Hedged to CAD Index ETF,BMO Asset Management
+ZJG,TSX,BMO Junior Gold Index ETF,BMO Asset Management
+ZJO,TSX,BMO Junior Oil Index ETF,BMO Asset Management
+ZJN,TSX,BMO Junior Gas Index ETF,BMO Asset Management
+ZAG,TSX,BMO Aggregate Bond Index ETF,BMO Asset Management
+ZFS,TSX,BMO Short Federal Bond Index ETF,BMO Asset Management
+ZFM,TSX,BMO Mid Federal Bond Index ETF,BMO Asset Management
+ZFL,TSX,BMO Long Federal Bond Index ETF,BMO Asset Management
+ZRR,TSX,BMO Real Return Bond Index ETF,BMO Asset Management
+ZPS,TSX,BMO Short Provincial Bond Index ETF,BMO Asset Management
+ZCS,TSX,BMO Short Corporate Bond Index ETF,BMO Asset Management
+ZCM,TSX,BMO Mid Corporate Bond Index ETF,BMO Asset Management
+ZLC,TSX,BMO Long Corporate Bond Index ETF,BMO Asset Management
+ZHY,TSX,BMO High Yield US Corporate Bond Hedged to CAD Index ETF,BMO Asset Management
+ZEF,TSX,BMO Emerging Markets Bond Hedged to CAD Index ETF,BMO Asset Management
+ZDV,TSX,BMO Canadian Dividend ETF,BMO Asset Management
+ZPR,TSX,BMO S&P/TSX Laddered Preferred Share Index ETF,BMO Asset Management
+ZWC,TSX,BMO Canada High Dividend Covered Call,BMO Asset Management
+ZWE,TSX,BMO Europe High Dividend Covered Call Hedged to CAD ETF,BMO Asset Management
+ZGD,TSX,BMO S&P/TSX Equal Weight Global Gold Index ETF,BMO Asset Management
+ZSP,TSX,BMO S&P 500 Index ETF,BMO Asset Management
+ZDY,TSX,BMO US Dividend ETF,BMO Asset Management
+BANK,TSX,Evolve Canadian Banks and Lifecos Enhanced Yield Index Fund,Evolve ETFs
+UTES,TSX,Evolve Canadian Utilities Enhanced Yield Index Fund,Evolve ETFs
+OILY,TSX,Evolve Canadian Energy Enhanced Yield Index Fund,Evolve ETFs
+BIGY,TSX,Evolve US Equity UltraYield ETF,Evolve ETFs
+CANY,TSX,Evolve Canadian Equity UltraYield ETF,Evolve ETFs
+SIXY,TSX,Evolve Big Six Canadian Banks UltraYield Index ETF,Evolve ETFs
+INTY,TSX,Evolve International Equity UltraYield ETF,Evolve ETFs
+EASY,TSX,Evolve All-in-One UltraYield ETF,Evolve ETFs
+ETSX,TSX,Evolve S&P/TSX 60 Enhanced Yield Fund,Evolve ETFs
+ESPX,TSX,Evolve S&P 500 Enhanced Yield Fund,Evolve ETFs
+QQQY,TSX,Evolve NASDAQ Technology Enhanced Yield Index Fund,Evolve ETFs
+LIFE,TSX,Evolve Global Healthcare Enhanced Yield Fund,Evolve ETFs
+CALL,TSX,Evolve US Banks Enhanced Yield Fund,Evolve ETFs
+EBNK,TSX,Evolve European Banks Enhanced Yield ETF,Evolve ETFs
+BASE,TSX,Evolve Global Materials & Mining Enhanced Yield Index ETF,Evolve ETFs
+LEAD,TSX,Evolve Future Leadership Fund,Evolve ETFs
+BOND,TSX,Evolve Enhanced Yield Bond Fund,Evolve ETFs
+AGG,TSX,Evolve Canadian Aggregate Bond Enhanced Yield Fund,Evolve ETFs
+MIDB,TSX,Evolve Enhanced Yield Mid Term Bond Fund,Evolve ETFs
+HISU.U,TSX,US High Interest Savings Account Fund,Evolve ETFs
+MCAD,TSX,Premium Cash Management Fund,Evolve ETFs
+MUSD.U,TSX,US Premium Cash Management Fund,Evolve ETFs
+QQQT,TSX,Evolve NASDAQ Technology Index Fund,Evolve ETFs
+TECH,TSX,Evolve FANGMA Index ETF,Evolve ETFs
+CYBR,TSX,Evolve Cyber Security Index Fund,Evolve ETFs
+HERO,TSX,Evolve E-Gaming Index ETF,Evolve ETFs
+ARTI,TSX,Evolve Artificial Intelligence Fund,Evolve ETFs
+EDGE,TSX,Evolve Innovation Index Fund,Evolve ETFs
+CARS,TSX,Evolve Automobile Innovation Index Fund,Evolve ETFs
+DATA,TSX,Evolve Cloud Computing Index Fund,Evolve ETFs
+EARN,TSX,Evolve Active Global Fixed Income Fund,Evolve ETFs
+DIVS,TSX,Evolve Active Canadian Preferred Share Fund,Evolve ETFs
+EBIT,TSX,Evolve Bitcoin ETF,Evolve ETFs
+ETHR,TSX,Evolve Ether ETF,Evolve ETFs
+XRP,TSX,Evolve XRP ETF,Evolve ETFs
+SOLA,TSX,Evolve Solana ETF,Evolve ETFs
+ETC,TSX,Evolve Cryptocurrencies ETF,Evolve ETFs
+LBIT,TSX,Evolve Levered Bitcoin ETF,Evolve ETFs
+LETH,TSX,Evolve Levered Ether ETF,Evolve ETFs
+HFG,TSX,Hamilton Global Financial ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HUM,TSX,Hamilton U.S. Mid/Small-Cap Financials ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HCA,TSX,Hamilton Canadian Bank Mean Reversion Index ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HBA,TSX,Hamilton Australian Bank Equal-Weight Index ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HCAL,TSX,Hamilton Enhanced Canadian Bank ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HFIN,TSX,Hamilton Enhanced Canadian Financials ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HDIV,TSX,Hamilton Enhanced Multi-Sector Covered Call ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HYLD,TSX,Hamilton Enhanced U.S. Covered Call ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HUTS,TSX,Hamilton Enhanced Utilities ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HMAX,TSX,Hamilton Canadian Financials YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+AMAX,TSX,Hamilton Gold Producer YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+EMAX,TSX,Hamilton Energy YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+FMAX,TSX,Hamilton U.S. Financials YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+LMAX,TSX,Hamilton Gold Producer YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+SMAX,TSX,Hamilton U.S. Equity YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+QMAX,TSX,Hamilton Technology YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HBND,TSX,Hamilton U.S. Bond YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HBIL,TSX,Hamilton U.S. T-Bill YIELD MAXIMIZER™ ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+CMVP,TSX,HAMILTON CHAMPIONS™ Canadian Dividend Index ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+SMVP,TSX,HAMILTON CHAMPIONS™ U.S. Dividend Index ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+QMVP,TSX,HAMILTON CHAMPIONS™ U.S. Technology Index ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+UMVP,TSX,HAMILTON CHAMPIONS™ Utilities Index ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HEB,TSX,HAMILTON CHAMPIONS™ Canadian Bank Equal-Weight Index ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HFN,TSX,HAMILTON CHAMPIONS™ Canadian Financials Index ETF,Hamilton ETFs (Hamilton Capital Partners Inc.)
+HHL,TSX,Harvest Healthcare Leaders Income ETF,Harvest ETFs
+HTA,TSX,Harvest Tech Achievers Growth & Income ETF,Harvest ETFs
+HBF,TSX,Harvest Brand Leaders Plus Income ETF,Harvest ETFs
+HUTL,TSX,Harvest Equal Weight Global Utilities Income ETF,Harvest ETFs
+HGR,TSX,Harvest Global REIT Leaders Income ETF,Harvest ETFs
+HPF,TSX,Harvest Energy Leaders Plus Income ETF,Harvest ETFs
+HUBL,TSX,Harvest US Bank Leaders Income ETF,Harvest ETFs
+HLIF,TSX,Harvest Canadian Equity Income Leaders ETF,Harvest ETFs
+TRVI,TSX,Harvest Travel & Leisure Income ETF,Harvest ETFs
+HRIF,TSX,HRIF - Harvest Diversified Equity Income ETF,Harvest ETFs
+HPYT,TSX,Harvest Premium Yield Treasury ETF,Harvest ETFs
+HPYM,TSX,Harvest Premium Yield 7-10 Year Treasury ETF,Harvest ETFs
+TBIL,TSX,Harvest Canadian T-Bill ETF,Harvest ETFs
+HDIF,TSX,Harvest Diversified Monthly Income ETF,Harvest ETFs
+HHLE,TSX,Harvest Healthcare Leaders Enhanced Income ETF,Harvest ETFs
+HTAE,TSX,Harvest Tech Achievers Enhanced Income ETF,Harvest ETFs
+HUTE,TSX,Harvest Equal Weight Global Utilities Enhanced Income ETF,Harvest ETFs
+HBFE,TSX,Harvest Brand Leaders Enhanced Income ETF,Harvest ETFs
+HLFE,TSX,Harvest Canadian Equity Enhanced Income Leaders ETF,Harvest ETFs
+HGGG,TSX,Harvest Global Gold Giants Index ETF,Harvest ETFs
+TRVL,TSX,Harvest Travel & Leisure Index ETF,Harvest ETFs
+HBLK,TSX,Blockchain Technologies ETF,Harvest ETFs
+HCLN,TSX,Harvest Clean Energy ETF,Harvest ETFs
+DLR,TSX,Horizons U.S. Dollar Currency ETF,Horizons ETFs Management
+DLR.U,TSX,Horizons U.S. Dollar Currency ETF (USD),Horizons ETFs Management
+HXT,TSX,Horizons S&P/TSX 60 Index ETF,Horizons ETFs Management
+HXS,TSX,Horizons S&P 500 Index ETF,Horizons ETFs Management
+HXQ,TSX,Horizons NASDAQ-100 Index ETF,Horizons ETFs Management
+HXU,TSX,Horizons BetaPro S&P/TSX 60 Bull Plus ETF,Horizons ETFs Management
+HXD,TSX,Horizons BetaPro S&P/TSX 60 Bear Plus ETF,Horizons ETFs Management
+HEU,TSX,Horizons BetaPro S&P/TSX Capped Energy Bull Plus ETF,Horizons ETFs Management
+HED,TSX,Horizons BetaPro S&P/TSX Capped Energy Bear Plus ETF,Horizons ETFs Management
+HFU,TSX,Horizons BetaPro S&P/TSX Capped Financials Bull Plus ETF,Horizons ETFs Management
+HFD,TSX,Horizons BetaPro S&P/TSX Capped Financials Bear Plus ETF,Horizons ETFs Management
+HMU,TSX,Horizons BetaPro S&P/TSX Global Mining Bull Plus ETF,Horizons ETFs Management
+HMD,TSX,Horizons BetaPro S&P/TSX Global Mining Bear Plus ETF,Horizons ETFs Management
+HOU,TSX,Horizons BetaPro NYMEX Crude Oil Bull Plus ETF,Horizons ETFs Management
+HOD,TSX,Horizons BetaPro NYMEX Crude Oil Bear Plus ETF,Horizons ETFs Management
+HNU,TSX,Horizons BetaPro NYMEX Natural Gas Bull Plus ETF,Horizons ETFs Management
+HND,TSX,Horizons BetaPro NYMEX Natural Gas Bear Plus ETF,Horizons ETFs Management
+HBU,TSX,Horizons BetaPro COMEX Gold Bull Plus ETF,Horizons ETFs Management
+HBD,TSX,Horizons BetaPro COMEX Gold Bear Plus ETF,Horizons ETFs Management
+HAU,TSX,Horizons BetaPro DJ-AIG Agricultural Grains Bull Plus ETF,Horizons ETFs Management
+HAD,TSX,Horizons BetaPro DJ-AIG Agricultural Grains Bear Plus ETF,Horizons ETFs Management
+HBB,TSX,Horizons CDN Select Universe Bond ETF,Horizons ETFs Management
+FHB,TSX,First Asset European Bank ETF,First Asset
+RWC,TSX,First Asset MSCI Canada Low Risk Weighted ETF,First Asset
+RWE,TSX,First Asset MSCI Europe Low Risk Weighted ETF (CAD Hedged),First Asset
+RWE.B,TSX,First Asset MSCI Europe Low Risk Weighted ETF (Unhedged),First Asset
+RWU,TSX,First Asset MSCI USA Low Risk Weighted ETF (CAD Hedged),First Asset
+RWU.B,TSX,First Asset MSCI USA Low Risk Weighted ETF (Unhedged),First Asset
+RWW,TSX,First Asset MSCI World Low Risk Weighted ETF (CAD Hedged),First Asset
+RWW.B,TSX,First Asset MSCI World Low Risk Weighted ETF (Unhedged),First Asset
+DXM,TSX,First Asset Morningstar Canada Dividend Target 30 Index ETF,First Asset
+WXM,TSX,CI Morningstar Canada Momentum Index ETF,CI Global Asset Management
+FXM,TSX,First Asset Morningstar Canada Value Index ETF,First Asset
+QXM,TSX,First Asset Morningstar National Bank Québec Index ETF,First Asset
+UXM,TSX,First Asset Morningstar US Dividend Target 50 Index ETF (CAD Hedged),First Asset
+UXM.B,TSX,First Asset Morningstar US Dividend Target 50 Index ETF (Unhedged),First Asset
+YXM,TSX,First Asset Morningstar US Momentum Index ETF (CAD Hedged),First Asset
+YXM.B,TSX,First Asset Morningstar US Momentum Index ETF (Unhedged),First Asset
+XXM,TSX,First Asset Morningstar US Value Index ETF (CAD Hedged),First Asset
+XXM.B,TSX,First Asset Morningstar US Value Index ETF (Unhedged),First Asset
+TXF,TSX,First Asset Tech Giants Covered Call ETF (CAD Hedged),First Asset
+BXF,TSX,First Asset DEX 1-5 Year Laddered Government Strip Bond Index ETF,First Asset
+AXF,TSX,First Asset DEX All Canada Bond Barbell Index ETF,First Asset
+KXF,TSX,First Asset DEX Corporate Bond Barbell Index ETF,First Asset
+GXF,TSX,First Asset DEX Government Bond Barbell Index ETF,First Asset
+PXF,TSX,First Asset DEX Provincial Bond Index ETF,First Asset
+EXM,TSX,First Asset Morningstar Emerging Markets Composite Bond Index ETF,First Asset
+PSA,TSX,Purpose High Interest Savings ETF,Purpose Investments Inc.
+MJJ,TSX,Purpose Marijuana Opportunities Fund,Purpose Investments Inc.
+PSU.U,TSX,Purpose US Cash ETF,Purpose Investments Inc.
+BND,TSX,Purpose Global Bond Fund,Purpose Investments Inc.
+FLOT,TSX,Purpose Floating Rate Income Fund— FX Hedged,Purpose Investments Inc.
+FLOT.B,TSX,Purpose Floating Rate Income Fund— Non-FX Hedged,Purpose Investments Inc.
+FLOT.U,TSX,Purpose Floating Rate Income Fund— USD,Purpose Investments Inc.
+IGB,TSX,Purpose Managed Duration Investment Grade Bond Fund,Purpose Investments Inc.
+PBD,TSX,Purpose Total Return Bond Fund,Purpose Investments Inc.
+PCF,TSX,Purpose Energy Credit Fund— FX Hedged,Purpose Investments Inc.
+SBND,TSX,Purpose Short Duration Tactical Bond Fund,Purpose Investments Inc.
+SYLD,TSX,Purpose Strategic Yield Fund— FX Hedged,Purpose Investments Inc.
+BNC,TSX,Purpose Canadian Financial Income Fund,Purpose Investments Inc.
+PDF,TSX,Purpose Core Dividend Fund,Purpose Investments Inc.
+PDIV,TSX,Purpose Enhanced Dividend Fund,Purpose Investments Inc.
+PFG,TSX,Purpose Global Financials Income Fund,Purpose Investments Inc.
+PID,TSX,Purpose International Dividend Fund,Purpose Investments Inc.
+PUD,TSX,Purpose US Dividend Fund — FX Hedged,Purpose Investments Inc.
+PUD.B,TSX,Purpose US Dividend Fund— Non-FX Hedged,Purpose Investments Inc.
+PIN,TSX,Purpose Monthly Income Fund,Purpose Investments Inc.
+PINC,TSX,Purpose Multi-Asset Income Fund,Purpose Investments Inc.
+PRP,TSX,Purpose Conservative Income Fund,Purpose Investments Inc.
+PBI,TSX,Purpose Best Ideas Fund — FX Hedged,Purpose Investments Inc.
+PBI.B,TSX,Purpose Best Ideas Fund— Non-FX Hedged,Purpose Investments Inc.
+PINV,TSX,Purpose Global Innovators Fund,Purpose Investments Inc.
+KILO,TSX,Purpose Gold Bullion Fund — FX Hedged,Purpose Investments Inc.
+KILO.B,TSX,Purpose Gold Bullion Fund— Non-FX Hedged,Purpose Investments Inc.
+KILO.U,TSX,Purpose Gold Bullion Fund — USD,Purpose Investments Inc.
+PEU,TSX,Purpose Enhanced US Equity Fund— FX Hedged,Purpose Investments Inc.
+PEU.B,TSX,Purpose Enhanced US Equity Fund— Non-FX Hedged,Purpose Investments Inc.
+PHE,TSX,Purpose Tactical Hedged Equity Fund— FX Hedged,Purpose Investments Inc.
+PHE.B,TSX,Purpose Tactical Hedged Equity Fund— Non-FX Hedged,Purpose Investments Inc.
+PHR,TSX,Purpose Duration Hedged Real Estate Fund,Purpose Investments Inc.
+PHW,TSX,Purpose International Tactical Hedged Equity Fund,Purpose Investments Inc.
+PMM,TSX,Purpose Multi-Strategy Market Neutral Fund,Purpose Investments Inc.
+PRA,TSX,Purpose Diversified Real Asset Fund,Purpose Investments Inc.
+PYF,TSX,Purpose Premium Yield Fund— FX Hedged,Purpose Investments Inc.
+PYF.B,TSX,Purpose Premium Yield Fund— Non-FX Hedged,Purpose Investments Inc.
+PYF.U,TSX,Purpose Premium Yield Fund — USD,Purpose Investments Inc.
+SBT,TSX,Purpose Silver Bullion Fund— FX Hedged,Purpose Investments Inc.
+SBT.B,TSX,Purpose Silver Bullion Fund— Non-FX Hedged,Purpose Investments Inc.
+SBT.U,TSX,Purpose Silver Bullion Fund — USD,Purpose Investments Inc.
+BTCC,TSX,Purpose Bitcoin ETF — FX Hedged,Purpose Investments Inc.
+BTCC.B,TSX,Purpose Bitcoin ETF — Non-FX Hedged,Purpose Investments Inc.
+BTCC.U,TSX,Purpose Bitcoin ETF — USD,Purpose Investments Inc.
+VCE,TSX,Vanguard FTSE Canada Index ETF,Vanguard Investments Canada Inc.
+VCN,TSX,Vanguard FTSE Canada All Cap Index ETF,Vanguard Investments Canada Inc.
+VDY,TSX,Vanguard FTSE Canadian High Dividend Yield Index ETF,Vanguard Investments Canada Inc.
+VRE,TSX,Vanguard FTSE Canadian Capped REIT Index ETF,Vanguard Investments Canada Inc.
+VUN,TSX,Vanguard U.S. Total Market Index ETF,Vanguard Investments Canada Inc.
+VUS,TSX,Vanguard U.S. Total Market Index ETF (CAD-hedged),Vanguard Investments Canada Inc.
+VFV,TSX,Vanguard S&P 500 Index,Vanguard Investments Canada Inc.
+VSP,TSX,Vanguard S&P 500 Index (CAD-hedged),Vanguard Investments Canada Inc.
+VGG,TSX,Vanguard U.S. Dividend Appreciation Index ETF,Vanguard Investments Canada Inc.
+VGH,TSX,Vanguard U.S. Dividend Appreciation Index ETF (CAD-hedged),Vanguard Investments Canada Inc.
+VXC,TSX,Vanguard FTSE All-World ex Canada Index ETF,Vanguard Investments Canada Inc.
+VDU,TSX,Vanguard FTSE Developed ex North America Index ETF,Vanguard Investments Canada Inc.
+VEF,TSX,Vanguard FTSE Developed ex North America Index ETF (CAD-hedged),Vanguard Investments Canada Inc.
+VE,TSX,Vanguard FTSE Developed Europe Index ETF,Vanguard Investments Canada Inc.
+VA,TSX,Vanguard FTSE Asia Pacific Index ETF,Vanguard Investments Canada Inc.
+VEE,TSX,Vanguard FTSE Emerging Markets Index ETF,Vanguard Investments Canada Inc.
+VAB,TSX,Vanguard Canadian Aggregate Bond Index ETF,Vanguard Investments Canada Inc.
+VSB,TSX,Vanguard Canadian Short-Term Bond Index ETF,Vanguard Investments Canada Inc.
+VSC,TSX,Vanguard Canadian Short-Term Corporate Bond Index ETF,Vanguard Investments Canada Inc.
+VBU,TSX,Vanguard U.S. Aggregate Bond Index ETF (CAD-hedged),Vanguard Investments Canada Inc.
+VBG,TSX,Vanguard Global ex-U.S. Aggregate Bond Index ETF (CAD-hedged),Vanguard Investments Canada Inc.
+VMO,TSX,Vanguard Global Momentum Factor ETF (VMO),Vanguard Investments Canada Inc.
+VVL,TSX,Vanguard Global Value Factor ETF (VVL),Vanguard Investments Canada Inc.
+VBAL,TSX,Vanguard Balanced ETF Portfolio (VBAL),Vanguard Investments Canada Inc.
+VCNS,TSX,Vanguard Conservative ETF Portfolio (VCNS),Vanguard Investments Canada Inc.
+VGRO,TSX,Vanguard Growth ETF Portfolio (VGRO),Vanguard Investments Canada Inc.
+VEQT,TSX,Vanguard All Equity ETF (VEQT),Vanguard Investments Canada Inc.
+CAGS,TSX,CI Canadian Short-Term Aggregate Bond Index ETF,CI Global Asset Management
+EHE,TSX,CI Europe Hedged Equity Index ETF,CI Global Asset Management
+CAGG,TSX,CI Canadian Aggregate Bond Index ETF,CI Global Asset Management
+ONEQ,TSX,ONE Global Equity ETF.,WisdomTree Canada
+DRG.B,TSX,WisdomTree U.S. Quality Dividend Growth Index ETF.,WisdomTree Canada
+EHE.B,TSX,WisdomTree Europe Hedged Equity Index ETF.,WisdomTree Canada
+DRG,TSX,WisdomTree U.S. Quality Dividend Growth Index ETF.,WisdomTree Canada
+UMI,TSX,CI U.S. MidCap Dividend Index ETF,CI Global Asset Management
+DQD,TSX,WisdomTree U.S. Quality Dividend Growth Variably Hedged Index ETF™.,WisdomTree Canada
+IQD.B,TSX,WisdomTree International Quality Dividend Growth Index ETF.,WisdomTree Canada
+IQD,TSX,CI International Quality Dividend Growth Index ETF,CI Global Asset Management
+DQI,TSX,WisdomTree International Quality Dividend Growth Variably Hedged Index ETF™.,WisdomTree Canada
+HID,TSX,WisdomTree U.S. High Dividend Index ETF.,WisdomTree Canada
+HID.B,TSX,WisdomTree U.S. High Dividend Index ETF.,WisdomTree Canada
+DRGC,TSX,WisdomTree Canada Quality Dividend Growth Index ETF.,WisdomTree Canada
+EMV.B,TSX,CI Emerging Markets Dividend Index ETF,CI Global Asset Management
+UMI.B,TSX,WisdomTreee U.S. MidCap Dividend Index ETF.,WisdomTree Canada
+PLV,TSX,"PowerShares Low Volatility Portfolio ETF - CAD, May 6, 2015",Invesco
+PTB,TSX,"PowerShares Tactical Bond ETF, Aug 24 2012",Invesco
+PFL,TSX,"PowerShares 1-3 Year Laddered Floating Rate Note Index ETF, Jul 21 2014",Invesco
+PSB,TSX,"PowerShares 1-5 Year Laddered Investment Grade Corporate Bond Index ETF, Jun 15 2011",Invesco
+USB,TSX,"PowerShares LadderRite U.S. 0-5 Year Corporate Bond Index ETF - CAD, Jul 21 2014",Invesco
+USB.U,TSX,"PowerShares LadderRite U.S. 0-5 Year Corporate Bond Index ETF - USD, Jul 21 2014",Invesco
+PGL,TSX,"PowerShares Ultra Liquid Long Term Government Bond Index ETF, Jun 15 2011",Invesco
+BKL,TSX,"PowerShares Senior Loan (CAD Hedged) Index ETF, Apr 16 2012",Invesco
+PFH,TSX,"PowerShares Fundamental High Yield Corporate Bond (CAD Hedged) Index ETF, Jun 21 2011",Invesco
+PPS,TSX,"PowerShares Canadian Preferred Share Index ETF, Jun 16 2011",Invesco
+PDC,TSX,"PowerShares Canadian Dividend Index ETF, Jun 16 2011",Invesco
+PSY,TSX,"PowerShares Global Shareholder Yield ETF - CAD, May 6, 2015",Invesco
+PSY.U,TSX,"PowerShares Global Shareholder Yield ETF - USD, May 6, 2015",Invesco
+TLV,TSX,"PowerShares S&P/TSX Composite Low Volatility Index ETF, Apr 24 2012",Invesco
+ULV,TSX,"PowerShares S&P 500 Low Volatility (CAD Hedged) Index ETF, Jan 24 2012",Invesco
+ILV,TSX,"PowerShares S&P International Developed Low Volatility Index ETF, Sep 08 2014",Invesco
+ELV,TSX,"PowerShares S&P Emerging Markets Low Volatility Index ETF, Sep 08 2014",Invesco
+PXC,TSX,"PowerShares FTSE RAFI Canadian Fundamental Index ETF, Jan 26 2012",Invesco
+PZC,TSX,"PowerShares FTSE RAFI Canadian Small-Mid Fundamental Index ETF, Apr 14 2015",Invesco
+PXS,TSX,"PowerShares FTSE RAFI U.S. Fundamental Index ETF - CAD, Apr 14 2015",Invesco
+PXS.U,TSX,"PowerShares FTSE RAFI U.S. Fundamental Index ETF - USD, Apr 14 2015",Invesco
+PXU,TSX,"PowerShares FTSE RAFI US Fundamental (CAD Hedged) Index ETF, Jan 26 2012",Invesco
+PXG,TSX,"PowerShares FTSE RAFI Global+ Fundamental Index ETF - CAD, Apr 14 2015",Invesco
+PXG.U,TSX,"PowerShares FTSE RAFI Global+ Fundamental Index ETF - USD, Apr 14 2015",Invesco
+PZW,TSX,"PowerShares FTSE RAFI Global Small-Mid Fundamental ETF - CAD, May 6, 2015",Invesco
+PZW.U,TSX,"PowerShares FTSE RAFI Global Small-Mid Fundamental ETF - USD, May 6, 2015",Invesco
+QQC.F,TSX,"PowerShares QQQ (CAD Hedged) Index ETF, Jun 16 2011",Invesco
+FST,TSX,First Trust Canadian Capital Strength ETF,First Trust
+FST.A,TSX,First Trust Canadian Capital Strength ETF,First Trust
+FDE,TSX,First Trust AlphaDEX™ Emerging Market Dividend ETF (CAD-Hedged),First Trust
+FDE.A,TSX,First Trust AlphaDEX™ Emerging Market Dividend ETF (CAD-Hedged),First Trust
+EUR,TSX,First Trust AlphaDEX™ European Dividend Index ETF (CAD-Hedged),First Trust
+EUR.A,TSX,First Trust AlphaDEX™ European Dividend Index ETF (CAD-Hedged),First Trust
+FUD,TSX,First Trust AlphaDEX™ U.S. Dividend ETF (CAD-Hedged),First Trust
+FUD.A,TSX,First Trust AlphaDEX™ U.S. Dividend ETF (CAD-Hedged),First Trust
+FHD,TSX,First Trust AlphaDEX™ U.S. Consumer Discretionary Sector Index ETF,First Trust
+FHC,TSX,First Trust AlphaDEX™ U.S. Consumer Staples Sector Index ETF,First Trust
+FHE,TSX,First Trust AlphaDEX™ U.S. Energy Sector Index ETF,First Trust
+FHF,TSX,First Trust AlphaDEX™ U.S. Financial Sector Index ETF,First Trust
+FHH,TSX,First Trust AlphaDEX™ U.S. Health Care Sector Index ETF,First Trust
+FHG,TSX,First Trust AlphaDEX™ U.S. Industrials Sector Index ETF,First Trust
+FHM,TSX,First Trust AlphaDEX™ U.S. Materials Sector Index ETF,First Trust
+FHQ,TSX,First Trust AlphaDEX™ U.S. Technology Sector Index ETF,First Trust
+FHU,TSX,First Trust AlphaDEX™ U.S. Utilities Sector Index ETF,First Trust
+FSL,TSX,First Trust Senior Loan ETF (CAD-Hedged),First Trust
+FSL.A,TSX,First Trust Senior Loan ETF (CAD-Hedged),First Trust
+FHY,TSX,First Trust Short Duration High Yield Bond ETF (CAD-Hedged),First Trust
+FHY.A,TSX,First Trust Short Duration High Yield Bond ETF (CAD-Hedged),First Trust
+ETP,TSX,First Trust Global Risk Managed Income Index ETF,First Trust
+ETP.A,TSX,First Trust Global Risk Managed Income Index ETF,First Trust
+FTB,TSX,First Trust Tactical Bond Index ETF,First Trust
+FSR,TSX,First Trust Dorsey Wright U.S. Sector Rotation Index ETF (CAD-Hedged),First Trust

@@ -1,0 +1,822 @@
+etf_ticker,note
+XBAL,fund-of-funds: file contained direct holdings + full look-through (summed 189.8%); kept 36 direct holdings only
+XEM,fund-of-funds: file contained direct holdings + full look-through (summed 199.5%); kept 3 direct holdings only
+VBAL,Vanguard xlsx download sums to 61.1% - appears to contain equity holdings only; bond sleeve missing from issuer download
+VCNS,Vanguard xlsx download sums to 41.2% - appears to contain equity holdings only; bond sleeve missing from issuer download
+BNC,Purpose: issuer publishes only top-10 holdings for this fund; full ticker-level holdings unavailable (2026-09-19)
+BND,Purpose: issuer publishes only top-10 holdings for this fund; full ticker-level holdings unavailable (2026-09-19)
+FLOT,Purpose: ticker not found on purpose.com; unverified (browser extraction 2026-09-19)
+FLOT.B,Purpose: ticker not found on purpose.com; unverified (browser extraction 2026-09-19)
+FLOT.U,Purpose: ticker not found on purpose.com; unverified (browser extraction 2026-09-19)
+IGB,Purpose: issuer publishes only top-10 holdings for this fund; full ticker-level holdings unavailable (2026-09-19)
+KILO,"Purpose: single physical asset (gold bars, 187,449 oz per 2026-09-18); weight set to 100% single asset"
+KILO.B,"Purpose: single physical asset (gold bars, 187,449 oz per 2026-09-18); weight set to 100% single asset"
+KILO.U,"Purpose: single physical asset (gold bars, 187,449 oz per 2026-09-18); weight set to 100% single asset"
+MJJ,Purpose: fund terminated per purpose.com (browser extraction 2026-09-19); excluded from holdings
+PCF,Purpose: ticker not found on purpose.com; unverified (browser extraction 2026-09-19)
+PEU,Purpose: fund terminated per purpose.com (browser extraction 2026-09-19); excluded from holdings
+PEU.B,Purpose: fund terminated per purpose.com (browser extraction 2026-09-19); excluded from holdings
+PFG,Purpose: ticker not found on purpose.com; unverified (browser extraction 2026-09-19)
+PIN,Purpose: issuer publishes only top-five holdings per category for this fund; full ticker-level holdings unavailable (2026-09-19)
+PINC,Purpose: issuer publishes only top-five holdings per category for this fund; full ticker-level holdings unavailable (2026-09-19)
+PRA,Purpose: issuer publishes only top-five holdings per category for this fund; full ticker-level holdings unavailable (2026-09-19)
+PRP,Purpose: issuer publishes only top-five holdings per category for this fund; full ticker-level holdings unavailable (2026-09-19)
+PUD,Purpose: fund terminated per purpose.com (browser extraction 2026-09-19); excluded from holdings
+PUD.B,Purpose: fund terminated per purpose.com (browser extraction 2026-09-19); excluded from holdings
+SBND,Purpose: fund terminated per purpose.com (browser extraction 2026-09-19); excluded from holdings
+SBT,"Purpose: single physical asset (silver bars, 1,598,047 oz per 2026-09-18); weight set to 100% single asset"
+SBT.B,"Purpose: single physical asset (silver bars, 1,598,047 oz per 2026-09-18); weight set to 100% single asset"
+SBT.U,"Purpose: single physical asset (silver bars, 1,598,047 oz per 2026-09-18); weight set to 100% single asset"
+SYLD,Purpose: issuer publishes only top-10 holdings with coupon yield (not weight %); weights unavailable (2026-09-19)
+PDIV,Purpose: captured 100 rows summing to 80.32%; remainder not itemized on issuer page - table may paginate beyond 100 rows (2026-09-19)
+PHW,Purpose: captured 100 rows summing to 89.33%; remainder not itemized on issuer page - table may paginate beyond 100 rows (2026-09-19)
+PMM,Purpose: captured 100 rows summing to 91.28%; remainder not itemized on issuer page - table may paginate beyond 100 rows (2026-09-19)
+PYF,Purpose: captured 100 rows summing to 13.59%; table appears paginated/truncated - majority of holdings missing from capture (2026-09-19)
+PYF.B,Purpose: captured 100 rows summing to 13.59%; table appears paginated/truncated - majority of holdings missing from capture (2026-09-19)
+PYF.U,Purpose: captured 100 rows summing to 13.59%; table appears paginated/truncated - majority of holdings missing from capture (2026-09-19)
+PHR,Purpose: 38 holdings captured summing to 96.79%; small remainder not itemized by issuer (2026-09-19)
+PINV,Purpose: 37 holdings captured summing to 91.60%; remainder not itemized by issuer (2026-09-19)
+XIN,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 107 direct holdings only
+VGRO,"Vanguard xlsx download contains 11,194 holdings summing to 80.93%; fund page states ~30,996 holdings (13,721 stocks + 17,275 bonds) - issuer download is incomplete vs stated counts (2026-09-19)"
+VEQT,"Vanguard xlsx download contains 13,725 stock holdings summing to 99.11%; fund holds 0 bonds per fund page - equity sleeve complete (2026-09-19)"
+FAUS,"Fidelity: full 136-holding table extracted 2026-06-30; issuer publishes holding names + weights only, no holding tickers"
+FBAL,Fidelity: fund-of-funds; 18 underlying funds (all categories expanded) as of 2026-09-18; complete at fund level
+FBTC,"Fidelity: single-asset bitcoin ETF; no holdings table published, weight set to 100% Bitcoin (2026-09-18)"
+FBTC.U,"Fidelity: single-asset bitcoin ETF (USD series); no holdings table published, weight set to 100% Bitcoin (2026-09-18)"
+BKL,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+ELV,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+ILV,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PFH,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PLV,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PPS,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PSY,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PSY.U,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PTB,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PXG,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PXG.U,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PXU,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PZC,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+ULV,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+USB,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+USB.U,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+AXF,CI: legacy ticker - no fund page found on funds.cifinancial.com; appears terminated (browser extraction 2026-09-19)
+PXS.U,CI: USD series of PXS; shares the same holdings file as PXS (2026-09-19)
+PZW.U,CI: USD series of PZW; shares the same holdings file as PZW (2026-09-19)
+FAUS.U,"Fidelity: USD series of FAUS; holdings verified identical to FAUS, duplicated from FAUS rows (2026-06-30)"
+FCAB,"Fidelity: full 1,238-position table extracted 2026-06-30 (469 issuers); weight total 103.0% reflects gross FX forward/swap legs (longs ~302%, shorts ~-305%); issuer publishes names + weights only, no holding tickers"
+FCAB.U,"Fidelity: USD series of FCAB; holdings verified identical to FCAB, duplicated from FCAB rows (2026-06-30)"
+FCAE,"Fidelity: 53 holdings extracted 2026-06-30 totaling 99.8% (task summary said 54, data delivered 53); no holding tickers published"
+FCAM,Fidelity: fund-of-funds; 4 underlying US factor ETFs as of 2026-09-18; complete at fund level
+FCCA,Fidelity: fund-of-funds; 4 underlying Canadian factor ETFs + money market trust as of 2026-09-18; complete at fund level
+VVL,"Vanguard: 850 rows totaling 99.02%, as of 2026-06-30 (quarterly factor ETF); complete"
+VXC,"Vanguard: 11,711 rows totaling 98.96%, as of 2026-08-31; complete"
+DIVS,Evolve: page reports 73 holdings but table shows top 10 only even with All selected; no download link — top-10 only (36.08%)
+EARN,"Evolve: full 113-position page table extracted 2026-09-17, 99.96%; no download link — complete"
+ETC,"Evolve: full 4-position page table extracted 2026-09-17, 100%; physical crypto — complete"
+XSP,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 37 direct holdings only
+GBAL,fund-of-funds: file contained direct holdings + full look-through (summed 200.2%); kept 20 direct holdings only
+RBNK,RBC: 6 bank holdings totaling 100.0% as of 2026-09-18 from issuer CSV; browser task reported different weights from the page (RY 21.83/TD 20.52) — CSV file used as authoritative
+BSKT,"Manulife: 186 holdings totaling 99.99% as of 2026-08-31, full table extracted from page (no download offered); complete"
+NBUE,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NBUE.F,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NBUX,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NCNS,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NCPB,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NDIV,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NEQT,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NGPE,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NGRW,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NHYB,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NINT,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NINV,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NINV.F,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NMBL,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NMEQ,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NMGR,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NMMO,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NPRF,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+NBSC.F,"NBI publishes Top-10 holdings only, no CSV; 10 rows captured as of 2026-08-31, partial (no holding tickers)"
+TBAL,"TD page shows Top Ten only (page list); 5 rows captured 2026-03-31, partial"
+TBCF,"TD full list 18 rows 2026-03-31, complete (page modal + PDF)"
+TBCG,"TD full list 37 rows 2026-03-31, complete"
+TBCH,"TD full list 26 rows 2026-03-31, complete"
+TBCI,"TD full list 22 rows 2026-03-31, complete"
+TBCJ,"TD full list 34 rows 2026-03-31, complete"
+TBNK,"TD page shows Top Ten only (6 banks + cash); 7 rows 2026-03-31, partial"
+TBUF.U,"TD full list 13 rows 2026-03-31, complete; matures Nov 23 2026 per TDAM, still active"
+TBUG.U,"TD full list 18 rows 2026-03-31, complete"
+TCLB,"TD full list 11 rows 2026-03-31, complete"
+TCLV,"TD full list 58 rows 2026-03-31, complete"
+TCON,"TD page shows Top Ten only; 5 rows 2026-03-31, partial"
+TDNA,"TD ETF Series page shows top ten only; 8 rows captured 2026-03-31 (2 rows had no weights shown, excluded), partial"
+BAAA,"Brompton publishes Top-25 holdings only (no download); 25 rows total 86.6% as of 2026-08-31, partial"
+BAAA.U,"Brompton: USD unit class of BAAA, same portfolio verified; 25 rows total 86.6%, partial"
+BBBB,"Brompton Top-25 only; 25 rows total 98.6% as of 2026-08-31, partial"
+BBBB.U,"Brompton: USD unit class of BBBB, same portfolio; 25 rows total 98.6%, partial"
+BDIV,"Brompton Top-25 only; 25 rows total 76.2%, partial"
+BEPR,"Brompton Top-25 only; 25 rows total 43.4%, partial"
+BEPR.U,"Brompton: USD unit class of BEPR, same portfolio; 25 rows total 43.4%, partial"
+BFIN,Brompton full portfolio 21 rows totaling 100.6% incl cash; complete
+BFIN.U,"Brompton: USD unit class of BFIN, same portfolio verified; complete"
+BGIE,"Brompton Top-25 only; 25 rows total 95.9%, partial"
+BLOV,"Brompton Top-25 only; 25 rows total 95.7%, partial"
+BMAX,Brompton full portfolio: 10 underlying Brompton ETFs totaling 100%; complete
+BPRF,"Brompton Top-25 only; 25 rows total 42.5%, partial"
+BPRF.U,"Brompton: USD unit class of BPRF, same portfolio; 25 rows total 42.5%, partial"
+CLSA,Brompton full portfolio 14 rows totaling 100.0% incl cash/other; complete
+EDGF,"Brompton Top-25 only; 25 rows total 92.7%, partial"
+HIG,"Brompton Top-25 only; 25 rows total 96.7%, partial"
+HIG.U,"Brompton: USD unit class of HIG, same portfolio; 25 rows total 96.7%, partial"
+KNGC,"Brompton Top-25 only; 25 rows total 91.0%, partial"
+KNGG,Brompton full portfolio: 3 underlying Cash Flow Kings ETFs + cash totaling 100.1%; complete
+KNGU,"Brompton Top-25 only; 25 rows total 75.5%, partial"
+KNGX,"Brompton Top-25 only; 25 rows total 75.6%, partial"
+PAYB,"Brompton: COMING SOON listing, not yet launched; no holdings"
+PAYT,"Brompton: COMING SOON listing, not yet launched; no holdings"
+PAYG,"Brompton full portfolio 21 rows; leveraged, gross long ~126% with Other net assets -26.4%, NAV reconciles 99.9%; complete"
+PAYI,"Brompton full portfolio 17 rows; leveraged, gross long ~127% with Other net assets -27.4%, NAV reconciles 100.0%; complete"
+PAYU,"Brompton full portfolio 22 rows; leveraged, gross long ~129% with Other net assets -28.6%, NAV reconciles 100.0%; complete"
+SPLT,Brompton full portfolio 24 rows incl cash/other; complete
+SPLT.U,"Brompton: USD unit class of SPLT, same portfolio; complete"
+TLF,"Brompton Top-25 only; 25 rows total 99.2%, partial"
+TLF.U,"Brompton: USD unit class of TLF, same portfolio; 25 rows total 99.2%, partial"
+AAPU,LongPoint page-table extraction (no download offered); top-N only where noted
+ABXU,LongPoint page-table extraction (no download offered); top-N only where noted
+ALPU,LongPoint page-table extraction (no download offered); top-N only where noted
+AMZU,LongPoint page-table extraction (no download offered); top-N only where noted
+BNKU,"LongPoint: 6 bank holdings sum 100.03% (2026-09-03); site shows first row ticker TD paired with name Bank of Nova Scotia (apparent site data error, transcribed verbatim)"
+CCOU,LongPoint page-table extraction (no download offered); top-N only where noted
+CGMD,"LongPoint top-10 only (sum ~77.5%, 2026-06-30), partial"
+CGMU,"LongPoint top-10 only (sum ~77.5%, 2026-06-30), partial"
+CNQU,LongPoint page-table extraction (no download offered); top-N only where noted
+COID,LongPoint page-table extraction (no download offered); top-N only where noted
+COIU,LongPoint page-table extraction (no download offered); top-N only where noted
+COMU,LongPoint page-table extraction (no download offered); top-N only where noted
+CSUU,LongPoint page-table extraction (no download offered); top-N only where noted
+FORU,LongPoint full: 3 underlying ETFs totaling 100.01% (2026-09-08); complete
+GASD,LongPoint page-table extraction (no download offered); top-N only where noted
+GASU,LongPoint page-table extraction (no download offered); top-N only where noted
+HBDV,"LongPoint top-10 names+tickers but NO weights published; 10 rows, quantity/yield-only"
+HBOP,"LongPoint top-10 names+tickers but NO weights published; 10 rows, quantity/yield-only"
+HBTA,"LongPoint top-10 names+tickers but NO weights published; 10 rows, quantity/yield-only"
+MOAT,LongPoint top-10 put options with weights (by exposure); partial
+MSFU,LongPoint page-table extraction (no download offered); top-N only where noted
+MSTU,LongPoint page-table extraction (no download offered); top-N only where noted
+MSTZ,LongPoint page-table extraction (no download offered); top-N only where noted
+NBCU,LongPoint page-table extraction (no download offered); top-N only where noted
+NVDD,LongPoint page-table extraction (no download offered); top-N only where noted
+NVDU,LongPoint page-table extraction (no download offered); top-N only where noted
+OILD,LongPoint page-table extraction (no download offered); top-N only where noted
+OILU,LongPoint page-table extraction (no download offered); top-N only where noted
+QQQD,"LongPoint top-10 only (sum ~46.3%, 2026-08-31), partial"
+QQQU,"LongPoint top-10 only (sum ~46.3%, 2026-08-31), partial"
+RBCU,LongPoint page-table extraction (no download offered); top-N only where noted
+RGBM,"LongPoint top-10 with Long/Short column (site): Long CNM6/JBM6/VT/CTB/ADM6/BPM6, Short CDM6/RXM6/SFM6/NVM6; weights are gross exposures, partial"
+RGBM.U,"LongPoint: USD shares of RGBM, identical top-10; partial"
+SHPD,LongPoint page-table extraction (no download offered); top-N only where noted
+SHPU,LongPoint page-table extraction (no download offered); top-N only where noted
+SOXD,"LongPoint top-10 only (sum ~66.7%, 2026-06-30), partial"
+SOXU,"LongPoint top-10 only (sum ~66.7%, 2026-06-30), partial"
+SPYD,"LongPoint top-10 only (sum ~37.8%, 2026-08-31), partial"
+SPYU,"LongPoint top-10 only (sum ~37.8%, 2026-08-31), partial"
+TCCA,"LongPoint top-10 of ~50 (2026-08-21), partial"
+TCEU,"LongPoint top-10 of ~50 (2026-08-21), partial"
+TCUS,"LongPoint top-10 of ~50 (2026-08-21), partial"
+TCWW,"LongPoint top-10 of ~50 (2026-08-21), partial"
+TDU,LongPoint page-table extraction (no download offered); top-N only where noted
+TSLD,LongPoint page-table extraction (no download offered); top-N only where noted
+TSLU,LongPoint page-table extraction (no download offered); top-N only where noted
+AMDU,LongPoint: page states Holdings currently not available for this product (2026-09-16); issuer does not publish holdings
+METU,LongPoint: page states Holdings currently not available for this product (2026-09-16); issuer does not publish holdings
+MUU,LongPoint: page states Holdings currently not available for this product (2026-09-16); issuer does not publish holdings
+ORBU,LongPoint: page states Holdings currently not available for this product (2026-09-16); issuer does not publish holdings
+PLTU,LongPoint: page states Holdings currently not available for this product (2026-09-16); issuer does not publish holdings
+RBNU,LongPoint: page states Holdings currently not available for this product (2026-09-16); issuer does not publish holdings
+ABHI,"Ninepoint: single-stock HighShares (Barrick Mining Corp); weight undisclosed, no download"
+BCHI,"Ninepoint: single-stock HighShares (BCE Inc.); weight undisclosed, no download"
+CCHI,"Ninepoint: single-stock HighShares (Cameco Corp.); weight undisclosed, no download"
+CLHI,"Ninepoint: single-stock HighShares (Celestica Inc.); weight undisclosed, no download"
+CQHI,"Ninepoint: single-stock HighShares (Canadian Natural Resources Ltd.); weight undisclosed, no download"
+CRHI,"Ninepoint: single-stock HighShares (Canadian National Railway Co.); weight undisclosed, no download"
+CSHI,"Ninepoint: single-stock HighShares (Constellation Software Inc.); weight undisclosed, no download"
+CSUC,"Ninepoint: single-stock CoreShares (Constellation Software Inc.); weight undisclosed, no download"
+ENHI,"Ninepoint: single-stock HighShares (Enbridge Inc.); weight undisclosed, no download"
+GOHI,"Ninepoint: single-stock HighShares (Alphabet Inc.); weight undisclosed, no download"
+INHI,"Ninepoint: single-stock HighShares (Intel Corporation); weight undisclosed, no download"
+KGHI,"Ninepoint: single-stock HighShares (Kinross Gold Corporation); weight undisclosed, no download"
+NVHI,"Ninepoint: single-stock HighShares (NVIDIA Corporation); weight undisclosed, no download"
+PLHI,"Ninepoint: single-stock HighShares (Palantir Technologies Inc.); weight undisclosed, no download"
+SHHI,"Ninepoint: single-stock HighShares (Shopify Inc.); weight undisclosed, no download"
+SUHI,"Ninepoint: single-stock HighShares (Suncor Energy Inc.); weight undisclosed, no download"
+SXHI,"Ninepoint: single-stock HighShares (SpaceX via SPCX); weight undisclosed, no download"
+TDHI,"Ninepoint: single-stock HighShares (Toronto-Dominion Bank); weight undisclosed, no download"
+TSHI,"Ninepoint: single-stock HighShares (Tesla Inc.); weight undisclosed, no download"
+RYHI,Ninepoint: RY 128.8% + covered calls 48.3% (leveraged); page date 7/31/2025 precedes fund inception 8/22/2025 - site data quirk
+ECHI,Ninepoint: fund-of-HighShares ETFs; 13 look-through constituents totaling 123.1% incl options/cash offsets; complete
+USHI,Ninepoint: full 25-holding portfolio table totaling 100.0% (2026-09-14); complete
+GBSL,"Ninepoint top-10 only (2026-08-31); names+weights, partial"
+GBSL.U,"Ninepoint: USD series of GBSL, same top-10; partial"
+GBUL,Ninepoint: Gold Bullion 99.29% + Cash 0.71% (2026-08-31); complete
+GLDE,"Ninepoint top-10 names only, no weights; partial"
+INFR,"Ninepoint top-10 names only, no weights; partial"
+NACO,"Ninepoint top-10 bond names only, no weights; partial"
+NBAL,Ninepoint: top-10 equities (names only) + 9 underlying funds with weights (sums ~83%); partial
+NBND,"Ninepoint top-10 bond names only, no weights; partial"
+NMNG,"Ninepoint top-10 names only, no weights; partial"
+NNRG,"Ninepoint top-10 names only, no weights; partial"
+NNRG.U,"Ninepoint: USD series of NNRG, same top-10 names; partial"
+NRGI,"Ninepoint top-10 names only, no weights; partial"
+NSAV,"Ninepoint top-10 bond names only, no weights; partial"
+SBUL,Ninepoint: Silver Bullion 99.34% + Cash 0.66% (2026-08-31); complete
+TIF,Ninepoint: top-10 bonds (names only) + 13 notional put positions with weights (sum 73.1%); partial
+TKN,"Ninepoint top-10 names only, no weights; partial"
+TKN.U,"Ninepoint: USD series of TKN, same top-10 names; partial"
+DACL,Desjardins: new fund (inception 2026-07-07); complete-list CSV contains 0 holdings as of 2026-09-18 - not yet published
+DACU,Desjardins: new fund; complete-list CSV contains 0 holdings as of 2026-09-18 - not yet published
+DAGL,Desjardins: new fund; complete-list CSV contains 0 holdings as of 2026-09-18 - not yet published
+DGGB,Desjardins: new fund; complete-list CSV contains 0 holdings as of 2026-09-18 - not yet published
+DUIG,Desjardins: new fund; complete-list CSV contains 0 holdings as of 2026-09-18 - not yet published
+DGLM,Desjardins complete-list CSV: 16 rows parsed (page showed 12) as of 2026-09-17; complete
+DRFE,Desjardins complete-list CSV: 199 rows (page showed 202) as of 2026-06-30; complete
+DRFG,Desjardins complete-list CSV: 329 rows (page showed 331) as of 2026-06-30; complete
+DRME,Desjardins complete-list CSV: 590 rows (page showed 592) as of 2026-06-30; complete
+DCP,Desjardins complete-list CSV: 97 rows (page showed 100; 3 exact-duplicate rows skipped) as of 2026-09-17; complete
+DAMG,"Desjardins complete-list CSV from issuer (no holding tickers published); complete (13 rows incl T-bills/currency, 2026-06-30)"
+DAMG.U,"Desjardins: USD class of DAMG, same 13 holdings; complete"
+DANC,Desjardins: 177-row long/short pair list (2026-06-30); complete
+DANC.U,"Desjardins: USD class of DANC, same 177 holdings; complete"
+DCBC,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DCC,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DCG,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DCS,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DCU,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DMEC,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DMEE,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DMEI,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DMEU,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DMID,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DMQC,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DRCU,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DRFC,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DRFD,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DRFU,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DRMC,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DRMD,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+DRMU,Desjardins complete-list CSV from issuer (no holding tickers published); complete
+CIBC-58,"CIBC daily holdings XLSX 2026-09-17: 58 ETFs, complete sheets; file carries no holding tickers"
+CCBA,"CIBC: active fund (inception 2026-06-10), absent from daily holdings file; cibc.com publishes no holdings - not yet published"
+CCGP,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CCIP,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CCUL,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CCUS,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CFLX,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CGLO,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CINT,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CQLI,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CSGE,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+CSTB,"CIBC: active fund, absent from daily holdings file; no holdings published - not yet published"
+Franklin-25,"Franklin PortfolioHoldingDetails XLSX: 25 funds, full holdings (no holding tickers in files), as-of 2026-06-30/08-31/09-18; complete"
+CBL,"Franklin: top-10 of 14 (2026-08-31); names only, no holding tickers; partial"
+CNV,"Franklin: top-10 (2026-08-31); names only, no holding tickers; partial"
+GRO,"Franklin: top-10 of 14 (2026-08-31); names only, no holding tickers; partial"
+FCSI,Franklin: TERMINATED - merged into Franklin ClearBridge Sustainable International Growth Fund 2023-07-07
+FGGE,Franklin: TERMINATED - merged into Franklin Global Growth Fund 2023-07-07
+DXMC,Dynamic: full 10 of 10 holdings (new crypto ETF) but weights unavailable; quantity-only
+DXCO,"Dynamic: top-10 only, weights incl shorts (2025-10-31); partial"
+DXR,Dynamic: former Dynamic Active Retirement Income ETF merged into Dynamic Retirement Income Fund ETF series; top-10 (2025-10-31); partial
+DXAU,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXB,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXBB,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXBC,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXBG,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXBU,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXC,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXCB,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXCP,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXDB,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXDU.U,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXEM,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXF,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXG,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXG.U,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial (USD units, same portfolio as DXG)"
+DXGE,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXID,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXID.U,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial (USD units, same portfolio as DXID)"
+DXIF,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXMO,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXN,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXO,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXP,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXQ,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXRE,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXU,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXU.U,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial (USD units, same portfolio as DXU)"
+DXUS,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXUS.U,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial (USD units, same portfolio as DXUS)"
+DXV,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXW,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+DXZ,"Dynamic: top-10 only (dynamic.ca publishes no downloads, no holding tickers); partial"
+RBO,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RCD,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RCDC,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RDBH,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RGQP,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RGQQ,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RGQR,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RGQS,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RID,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RID-U,"Complete holdings (duplicated from verified-identical RID); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RIDH,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RLB,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RPD,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RPD-U,"Complete holdings (duplicated from verified-identical RPD); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RPDH,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RPF,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RQP,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RQQ,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RQR,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RQS,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUD,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUD-U,"Complete holdings (duplicated from verified-identical RUD); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RUDB,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUDB-U,"Complete holdings (duplicated from verified-identical RUDB); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RUDC,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUDC-U,"Complete holdings (duplicated from verified-identical RUDC); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RUDH,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUQP,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUQP-U,"Complete holdings (duplicated from verified-identical RUQP); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RUQQ,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUQQ-U,"Complete holdings (duplicated from verified-identical RUQQ); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RUQR,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUQR-U,"Complete holdings (duplicated from verified-identical RUQR); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RUQS,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUQS-U,"Complete holdings (duplicated from verified-identical RUQS); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RUSB,"Complete holdings from RBC GAM CSV download; names and weights only, no holding tickers; as of 2026-09-18."
+RUSB-U,"Complete holdings (duplicated from verified-identical RUSB); RBC GAM publishes names and weights, no holding tickers; as of 2026-09-18."
+RGQN,"RBC Target 2025 Government Bond ETF — terminated/matured; detail page empty, no holdings published."
+RGQO,"RBC Target 2026 Government Bond ETF — terminated/matured; detail page empty, no holdings published."
+RPSB,"terminated legacy fund; detail page empty/error, no product in site search; no holdings published."
+RQN,terminated legacy fund; no product in site search; no holdings published.
+RQO,terminated legacy fund; no product in site search; no holdings published.
+RUBH,terminated legacy fund; no product in site search; no holdings published.
+RUBY,terminated legacy fund; detail page empty; no holdings published.
+RUBY-U,terminated legacy fund (USD variant of RUBY); no holdings published.
+RXD,terminated legacy fund; detail page empty; no holdings published.
+RXD-U,terminated legacy fund (USD variant of RXD); no holdings published.
+RUQN,terminated (404); no holdings published.
+RUQN-U,terminated (USD variant of RUQN); no holdings published.
+RUQO,terminated (404); no holdings published.
+RUQO-U,terminated (USD variant of RUQO); no holdings published.
+NALT,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBBX,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBCG,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBCX,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBEM,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBGE,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBGE.F,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBIE,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBIE.F,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBIX,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBLD,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBQC,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBSC,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NREA,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSCB,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSCC,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSCE,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSDG,Partial: Top 10 holdings only (issuer publishes no complete list or download) (only 3 rows published on site); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSDI,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSDI.F,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSDU,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSDU.F,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSGE,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NSSB,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NTGA,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NTGB,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NTGC,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NTGD,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NTGE,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NTGF,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NTHM,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NUBF,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NUSA,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NUSA.F,Partial: Top 10 holdings only (issuer publishes no complete list or download); as of 2026-08-31. Holding tickers shown by issuer only for ETF holdings.
+NBIV,Terminated: ETF series not found in NBI fund search (only mutual-fund series remain); still referenced in NCNS/NEQT/NGRW/NBLD holdings tables as of 2026-08-31.
+XDUH,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 5 direct holdings only
+GCNS,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 14 direct holdings only
+GEQT,fund-of-funds: file contained direct holdings + full look-through (summed 200.1%); kept 4 direct holdings only
+GGRO,fund-of-funds: file contained direct holdings + full look-through (summed 199.9%); kept 20 direct holdings only
+XAW,fund-of-funds: file contained direct holdings + full look-through (summed 194.5%); kept 8 direct holdings only
+XAWU,fund-of-funds: file contained direct holdings + full look-through (summed 194.5%); kept 8 direct holdings only
+XCD,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 63 direct holdings only
+XCH,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 3 direct holdings only
+XCNS,fund-of-funds: file contained direct holdings + full look-through (summed 189.2%); kept 23 direct holdings only
+XDGH,fund-of-funds: file contained direct holdings + full look-through (summed 199.8%); kept 147 direct holdings only
+ZJN,Not found on bmogam.com (site search returns 0 funds); likely terminated/delisted; no holdings published.
+ZJO,Not found on bmogam.com (site search returns 0 funds); likely terminated/delisted; no holdings published.
+CORE,Complete holdings from PIMCO official Excel download; as of 2026-06-30 (Unaudited) per workbook (note: file predates the 2026-08-31 portfolio composition date).
+IGCF,Complete holdings from PIMCO official Excel download; as of 2026-06-30 (Unaudited) per workbook (note: file predates the 2026-08-31 portfolio composition date).
+MAEC,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+MDIV,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+MHCD,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+MINF,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+MINN,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+MIPC,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+MREL,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+MSBP,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+MUSA,Partial: Top 10 holdings only (middlefield.com publishes no complete list or download); as of 2026-08-31. No holding tickers published.
+PCON,Complete holdings from PIMCO official Excel download; as of 2026-06-30 (Unaudited) per workbook (note: file predates the 2026-08-31 portfolio composition date).
+PCOR,Complete holdings from PIMCO official Excel download; as of 2026-06-30 (Unaudited) per workbook (note: file predates the 2026-08-31 portfolio composition date).
+PLDI,Complete holdings from PIMCO official Excel download; as of 2026-06-30 (Unaudited) per workbook (note: file predates the 2026-08-31 portfolio composition date).
+PMIF,Complete holdings from PIMCO official Excel download; as of 2026-06-30 (Unaudited) per workbook (note: file predates the 2026-08-31 portfolio composition date).
+PMIF.U,Complete holdings duplicated from PMIF (same fund-level PIMCO file; USD ETF class); as of 2026-06-30.
+PMNT,Complete holdings from PIMCO official Excel download; as of 2026-06-30 (Unaudited) per workbook (note: file predates the 2026-08-31 portfolio composition date).
+PBAL,New fund (inception 2026-01-26); PIMCO publishes no holdings Excel or holdings table — only sector allocation and a Portfolio Statistics PDF; no holdings data available.
+MAAA,Complete published portfolio (111 rows incl. cash at -3.7%) from Complete Fund Holdings table; as of 2026-06-30. No holding tickers published by issuer.
+MAGV,Complete published portfolio (67 rows incl. cash) from Complete Fund Holdings table; as of 2026-06-30. Issuer shows a Ticker column; Nokia Oyj appears twice at 1.3% verbatim from the site.
+XEH,fund-of-funds: file contained direct holdings + full look-through (summed 199.9%); kept 44 direct holdings only
+XEQT,fund-of-funds: file contained direct holdings + full look-through (summed 194.6%); kept 8 direct holdings only
+XFH,fund-of-funds: file contained direct holdings + full look-through (summed 199.2%); kept 223 direct holdings only
+GBFC,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GBFD,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GBFE,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GBFF,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GBLF,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GCBD,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published.
+GCEI,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published.
+GCFE,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published.
+GCSC,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published.
+GCTB,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GFGE,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published.
+MALX,"Complete published table incl. short positions (negative weights), duplicates as shown (PLD/DXCM/SNDK pairs), cash; as of 2026-06-30. Holding tickers shown on site."
+MAUG,Complete published fund-holdings table; as of 2026-06-30. Holding tickers shown on site. Duplicates (e.g. PLD/SNDK/DXCM pairs) transcribed as displayed.
+MAUV,Complete published fund-holdings table; as of 2026-06-30. Holding tickers shown on site. Duplicates (e.g. PLD/SNDK/DXCM pairs) transcribed as displayed.
+MBAL,Complete published fund-holdings table; as of 2026-06-30. Holding tickers shown on site. Duplicates (e.g. PLD/SNDK/DXCM pairs) transcribed as displayed.
+MBQG,Complete published fund-holdings table; as of 2026-06-30. Holding tickers shown on site. Duplicates (e.g. PLD/SNDK/DXCM pairs) transcribed as displayed.
+MCKG,Complete published table; as of 2026-09-17 (site updated more recently than other Mackenzie tables). Duplicates as shown (NOKIA/DXCM/PLD pairs). Holding tickers shown on site.
+MCLV,Complete published fund-holdings table; as of 2026-06-30. Holding tickers shown on site. Duplicates (e.g. PLD/SNDK/DXCM pairs) transcribed as displayed.
+MCON,Complete published fund-holdings table; as of 2026-06-30. Holding tickers shown on site. Duplicates (e.g. PLD/SNDK/DXCM pairs) transcribed as displayed.
+MCSB,Complete published table of 179 bonds + cash; as of 2026-06-30. Site table has NO Ticker column.
+MCYC,Complete published fund-holdings table; as of 2026-06-30. Holding tickers shown on site. Duplicates (e.g. PLD/SNDK/DXCM pairs) transcribed as displayed.
+XGI,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 79 direct holdings only
+XGRO,fund-of-funds: file contained direct holdings + full look-through (summed 190.8%); kept 36 direct holdings only
+XHC,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 90 direct holdings only
+GGEP,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GGEP.F,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked. Verified same fund pool as GGEP; rows duplicated from base class.
+GGPY,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GGPY.F,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked. Verified same fund pool as GGPY; rows duplicated from base class.
+GIDY,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GIES,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GIGC,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GIGD,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GIGF,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GIGF.F,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked. Verified same fund pool as GIGF; rows duplicated from base class.
+GIIF,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GIUS,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GIUS.F,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked. Verified same fund pool as GIUS; rows duplicated from base class.
+GSDB,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GSIF,Partial: Top 25 holdings only (issuer's Summary of Investment Portfolio; no complete list or download published); as of 2026-03-31. No holding tickers published. Retail fund pages bot-blocked.
+GUTB.U,"Complete published portfolio: single position (U.S. Treasury Bills, 100.2% of NAV); as of 2026-03-31. No holding ticker published."
+XID,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 3 direct holdings only
+XIG,fund-of-funds: file contained direct holdings (LQD at 100.73% + cash/FX forwards) + full LQD look-through (summed 200.1%); kept 11 direct holdings only (2026-09-17). USD-listed LQD look-through constituents not duplicated.
+SRIB,Partial: Top 10 holdings only (Scotia publishes no CSV/download for RI series; index trackers SITB/SITC/SITI/SITU have full CSVs); as of 2026-08-31. No holding tickers published.
+SRIC,Partial: Top 10 holdings only (Scotia publishes no CSV/download for RI series); as of 2026-08-31. No holding tickers published.
+SRII,Partial: Top 10 holdings only (Scotia publishes no CSV/download for RI series); as of 2026-08-31. No holding tickers published.
+SRIU,Partial: Top 10 holdings only (Scotia publishes no CSV/download for RI series); as of 2026-08-31. No holding tickers published.
+SITE,NO_HOLDINGS_TABLE: Scotia Emerging Markets Equity Index Tracker ETF publishes no holdings section or download (only sector allocation); as of 2026-08-31.
+SCDG,"Partial: Top 10 only; as of 2026-08-31. Weight not displayed on page for one holding (blank weight, not zero). SCDGC is same fund pool."
+SCDGC,Partial: Top 10 only; as of 2026-08-31. Same fund pool as SCDG; rows duplicated.
+SCGG,"Partial: Top 10 only; as of 2026-08-31. 3 holding weights not displayed on page (blank, not zero)."
+SCGI,"Partial: Top 10 only; as of 2026-08-31. 3 holding weights not displayed on page (blank, not zero)."
+SCGR,"Partial: Top 10 only; as of 2026-08-31. 3 holding weights not displayed on page (blank, not zero)."
+SCNA,"Partial: Top 10 only; as of 2026-08-31. 5 holding weights not displayed on page (blank, not zero). SCNAE is same fund pool."
+SCNAE,Partial: Top 10 only; as of 2026-08-31. Same fund pool as SCNA; rows duplicated.
+LYCT,Partial: Top 10 only; as of 2026-08-31. No holding tickers published.
+LYFR,Partial: Top 10 only; as of 2026-08-31. No holding tickers published.
+PR,Partial: Top 10 only; as of 2026-08-31. No holding tickers published.
+XMC,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 4 direct holdings only
+XMCU,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 4 direct holdings only
+XMH,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 16 direct holdings only
+XMI,fund-of-funds: file contained direct holdings + full look-through (summed 200.0%); kept 3 direct holdings only
+XIGS,fund-of-funds: file contained direct holdings (IGSB at ~100% + cash/FX forwards) + full IGSB look-through (summed 199.5%); kept 35 direct holdings only (2026-09-17). Parser stops at repeated 'Fund Holdings as of' header.
+TCSB,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TCSH,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TDB,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TDOC,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TDOC-U,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TEC,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TEC-U,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TECI,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TECX,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TEQT,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TGED,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TGED-U,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TGFI,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TGGR,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TGRE,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TGRO,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+THE,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+THU,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TILV,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TINF,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TPE,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TPRF,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TPU,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TPU.U,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TQCD,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TQGD,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TQGM,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TQSM,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TQSM-U,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TTP,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TUED,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TUED-U,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TUEX,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TUHY,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TULB,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TULV,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TUSB,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TUSB-U,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+TUSD-U,"Partial: TD publishes only Top-25 quarterly portfolio summaries (as at March 31, 2026); complete holdings not published. No holding tickers published. Strict PDF-verified re-extraction 2026-09-19."
+BYLD,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers. BYLD.B verified identical to BYLD row-by-row; duplicated.
+BYLD.B,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers. BYLD.B verified identical to BYLD row-by-row; duplicated.
+CBND,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+CDEF,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+CDIV,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+CYLD,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+GBND,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+GDIV,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+GEDG,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+IDEF.B,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+IDIV.B,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+MBAP,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+MCAP,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+MCLC,Complete holdings (as of 31/08/2026) via verified page transcription; issuer offers no holdings CSV download and publishes no holding tickers.
+MCOR,"Top-10 preview only: MCOR lives on a mutual-fund-class page with no View Full Holdings link and no holdings download (Positions 368). One row (HM Treasury 4.38% 7/31/2054) had a blank weight cell on the page; weight left blank, not imputed."
+MCAN,Top-10 preview only: MCAN lives on a mutual-fund-class page with no View Full Holdings link and no holdings download. No full holdings captured.
+GIAI,"Guardian: new ETF (launched 2026-07-28); issuer publishes Top-10 only (2026-08-31); names+weights, no holding tickers"
+GICD,"Guardian: new ETF (launched 2026-06-16); issuer publishes Top-10 only (2026-08-31); names+weights, no holding tickers"
+QGL,AGFiQ: terminated October 2020
+QMA,AGFiQ: terminated 2021-12-15
+QMY,AGFiQ: terminated 2021-12-15
+QEM,AGFiQ: terminated 2024-05-28
+QIE,AGFiQ: terminated 2025-04-29
+TBUF-U,"source discrepancy: quarterly portfolio summary PDF (25 rows) and td.com browser extraction (13 rows), both as of 2026-03-31, show completely different bond holdings; both retained, needs source review"
+TBUG-U,"source discrepancy: quarterly portfolio summary PDF (23 rows) and td.com browser extraction (18 rows), both as of 2026-03-31, show completely different bond holdings; both retained, needs source review"
+UMI.B,UMI.B (unhedged units) shares the same underlying equity portfolio as UMI (hedged). CI holdings file has 296 equity positions without FX forwards; applies to both classes.
+HFG,INCOMPLETE: TOP-25-ONLY (SOI publishes only the 25 largest positions; holding tickers not published in the SOI). Only 25 holdings captured.
+HUM,INCOMPLETE: TOP-25-ONLY (SOI publishes only the 25 largest positions; holding tickers not published in the SOI). Only 25 holdings captured.
+QCD,AGFiQ ETFs extraction pending from agf.com.
+QUS,AGFiQ ETFs extraction pending from agf.com.
+QIF,AGFiQ ETFs extraction pending from agf.com.
+QEF,AGFiQ ETFs extraction pending from agf.com.
+HBA,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HCAL,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HFIN,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HDIV,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HYLD,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HUTS,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+AMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+EMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+FMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+LMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+SMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+QMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HBND,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HBIL,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+CMVP,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+SMVP,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+QMVP,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+UMVP,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HEB,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HFN,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HBFE,Holdings not yet extracted. Provider: Harvest ETFs
+HLFE,Holdings not yet extracted. Provider: Harvest ETFs
+DLR,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+DLR.U,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HXT,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HXS,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HXQ,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HXU,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HXD,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HEU,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HED,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HFU,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HFD,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HMU,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HMD,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HOU,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HOD,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HNU,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HND,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HBU,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HBD,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HAU,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HAD,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+HBB,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
+FHB,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+RWC,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+RWE,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+RWE.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+RWU,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+RWU.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+RWW,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+RWW.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+DXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+FXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+QXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+UXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+UXM.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+YXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+YXM.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+XXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+XXM.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+TXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+BXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+KXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+GXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+PXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+EXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+CAGG,Holdings not yet extracted. Provider: CI Global Asset Management
+DRG.B,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+EHE.B,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+DRG,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+DQD,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+IQD.B,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+DQI,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+HID,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+HID.B,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+DRGC,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
+FST,Holdings not yet extracted. Provider: First Trust
+FST.A,Holdings not yet extracted. Provider: First Trust
+FDE,Holdings not yet extracted. Provider: First Trust
+FDE.A,Holdings not yet extracted. Provider: First Trust
+EUR,Holdings not yet extracted. Provider: First Trust
+EUR.A,Holdings not yet extracted. Provider: First Trust
+FUD,Holdings not yet extracted. Provider: First Trust
+FUD.A,Holdings not yet extracted. Provider: First Trust
+FHD,Holdings not yet extracted. Provider: First Trust
+FHC,Holdings not yet extracted. Provider: First Trust
+FHE,Holdings not yet extracted. Provider: First Trust
+FHF,Holdings not yet extracted. Provider: First Trust
+FHH,Holdings not yet extracted. Provider: First Trust
+FHG,Holdings not yet extracted. Provider: First Trust
+FHM,Holdings not yet extracted. Provider: First Trust
+FHQ,Holdings not yet extracted. Provider: First Trust
+FHU,Holdings not yet extracted. Provider: First Trust
+FSL,Holdings not yet extracted. Provider: First Trust
+FSL.A,Holdings not yet extracted. Provider: First Trust
+FHY,Holdings not yet extracted. Provider: First Trust
+FHY.A,Holdings not yet extracted. Provider: First Trust
+ETP,Holdings not yet extracted. Provider: First Trust
+ETP.A,Holdings not yet extracted. Provider: First Trust
+FTB,Holdings not yet extracted. Provider: First Trust
+FSR,Holdings not yet extracted. Provider: First Trust
+FCCB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCCD,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCCL,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCCM,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCCQ,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCCV,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCGB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCGB.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCGC,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCGI,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCGS,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCGS.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCID,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIG,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIG.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIL,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIM,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIN,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIP,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIQ,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIQ.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCIV,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCLC,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCLS,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCMI,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCMO,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCMO.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCNS,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCQH,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCRR,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCRR.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCSB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCSW,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUB.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUD,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUD.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUH,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUL,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUL.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUQ,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUQ.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUV,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCUV.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCVH,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FEMO,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FEPY,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FEPY.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FEQT,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FETH,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FETH.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FFAB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FFIX,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FGCV,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FGEB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FGEP,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FGEP.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FGLS,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FGRO,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FGSM,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FINN,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FINN.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FLSA,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FLSA.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FLSE,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FMAB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FMAE,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FMNA,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FMPB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FMPG,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FMPI,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FTHI,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+MDEF,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MEQT,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MFT,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MGAB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MGB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MGDV,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MGQE,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MGRW,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MGSB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MHDC,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MHDU,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MHYB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MIQE,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MIVG,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MKB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MNXT,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MORE,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MTBA,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MTBB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MUB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MULV,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MWLV,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MWMN,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QAH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QASH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QBB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QCB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QCE,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QCH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QCN,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QDX,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QDXB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QDXH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QEBH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QEBL,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QEE,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QHY,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QINF,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QLB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QQQQ,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QRET,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QSB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QTIP,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QTLT,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QUB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QUIG,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QUU,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+MCSM,Holdings extraction via browser in progress from manulifeim.com.
+MDIF,Holdings extraction via browser in progress from manulifeim.com.
+MEME.B,Holdings extraction via browser in progress from manulifeim.com.
+MFUN,Holdings extraction via browser in progress from manulifeim.com.
+MGAP,Holdings extraction via browser in progress from manulifeim.com.
+MINT,Holdings extraction via browser in progress from manulifeim.com.
+MINT.B,Holdings extraction via browser in progress from manulifeim.com.
+MMAC,Holdings extraction via browser in progress from manulifeim.com.
+MULC,Holdings extraction via browser in progress from manulifeim.com.
+MULC.B,Holdings extraction via browser in progress from manulifeim.com.
+MUMC,Holdings extraction via browser in progress from manulifeim.com.
+MUMC.B,Holdings extraction via browser in progress from manulifeim.com.
+MUSC,Holdings extraction via browser in progress from manulifeim.com.
+MUSC.B,Holdings extraction via browser in progress from manulifeim.com.
+OPPS,Holdings extraction via browser in progress from manulifeim.com.
+PLUS,Holdings extraction via browser in progress from manulifeim.com.
+STRT,Holdings extraction via browser in progress from manulifeim.com.
+TERM,Holdings extraction via browser in progress from manulifeim.com.
+UDEF,Holdings extraction via browser in progress from manulifeim.com.
+UDEF.B,Holdings extraction via browser in progress from manulifeim.com.
+UDEF.U,Holdings extraction via browser in progress from manulifeim.com.
+UDIV,Holdings extraction via browser in progress from manulifeim.com.
+UDIV.B,Holdings extraction via browser in progress from manulifeim.com.
+UDIV.U,Holdings extraction via browser in progress from manulifeim.com.
+UYLD,Holdings extraction via browser in progress from manulifeim.com.
+UYLD.B,Holdings extraction via browser in progress from manulifeim.com.
+UYLD.U,Holdings extraction via browser in progress from manulifeim.com.
+CEQT,Holdings not yet extracted. Provider: CI Global Asset Management
