@@ -570,27 +570,27 @@ QCD,AGFiQ ETFs extraction pending from agf.com.
 QUS,AGFiQ ETFs extraction pending from agf.com.
 QIF,AGFiQ ETFs extraction pending from agf.com.
 QEF,AGFiQ ETFs extraction pending from agf.com.
-HBA,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HCAL,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HFIN,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HDIV,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HYLD,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HUTS,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-AMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-EMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-FMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-LMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-SMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-QMAX,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HBND,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HBIL,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-CMVP,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-SMVP,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-QMVP,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-UMVP,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HEB,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
-HFN,Partial extraction. HFG/HUM publish Top-25 only via SOI. HCA complete.
+HBA,Complete: 6 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HCAL,Complete: 2 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HFIN,Complete: 14 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HDIV,Complete: 11 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HYLD,Complete: 10 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HUTS,Complete: 2 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HMAX,Complete: 14 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+AMAX,Complete: 17 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+EMAX,Complete: 22 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+FMAX,Complete: 22 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+LMAX,Complete: 22 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+SMAX,Complete: 30 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+QMAX,Complete: 17 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HBND,Complete: 5 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HBIL,Complete: 4 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+CMVP,Complete: 26 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+SMVP,Complete: 38 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+QMVP,Complete: 25 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+UMVP,Complete: 13 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HEB,Complete: 7 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+HFN,Complete: 13 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
 HBFE,Holdings not yet extracted. Provider: Harvest ETFs
 HLFE,Holdings not yet extracted. Provider: Harvest ETFs
 DLR,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
@@ -624,7 +624,7 @@ RWU.B,First Asset acquired by CI Global Asset Management. Many tickers terminate
 RWW,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 RWW.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 DXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
-FXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+FXM,Complete: 33 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
 QXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 UXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 UXM.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
@@ -632,8 +632,8 @@ YXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/
 YXM.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 XXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 XXM.B,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
-TXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
-BXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
+TXF,Complete: 54 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
+BXF,Complete: 27 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
 KXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 GXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 PXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
@@ -648,40 +648,40 @@ DQI,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds.
 HID,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
 HID.B,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
 DRGC,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
-FST,Holdings not yet extracted. Provider: First Trust
+FST,Complete: 26 holdings as of 2026-09-18 via firsttrust.ca extraction (2026-09-19)
 FST.A,Holdings not yet extracted. Provider: First Trust
 FDE,Holdings not yet extracted. Provider: First Trust
 FDE.A,Holdings not yet extracted. Provider: First Trust
 EUR,Holdings not yet extracted. Provider: First Trust
 EUR.A,Holdings not yet extracted. Provider: First Trust
-FUD,Holdings not yet extracted. Provider: First Trust
+FUD,Complete: 241 holdings as of 2026-09-18 via firsttrust.ca extraction (2026-09-19)
 FUD.A,Holdings not yet extracted. Provider: First Trust
 FHD,Holdings not yet extracted. Provider: First Trust
 FHC,Holdings not yet extracted. Provider: First Trust
 FHE,Holdings not yet extracted. Provider: First Trust
 FHF,Holdings not yet extracted. Provider: First Trust
-FHH,Holdings not yet extracted. Provider: First Trust
-FHG,Holdings not yet extracted. Provider: First Trust
+FHH,Complete: 73 holdings as of 2026-09-18 via firsttrust.ca extraction (2026-09-19)
+FHG,Complete: 155 holdings as of 2026-09-18 via firsttrust.ca extraction (2026-09-19)
 FHM,Holdings not yet extracted. Provider: First Trust
-FHQ,Holdings not yet extracted. Provider: First Trust
+FHQ,Complete: 110 holdings as of 2026-09-18 via firsttrust.ca extraction (2026-09-19)
 FHU,Holdings not yet extracted. Provider: First Trust
-FSL,Holdings not yet extracted. Provider: First Trust
+FSL,Complete: 1 direct holding as of 2026-09-18 via firsttrust.ca extraction (2026-09-19)
 FSL.A,Holdings not yet extracted. Provider: First Trust
 FHY,Holdings not yet extracted. Provider: First Trust
 FHY.A,Holdings not yet extracted. Provider: First Trust
-ETP,Holdings not yet extracted. Provider: First Trust
+ETP,Complete: 18 holdings as of 2026-09-18 via firsttrust.ca extraction (2026-09-19)
 ETP.A,Holdings not yet extracted. Provider: First Trust
 FTB,Holdings not yet extracted. Provider: First Trust
 FSR,Holdings not yet extracted. Provider: First Trust
 FCCB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
-FCCD,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
-FCCL,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
-FCCM,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
-FCCQ,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
-FCCV,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCCD,Complete: 72 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09-19)
+FCCL,Complete: 73 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09-19)
+FCCM,Complete: 65 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09-19)
+FCCQ,Complete: 64 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09-19)
+FCCV,Complete: 68 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09-19)
 FCGB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
 FCGB.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
-FCGC,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCGC,Complete: 98 holdings as of 30-Jun-2026 via fidelity.ca extraction (2026-09-19)
 FCGI,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
 FCGS,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
 FCGS.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
@@ -792,31 +792,38 @@ QTLT,Holdings extraction pending. Browser task encountered issues; manual extrac
 QUB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 QUIG,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 QUU,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-MCSM,Holdings extraction via browser in progress from manulifeim.com.
+MCSM,Complete: 120 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
 MDIF,Holdings extraction via browser in progress from manulifeim.com.
-MEME.B,Holdings extraction via browser in progress from manulifeim.com.
+MEME.B,Complete: 979 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
 MFUN,Holdings extraction via browser in progress from manulifeim.com.
-MGAP,Holdings extraction via browser in progress from manulifeim.com.
-MINT,Holdings extraction via browser in progress from manulifeim.com.
-MINT.B,Holdings extraction via browser in progress from manulifeim.com.
+MGAP,Complete: 27 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+MINT,Complete: 590 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+MINT.B,Complete: 590 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
 MMAC,Holdings extraction via browser in progress from manulifeim.com.
-MULC,Holdings extraction via browser in progress from manulifeim.com.
-MULC.B,Holdings extraction via browser in progress from manulifeim.com.
-MUMC,Holdings extraction via browser in progress from manulifeim.com.
-MUMC.B,Holdings extraction via browser in progress from manulifeim.com.
-MUSC,Holdings extraction via browser in progress from manulifeim.com.
-MUSC.B,Holdings extraction via browser in progress from manulifeim.com.
+MULC,Complete: 769 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+MULC.B,Complete: 769 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+MUMC,Complete: 659 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+MUMC.B,Complete: 659 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+MUSC,Complete: 499 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+MUSC.B,Complete: 499 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
 OPPS,Holdings extraction via browser in progress from manulifeim.com.
 PLUS,Holdings extraction via browser in progress from manulifeim.com.
 STRT,Holdings extraction via browser in progress from manulifeim.com.
-TERM,Holdings extraction via browser in progress from manulifeim.com.
-UDEF,Holdings extraction via browser in progress from manulifeim.com.
-UDEF.B,Holdings extraction via browser in progress from manulifeim.com.
-UDEF.U,Holdings extraction via browser in progress from manulifeim.com.
-UDIV,Holdings extraction via browser in progress from manulifeim.com.
-UDIV.B,Holdings extraction via browser in progress from manulifeim.com.
-UDIV.U,Holdings extraction via browser in progress from manulifeim.com.
-UYLD,Holdings extraction via browser in progress from manulifeim.com.
-UYLD.B,Holdings extraction via browser in progress from manulifeim.com.
-UYLD.U,Holdings extraction via browser in progress from manulifeim.com.
+TERM,Complete: 186 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UDEF,Complete: 173 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UDEF.B,Complete: 173 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UDEF.U,Complete: 173 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UDIV,Complete: 108 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UDIV.B,Complete: 108 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UDIV.U,Complete: 108 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UYLD,Complete: 315 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UYLD.B,Complete: 315 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
+UYLD.U,Complete: 315 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
 CEQT,Holdings not yet extracted. Provider: CI Global Asset Management
+TXF.B,Complete: 54 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
+TXF.U,Complete: 54 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
+ZXM,Complete: 217 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
+ZXM.B,Complete: 217 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
+VXM,Complete: 217 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
+VXM.B,Complete: 217 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
+HCA,Complete: 7 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
