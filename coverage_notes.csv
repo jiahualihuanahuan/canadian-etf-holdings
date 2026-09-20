@@ -834,3 +834,17 @@ ZZZD,"BMO: official XLSX contained only 10 rows (95.3%, expected 11 holdings); e
 ZCDX,"BMO: bond/fixed-income fund (Credit Stress Opportunities, 23 holdings ≥10); skipped per bond rule"
 IVGBE,"CI/Invesco: Portfolio tab offers only Top-9 table (99.86%), no Download Holdings button; excluded as partial"
 ITDY,"CI/Invesco: Portfolio tab offers only Top-15 table (33.68%), no Download Holdings button; excluded as partial"
+QASH,Mackenzie annual FS 2026-03-31: 53 bond holdings, 96.7% of NAV
+QBB,Mackenzie annual FS 2026-03-31: 1143 bond holdings, 98.8% of NAV
+QCB,Mackenzie annual FS 2026-03-31: 693 bond holdings, 99.0% of NAV
+QDXB,Mackenzie annual FS 2026-03-31: 292 bond holdings, 95.6% of NAV (CAD-hedged; minor forwards not parsed)
+QEBH,Mackenzie annual FS 2026-03-31: 375 bond holdings, 98.4% of NAV (CAD-hedged)
+QHY,Mackenzie annual FS 2026-03-31: 963 bonds (38.2%) + 4 total-return swaps on iShares HYG (60.9% notional) + 11 FX forwards (-1.7%); total 97.3%
+QLB,Mackenzie annual FS 2026-03-31: 72 bond holdings, 112.3% of NAV (leveraged via provincial/federal bonds; matches issuer summary 112.2%)
+QSB,Mackenzie annual FS 2026-03-31: 231 bond holdings, 99.5% of NAV
+QTIP,Mackenzie annual FS 2026-03-31: 45 TIPS holdings, 99.4% of NAV (CAD-hedged)
+QTLT,Mackenzie annual FS 2026-03-31: 28 Treasury holdings, 92.5% of NAV
+QUB,Mackenzie annual FS 2026-03-31: 137 bond holdings, 100.6% of NAV
+QUIG,Mackenzie annual FS 2026-03-31: 417 bond holdings, 80.5% of NAV (fund holds ~20% cash per FS; bonds complete at 518,095 = total)
+QEBL,PARTIAL - skipped: parser captured 232/290+ bonds (77.7% vs 95.3% official); 18.5% of bond FV missing due to section-header parsing issue
+FCGB,Not Mackenzie - Fidelity Global Core Plus Bond ETF (Fidelity Investments Canada ULC); excluded from Mackenzie batch
