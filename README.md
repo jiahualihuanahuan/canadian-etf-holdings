@@ -6,11 +6,11 @@ Holdings for Canadian-listed ETFs, collected from official issuer websites. **Wo
 
 | File | Contents |
 |---|---|
-| `canadian_etf_holdings_MASTER.csv` | **228,412 holding rows** across **912 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
+| `canadian_etf_holdings_MASTER.csv` | **232,693 holding rows** across **933 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
 | `canadian_etf_list.csv` + `universe_expansion_new.csv` | **1,173 ETF universe** (provisional) — ticker, name, provider |
 | `coverage_notes.csv` | **828 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, extraction pending) |
 
-**Coverage:** 912 of 1,173 provisional classes (77.7%) have complete holdings from issuer-published sources. The universe list is still being reconciled (terminated funds, renames, mergers, ticker reuse).
+**Coverage:** 933 of 1,173 provisional classes (79.5%) have complete holdings from issuer-published sources. The universe list is still being reconciled (terminated funds, renames, mergers, ticker reuse).
 
 ## Sources
 

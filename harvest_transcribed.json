@@ -1,0 +1,4468 @@
+[
+ {
+  "ticker": "HHL",
+  "name": "Harvest Healthcare Leaders Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "REGN US",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "weight": 5.4
+   },
+   {
+    "ticker": "VRTX US",
+    "name": "Vertex Pharmaceuticals Incorporated",
+    "weight": 5.4
+   },
+   {
+    "ticker": "A US",
+    "name": "Agilent Technologies, Inc.",
+    "weight": 5.3
+   },
+   {
+    "ticker": "AMGN US",
+    "name": "Amgen Inc.",
+    "weight": 5.3
+   },
+   {
+    "ticker": "DHR US",
+    "name": "Danaher Corporation",
+    "weight": 5.2
+   },
+   {
+    "ticker": "TMO US",
+    "name": "Thermo Fisher Scientific Inc.",
+    "weight": 5.2
+   },
+   {
+    "ticker": "BSX US",
+    "name": "Boston Scientific Corporation",
+    "weight": 5.1
+   },
+   {
+    "ticker": "ISRG US",
+    "name": "Intuitive Surgical, Inc.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "BMY US",
+    "name": "Bristol-Myers Squibb Company",
+    "weight": 5.0
+   },
+   {
+    "ticker": "ELV US",
+    "name": "Elevance Health, Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "MDT US",
+    "name": "Medtronic PLC",
+    "weight": 5.0
+   },
+   {
+    "ticker": "MRK US",
+    "name": "Merck & Co., Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "ABT US",
+    "name": "Abbott Laboratories",
+    "weight": 4.9
+   },
+   {
+    "ticker": "JNJ US",
+    "name": "Johnson & Johnson",
+    "weight": 4.9
+   },
+   {
+    "ticker": "ABBV US",
+    "name": "AbbVie Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "LLY US",
+    "name": "Eli Lilly and Company",
+    "weight": 4.7
+   },
+   {
+    "ticker": "NVS US",
+    "name": "Novartis AG",
+    "weight": 4.6
+   },
+   {
+    "ticker": "AZN US",
+    "name": "AstraZeneca PLC",
+    "weight": 4.5
+   },
+   {
+    "ticker": "UNH US",
+    "name": "UnitedHealth Group Incorporated",
+    "weight": 4.5
+   },
+   {
+    "ticker": "SYK US",
+    "name": "Stryker Corporation",
+    "weight": 4.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.5
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.4
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.3
+   }
+  ]
+ },
+ {
+  "ticker": "HTA",
+  "name": "Harvest Tech Leaders Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "NOW US",
+    "name": "ServiceNow, Inc.",
+    "weight": 7.0
+   },
+   {
+    "ticker": "MSFT US",
+    "name": "Microsoft Corporation",
+    "weight": 6.1
+   },
+   {
+    "ticker": "ORCL US",
+    "name": "Oracle Corporation",
+    "weight": 5.8
+   },
+   {
+    "ticker": "INTU US",
+    "name": "Intuit Inc.",
+    "weight": 5.7
+   },
+   {
+    "ticker": "MSI US",
+    "name": "Motorola Solutions, Inc.",
+    "weight": 5.4
+   },
+   {
+    "ticker": "PANW US",
+    "name": "Palo Alto Networks, Inc.",
+    "weight": 5.4
+   },
+   {
+    "ticker": "ANET US",
+    "name": "Arista Networks, Inc.",
+    "weight": 5.2
+   },
+   {
+    "ticker": "GOOGL US",
+    "name": "Alphabet Inc.",
+    "weight": 4.9
+   },
+   {
+    "ticker": "NVDA US",
+    "name": "NVIDIA Corporation",
+    "weight": 4.9
+   },
+   {
+    "ticker": "MU US",
+    "name": "Micron Technology, Inc.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "APH US",
+    "name": "Amphenol Corporation",
+    "weight": 4.7
+   },
+   {
+    "ticker": "AVGO US",
+    "name": "Broadcom Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "CSCO US",
+    "name": "Cisco Systems, Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "LRCX US",
+    "name": "Lam Research Corporation",
+    "weight": 4.5
+   },
+   {
+    "ticker": "AAPL US",
+    "name": "Apple Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "META US",
+    "name": "Meta Platforms, Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "STX US",
+    "name": "Seagate Technology Holdings PLC",
+    "weight": 4.4
+   },
+   {
+    "ticker": "TXN US",
+    "name": "Texas Instruments Incorporated",
+    "weight": 4.3
+   },
+   {
+    "ticker": "AMD US",
+    "name": "Advanced Micro Devices, Inc.",
+    "weight": 4.1
+   },
+   {
+    "ticker": "AMAT US",
+    "name": "Applied Materials, Inc.",
+    "weight": 3.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.3
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.4
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.3
+   }
+  ]
+ },
+ {
+  "ticker": "HBF",
+  "name": "Harvest US Equity Leaders Income ETF (page notes: formerly Harvest Brand Leaders Plus Income ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "MSFT US",
+    "name": "Microsoft Corporation",
+    "weight": 6.1
+   },
+   {
+    "ticker": "ORCL US",
+    "name": "Oracle Corporation",
+    "weight": 6.0
+   },
+   {
+    "ticker": "NVDA US",
+    "name": "NVIDIA Corporation",
+    "weight": 5.5
+   },
+   {
+    "ticker": "AMZN US",
+    "name": "Amazon.com, Inc.",
+    "weight": 5.4
+   },
+   {
+    "ticker": "VZ US",
+    "name": "Verizon Communications Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "MS US",
+    "name": "Morgan Stanley",
+    "weight": 4.9
+   },
+   {
+    "ticker": "SHEL US",
+    "name": "Shell PLC",
+    "weight": 4.9
+   },
+   {
+    "ticker": "V US",
+    "name": "Visa Inc.",
+    "weight": 4.9
+   },
+   {
+    "ticker": "GOOGL US",
+    "name": "Alphabet Inc.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CAT US",
+    "name": "Caterpillar Inc.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "JPM US",
+    "name": "JPMorgan Chase & Co.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "PG US",
+    "name": "The Procter & Gamble Company",
+    "weight": 4.8
+   },
+   {
+    "ticker": "WFC US",
+    "name": "Wells Fargo & Company",
+    "weight": 4.8
+   },
+   {
+    "ticker": "AVGO US",
+    "name": "Broadcom Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "KO US",
+    "name": "The Coca-Cola Company",
+    "weight": 4.7
+   },
+   {
+    "ticker": "MCD US",
+    "name": "McDonald's Corporation",
+    "weight": 4.6
+   },
+   {
+    "ticker": "CSCO US",
+    "name": "Cisco Systems, Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "AAPL US",
+    "name": "Apple Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "WMT US",
+    "name": "Walmart Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "UNH US",
+    "name": "UnitedHealth Group Incorporated",
+    "weight": 4.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.7
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.3
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.1
+   }
+  ]
+ },
+ {
+  "ticker": "HUTL",
+  "name": "Harvest Utilities Leaders Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "RCI/B CN",
+    "name": "Rogers Communications Inc.",
+    "weight": 3.5
+   },
+   {
+    "ticker": "UU/ LN",
+    "name": "United Utilities Group PLC",
+    "weight": 3.5
+   },
+   {
+    "ticker": "T US",
+    "name": "AT&T Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "DUK US",
+    "name": "Duke Energy Corporation",
+    "weight": 3.4
+   },
+   {
+    "ticker": "FORTUM FH",
+    "name": "Fortum Oyj",
+    "weight": 3.4
+   },
+   {
+    "ticker": "KMI US",
+    "name": "Kinder Morgan, Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "NTGY SM",
+    "name": "Naturgy Energy Group, S.A.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "OKE US",
+    "name": "ONEOK, Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "PNW US",
+    "name": "Pinnacle West Capital Corporation",
+    "weight": 3.4
+   },
+   {
+    "ticker": "SVT LN",
+    "name": "Severn Trent PLC",
+    "weight": 3.4
+   },
+   {
+    "ticker": "VZ US",
+    "name": "Verizon Communications Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "BCE CN",
+    "name": "BCE Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "BT/A LN",
+    "name": "BT Group PLC",
+    "weight": 3.3
+   },
+   {
+    "ticker": "CMCSA US",
+    "name": "Comcast Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "ENB CN",
+    "name": "Enbridge Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "KPN NA",
+    "name": "Koninklijke KPN N.V.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "PPL CN",
+    "name": "Pembina Pipeline Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "TRP CN",
+    "name": "TC Energy Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "TELIA SS",
+    "name": "Telia Company AB",
+    "weight": 3.3
+   },
+   {
+    "ticker": "DTE GR",
+    "name": "Deutsche Telekom AG",
+    "weight": 3.2
+   },
+   {
+    "ticker": "D US",
+    "name": "Dominion Energy, Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "EMA CN",
+    "name": "Emera Incorporated",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ES US",
+    "name": "Eversource Energy",
+    "weight": 3.2
+   },
+   {
+    "ticker": "EXC US",
+    "name": "Exelon Corporation",
+    "weight": 3.2
+   },
+   {
+    "ticker": "FE US",
+    "name": "FirstEnergy Corp.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "NG/ LN",
+    "name": "National Grid PLC",
+    "weight": 3.2
+   },
+   {
+    "ticker": "SCMN SW",
+    "name": "Swisscom AG",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ORA FP",
+    "name": "Orange S.A.",
+    "weight": 3.1
+   },
+   {
+    "ticker": "VIE FP",
+    "name": "Veolia Environnement S.A.",
+    "weight": 3.0
+   },
+   {
+    "ticker": "EIX US",
+    "name": "Edison International",
+    "weight": 2.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.1
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.8
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HGR",
+  "name": "Harvest REIT Leaders Income ETF (page notes: formerly Harvest Global REIT Leaders Income ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "PLD US",
+    "name": "Prologis, Inc.",
+    "weight": 5.5
+   },
+   {
+    "ticker": "DLR US",
+    "name": "Digital Realty Trust, Inc.",
+    "weight": 5.3
+   },
+   {
+    "ticker": "AMT US",
+    "name": "American Tower Corporation",
+    "weight": 5.1
+   },
+   {
+    "ticker": "KDCREIT SP",
+    "name": "Keppel DC REIT",
+    "weight": 4.9
+   },
+   {
+    "ticker": "GTY US",
+    "name": "Getty Realty Corp.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "MRL SM",
+    "name": "Merlin Properties SOCIMI, S.A.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CHP-U CN",
+    "name": "Choice Properties Real Estate Investment Trust",
+    "weight": 4.7
+   },
+   {
+    "ticker": "REG US",
+    "name": "Regency Centers Corporation",
+    "weight": 4.7
+   },
+   {
+    "ticker": "STAG US",
+    "name": "STAG Industrial, Inc.",
+    "weight": 4.6
+   },
+   {
+    "ticker": "CLAR SP",
+    "name": "CapitaLand Ascendas REIT",
+    "weight": 4.5
+   },
+   {
+    "ticker": "PSA US",
+    "name": "Public Storage",
+    "weight": 4.3
+   },
+   {
+    "ticker": "ADC US",
+    "name": "Agree Realty Corporation",
+    "weight": 4.1
+   },
+   {
+    "ticker": "O US",
+    "name": "Realty Income Corporation",
+    "weight": 4.1
+   },
+   {
+    "ticker": "CDP US",
+    "name": "COPT Defense Properties",
+    "weight": 3.9
+   },
+   {
+    "ticker": "LAMR US",
+    "name": "Lamar Advertising Company",
+    "weight": 3.9
+   },
+   {
+    "ticker": "SPG US",
+    "name": "Simon Property Group, Inc.",
+    "weight": 3.9
+   },
+   {
+    "ticker": "MAA US",
+    "name": "Mid-America Apartment Communities, Inc.",
+    "weight": 3.8
+   },
+   {
+    "ticker": "INVH US",
+    "name": "Invitation Homes Inc.",
+    "weight": 3.5
+   },
+   {
+    "ticker": "SUI US",
+    "name": "Sun Communities, Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "PSPN SW",
+    "name": "PSP Swiss Property AG",
+    "weight": 3.0
+   },
+   {
+    "ticker": "GMG AU",
+    "name": "Goodman Group",
+    "weight": 2.8
+   },
+   {
+    "ticker": "UDR US",
+    "name": "UDR, Inc.",
+    "weight": 2.8
+   },
+   {
+    "ticker": "DOC US",
+    "name": "Healthpeak Properties, Inc.",
+    "weight": 2.7
+   },
+   {
+    "ticker": "UTG LN",
+    "name": "The Unite Group PLC",
+    "weight": 1.9
+   },
+   {
+    "ticker": "ARE US",
+    "name": "Alexandria Real Estate Equities, Inc.",
+    "weight": 1.4
+   },
+   {
+    "ticker": "CCI US",
+    "name": "Crown Castle Inc.",
+    "weight": 1.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.4
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.1
+   }
+  ]
+ },
+ {
+  "ticker": "HPF",
+  "name": "Harvest Energy Leaders Income ETF (page notes: formerly Harvest Energy Leaders Plus Income ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "SLB US",
+    "name": "SLB Limited",
+    "weight": 5.9
+   },
+   {
+    "ticker": "PSX US",
+    "name": "Phillips 66",
+    "weight": 5.4
+   },
+   {
+    "ticker": "EQNR US",
+    "name": "Equinor ASA",
+    "weight": 5.3
+   },
+   {
+    "ticker": "CNQ CN",
+    "name": "Canadian Natural Resources Limited",
+    "weight": 5.2
+   },
+   {
+    "ticker": "COP US",
+    "name": "ConocoPhillips",
+    "weight": 5.2
+   },
+   {
+    "ticker": "OVV US",
+    "name": "Ovintiv Inc.",
+    "weight": 5.2
+   },
+   {
+    "ticker": "VLO US",
+    "name": "Valero Energy Corporation",
+    "weight": 5.2
+   },
+   {
+    "ticker": "E US",
+    "name": "Eni S.p.A.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "DINO US",
+    "name": "HF Sinclair Corporation",
+    "weight": 5.1
+   },
+   {
+    "ticker": "CVX US",
+    "name": "Chevron Corporation",
+    "weight": 5.0
+   },
+   {
+    "ticker": "XOM US",
+    "name": "ExxonMobil Holdings Corporation",
+    "weight": 5.0
+   },
+   {
+    "ticker": "TTE US",
+    "name": "TotalEnergies SE",
+    "weight": 5.0
+   },
+   {
+    "ticker": "OXY US",
+    "name": "Occidental Petroleum Corporation",
+    "weight": 4.9
+   },
+   {
+    "ticker": "SHEL US",
+    "name": "Shell PLC",
+    "weight": 4.9
+   },
+   {
+    "ticker": "SU CN",
+    "name": "Suncor Energy Inc.",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BP US",
+    "name": "BP PLC",
+    "weight": 4.7
+   },
+   {
+    "ticker": "EOG US",
+    "name": "EOG Resources, Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "PPL CN",
+    "name": "Pembina Pipeline Corporation",
+    "weight": 4.4
+   },
+   {
+    "ticker": "ENB CN",
+    "name": "Enbridge Inc.",
+    "weight": 4.2
+   },
+   {
+    "ticker": "TRP CN",
+    "name": "TC Energy Corporation",
+    "weight": 4.2
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.8
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HUBL",
+  "name": "Harvest US Bank Leaders Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "BNY US",
+    "name": "The Bank of New York Mellon Corporation",
+    "weight": 6.4
+   },
+   {
+    "ticker": "GS US",
+    "name": "The Goldman Sachs Group, Inc.",
+    "weight": 6.3
+   },
+   {
+    "ticker": "JPM US",
+    "name": "JPMorgan Chase & Co.",
+    "weight": 6.3
+   },
+   {
+    "ticker": "MS US",
+    "name": "Morgan Stanley",
+    "weight": 6.3
+   },
+   {
+    "ticker": "WFC US",
+    "name": "Wells Fargo & Company",
+    "weight": 6.3
+   },
+   {
+    "ticker": "BAC US",
+    "name": "Bank of America Corporation",
+    "weight": 6.2
+   },
+   {
+    "ticker": "C US",
+    "name": "Citigroup Inc.",
+    "weight": 6.1
+   },
+   {
+    "ticker": "KEY US",
+    "name": "KeyCorp",
+    "weight": 6.1
+   },
+   {
+    "ticker": "PNC US",
+    "name": "The PNC Financial Services Group, Inc.",
+    "weight": 6.1
+   },
+   {
+    "ticker": "RF US",
+    "name": "Regions Financial Corporation",
+    "weight": 6.1
+   },
+   {
+    "ticker": "TFC US",
+    "name": "Truist Financial Corporation",
+    "weight": 6.1
+   },
+   {
+    "ticker": "USB US",
+    "name": "U.S. Bancorp",
+    "weight": 6.1
+   },
+   {
+    "ticker": "CFG US",
+    "name": "Citizens Financial Group, Inc.",
+    "weight": 6.0
+   },
+   {
+    "ticker": "FITB US",
+    "name": "Fifth Third Bancorp",
+    "weight": 6.0
+   },
+   {
+    "ticker": "HBAN US",
+    "name": "Huntington Bancshares Incorporated",
+    "weight": 6.0
+   },
+   {
+    "ticker": "MTB US",
+    "name": "M&T Bank Corporation",
+    "weight": 5.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.6
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.2
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HLIF",
+  "name": "Harvest Canadian Dividend Leaders Income ETF (page notes: formerly Harvest Canadian Equity Income Leaders ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "TRI CN",
+    "name": "Thomson Reuters Corporation",
+    "weight": 4.0
+   },
+   {
+    "ticker": "CNQ CN",
+    "name": "Canadian Natural Resources Limited",
+    "weight": 3.8
+   },
+   {
+    "ticker": "SU CN",
+    "name": "Suncor Energy Inc.",
+    "weight": 3.8
+   },
+   {
+    "ticker": "BAM CN",
+    "name": "Brookfield Asset Management Ltd.",
+    "weight": 3.6
+   },
+   {
+    "ticker": "IGM CN",
+    "name": "IGM Financial Inc.",
+    "weight": 3.6
+   },
+   {
+    "ticker": "NTR CN",
+    "name": "Nutrien Ltd.",
+    "weight": 3.6
+   },
+   {
+    "ticker": "QSR CN",
+    "name": "Restaurant Brands International Inc.",
+    "weight": 3.5
+   },
+   {
+    "ticker": "ABX CN",
+    "name": "Barrick Mining Corporation",
+    "weight": 3.4
+   },
+   {
+    "ticker": "POW CN",
+    "name": "Power Corporation of Canada",
+    "weight": 3.4
+   },
+   {
+    "ticker": "TOU CN",
+    "name": "Tourmaline Oil Corp.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "BNS CN",
+    "name": "The Bank of Nova Scotia",
+    "weight": 3.3
+   },
+   {
+    "ticker": "BCE CN",
+    "name": "BCE Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "KEY CN",
+    "name": "Keyera Corp.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "MFC CN",
+    "name": "Manulife Financial Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "PPL CN",
+    "name": "Pembina Pipeline Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "CM CN",
+    "name": "Canadian Imperial Bank of Commerce",
+    "weight": 3.2
+   },
+   {
+    "ticker": "CU CN",
+    "name": "Canadian Utilities Limited",
+    "weight": 3.2
+   },
+   {
+    "ticker": "GWO CN",
+    "name": "Great-West Lifeco Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "MG CN",
+    "name": "Magna International Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "RCI/B CN",
+    "name": "Rogers Communications Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "RY CN",
+    "name": "Royal Bank of Canada",
+    "weight": 3.2
+   },
+   {
+    "ticker": "SLF CN",
+    "name": "Sun Life Financial Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "TD CN",
+    "name": "The Toronto-Dominion Bank",
+    "weight": 3.2
+   },
+   {
+    "ticker": "BMO CN",
+    "name": "Bank of Montreal",
+    "weight": 3.1
+   },
+   {
+    "ticker": "EMA CN",
+    "name": "Emera Incorporated",
+    "weight": 3.1
+   },
+   {
+    "ticker": "NA CN",
+    "name": "National Bank of Canada",
+    "weight": 3.1
+   },
+   {
+    "ticker": "FTS CN",
+    "name": "Fortis Inc.",
+    "weight": 3.0
+   },
+   {
+    "ticker": "ENB CN",
+    "name": "Enbridge Inc.",
+    "weight": 2.9
+   },
+   {
+    "ticker": "TRP CN",
+    "name": "TC Energy Corporation",
+    "weight": 2.9
+   },
+   {
+    "ticker": "BEPC CN",
+    "name": "Brookfield Renewable Corporation",
+    "weight": 2.7
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.0
+   }
+  ]
+ },
+ {
+  "ticker": "TRVI",
+  "name": "Harvest Travel & Leisure Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "ABNB US",
+    "name": "Airbnb, Inc.",
+    "weight": 12.3
+   },
+   {
+    "ticker": "BKNG US",
+    "name": "Booking Holdings Inc.",
+    "weight": 10.1
+   },
+   {
+    "ticker": "HLT US",
+    "name": "Hilton Worldwide Holdings Inc.",
+    "weight": 9.7
+   },
+   {
+    "ticker": "MAR US",
+    "name": "Marriott International, Inc.",
+    "weight": 9.5
+   },
+   {
+    "ticker": "RCL US",
+    "name": "Royal Caribbean Cruises Ltd.",
+    "weight": 8.6
+   },
+   {
+    "ticker": "DAL US",
+    "name": "Delta Air Lines, Inc.",
+    "weight": 6.8
+   },
+   {
+    "ticker": "UAL US",
+    "name": "United Airlines Holdings, Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "EXPE US",
+    "name": "Expedia Group, Inc.",
+    "weight": 4.6
+   },
+   {
+    "ticker": "CCL US",
+    "name": "Carnival Corporation",
+    "weight": 3.7
+   },
+   {
+    "ticker": "VICI US",
+    "name": "VICI Properties Inc.",
+    "weight": 3.7
+   },
+   {
+    "ticker": "VIK US",
+    "name": "Viking Holdings Ltd.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "LUV US",
+    "name": "Southwest Airlines Co.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "HST US",
+    "name": "Host Hotels & Resorts, Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "H US",
+    "name": "Hyatt Hotels Corporation",
+    "weight": 2.2
+   },
+   {
+    "ticker": "SUI US",
+    "name": "Sun Communities, Inc.",
+    "weight": 2.1
+   },
+   {
+    "ticker": "LVS US",
+    "name": "Las Vegas Sands Corp.",
+    "weight": 1.7
+   },
+   {
+    "ticker": "AAL US",
+    "name": "American Airlines Group Inc.",
+    "weight": 1.3
+   },
+   {
+    "ticker": "MGM US",
+    "name": "MGM Resorts International",
+    "weight": 1.2
+   },
+   {
+    "ticker": "RHP US",
+    "name": "Ryman Hospitality Properties, Inc.",
+    "weight": 1.1
+   },
+   {
+    "ticker": "WYNN US",
+    "name": "Wynn Resorts, Limited",
+    "weight": 1.1
+   },
+   {
+    "ticker": "NCLH US",
+    "name": "Norwegian Cruise Line Holdings Ltd.",
+    "weight": 1.0
+   },
+   {
+    "ticker": "CZR US",
+    "name": "Caesars Entertainment, Inc.",
+    "weight": 0.8
+   },
+   {
+    "ticker": "CPA US",
+    "name": "Copa Holdings, S.A.",
+    "weight": 0.8
+   },
+   {
+    "ticker": "WH US",
+    "name": "Wyndham Hotels & Resorts, Inc.",
+    "weight": 0.8
+   },
+   {
+    "ticker": "ALK US",
+    "name": "Alaska Air Group, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "MTN US",
+    "name": "Vail Resorts, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "BYD US",
+    "name": "Boyd Gaming Corporation",
+    "weight": 0.6
+   },
+   {
+    "ticker": "SKYW US",
+    "name": "SkyWest, Inc.",
+    "weight": 0.6
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.6
+   },
+   {
+    "ticker": "RRR US",
+    "name": "Red Rock Resorts, Inc.",
+    "weight": 0.5
+   },
+   {
+    "ticker": "TNL US",
+    "name": "Travel + Leisure Co.",
+    "weight": 0.4
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HRIF",
+  "name": "Harvest Diversified Equity Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HTA",
+    "name": "Harvest Tech Leaders Income ETF",
+    "weight": 18.6
+   },
+   {
+    "ticker": "HBF",
+    "name": "Harvest US Equity Leaders Income ETF",
+    "weight": 18.0
+   },
+   {
+    "ticker": "HHL",
+    "name": "Harvest Healthcare Leaders Income ETF",
+    "weight": 10.4
+   },
+   {
+    "ticker": "HLIF",
+    "name": "Harvest Canadian Dividend Leaders Income ETF",
+    "weight": 9.7
+   },
+   {
+    "ticker": "HHIH",
+    "name": "Harvest High Income Equity Shares ETF",
+    "weight": 9.6
+   },
+   {
+    "ticker": "HUTL",
+    "name": "Harvest Utilities Leaders Income ETF",
+    "weight": 7.8
+   },
+   {
+    "ticker": "TRVI",
+    "name": "Harvest Travel & Leisure Income ETF",
+    "weight": 6.5
+   },
+   {
+    "ticker": "HUBL",
+    "name": "Harvest US Bank Leaders Income ETF",
+    "weight": 6.4
+   },
+   {
+    "ticker": "HIND",
+    "name": "Harvest Industrial Leaders Income ETF",
+    "weight": 6.3
+   },
+   {
+    "ticker": "HVOI",
+    "name": "Harvest Low Volatility Canadian Equity Income ETF",
+    "weight": 5.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.8
+   }
+  ]
+ },
+ {
+  "ticker": "HPYT",
+  "name": "Harvest Premium Yield Treasury ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "TLT US",
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "weight": 81.9
+   },
+   {
+    "ticker": "VGLT US",
+    "name": "Vanguard Long-Term Treasury ETF",
+    "weight": 7.5
+   },
+   {
+    "ticker": "EDV US",
+    "name": "Vanguard Extended Duration Treasury ETF",
+    "weight": 5.3
+   },
+   {
+    "ticker": "TLH US",
+    "name": "iShares 10-20 Year Treasury Bond ETF",
+    "weight": 3.5
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.4
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.5
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HPYM",
+  "name": "Harvest Premium Yield 7-10 Year Treasury ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "IEF US",
+    "name": "iShares 7-10 Year Treasury Bond ETF",
+    "weight": 92.2
+   },
+   {
+    "ticker": "SCHR US",
+    "name": "Schwab Intermediate-Term U.S. Treasury ETF",
+    "weight": 3.0
+   },
+   {
+    "ticker": "VGIT US",
+    "name": "Vanguard Intermediate-Term Treasury ETF",
+    "weight": 3.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.6
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.4
+   }
+  ]
+ },
+ {
+  "ticker": "TBIL",
+  "name": "Harvest Canadian T-Bill ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 02-Dec-2026",
+    "weight": 20.0
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 23-Sep-2026",
+    "weight": 18.0
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 07-Oct-2026",
+    "weight": 16.9
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 09-Sep-2026",
+    "weight": 15.9
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 21-Oct-2026",
+    "weight": 14.4
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 04-Nov-2026",
+    "weight": 14.4
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 18-Nov-2026",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "ticker": "HDIF",
+  "name": "Harvest Diversified Monthly Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HTA",
+    "name": "Harvest Tech Leaders Income ETF",
+    "weight": 23.3
+   },
+   {
+    "ticker": "HBF",
+    "name": "Harvest US Equity Leaders Income ETF",
+    "weight": 22.6
+   },
+   {
+    "ticker": "HLIF",
+    "name": "Harvest Canadian Dividend Leaders Income ETF",
+    "weight": 13.7
+   },
+   {
+    "ticker": "HHL",
+    "name": "Harvest Healthcare Leaders Income ETF",
+    "weight": 13.0
+   },
+   {
+    "ticker": "HHIH",
+    "name": "Harvest High Income Equity Shares ETF",
+    "weight": 12.7
+   },
+   {
+    "ticker": "HUTL",
+    "name": "Harvest Utilities Leaders Income ETF",
+    "weight": 9.8
+   },
+   {
+    "ticker": "TRVI",
+    "name": "Harvest Travel & Leisure Income ETF",
+    "weight": 8.1
+   },
+   {
+    "ticker": "HUBL",
+    "name": "Harvest US Bank Leaders Income ETF",
+    "weight": 8.0
+   },
+   {
+    "ticker": "HIND",
+    "name": "Harvest Industrial Leaders Income ETF",
+    "weight": 7.9
+   },
+   {
+    "ticker": "HPYG",
+    "name": "Harvest Premium Yield Gold ETF",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "ticker": "HHLE",
+  "name": "Harvest Healthcare Leaders Enhanced Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HHL",
+    "name": "Harvest Healthcare Leaders Income ETF",
+    "weight": 124.3
+   }
+  ]
+ },
+ {
+  "ticker": "HTAE",
+  "name": "Harvest Tech Leaders Enhanced Income ETF (page notes: formerly Harvest Tech Achievers Enhanced Income ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HTA",
+    "name": "Harvest Tech Leaders Income ETF",
+    "weight": 124.6
+   }
+  ]
+ },
+ {
+  "ticker": "HUTE",
+  "name": "Harvest Utilities Leaders Enhanced Income ETF (page notes: formerly Harvest Equal Weight Global Utilities Income ...)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HUTL",
+    "name": "Harvest Utilities Leaders Income ETF",
+    "weight": 125.8
+   }
+  ]
+ },
+ {
+  "ticker": "HGGG",
+  "name": "Harvest Global Gold Giants Index ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "SSRM US",
+    "name": "SSR Mining Inc.",
+    "weight": 5.3
+   },
+   {
+    "ticker": "ELD CN",
+    "name": "Eldorado Gold Corporation",
+    "weight": 5.2
+   },
+   {
+    "ticker": "AU US",
+    "name": "AngloGold Ashanti PLC",
+    "weight": 5.1
+   },
+   {
+    "ticker": "GMIN CN",
+    "name": "G Mining Ventures Corp.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "LUG CN",
+    "name": "Lundin Gold Inc.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "AGI CN",
+    "name": "Alamos Gold Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "CDE US",
+    "name": "Coeur Mining, Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "EQX CN",
+    "name": "Equinox Gold Corp.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "IMG CN",
+    "name": "IAMGOLD Corporation",
+    "weight": 5.0
+   },
+   {
+    "ticker": "K CN",
+    "name": "Kinross Gold Corporation",
+    "weight": 5.0
+   },
+   {
+    "ticker": "PAAS CN",
+    "name": "Pan American Silver Corp.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "AEM CN",
+    "name": "Agnico Eagle Mines Limited",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BTO CN",
+    "name": "B2Gold Corp.",
+    "weight": 4.9
+   },
+   {
+    "ticker": "NEM US",
+    "name": "Newmont Corporation",
+    "weight": 4.9
+   },
+   {
+    "ticker": "ABX CN",
+    "name": "Barrick Mining Corporation",
+    "weight": 4.8
+   },
+   {
+    "ticker": "EDV LN",
+    "name": "Endeavour Mining PLC",
+    "weight": 4.8
+   },
+   {
+    "ticker": "OGC CN",
+    "name": "OceanaGold Corporation",
+    "weight": 4.8
+   },
+   {
+    "ticker": "EVN AU",
+    "name": "Evolution Mining Limited",
+    "weight": 4.6
+   },
+   {
+    "ticker": "DPM CN",
+    "name": "DPM Metals Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "NST AU",
+    "name": "Northern Star Resources Limited",
+    "weight": 4.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.7
+   }
+  ]
+ },
+ {
+  "ticker": "TRVL",
+  "name": "Harvest Travel & Leisure Index ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "ABNB US",
+    "name": "Airbnb, Inc.",
+    "weight": 12.6
+   },
+   {
+    "ticker": "BKNG US",
+    "name": "Booking Holdings Inc.",
+    "weight": 10.0
+   },
+   {
+    "ticker": "HLT US",
+    "name": "Hilton Worldwide Holdings Inc.",
+    "weight": 9.4
+   },
+   {
+    "ticker": "MAR US",
+    "name": "Marriott International, Inc.",
+    "weight": 9.4
+   },
+   {
+    "ticker": "RCL US",
+    "name": "Royal Caribbean Cruises Ltd.",
+    "weight": 8.8
+   },
+   {
+    "ticker": "DAL US",
+    "name": "Delta Air Lines, Inc.",
+    "weight": 6.9
+   },
+   {
+    "ticker": "EXPE US",
+    "name": "Expedia Group, Inc.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "UAL US",
+    "name": "United Airlines Holdings, Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "VICI US",
+    "name": "VICI Properties Inc.",
+    "weight": 3.7
+   },
+   {
+    "ticker": "CCL US",
+    "name": "Carnival Corporation",
+    "weight": 3.5
+   },
+   {
+    "ticker": "VIK US",
+    "name": "Viking Holdings Ltd.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "LUV US",
+    "name": "Southwest Airlines Co.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "SUI US",
+    "name": "Sun Communities, Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "HST US",
+    "name": "Host Hotels & Resorts, Inc.",
+    "weight": 2.0
+   },
+   {
+    "ticker": "H US",
+    "name": "Hyatt Hotels Corporation",
+    "weight": 2.0
+   },
+   {
+    "ticker": "LVS US",
+    "name": "Las Vegas Sands Corp.",
+    "weight": 1.8
+   },
+   {
+    "ticker": "AAL US",
+    "name": "American Airlines Group Inc.",
+    "weight": 1.2
+   },
+   {
+    "ticker": "MGM US",
+    "name": "MGM Resorts International",
+    "weight": 1.1
+   },
+   {
+    "ticker": "RHP US",
+    "name": "Ryman Hospitality Properties, Inc.",
+    "weight": 1.1
+   },
+   {
+    "ticker": "NCLH US",
+    "name": "Norwegian Cruise Line Holdings Ltd.",
+    "weight": 1.0
+   },
+   {
+    "ticker": "WYNN US",
+    "name": "Wynn Resorts, Limited",
+    "weight": 0.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.9
+   },
+   {
+    "ticker": "CZR US",
+    "name": "Caesars Entertainment, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "CPA US",
+    "name": "Copa Holdings, S.A.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "MTN US",
+    "name": "Vail Resorts, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "WH US",
+    "name": "Wyndham Hotels & Resorts, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "ALK US",
+    "name": "Alaska Air Group, Inc.",
+    "weight": 0.6
+   },
+   {
+    "ticker": "RRR US",
+    "name": "Red Rock Resorts, Inc.",
+    "weight": 0.6
+   },
+   {
+    "ticker": "TNL US",
+    "name": "Travel + Leisure Co.",
+    "weight": 0.6
+   },
+   {
+    "ticker": "BYD US",
+    "name": "Boyd Gaming Corporation",
+    "weight": 0.5
+   },
+   {
+    "ticker": "SKYW US",
+    "name": "SkyWest, Inc.",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "ticker": "HBLK",
+  "name": "Blockchain Technologies ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "CRCL US",
+    "name": "Circle Internet Group, Inc.",
+    "weight": 7.9
+   },
+   {
+    "ticker": "COIN US",
+    "name": "Coinbase Global, Inc.",
+    "weight": 7.7
+   },
+   {
+    "ticker": "XYZ US",
+    "name": "Block, Inc.",
+    "weight": 7.5
+   },
+   {
+    "ticker": "HOOD US",
+    "name": "Robinhood Markets, Inc.",
+    "weight": 7.4
+   },
+   {
+    "ticker": "IREN US",
+    "name": "IREN Limited",
+    "weight": 6.6
+   },
+   {
+    "ticker": "HUT CN",
+    "name": "Hut 8 Corp.",
+    "weight": 5.7
+   },
+   {
+    "ticker": "CIFR US",
+    "name": "Cipher Digital Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "GLXY US",
+    "name": "Galaxy Digital Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "RIOT US",
+    "name": "Riot Platforms, Inc.",
+    "weight": 3.8
+   },
+   {
+    "ticker": "CORZ US",
+    "name": "Core Scientific, Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "WULF US",
+    "name": "TeraWulf Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ACN US",
+    "name": "Accenture PLC",
+    "weight": 2.6
+   },
+   {
+    "ticker": "MSFT US",
+    "name": "Microsoft Corporation",
+    "weight": 2.6
+   },
+   {
+    "ticker": "SAP US",
+    "name": "SAP SE",
+    "weight": 2.6
+   },
+   {
+    "ticker": "INFY US",
+    "name": "Infosys Limited",
+    "weight": 2.5
+   },
+   {
+    "ticker": "INTC US",
+    "name": "Intel Corporation",
+    "weight": 2.5
+   },
+   {
+    "ticker": "IBM US",
+    "name": "International Business Machines Corporation",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ORCL US",
+    "name": "Oracle Corporation",
+    "weight": 2.5
+   },
+   {
+    "ticker": "V US",
+    "name": "Visa Inc.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "WIT US",
+    "name": "Wipro Limited",
+    "weight": 2.5
+   },
+   {
+    "ticker": "MA US",
+    "name": "Mastercard Incorporated",
+    "weight": 2.4
+   },
+   {
+    "ticker": "FIGR US",
+    "name": "Figure Technology Solutions, Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "MARA US",
+    "name": "MARA Holdings, Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "CLSK US",
+    "name": "CleanSpark, Inc.",
+    "weight": 1.7
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.7
+   },
+   {
+    "ticker": "FOUR US",
+    "name": "Shift4 Payments, Inc.",
+    "weight": 1.4
+   },
+   {
+    "ticker": "KEEL CN",
+    "name": "Keel Infrastructure Corp.",
+    "weight": 1.1
+   },
+   {
+    "ticker": "BTDR US",
+    "name": "Bitdeer Technologies Group",
+    "weight": 0.7
+   },
+   {
+    "ticker": "HIVE CN",
+    "name": "HIVE Digital Technologies Ltd.",
+    "weight": 0.4
+   },
+   {
+    "ticker": "BTBT US",
+    "name": "Bit Digital, Inc.",
+    "weight": 0.2
+   },
+   {
+    "ticker": "AIFC US",
+    "name": "ALT5 Sigma Corporation",
+    "weight": 0.1
+   },
+   {
+    "ticker": "BKKT US",
+    "name": "Bakkt Holdings, Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "CD US",
+    "name": "Chaince Digital Holdings Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "DFDV US",
+    "name": "DeFi Development Corp.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "DEFI CN",
+    "name": "DeFi Technologies Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "DGX CN",
+    "name": "Digi Power X Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "DMGI CN",
+    "name": "DMG Blockchain Solutions Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "FUFU US",
+    "name": "BitFuFu Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "BTCS US",
+    "name": "BTCS Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "EXOD US",
+    "name": "Exodus Movement, Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "NDA CN",
+    "name": "Neptune Digital Assets Corp.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "NC CN",
+    "name": "NetCents Technology Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "HODL CN",
+    "name": "Sol Strategies Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "VOYG CN",
+    "name": "Voyager Digital Ltd.",
+    "weight": 0.0
+   }
+  ]
+ },
+ {
+  "ticker": "HCLN",
+  "name": "Harvest Clean Energy ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 3.8
+   },
+   {
+    "ticker": "VWS DC",
+    "name": "Vestas Wind Systems A/S",
+    "weight": 3.3
+   },
+   {
+    "ticker": "CADLR NO",
+    "name": "Cadeler A/S",
+    "weight": 3.0
+   },
+   {
+    "ticker": "3800 HK",
+    "name": "GCL Technology Holdings Limited",
+    "weight": 3.0
+   },
+   {
+    "ticker": "LAND SW",
+    "name": "Landis+Gyr Group AG",
+    "weight": 2.8
+   },
+   {
+    "ticker": "RNW US",
+    "name": "ReNew Energy Global PLC",
+    "weight": 2.8
+   },
+   {
+    "ticker": "SCATC NO",
+    "name": "Scatec ASA",
+    "weight": 2.7
+   },
+   {
+    "ticker": "S92 GR",
+    "name": "SMA Solar Technology AG",
+    "weight": 2.7
+   },
+   {
+    "ticker": "VER AV",
+    "name": "VERBUND AG",
+    "weight": 2.7
+   },
+   {
+    "ticker": "968 HK",
+    "name": "Xinyi Solar Holdings Limited",
+    "weight": 2.7
+   },
+   {
+    "ticker": "ANE SM",
+    "name": "Corporaci\u00f3n Acciona Energ\u00edas Renovables, S.A.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "DRX LN",
+    "name": "Drax Group PLC",
+    "weight": 2.6
+   },
+   {
+    "ticker": "EDPR PL",
+    "name": "EDP Renov\u00e1veis, S.A.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "ERG IM",
+    "name": "ERG S.p.A.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "MCY NZ",
+    "name": "Mercury NZ Limited",
+    "weight": 2.6
+   },
+   {
+    "ticker": "PLUG US",
+    "name": "Plug Power Inc.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "BEPC CN",
+    "name": "Brookfield Renewable Corporation",
+    "weight": 2.5
+   },
+   {
+    "ticker": "CWEN US",
+    "name": "Clearway Energy, Inc.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ENS US",
+    "name": "EnerSys",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ENPH US",
+    "name": "Enphase Energy, Inc.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "MEL NZ",
+    "name": "Meridian Energy Limited",
+    "weight": 2.5
+   },
+   {
+    "ticker": "NDX1 GR",
+    "name": "Nordex SE",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ORA US",
+    "name": "Ormat Technologies, Inc.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "SLR SM",
+    "name": "Solaria Energ\u00eda y Medio Ambiente, S.A.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "916 HK",
+    "name": "China Longyuan Power Group Corporation Limited",
+    "weight": 2.4
+   },
+   {
+    "ticker": "CEN NZ",
+    "name": "Contact Energy Limited",
+    "weight": 2.4
+   },
+   {
+    "ticker": "FSLR US",
+    "name": "First Solar, Inc.",
+    "weight": 2.4
+   },
+   {
+    "ticker": "NPI CN",
+    "name": "Northland Power Inc.",
+    "weight": 2.4
+   },
+   {
+    "ticker": "ORSTED DC",
+    "name": "Orsted A/S",
+    "weight": 2.4
+   },
+   {
+    "ticker": "EOSE US",
+    "name": "Eos Energy Enterprises, Inc.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "GRE SM",
+    "name": "Grenergy Renovables, S.A.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "MWH US",
+    "name": "Solv Energy, Inc.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "TE US",
+    "name": "T1 Energy Inc.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "RUN US",
+    "name": "Sunrun Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "FCEL US",
+    "name": "FuelCell Energy, Inc.",
+    "weight": 2.1
+   },
+   {
+    "ticker": "FLNC US",
+    "name": "Fluence Energy, Inc.",
+    "weight": 2.0
+   },
+   {
+    "ticker": "NXT US",
+    "name": "Nextpower Inc.",
+    "weight": 2.0
+   },
+   {
+    "ticker": "SHLS US",
+    "name": "Shoals Technologies Group, Inc.",
+    "weight": 1.9
+   },
+   {
+    "ticker": "SEDG US",
+    "name": "SolarEdge Technologies, Inc.",
+    "weight": 1.9
+   },
+   {
+    "ticker": "FRVO US",
+    "name": "Fervo Energy Company",
+    "weight": 1.7
+   }
+  ]
+ },
+ {
+  "ticker": "HHL",
+  "name": "Harvest Healthcare Leaders Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "REGN US",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "weight": 5.4
+   },
+   {
+    "ticker": "VRTX US",
+    "name": "Vertex Pharmaceuticals Incorporated",
+    "weight": 5.4
+   },
+   {
+    "ticker": "A US",
+    "name": "Agilent Technologies, Inc.",
+    "weight": 5.3
+   },
+   {
+    "ticker": "AMGN US",
+    "name": "Amgen Inc.",
+    "weight": 5.3
+   },
+   {
+    "ticker": "DHR US",
+    "name": "Danaher Corporation",
+    "weight": 5.2
+   },
+   {
+    "ticker": "TMO US",
+    "name": "Thermo Fisher Scientific Inc.",
+    "weight": 5.2
+   },
+   {
+    "ticker": "BSX US",
+    "name": "Boston Scientific Corporation",
+    "weight": 5.1
+   },
+   {
+    "ticker": "ISRG US",
+    "name": "Intuitive Surgical, Inc.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "BMY US",
+    "name": "Bristol-Myers Squibb Company",
+    "weight": 5.0
+   },
+   {
+    "ticker": "ELV US",
+    "name": "Elevance Health, Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "MDT US",
+    "name": "Medtronic PLC",
+    "weight": 5.0
+   },
+   {
+    "ticker": "MRK US",
+    "name": "Merck & Co., Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "ABT US",
+    "name": "Abbott Laboratories",
+    "weight": 4.9
+   },
+   {
+    "ticker": "JNJ US",
+    "name": "Johnson & Johnson",
+    "weight": 4.9
+   },
+   {
+    "ticker": "ABBV US",
+    "name": "AbbVie Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "LLY US",
+    "name": "Eli Lilly and Company",
+    "weight": 4.7
+   },
+   {
+    "ticker": "NVS US",
+    "name": "Novartis AG",
+    "weight": 4.6
+   },
+   {
+    "ticker": "AZN US",
+    "name": "AstraZeneca PLC",
+    "weight": 4.5
+   },
+   {
+    "ticker": "UNH US",
+    "name": "UnitedHealth Group Incorporated",
+    "weight": 4.5
+   },
+   {
+    "ticker": "SYK US",
+    "name": "Stryker Corporation",
+    "weight": 4.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.5
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.4
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.3
+   }
+  ]
+ },
+ {
+  "ticker": "HTA",
+  "name": "Harvest Tech Leaders Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "NOW US",
+    "name": "ServiceNow, Inc.",
+    "weight": 7.0
+   },
+   {
+    "ticker": "MSFT US",
+    "name": "Microsoft Corporation",
+    "weight": 6.1
+   },
+   {
+    "ticker": "ORCL US",
+    "name": "Oracle Corporation",
+    "weight": 5.8
+   },
+   {
+    "ticker": "INTU US",
+    "name": "Intuit Inc.",
+    "weight": 5.7
+   },
+   {
+    "ticker": "MSI US",
+    "name": "Motorola Solutions, Inc.",
+    "weight": 5.4
+   },
+   {
+    "ticker": "PANW US",
+    "name": "Palo Alto Networks, Inc.",
+    "weight": 5.4
+   },
+   {
+    "ticker": "ANET US",
+    "name": "Arista Networks, Inc.",
+    "weight": 5.2
+   },
+   {
+    "ticker": "GOOGL US",
+    "name": "Alphabet Inc.",
+    "weight": 4.9
+   },
+   {
+    "ticker": "NVDA US",
+    "name": "NVIDIA Corporation",
+    "weight": 4.9
+   },
+   {
+    "ticker": "MU US",
+    "name": "Micron Technology, Inc.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "APH US",
+    "name": "Amphenol Corporation",
+    "weight": 4.7
+   },
+   {
+    "ticker": "AVGO US",
+    "name": "Broadcom Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "CSCO US",
+    "name": "Cisco Systems, Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "LRCX US",
+    "name": "Lam Research Corporation",
+    "weight": 4.5
+   },
+   {
+    "ticker": "AAPL US",
+    "name": "Apple Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "META US",
+    "name": "Meta Platforms, Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "STX US",
+    "name": "Seagate Technology Holdings PLC",
+    "weight": 4.4
+   },
+   {
+    "ticker": "TXN US",
+    "name": "Texas Instruments Incorporated",
+    "weight": 4.3
+   },
+   {
+    "ticker": "AMD US",
+    "name": "Advanced Micro Devices, Inc.",
+    "weight": 4.1
+   },
+   {
+    "ticker": "AMAT US",
+    "name": "Applied Materials, Inc.",
+    "weight": 3.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.3
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.4
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.3
+   }
+  ]
+ },
+ {
+  "ticker": "HBF",
+  "name": "Harvest US Equity Leaders Income ETF (page notes: formerly Harvest Brand Leaders Plus Income ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "MSFT US",
+    "name": "Microsoft Corporation",
+    "weight": 6.1
+   },
+   {
+    "ticker": "ORCL US",
+    "name": "Oracle Corporation",
+    "weight": 6.0
+   },
+   {
+    "ticker": "NVDA US",
+    "name": "NVIDIA Corporation",
+    "weight": 5.5
+   },
+   {
+    "ticker": "AMZN US",
+    "name": "Amazon.com, Inc.",
+    "weight": 5.4
+   },
+   {
+    "ticker": "VZ US",
+    "name": "Verizon Communications Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "MS US",
+    "name": "Morgan Stanley",
+    "weight": 4.9
+   },
+   {
+    "ticker": "SHEL US",
+    "name": "Shell PLC",
+    "weight": 4.9
+   },
+   {
+    "ticker": "V US",
+    "name": "Visa Inc.",
+    "weight": 4.9
+   },
+   {
+    "ticker": "GOOGL US",
+    "name": "Alphabet Inc.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CAT US",
+    "name": "Caterpillar Inc.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "JPM US",
+    "name": "JPMorgan Chase & Co.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "PG US",
+    "name": "The Procter & Gamble Company",
+    "weight": 4.8
+   },
+   {
+    "ticker": "WFC US",
+    "name": "Wells Fargo & Company",
+    "weight": 4.8
+   },
+   {
+    "ticker": "AVGO US",
+    "name": "Broadcom Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "KO US",
+    "name": "The Coca-Cola Company",
+    "weight": 4.7
+   },
+   {
+    "ticker": "MCD US",
+    "name": "McDonald's Corporation",
+    "weight": 4.6
+   },
+   {
+    "ticker": "CSCO US",
+    "name": "Cisco Systems, Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "AAPL US",
+    "name": "Apple Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "WMT US",
+    "name": "Walmart Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "UNH US",
+    "name": "UnitedHealth Group Incorporated",
+    "weight": 4.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.7
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.3
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.1
+   }
+  ]
+ },
+ {
+  "ticker": "HUTL",
+  "name": "Harvest Utilities Leaders Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "RCI/B CN",
+    "name": "Rogers Communications Inc.",
+    "weight": 3.5
+   },
+   {
+    "ticker": "UU/ LN",
+    "name": "United Utilities Group PLC",
+    "weight": 3.5
+   },
+   {
+    "ticker": "T US",
+    "name": "AT&T Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "DUK US",
+    "name": "Duke Energy Corporation",
+    "weight": 3.4
+   },
+   {
+    "ticker": "FORTUM FH",
+    "name": "Fortum Oyj",
+    "weight": 3.4
+   },
+   {
+    "ticker": "KMI US",
+    "name": "Kinder Morgan, Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "NTGY SM",
+    "name": "Naturgy Energy Group, S.A.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "OKE US",
+    "name": "ONEOK, Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "PNW US",
+    "name": "Pinnacle West Capital Corporation",
+    "weight": 3.4
+   },
+   {
+    "ticker": "SVT LN",
+    "name": "Severn Trent PLC",
+    "weight": 3.4
+   },
+   {
+    "ticker": "VZ US",
+    "name": "Verizon Communications Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "BCE CN",
+    "name": "BCE Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "BT/A LN",
+    "name": "BT Group PLC",
+    "weight": 3.3
+   },
+   {
+    "ticker": "CMCSA US",
+    "name": "Comcast Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "ENB CN",
+    "name": "Enbridge Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "KPN NA",
+    "name": "Koninklijke KPN N.V.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "PPL CN",
+    "name": "Pembina Pipeline Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "TRP CN",
+    "name": "TC Energy Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "TELIA SS",
+    "name": "Telia Company AB",
+    "weight": 3.3
+   },
+   {
+    "ticker": "DTE GR",
+    "name": "Deutsche Telekom AG",
+    "weight": 3.2
+   },
+   {
+    "ticker": "D US",
+    "name": "Dominion Energy, Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "EMA CN",
+    "name": "Emera Incorporated",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ES US",
+    "name": "Eversource Energy",
+    "weight": 3.2
+   },
+   {
+    "ticker": "EXC US",
+    "name": "Exelon Corporation",
+    "weight": 3.2
+   },
+   {
+    "ticker": "FE US",
+    "name": "FirstEnergy Corp.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "NG/ LN",
+    "name": "National Grid PLC",
+    "weight": 3.2
+   },
+   {
+    "ticker": "SCMN SW",
+    "name": "Swisscom AG",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ORA FP",
+    "name": "Orange S.A.",
+    "weight": 3.1
+   },
+   {
+    "ticker": "VIE FP",
+    "name": "Veolia Environnement S.A.",
+    "weight": 3.0
+   },
+   {
+    "ticker": "EIX US",
+    "name": "Edison International",
+    "weight": 2.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.1
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.8
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HGR",
+  "name": "Harvest REIT Leaders Income ETF (page notes: formerly Harvest Global REIT Leaders Income ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "PLD US",
+    "name": "Prologis, Inc.",
+    "weight": 5.5
+   },
+   {
+    "ticker": "DLR US",
+    "name": "Digital Realty Trust, Inc.",
+    "weight": 5.3
+   },
+   {
+    "ticker": "AMT US",
+    "name": "American Tower Corporation",
+    "weight": 5.1
+   },
+   {
+    "ticker": "KDCREIT SP",
+    "name": "Keppel DC REIT",
+    "weight": 4.9
+   },
+   {
+    "ticker": "GTY US",
+    "name": "Getty Realty Corp.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "MRL SM",
+    "name": "Merlin Properties SOCIMI, S.A.",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CHP-U CN",
+    "name": "Choice Properties Real Estate Investment Trust",
+    "weight": 4.7
+   },
+   {
+    "ticker": "REG US",
+    "name": "Regency Centers Corporation",
+    "weight": 4.7
+   },
+   {
+    "ticker": "STAG US",
+    "name": "STAG Industrial, Inc.",
+    "weight": 4.6
+   },
+   {
+    "ticker": "CLAR SP",
+    "name": "CapitaLand Ascendas REIT",
+    "weight": 4.5
+   },
+   {
+    "ticker": "PSA US",
+    "name": "Public Storage",
+    "weight": 4.3
+   },
+   {
+    "ticker": "ADC US",
+    "name": "Agree Realty Corporation",
+    "weight": 4.1
+   },
+   {
+    "ticker": "O US",
+    "name": "Realty Income Corporation",
+    "weight": 4.1
+   },
+   {
+    "ticker": "CDP US",
+    "name": "COPT Defense Properties",
+    "weight": 3.9
+   },
+   {
+    "ticker": "LAMR US",
+    "name": "Lamar Advertising Company",
+    "weight": 3.9
+   },
+   {
+    "ticker": "SPG US",
+    "name": "Simon Property Group, Inc.",
+    "weight": 3.9
+   },
+   {
+    "ticker": "MAA US",
+    "name": "Mid-America Apartment Communities, Inc.",
+    "weight": 3.8
+   },
+   {
+    "ticker": "INVH US",
+    "name": "Invitation Homes Inc.",
+    "weight": 3.5
+   },
+   {
+    "ticker": "SUI US",
+    "name": "Sun Communities, Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "PSPN SW",
+    "name": "PSP Swiss Property AG",
+    "weight": 3.0
+   },
+   {
+    "ticker": "GMG AU",
+    "name": "Goodman Group",
+    "weight": 2.8
+   },
+   {
+    "ticker": "UDR US",
+    "name": "UDR, Inc.",
+    "weight": 2.8
+   },
+   {
+    "ticker": "DOC US",
+    "name": "Healthpeak Properties, Inc.",
+    "weight": 2.7
+   },
+   {
+    "ticker": "UTG LN",
+    "name": "The Unite Group PLC",
+    "weight": 1.9
+   },
+   {
+    "ticker": "ARE US",
+    "name": "Alexandria Real Estate Equities, Inc.",
+    "weight": 1.4
+   },
+   {
+    "ticker": "CCI US",
+    "name": "Crown Castle Inc.",
+    "weight": 1.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.4
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.1
+   }
+  ]
+ },
+ {
+  "ticker": "HPF",
+  "name": "Harvest Energy Leaders Income ETF (page notes: formerly Harvest Energy Leaders Plus Income ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "SLB US",
+    "name": "SLB Limited",
+    "weight": 5.9
+   },
+   {
+    "ticker": "PSX US",
+    "name": "Phillips 66",
+    "weight": 5.4
+   },
+   {
+    "ticker": "EQNR US",
+    "name": "Equinor ASA",
+    "weight": 5.3
+   },
+   {
+    "ticker": "CNQ CN",
+    "name": "Canadian Natural Resources Limited",
+    "weight": 5.2
+   },
+   {
+    "ticker": "COP US",
+    "name": "ConocoPhillips",
+    "weight": 5.2
+   },
+   {
+    "ticker": "OVV US",
+    "name": "Ovintiv Inc.",
+    "weight": 5.2
+   },
+   {
+    "ticker": "VLO US",
+    "name": "Valero Energy Corporation",
+    "weight": 5.2
+   },
+   {
+    "ticker": "E US",
+    "name": "Eni S.p.A.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "DINO US",
+    "name": "HF Sinclair Corporation",
+    "weight": 5.1
+   },
+   {
+    "ticker": "CVX US",
+    "name": "Chevron Corporation",
+    "weight": 5.0
+   },
+   {
+    "ticker": "XOM US",
+    "name": "ExxonMobil Holdings Corporation",
+    "weight": 5.0
+   },
+   {
+    "ticker": "TTE US",
+    "name": "TotalEnergies SE",
+    "weight": 5.0
+   },
+   {
+    "ticker": "OXY US",
+    "name": "Occidental Petroleum Corporation",
+    "weight": 4.9
+   },
+   {
+    "ticker": "SHEL US",
+    "name": "Shell PLC",
+    "weight": 4.9
+   },
+   {
+    "ticker": "SU CN",
+    "name": "Suncor Energy Inc.",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BP US",
+    "name": "BP PLC",
+    "weight": 4.7
+   },
+   {
+    "ticker": "EOG US",
+    "name": "EOG Resources, Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "PPL CN",
+    "name": "Pembina Pipeline Corporation",
+    "weight": 4.4
+   },
+   {
+    "ticker": "ENB CN",
+    "name": "Enbridge Inc.",
+    "weight": 4.2
+   },
+   {
+    "ticker": "TRP CN",
+    "name": "TC Energy Corporation",
+    "weight": 4.2
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.8
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HUBL",
+  "name": "Harvest US Bank Leaders Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "BNY US",
+    "name": "The Bank of New York Mellon Corporation",
+    "weight": 6.4
+   },
+   {
+    "ticker": "GS US",
+    "name": "The Goldman Sachs Group, Inc.",
+    "weight": 6.3
+   },
+   {
+    "ticker": "JPM US",
+    "name": "JPMorgan Chase & Co.",
+    "weight": 6.3
+   },
+   {
+    "ticker": "MS US",
+    "name": "Morgan Stanley",
+    "weight": 6.3
+   },
+   {
+    "ticker": "WFC US",
+    "name": "Wells Fargo & Company",
+    "weight": 6.3
+   },
+   {
+    "ticker": "BAC US",
+    "name": "Bank of America Corporation",
+    "weight": 6.2
+   },
+   {
+    "ticker": "C US",
+    "name": "Citigroup Inc.",
+    "weight": 6.1
+   },
+   {
+    "ticker": "KEY US",
+    "name": "KeyCorp",
+    "weight": 6.1
+   },
+   {
+    "ticker": "PNC US",
+    "name": "The PNC Financial Services Group, Inc.",
+    "weight": 6.1
+   },
+   {
+    "ticker": "RF US",
+    "name": "Regions Financial Corporation",
+    "weight": 6.1
+   },
+   {
+    "ticker": "TFC US",
+    "name": "Truist Financial Corporation",
+    "weight": 6.1
+   },
+   {
+    "ticker": "USB US",
+    "name": "U.S. Bancorp",
+    "weight": 6.1
+   },
+   {
+    "ticker": "CFG US",
+    "name": "Citizens Financial Group, Inc.",
+    "weight": 6.0
+   },
+   {
+    "ticker": "FITB US",
+    "name": "Fifth Third Bancorp",
+    "weight": 6.0
+   },
+   {
+    "ticker": "HBAN US",
+    "name": "Huntington Bancshares Incorporated",
+    "weight": 6.0
+   },
+   {
+    "ticker": "MTB US",
+    "name": "M&T Bank Corporation",
+    "weight": 5.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.6
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.2
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HLIF",
+  "name": "Harvest Canadian Dividend Leaders Income ETF (page notes: formerly Harvest Canadian Equity Income Leaders ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "TRI CN",
+    "name": "Thomson Reuters Corporation",
+    "weight": 4.0
+   },
+   {
+    "ticker": "CNQ CN",
+    "name": "Canadian Natural Resources Limited",
+    "weight": 3.8
+   },
+   {
+    "ticker": "SU CN",
+    "name": "Suncor Energy Inc.",
+    "weight": 3.8
+   },
+   {
+    "ticker": "BAM CN",
+    "name": "Brookfield Asset Management Ltd.",
+    "weight": 3.6
+   },
+   {
+    "ticker": "IGM CN",
+    "name": "IGM Financial Inc.",
+    "weight": 3.6
+   },
+   {
+    "ticker": "NTR CN",
+    "name": "Nutrien Ltd.",
+    "weight": 3.6
+   },
+   {
+    "ticker": "QSR CN",
+    "name": "Restaurant Brands International Inc.",
+    "weight": 3.5
+   },
+   {
+    "ticker": "ABX CN",
+    "name": "Barrick Mining Corporation",
+    "weight": 3.4
+   },
+   {
+    "ticker": "POW CN",
+    "name": "Power Corporation of Canada",
+    "weight": 3.4
+   },
+   {
+    "ticker": "TOU CN",
+    "name": "Tourmaline Oil Corp.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "BNS CN",
+    "name": "The Bank of Nova Scotia",
+    "weight": 3.3
+   },
+   {
+    "ticker": "BCE CN",
+    "name": "BCE Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "KEY CN",
+    "name": "Keyera Corp.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "MFC CN",
+    "name": "Manulife Financial Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "PPL CN",
+    "name": "Pembina Pipeline Corporation",
+    "weight": 3.3
+   },
+   {
+    "ticker": "CM CN",
+    "name": "Canadian Imperial Bank of Commerce",
+    "weight": 3.2
+   },
+   {
+    "ticker": "CU CN",
+    "name": "Canadian Utilities Limited",
+    "weight": 3.2
+   },
+   {
+    "ticker": "GWO CN",
+    "name": "Great-West Lifeco Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "MG CN",
+    "name": "Magna International Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "RCI/B CN",
+    "name": "Rogers Communications Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "RY CN",
+    "name": "Royal Bank of Canada",
+    "weight": 3.2
+   },
+   {
+    "ticker": "SLF CN",
+    "name": "Sun Life Financial Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "TD CN",
+    "name": "The Toronto-Dominion Bank",
+    "weight": 3.2
+   },
+   {
+    "ticker": "BMO CN",
+    "name": "Bank of Montreal",
+    "weight": 3.1
+   },
+   {
+    "ticker": "EMA CN",
+    "name": "Emera Incorporated",
+    "weight": 3.1
+   },
+   {
+    "ticker": "NA CN",
+    "name": "National Bank of Canada",
+    "weight": 3.1
+   },
+   {
+    "ticker": "FTS CN",
+    "name": "Fortis Inc.",
+    "weight": 3.0
+   },
+   {
+    "ticker": "ENB CN",
+    "name": "Enbridge Inc.",
+    "weight": 2.9
+   },
+   {
+    "ticker": "TRP CN",
+    "name": "TC Energy Corporation",
+    "weight": 2.9
+   },
+   {
+    "ticker": "BEPC CN",
+    "name": "Brookfield Renewable Corporation",
+    "weight": 2.7
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.0
+   }
+  ]
+ },
+ {
+  "ticker": "TRVI",
+  "name": "Harvest Travel & Leisure Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "ABNB US",
+    "name": "Airbnb, Inc.",
+    "weight": 12.3
+   },
+   {
+    "ticker": "BKNG US",
+    "name": "Booking Holdings Inc.",
+    "weight": 10.1
+   },
+   {
+    "ticker": "HLT US",
+    "name": "Hilton Worldwide Holdings Inc.",
+    "weight": 9.7
+   },
+   {
+    "ticker": "MAR US",
+    "name": "Marriott International, Inc.",
+    "weight": 9.5
+   },
+   {
+    "ticker": "RCL US",
+    "name": "Royal Caribbean Cruises Ltd.",
+    "weight": 8.6
+   },
+   {
+    "ticker": "DAL US",
+    "name": "Delta Air Lines, Inc.",
+    "weight": 6.8
+   },
+   {
+    "ticker": "UAL US",
+    "name": "United Airlines Holdings, Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "EXPE US",
+    "name": "Expedia Group, Inc.",
+    "weight": 4.6
+   },
+   {
+    "ticker": "CCL US",
+    "name": "Carnival Corporation",
+    "weight": 3.7
+   },
+   {
+    "ticker": "VICI US",
+    "name": "VICI Properties Inc.",
+    "weight": 3.7
+   },
+   {
+    "ticker": "VIK US",
+    "name": "Viking Holdings Ltd.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "LUV US",
+    "name": "Southwest Airlines Co.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "HST US",
+    "name": "Host Hotels & Resorts, Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "H US",
+    "name": "Hyatt Hotels Corporation",
+    "weight": 2.2
+   },
+   {
+    "ticker": "SUI US",
+    "name": "Sun Communities, Inc.",
+    "weight": 2.1
+   },
+   {
+    "ticker": "LVS US",
+    "name": "Las Vegas Sands Corp.",
+    "weight": 1.7
+   },
+   {
+    "ticker": "AAL US",
+    "name": "American Airlines Group Inc.",
+    "weight": 1.3
+   },
+   {
+    "ticker": "MGM US",
+    "name": "MGM Resorts International",
+    "weight": 1.2
+   },
+   {
+    "ticker": "RHP US",
+    "name": "Ryman Hospitality Properties, Inc.",
+    "weight": 1.1
+   },
+   {
+    "ticker": "WYNN US",
+    "name": "Wynn Resorts, Limited",
+    "weight": 1.1
+   },
+   {
+    "ticker": "NCLH US",
+    "name": "Norwegian Cruise Line Holdings Ltd.",
+    "weight": 1.0
+   },
+   {
+    "ticker": "CZR US",
+    "name": "Caesars Entertainment, Inc.",
+    "weight": 0.8
+   },
+   {
+    "ticker": "CPA US",
+    "name": "Copa Holdings, S.A.",
+    "weight": 0.8
+   },
+   {
+    "ticker": "WH US",
+    "name": "Wyndham Hotels & Resorts, Inc.",
+    "weight": 0.8
+   },
+   {
+    "ticker": "ALK US",
+    "name": "Alaska Air Group, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "MTN US",
+    "name": "Vail Resorts, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "BYD US",
+    "name": "Boyd Gaming Corporation",
+    "weight": 0.6
+   },
+   {
+    "ticker": "SKYW US",
+    "name": "SkyWest, Inc.",
+    "weight": 0.6
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.6
+   },
+   {
+    "ticker": "RRR US",
+    "name": "Red Rock Resorts, Inc.",
+    "weight": 0.5
+   },
+   {
+    "ticker": "TNL US",
+    "name": "Travel + Leisure Co.",
+    "weight": 0.4
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HRIF",
+  "name": "Harvest Diversified Equity Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HTA",
+    "name": "Harvest Tech Leaders Income ETF",
+    "weight": 18.6
+   },
+   {
+    "ticker": "HBF",
+    "name": "Harvest US Equity Leaders Income ETF",
+    "weight": 18.0
+   },
+   {
+    "ticker": "HHL",
+    "name": "Harvest Healthcare Leaders Income ETF",
+    "weight": 10.4
+   },
+   {
+    "ticker": "HLIF",
+    "name": "Harvest Canadian Dividend Leaders Income ETF",
+    "weight": 9.7
+   },
+   {
+    "ticker": "HHIH",
+    "name": "Harvest High Income Equity Shares ETF",
+    "weight": 9.6
+   },
+   {
+    "ticker": "HUTL",
+    "name": "Harvest Utilities Leaders Income ETF",
+    "weight": 7.8
+   },
+   {
+    "ticker": "TRVI",
+    "name": "Harvest Travel & Leisure Income ETF",
+    "weight": 6.5
+   },
+   {
+    "ticker": "HUBL",
+    "name": "Harvest US Bank Leaders Income ETF",
+    "weight": 6.4
+   },
+   {
+    "ticker": "HIND",
+    "name": "Harvest Industrial Leaders Income ETF",
+    "weight": 6.3
+   },
+   {
+    "ticker": "HVOI",
+    "name": "Harvest Low Volatility Canadian Equity Income ETF",
+    "weight": 5.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.8
+   }
+  ]
+ },
+ {
+  "ticker": "HPYT",
+  "name": "Harvest Premium Yield Treasury ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "TLT US",
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "weight": 81.9
+   },
+   {
+    "ticker": "VGLT US",
+    "name": "Vanguard Long-Term Treasury ETF",
+    "weight": 7.5
+   },
+   {
+    "ticker": "EDV US",
+    "name": "Vanguard Extended Duration Treasury ETF",
+    "weight": 5.3
+   },
+   {
+    "ticker": "TLH US",
+    "name": "iShares 10-20 Year Treasury Bond ETF",
+    "weight": 3.5
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.4
+   },
+   {
+    "ticker": "TBIL CN",
+    "name": "Harvest Canadian T-Bill ETF",
+    "weight": 0.5
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.2
+   }
+  ]
+ },
+ {
+  "ticker": "HPYM",
+  "name": "Harvest Premium Yield 7-10 Year Treasury ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "IEF US",
+    "name": "iShares 7-10 Year Treasury Bond ETF",
+    "weight": 92.2
+   },
+   {
+    "ticker": "SCHR US",
+    "name": "Schwab Intermediate-Term U.S. Treasury ETF",
+    "weight": 3.0
+   },
+   {
+    "ticker": "VGIT US",
+    "name": "Vanguard Intermediate-Term Treasury ETF",
+    "weight": 3.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.6
+   },
+   {
+    "ticker": "",
+    "name": "Foreign currency forwards",
+    "weight": 0.4
+   }
+  ]
+ },
+ {
+  "ticker": "TBIL",
+  "name": "Harvest Canadian T-Bill ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 02-Dec-2026",
+    "weight": 20.0
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 23-Sep-2026",
+    "weight": 18.0
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 07-Oct-2026",
+    "weight": 16.9
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 09-Sep-2026",
+    "weight": 15.9
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 21-Oct-2026",
+    "weight": 14.4
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 04-Nov-2026",
+    "weight": 14.4
+   },
+   {
+    "ticker": "",
+    "name": "Canada Treasury Bill 18-Nov-2026",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "ticker": "HDIF",
+  "name": "Harvest Diversified Monthly Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HTA",
+    "name": "Harvest Tech Leaders Income ETF",
+    "weight": 23.3
+   },
+   {
+    "ticker": "HBF",
+    "name": "Harvest US Equity Leaders Income ETF",
+    "weight": 22.6
+   },
+   {
+    "ticker": "HLIF",
+    "name": "Harvest Canadian Dividend Leaders Income ETF",
+    "weight": 13.7
+   },
+   {
+    "ticker": "HHL",
+    "name": "Harvest Healthcare Leaders Income ETF",
+    "weight": 13.0
+   },
+   {
+    "ticker": "HHIH",
+    "name": "Harvest High Income Equity Shares ETF",
+    "weight": 12.7
+   },
+   {
+    "ticker": "HUTL",
+    "name": "Harvest Utilities Leaders Income ETF",
+    "weight": 9.8
+   },
+   {
+    "ticker": "TRVI",
+    "name": "Harvest Travel & Leisure Income ETF",
+    "weight": 8.1
+   },
+   {
+    "ticker": "HUBL",
+    "name": "Harvest US Bank Leaders Income ETF",
+    "weight": 8.0
+   },
+   {
+    "ticker": "HIND",
+    "name": "Harvest Industrial Leaders Income ETF",
+    "weight": 7.9
+   },
+   {
+    "ticker": "HPYG",
+    "name": "Harvest Premium Yield Gold ETF",
+    "weight": 5.0
+   }
+  ]
+ },
+ {
+  "ticker": "HHLE",
+  "name": "Harvest Healthcare Leaders Enhanced Income ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HHL",
+    "name": "Harvest Healthcare Leaders Income ETF",
+    "weight": 124.3
+   }
+  ]
+ },
+ {
+  "ticker": "HTAE",
+  "name": "Harvest Tech Leaders Enhanced Income ETF (page notes: formerly Harvest Tech Achievers Enhanced Income ETF)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HTA",
+    "name": "Harvest Tech Leaders Income ETF",
+    "weight": 124.6
+   }
+  ]
+ },
+ {
+  "ticker": "HUTE",
+  "name": "Harvest Utilities Leaders Enhanced Income ETF (page notes: formerly Harvest Equal Weight Global Utilities Income ...)",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "HUTL",
+    "name": "Harvest Utilities Leaders Income ETF",
+    "weight": 125.8
+   }
+  ]
+ },
+ {
+  "ticker": "HGGG",
+  "name": "Harvest Global Gold Giants Index ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "SSRM US",
+    "name": "SSR Mining Inc.",
+    "weight": 5.3
+   },
+   {
+    "ticker": "ELD CN",
+    "name": "Eldorado Gold Corporation",
+    "weight": 5.2
+   },
+   {
+    "ticker": "AU US",
+    "name": "AngloGold Ashanti PLC",
+    "weight": 5.1
+   },
+   {
+    "ticker": "GMIN CN",
+    "name": "G Mining Ventures Corp.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "LUG CN",
+    "name": "Lundin Gold Inc.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "AGI CN",
+    "name": "Alamos Gold Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "CDE US",
+    "name": "Coeur Mining, Inc.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "EQX CN",
+    "name": "Equinox Gold Corp.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "IMG CN",
+    "name": "IAMGOLD Corporation",
+    "weight": 5.0
+   },
+   {
+    "ticker": "K CN",
+    "name": "Kinross Gold Corporation",
+    "weight": 5.0
+   },
+   {
+    "ticker": "PAAS CN",
+    "name": "Pan American Silver Corp.",
+    "weight": 5.0
+   },
+   {
+    "ticker": "AEM CN",
+    "name": "Agnico Eagle Mines Limited",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BTO CN",
+    "name": "B2Gold Corp.",
+    "weight": 4.9
+   },
+   {
+    "ticker": "NEM US",
+    "name": "Newmont Corporation",
+    "weight": 4.9
+   },
+   {
+    "ticker": "ABX CN",
+    "name": "Barrick Mining Corporation",
+    "weight": 4.8
+   },
+   {
+    "ticker": "EDV LN",
+    "name": "Endeavour Mining PLC",
+    "weight": 4.8
+   },
+   {
+    "ticker": "OGC CN",
+    "name": "OceanaGold Corporation",
+    "weight": 4.8
+   },
+   {
+    "ticker": "EVN AU",
+    "name": "Evolution Mining Limited",
+    "weight": 4.6
+   },
+   {
+    "ticker": "DPM CN",
+    "name": "DPM Metals Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "NST AU",
+    "name": "Northern Star Resources Limited",
+    "weight": 4.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.7
+   }
+  ]
+ },
+ {
+  "ticker": "TRVL",
+  "name": "Harvest Travel & Leisure Index ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "ABNB US",
+    "name": "Airbnb, Inc.",
+    "weight": 12.6
+   },
+   {
+    "ticker": "BKNG US",
+    "name": "Booking Holdings Inc.",
+    "weight": 10.0
+   },
+   {
+    "ticker": "HLT US",
+    "name": "Hilton Worldwide Holdings Inc.",
+    "weight": 9.4
+   },
+   {
+    "ticker": "MAR US",
+    "name": "Marriott International, Inc.",
+    "weight": 9.4
+   },
+   {
+    "ticker": "RCL US",
+    "name": "Royal Caribbean Cruises Ltd.",
+    "weight": 8.8
+   },
+   {
+    "ticker": "DAL US",
+    "name": "Delta Air Lines, Inc.",
+    "weight": 6.9
+   },
+   {
+    "ticker": "EXPE US",
+    "name": "Expedia Group, Inc.",
+    "weight": 5.1
+   },
+   {
+    "ticker": "UAL US",
+    "name": "United Airlines Holdings, Inc.",
+    "weight": 4.5
+   },
+   {
+    "ticker": "VICI US",
+    "name": "VICI Properties Inc.",
+    "weight": 3.7
+   },
+   {
+    "ticker": "CCL US",
+    "name": "Carnival Corporation",
+    "weight": 3.5
+   },
+   {
+    "ticker": "VIK US",
+    "name": "Viking Holdings Ltd.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "LUV US",
+    "name": "Southwest Airlines Co.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "SUI US",
+    "name": "Sun Communities, Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "HST US",
+    "name": "Host Hotels & Resorts, Inc.",
+    "weight": 2.0
+   },
+   {
+    "ticker": "H US",
+    "name": "Hyatt Hotels Corporation",
+    "weight": 2.0
+   },
+   {
+    "ticker": "LVS US",
+    "name": "Las Vegas Sands Corp.",
+    "weight": 1.8
+   },
+   {
+    "ticker": "AAL US",
+    "name": "American Airlines Group Inc.",
+    "weight": 1.2
+   },
+   {
+    "ticker": "MGM US",
+    "name": "MGM Resorts International",
+    "weight": 1.1
+   },
+   {
+    "ticker": "RHP US",
+    "name": "Ryman Hospitality Properties, Inc.",
+    "weight": 1.1
+   },
+   {
+    "ticker": "NCLH US",
+    "name": "Norwegian Cruise Line Holdings Ltd.",
+    "weight": 1.0
+   },
+   {
+    "ticker": "WYNN US",
+    "name": "Wynn Resorts, Limited",
+    "weight": 0.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 0.9
+   },
+   {
+    "ticker": "CZR US",
+    "name": "Caesars Entertainment, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "CPA US",
+    "name": "Copa Holdings, S.A.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "MTN US",
+    "name": "Vail Resorts, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "WH US",
+    "name": "Wyndham Hotels & Resorts, Inc.",
+    "weight": 0.7
+   },
+   {
+    "ticker": "ALK US",
+    "name": "Alaska Air Group, Inc.",
+    "weight": 0.6
+   },
+   {
+    "ticker": "RRR US",
+    "name": "Red Rock Resorts, Inc.",
+    "weight": 0.6
+   },
+   {
+    "ticker": "TNL US",
+    "name": "Travel + Leisure Co.",
+    "weight": 0.6
+   },
+   {
+    "ticker": "BYD US",
+    "name": "Boyd Gaming Corporation",
+    "weight": 0.5
+   },
+   {
+    "ticker": "SKYW US",
+    "name": "SkyWest, Inc.",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "ticker": "HBLK",
+  "name": "Blockchain Technologies ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "CRCL US",
+    "name": "Circle Internet Group, Inc.",
+    "weight": 7.9
+   },
+   {
+    "ticker": "COIN US",
+    "name": "Coinbase Global, Inc.",
+    "weight": 7.7
+   },
+   {
+    "ticker": "XYZ US",
+    "name": "Block, Inc.",
+    "weight": 7.5
+   },
+   {
+    "ticker": "HOOD US",
+    "name": "Robinhood Markets, Inc.",
+    "weight": 7.4
+   },
+   {
+    "ticker": "IREN US",
+    "name": "IREN Limited",
+    "weight": 6.6
+   },
+   {
+    "ticker": "HUT CN",
+    "name": "Hut 8 Corp.",
+    "weight": 5.7
+   },
+   {
+    "ticker": "CIFR US",
+    "name": "Cipher Digital Inc.",
+    "weight": 4.7
+   },
+   {
+    "ticker": "GLXY US",
+    "name": "Galaxy Digital Inc.",
+    "weight": 4.4
+   },
+   {
+    "ticker": "RIOT US",
+    "name": "Riot Platforms, Inc.",
+    "weight": 3.8
+   },
+   {
+    "ticker": "CORZ US",
+    "name": "Core Scientific, Inc.",
+    "weight": 3.4
+   },
+   {
+    "ticker": "WULF US",
+    "name": "TeraWulf Inc.",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ACN US",
+    "name": "Accenture PLC",
+    "weight": 2.6
+   },
+   {
+    "ticker": "MSFT US",
+    "name": "Microsoft Corporation",
+    "weight": 2.6
+   },
+   {
+    "ticker": "SAP US",
+    "name": "SAP SE",
+    "weight": 2.6
+   },
+   {
+    "ticker": "INFY US",
+    "name": "Infosys Limited",
+    "weight": 2.5
+   },
+   {
+    "ticker": "INTC US",
+    "name": "Intel Corporation",
+    "weight": 2.5
+   },
+   {
+    "ticker": "IBM US",
+    "name": "International Business Machines Corporation",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ORCL US",
+    "name": "Oracle Corporation",
+    "weight": 2.5
+   },
+   {
+    "ticker": "V US",
+    "name": "Visa Inc.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "WIT US",
+    "name": "Wipro Limited",
+    "weight": 2.5
+   },
+   {
+    "ticker": "MA US",
+    "name": "Mastercard Incorporated",
+    "weight": 2.4
+   },
+   {
+    "ticker": "FIGR US",
+    "name": "Figure Technology Solutions, Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "MARA US",
+    "name": "MARA Holdings, Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "CLSK US",
+    "name": "CleanSpark, Inc.",
+    "weight": 1.7
+   },
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 1.7
+   },
+   {
+    "ticker": "FOUR US",
+    "name": "Shift4 Payments, Inc.",
+    "weight": 1.4
+   },
+   {
+    "ticker": "KEEL CN",
+    "name": "Keel Infrastructure Corp.",
+    "weight": 1.1
+   },
+   {
+    "ticker": "BTDR US",
+    "name": "Bitdeer Technologies Group",
+    "weight": 0.7
+   },
+   {
+    "ticker": "HIVE CN",
+    "name": "HIVE Digital Technologies Ltd.",
+    "weight": 0.4
+   },
+   {
+    "ticker": "BTBT US",
+    "name": "Bit Digital, Inc.",
+    "weight": 0.2
+   },
+   {
+    "ticker": "AIFC US",
+    "name": "ALT5 Sigma Corporation",
+    "weight": 0.1
+   },
+   {
+    "ticker": "BKKT US",
+    "name": "Bakkt Holdings, Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "CD US",
+    "name": "Chaince Digital Holdings Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "DFDV US",
+    "name": "DeFi Development Corp.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "DEFI CN",
+    "name": "DeFi Technologies Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "DGX CN",
+    "name": "Digi Power X Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "DMGI CN",
+    "name": "DMG Blockchain Solutions Inc.",
+    "weight": 0.1
+   },
+   {
+    "ticker": "FUFU US",
+    "name": "BitFuFu Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "BTCS US",
+    "name": "BTCS Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "EXOD US",
+    "name": "Exodus Movement, Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "NDA CN",
+    "name": "Neptune Digital Assets Corp.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "NC CN",
+    "name": "NetCents Technology Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "HODL CN",
+    "name": "Sol Strategies Inc.",
+    "weight": 0.0
+   },
+   {
+    "ticker": "VOYG CN",
+    "name": "Voyager Digital Ltd.",
+    "weight": 0.0
+   }
+  ]
+ },
+ {
+  "ticker": "HCLN",
+  "name": "Harvest Clean Energy ETF",
+  "asof": "2026/08/31",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "",
+    "name": "Cash and other assets and liabilities",
+    "weight": 3.8
+   },
+   {
+    "ticker": "VWS DC",
+    "name": "Vestas Wind Systems A/S",
+    "weight": 3.3
+   },
+   {
+    "ticker": "CADLR NO",
+    "name": "Cadeler A/S",
+    "weight": 3.0
+   },
+   {
+    "ticker": "3800 HK",
+    "name": "GCL Technology Holdings Limited",
+    "weight": 3.0
+   },
+   {
+    "ticker": "LAND SW",
+    "name": "Landis+Gyr Group AG",
+    "weight": 2.8
+   },
+   {
+    "ticker": "RNW US",
+    "name": "ReNew Energy Global PLC",
+    "weight": 2.8
+   },
+   {
+    "ticker": "SCATC NO",
+    "name": "Scatec ASA",
+    "weight": 2.7
+   },
+   {
+    "ticker": "S92 GR",
+    "name": "SMA Solar Technology AG",
+    "weight": 2.7
+   },
+   {
+    "ticker": "VER AV",
+    "name": "VERBUND AG",
+    "weight": 2.7
+   },
+   {
+    "ticker": "968 HK",
+    "name": "Xinyi Solar Holdings Limited",
+    "weight": 2.7
+   },
+   {
+    "ticker": "ANE SM",
+    "name": "Corporaci\u00f3n Acciona Energ\u00edas Renovables, S.A.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "DRX LN",
+    "name": "Drax Group PLC",
+    "weight": 2.6
+   },
+   {
+    "ticker": "EDPR PL",
+    "name": "EDP Renov\u00e1veis, S.A.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "ERG IM",
+    "name": "ERG S.p.A.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "MCY NZ",
+    "name": "Mercury NZ Limited",
+    "weight": 2.6
+   },
+   {
+    "ticker": "PLUG US",
+    "name": "Plug Power Inc.",
+    "weight": 2.6
+   },
+   {
+    "ticker": "BEPC CN",
+    "name": "Brookfield Renewable Corporation",
+    "weight": 2.5
+   },
+   {
+    "ticker": "CWEN US",
+    "name": "Clearway Energy, Inc.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ENS US",
+    "name": "EnerSys",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ENPH US",
+    "name": "Enphase Energy, Inc.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "MEL NZ",
+    "name": "Meridian Energy Limited",
+    "weight": 2.5
+   },
+   {
+    "ticker": "NDX1 GR",
+    "name": "Nordex SE",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ORA US",
+    "name": "Ormat Technologies, Inc.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "SLR SM",
+    "name": "Solaria Energ\u00eda y Medio Ambiente, S.A.",
+    "weight": 2.5
+   },
+   {
+    "ticker": "916 HK",
+    "name": "China Longyuan Power Group Corporation Limited",
+    "weight": 2.4
+   },
+   {
+    "ticker": "CEN NZ",
+    "name": "Contact Energy Limited",
+    "weight": 2.4
+   },
+   {
+    "ticker": "FSLR US",
+    "name": "First Solar, Inc.",
+    "weight": 2.4
+   },
+   {
+    "ticker": "NPI CN",
+    "name": "Northland Power Inc.",
+    "weight": 2.4
+   },
+   {
+    "ticker": "ORSTED DC",
+    "name": "Orsted A/S",
+    "weight": 2.4
+   },
+   {
+    "ticker": "EOSE US",
+    "name": "Eos Energy Enterprises, Inc.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "GRE SM",
+    "name": "Grenergy Renovables, S.A.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "MWH US",
+    "name": "Solv Energy, Inc.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "TE US",
+    "name": "T1 Energy Inc.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "RUN US",
+    "name": "Sunrun Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "FCEL US",
+    "name": "FuelCell Energy, Inc.",
+    "weight": 2.1
+   },
+   {
+    "ticker": "FLNC US",
+    "name": "Fluence Energy, Inc.",
+    "weight": 2.0
+   },
+   {
+    "ticker": "NXT US",
+    "name": "Nextpower Inc.",
+    "weight": 2.0
+   },
+   {
+    "ticker": "SHLS US",
+    "name": "Shoals Technologies Group, Inc.",
+    "weight": 1.9
+   },
+   {
+    "ticker": "SEDG US",
+    "name": "SolarEdge Technologies, Inc.",
+    "weight": 1.9
+   },
+   {
+    "ticker": "FRVO US",
+    "name": "Fervo Energy Company",
+    "weight": 1.7
+   }
+  ]
+ }
+]

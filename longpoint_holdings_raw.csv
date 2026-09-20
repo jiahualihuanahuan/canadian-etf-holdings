@@ -1,0 +1,216 @@
+TICKER,HOLDING_TICKER,HOLDING_NAME,WEIGHT_PCT
+AAPU,AAPL,Apple Inc.,100.00
+ABXU,ABX,Barrick Mining Corporation,100.00
+ALPU,GOOGL,Alphabet Inc,100.00
+AMZU,AMZN,Amazon.com Inc,100.00
+BNKU,TD,Bank of Nova Scotia,17.58
+BNKU,RY,Royal Bank of Canada,17.32
+BNKU,TD,Toronto-Dominion Bank,17.22
+BNKU,BMO,Bank of Montreal,16.62
+BNKU,BNS,Bank of Nova Scotia,15.87
+BNKU,NA,National Bank of Canada,15.42
+CCOU,CCO,Cameco Corporation,100.00
+CGMD,AEM,Agnico Eagle Mines Ltd,25.09
+CGMD,ABX,Barrick Mining Corp,20.29
+CGMD,K,Kinross Gold Corp,9.31
+CGMD,PAAS,Pan American Silver Corp,6.24
+CGMD,AGI,Alamos Gold Inc,4.20
+CGMD,IMG,IAMGOLD Corp,3.08
+CGMD,ELD,Eldorado Gold Corp,2.66
+CGMD,EQX,Equinox Gold Corp,2.43
+CGMD,DPM,DPM Metals Inc,2.30
+CGMD,SSRM,SSR Mining Inc,1.92
+CGMU,AEM,Agnico Eagle Mines Ltd,25.09
+CGMU,ABX,Barrick Mining Corp,20.29
+CGMU,K,Kinross Gold Corp,9.31
+CGMU,PAAS,Pan American Silver Corp,6.24
+CGMU,AGI,Alamos Gold Inc,4.20
+CGMU,IMG,IAMGOLD Corp,3.08
+CGMU,ELD,Eldorado Gold Corp,2.66
+CGMU,EQX,Equinox Gold Corp,2.43
+CGMU,DPM,DPM Metals Inc,2.30
+CGMU,SSRM,SSR Mining Inc,1.92
+CNQU,CNQ,Canadian Natural Resources Ltd.,100.00
+COID,COIN,Coinbase Global Inc.,100.00
+COIU,COIN,Coinbase Global Inc.,100.00
+COMU,CM,Canadian Imperial Bank of Commerce,100.00
+CSUU,CSU,Constellation Software Inc.,100.00
+FORU,QQU,BetaPro NASDAQ 100 2x Daily Bull ETF,30.14
+FORU,SPYX,SPDR S&P 500 Fossil Fuel Reserves Free ETF,20.06
+FORU,CGL,iShares Gold Bullion ETF,49.81
+GASD,NGV25,HH Natural Gas Futures October 2026,100.00
+GASU,NGV25,HH Natural Gas Futures October 2026,100.00
+HBDV,TD,Toronto-Dominion Bank,
+HBDV,RY,Royal Bank of Canada,
+HBDV,BAC,Bank of America Corp,
+HBDV,ENB,Enbridge Inc,
+HBDV,JPM,JPMorgan Chase & Co,
+HBDV,TRP,TC Energy Corp,
+HBDV,MS,Morgan Stanley,
+HBDV,MFC,Manulife Financial Corp,
+HBDV,GS,Goldman Sachs Group Inc,
+HBDV,AMP,Ameriprise Financial Inc,
+HBOP,RY,Royal Bank of Canada,
+HBOP,AAPL,Apple Inc,
+HBOP,NVDA,NVIDIA Corp,
+HBOP,ENB,Enbridge Inc,
+HBOP,TD,Toronto-Dominion Bank,
+HBOP,MSFT,Microsoft Corp,
+HBOP,GOOGL,Alphabet Inc,
+HBOP,BAC,Bank of America Corp,
+HBOP,AMZN,Amazon.com Inc,
+HBOP,BRK/B,Berkshire Hathaway Inc,
+HBTA,AAPL,Apple Inc,
+HBTA,NVDA,NVIDIA Corp,
+HBTA,GOOGL,Alphabet Inc,
+HBTA,RY,Royal Bank of Canada,
+HBTA,MSFT,Microsoft Corp,
+HBTA,AMZN,Amazon.com Inc,
+HBTA,UNH,United Health Group Inc,
+HBTA,BRK/B,Berkshire Hathaway Inc,
+HBTA,PANW,Palo Alto Networks Inc,
+HBTA,FCX,Freeport-McMoRan Inc,
+MOAT,PGR,Progressive Corp/The P210 10/16/26,3.79
+MOAT,VST,Vistra Corp P140 09/18/26,3.37
+MOAT,FTS,Fortis Inc/Canada P75 09/18/26,3.28
+MOAT,CM,Canadian Imperial Bank of Comm P150 10/16/26,3.28
+MOAT,GOOG,Alphabet Inc P320 10/16/26,3.08
+MOAT,TOU,Tourmaline Oil Corp P60 10/16/26,2.88
+MOAT,ATD,Alimentation Couche-Tard Inc P80 09/18/26,2.80
+MOAT,LUN,Lundin Mining Corp P32 09/18/26,2.80
+MOAT,CCO,Cameco Corp P125 10/16/26,2.73
+MOAT,GOOG,Alphabet Inc P320 09/18/26,2.70
+MSFU,MSFT,Microsoft Corp,100.00
+MSTU,MSTR,MicroStrategy Inc.,100.00
+MSTZ,MSTR,MicroStrategy Inc.,100.00
+NBCU,NA,National Bank of Canada,100.00
+NVDD,NVDA,NVIDIA Corp,100.00
+NVDU,NVDA,NVIDIA Corp,100.00
+OILD,CLX6,WTI Crude Oil Futures November 2026,100.00
+OILU,CLX6,WTI Crude Oil Futures November 2026,100.00
+QQQD,NVDA,NVIDIA Corp,8.51
+QQQD,AAPL,Apple Inc,7.41
+QQQD,MSFT,Microsoft Corp,6.00
+QQQD,MU,Micron Technology Inc,4.75
+QQQD,AMZN,Amazon.com Inc,4.45
+QQQD,AMD,Advanced Micro Devices Inc,3.37
+QQQD,GOOGL,Alphabet Inc,3.15
+QQQD,TSLA,Tesla Inc,2.93
+QQQD,GOOG,Alphabet Inc,2.91
+QQQD,AVGO,Broadcom Inc,2.80
+QQQU,NVDA,NVIDIA Corp,8.51
+QQQU,AAPL,Apple Inc,7.41
+QQQU,MSFT,Microsoft Corp,6.00
+QQQU,MU,Micron Technology Inc,4.75
+QQQU,AMZN,Amazon.com Inc,4.45
+QQQU,AMD,Advanced Micro Devices Inc,3.37
+QQQU,GOOGL,Alphabet Inc,3.15
+QQQU,TSLA,Tesla Inc,2.93
+QQQU,GOOG,Alphabet Inc,2.91
+QQQU,AVGO,Broadcom Inc,2.80
+RBCU,RY,Royal Bank of Canada,100.00
+RGBM,CNM6,Canada 10 Year Bond Futures June 2026,65.20
+RGBM,JBM6,Japan 10 Year Bond Futures June 2026,58.40
+RGBM,VT,Vanguard Total World Stock ETF,52.80
+RGBM,CTB,Gov't of Canada T-Bill July 15 2026,46.50
+RGBM,CDM6,Canada Currency Futures June 2026,25.00
+RGBM,RXM6,Euro Bund Futures June 2026,22.80
+RGBM,ADM6,Australia Currency Futures June 2026,21.60
+RGBM,BPM6,Great Britain Currency Futures June 2026,20.60
+RGBM,SFM6,Switzerland Currency Futures June 2026,15.90
+RGBM,NVM6,New Zealand Currency Futures June 2026,14.80
+RGBM.U,CNM6,Canada 10 Year Bond Futures June 2026,65.20
+RGBM.U,JBM6,Japan 10 Year Bond Futures June 2026,58.40
+RGBM.U,VT,Vanguard Total World Stock ETF,52.80
+RGBM.U,CTB,Gov't of Canada T-Bill July 15 2026,46.50
+RGBM.U,CDM6,Canada Currency Futures June 2026,25.00
+RGBM.U,RXM6,Euro Bund Futures June 2026,22.80
+RGBM.U,ADM6,Australia Currency Futures June 2026,21.60
+RGBM.U,BPM6,Great Britain Currency Futures June 2026,20.60
+RGBM.U,SFM6,Switzerland Currency Futures June 2026,15.90
+RGBM.U,NVM6,New Zealand Currency Futures June 2026,14.80
+SHPD,SHOP,Shopify Inc.,100.00
+SHPU,SHOP,Shopify Inc.,100.00
+SOXD,MU,Micron Technology Inc,12.28
+SOXD,AMD,Advanced Micro Devices,11.01
+SOXD,LRCX,Lam Research Corp,7.51
+SOXD,MRVL,Marvell Technology Inc,6.68
+SOXD,INTC,Intel Corp,6.09
+SOXD,AMAT,Applied Materials Inc,4.89
+SOXD,NVDA,NVIDIA Corp,4.88
+SOXD,AVGO,Broadcom Inc,4.77
+SOXD,KLAC,KLA Corp,4.70
+SOXD,QCOM,Qualcomm Inc,3.89
+SOXU,MU,Micron Technology Inc,12.28
+SOXU,AMD,Advanced Micro Devices,11.01
+SOXU,LRCX,Lam Research Corp,7.51
+SOXU,MRVL,Marvell Technology Inc,6.68
+SOXU,INTC,Intel Corp,6.09
+SOXU,AMAT,Applied Materials Inc,4.89
+SOXU,NVDA,NVIDIA Corp,4.88
+SOXU,AVGO,Broadcom Inc,4.77
+SOXU,KLAC,KLA Corp,4.70
+SOXU,QCOM,Qualcomm Inc,3.89
+SPYD,NVDA,NVIDIA Corp,8.08
+SPYD,AAPL,Apple Inc,7.03
+SPYD,MSFT,Microsoft Corp,5.69
+SPYD,AMZN,Amazon.com Inc,3.84
+SPYD,GOOGL,Alphabet Inc,3.01
+SPYD,AVGO,Broadcom Inc,2.65
+SPYD,GOOG,Alphabet Inc,2.40
+SPYD,META,Meta Platforms Inc,1.90
+SPYD,MU,Micron Technology Inc,1.63
+SPYD,TSLA,Tesla Inc,1.56
+SPYU,NVDA,NVIDIA Corp,8.08
+SPYU,AAPL,Apple Inc,7.03
+SPYU,MSFT,Microsoft Corp,5.69
+SPYU,AMZN,Amazon.com Inc,3.84
+SPYU,GOOGL,Alphabet Inc,3.01
+SPYU,AVGO,Broadcom Inc,2.65
+SPYU,GOOG,Alphabet Inc,2.40
+SPYU,META,Meta Platforms Inc,1.90
+SPYU,MU,Micron Technology Inc,1.63
+SPYU,TSLA,Tesla Inc,1.56
+TCCA,K,Kinross Gold Corp,2.30
+TCCA,ARIS,Aris Mining Corp,2.24
+TCCA,ERO,ERO Copper Corp,2.24
+TCCA,IMG,IAMGOLD Corp,2.21
+TCCA,ABX,Barrick Mining Corp,2.20
+TCCA,LUG,Lundin Gold Inc,2.16
+TCCA,TXG,Torex Gold Resources Inc,2.14
+TCCA,BTE,Baytex Energy Corp,2.12
+TCCA,CG,Centerra Gold Inc,2.12
+TCCA,AG,First Majestic Silver Corp,2.10
+TCEU,SW,Sodexo SA,2.12
+TCEU,REP,Repsol SA,2.12
+TCEU,FRE,Fresenius SE & Co KGaA,2.09
+TCEU,LI,Klepierre SA,2.09
+TCEU,SCR,SCOR SE,2.07
+TCEU,ALV,Allianz SE,2.07
+TCEU,BNP,BNP Paribas SA,2.07
+TCEU,BBVA,Banco Bilbao Vizcaya Argentari,2.06
+TCEU,EDEN,Edenred SE,2.06
+TCEU,FME,Fresenius Medical Care AG,2.06
+TCUS,AU,AngloGold Ashanti Plc,2.51
+TCUS,XNCR,Xencor Inc,2.37
+TCUS,LPG,Dorian LPG Ltd,2.15
+TCUS,AVAH,Aveanna Healthcare Holdings In,2.13
+TCUS,INCY,Incyte Corp,2.12
+TCUS,EXEL,Exelixis Inc,2.10
+TCUS,FTRE,Fortrea Holdings Inc,2.10
+TCUS,BMY,Bristol-Myers Squibb Co,2.09
+TCUS,THC,Tenet Healthcare Corp,2.08
+TCUS,DINO,HF Sinclair Corp,2.08
+TCWW,THC,Tenet Healthcare Corp,2.53
+TCWW,BBD/B,Bombardier Inc,2.31
+TCWW,VVX,V2X Inc,2.31
+TCWW,293,Cathay Pacific Airways Ltd,2.16
+TCWW,ECPG,Encore Capital Group Inc,2.10
+TCWW,1908,C&D International Investment G,2.10
+TCWW,316,Orient Overseas International,2.09
+TCWW,GCT,GigaCloud Technology Inc,2.08
+TCWW,AYA,Aya Gold & Silver Inc,2.07
+TCWW,OTEX,Open Text Corp,2.07
+TDU,TD,Toronto-Dominion Bank,100.00
+TSLD,TSLA,Tesla Inc,100.00
+TSLU,TSLA,Tesla Inc,100.00

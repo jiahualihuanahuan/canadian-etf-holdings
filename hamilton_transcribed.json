@@ -1,0 +1,3812 @@
+[
+ {
+  "ticker": "HFG",
+  "name": "Hamilton Global Financials ETF",
+  "asof": "March 31, 2026 (source: \\\\\\\"Latest Portfolio Summary\\\\\\\" SOI PDF from DOCUMENTS tab; page Top-10 preview was as at August 31, 2026 \u2014 the SOI Top 25 is the full published schedule)",
+  "status": "TOP-25-ONLY (SOI publishes only the 25 largest positions; holding tickers not published in the SOI)",
+  "holdings": [
+   {
+    "ticker": "",
+    "name": "Intercontinental Exchange Inc.",
+    "weight": 3.11
+   },
+   {
+    "ticker": "",
+    "name": "Grupo Financiero Banorte SAB de CV",
+    "weight": 2.71
+   },
+   {
+    "ticker": "",
+    "name": "Progressive Corp. (The)",
+    "weight": 2.59
+   },
+   {
+    "ticker": "",
+    "name": "HDFC Bank Ltd., ADR(1)",
+    "weight": 2.58
+   },
+   {
+    "ticker": "",
+    "name": "London Stock Exchange Group PLC",
+    "weight": 2.52
+   },
+   {
+    "ticker": "",
+    "name": "Visa Inc.",
+    "weight": 2.51
+   },
+   {
+    "ticker": "",
+    "name": "Erste Group Bank AG",
+    "weight": 2.48
+   },
+   {
+    "ticker": "",
+    "name": "Huntington Bancshares Inc.",
+    "weight": 2.45
+   },
+   {
+    "ticker": "",
+    "name": "PNC Financial Services Group Inc.",
+    "weight": 2.4
+   },
+   {
+    "ticker": "",
+    "name": "Fairfax Financial Holdings Ltd.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "",
+    "name": "Bank of America Corp.",
+    "weight": 2.27
+   },
+   {
+    "ticker": "",
+    "name": "JPMorgan Chase & Co.",
+    "weight": 2.22
+   },
+   {
+    "ticker": "",
+    "name": "Mastercard Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "",
+    "name": "KKR & Co. Inc.",
+    "weight": 2.12
+   },
+   {
+    "ticker": "",
+    "name": "Barclays PLC",
+    "weight": 2.11
+   },
+   {
+    "ticker": "",
+    "name": "Admiral Group PLC",
+    "weight": 2.07
+   },
+   {
+    "ticker": "",
+    "name": "DBS Group Holdings Ltd.",
+    "weight": 2.04
+   },
+   {
+    "ticker": "",
+    "name": "Aon PLC",
+    "weight": 1.97
+   },
+   {
+    "ticker": "",
+    "name": "Mitsubishi UFJ Financial Group Inc.",
+    "weight": 1.97
+   },
+   {
+    "ticker": "",
+    "name": "EQT AB",
+    "weight": 1.92
+   },
+   {
+    "ticker": "",
+    "name": "Capital One Financial Corp.",
+    "weight": 1.86
+   },
+   {
+    "ticker": "",
+    "name": "Willis Towers Watson PLC",
+    "weight": 1.72
+   },
+   {
+    "ticker": "",
+    "name": "Bank of Nova Scotia (The)",
+    "weight": 1.69
+   },
+   {
+    "ticker": "",
+    "name": "M&T Bank Corp.",
+    "weight": 1.69
+   },
+   {
+    "ticker": "",
+    "name": "NU Holdings Ltd.",
+    "weight": 1.64
+   }
+  ]
+ },
+ {
+  "ticker": "HUM",
+  "name": "Hamilton U.S. Mid-Cap Financials ETF",
+  "asof": "March 31, 2026 (source: \\\\\\\"Latest Portfolio Summary\\\\\\\" SOI PDF from DOCUMENTS tab)",
+  "status": "TOP-25-ONLY (SOI publishes only the 25 largest positions; holding tickers not published in the SOI)",
+  "holdings": [
+   {
+    "ticker": "",
+    "name": "LPL Financial Holdings Inc.",
+    "weight": 3.33
+   },
+   {
+    "ticker": "",
+    "name": "Pinnacle Financial Partners Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "",
+    "name": "Southstate Bank Corp.",
+    "weight": 3.11
+   },
+   {
+    "ticker": "",
+    "name": "Palomar Holdings Inc.",
+    "weight": 3.08
+   },
+   {
+    "ticker": "",
+    "name": "Huntington Bancshares Inc.",
+    "weight": 3.06
+   },
+   {
+    "ticker": "",
+    "name": "Hanover Insurance Group Inc. (The)",
+    "weight": 2.9
+   },
+   {
+    "ticker": "",
+    "name": "UMB Financial Corp.",
+    "weight": 2.87
+   },
+   {
+    "ticker": "",
+    "name": "Popular Inc.",
+    "weight": 2.72
+   },
+   {
+    "ticker": "",
+    "name": "Old National Bancorp",
+    "weight": 2.66
+   },
+   {
+    "ticker": "",
+    "name": "Ryan Specialty Group Holdings Inc.",
+    "weight": 2.63
+   },
+   {
+    "ticker": "",
+    "name": "Prosperity Bancshares Inc.",
+    "weight": 2.47
+   },
+   {
+    "ticker": "",
+    "name": "Brown & Brown Inc.",
+    "weight": 2.36
+   },
+   {
+    "ticker": "",
+    "name": "Nasdaq Inc.",
+    "weight": 2.31
+   },
+   {
+    "ticker": "",
+    "name": "Ally Financial Inc.",
+    "weight": 2.27
+   },
+   {
+    "ticker": "",
+    "name": "Unum Group",
+    "weight": 2.25
+   },
+   {
+    "ticker": "",
+    "name": "Hartford Financial Services Group Inc. (The)",
+    "weight": 2.22
+   },
+   {
+    "ticker": "",
+    "name": "TPG Inc.",
+    "weight": 2.13
+   },
+   {
+    "ticker": "",
+    "name": "East West Bancorp Inc.",
+    "weight": 2.05
+   },
+   {
+    "ticker": "",
+    "name": "Wintrust Financial Corp.",
+    "weight": 1.84
+   },
+   {
+    "ticker": "",
+    "name": "Hamilton Lane Inc.",
+    "weight": 1.76
+   },
+   {
+    "ticker": "",
+    "name": "First American Financial Corp.",
+    "weight": 1.63
+   },
+   {
+    "ticker": "",
+    "name": "Kinsale Capital Group Inc.",
+    "weight": 1.59
+   },
+   {
+    "ticker": "",
+    "name": "Fifth Third Bancorp",
+    "weight": 1.59
+   },
+   {
+    "ticker": "",
+    "name": "Bank OZK",
+    "weight": 1.56
+   },
+   {
+    "ticker": "",
+    "name": "Globe Life Inc.",
+    "weight": 1.52
+   }
+  ]
+ },
+ {
+  "ticker": "HCA",
+  "name": "Hamilton Canadian Bank Mean Reversion Index ETF",
+  "asof": "August 31, 2026",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 28.3
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 26.0
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 25.7
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 6.8
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 6.6
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 6.5
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.1
+   },
+   {
+    "ticker": "MQG",
+    "name": "Macquarie Group Ltd",
+    "weight": 25.7
+   },
+   {
+    "ticker": "ANZ",
+    "name": "ANZ Group Holdings Ltd",
+    "weight": 20.3
+   },
+   {
+    "ticker": "CBA",
+    "name": "Commonwealth Bank of Australia",
+    "weight": 19.8
+   },
+   {
+    "ticker": "WBC",
+    "name": "Westpac Banking Corp",
+    "weight": 17.8
+   },
+   {
+    "ticker": "NAB",
+    "name": "National Australia Bank Ltd",
+    "weight": 17.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.8
+   },
+   {
+    "ticker": "HEB",
+    "name": "HAMILTON CHAMPIONS Canadian Equal-Weight Index ETF",
+    "weight": 126.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -26.0
+   },
+   {
+    "ticker": "HFN",
+    "name": "HAMILTON CHAMPIONS Canadian Financials Index ETF",
+    "weight": 69.9
+   },
+   {
+    "ticker": "GWO",
+    "name": "Great-West Lifeco Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 5.1
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 4.9
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 4.8
+   },
+   {
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc",
+    "weight": 4.7
+   },
+   {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "weight": 4.7
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 4.4
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 4.4
+   },
+   {
+    "ticker": "IFC",
+    "name": "Intact Financial Corp",
+    "weight": 4.4
+   },
+   {
+    "ticker": "FFH",
+    "name": "Fairfax Financial Holdings Ltd",
+    "weight": 4.1
+   },
+   {
+    "ticker": "BN",
+    "name": "Brookfield Corp",
+    "weight": 3.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -25.4
+   },
+   {
+    "ticker": "HFIN",
+    "name": "Hamilton Enhanced Canadian Financials ETF",
+    "weight": 22.2
+   },
+   {
+    "ticker": "HMAX",
+    "name": "Hamilton Canadian Financials YIELD MAXIMIZER ETF",
+    "weight": 19.2
+   },
+   {
+    "ticker": "EMAX",
+    "name": "Hamilton Energy YIELD MAXIMIZER ETF",
+    "weight": 18.8
+   },
+   {
+    "ticker": "AMAX",
+    "name": "Hamilton Gold Producer YIELD MAXIMIZER ETF",
+    "weight": 15.1
+   },
+   {
+    "ticker": "QMAX",
+    "name": "Hamilton Technology YIELD MAXIMIZER ETF",
+    "weight": 15.1
+   },
+   {
+    "ticker": "UMAX",
+    "name": "Hamilton Utilities YIELD MAXIMIZER ETF",
+    "weight": 9.3
+   },
+   {
+    "ticker": "CDAY",
+    "name": "Hamilton Enhanced Canadian Equity DayMAX ETF",
+    "weight": 7.4
+   },
+   {
+    "ticker": "HUTS",
+    "name": "Hamilton Enhanced Utilities ETF",
+    "weight": 3.9
+   },
+   {
+    "ticker": "RMAX",
+    "name": "Hamilton REITs YIELD MAXIMIZER ETF",
+    "weight": 2.3
+   },
+   {
+    "ticker": "QDAY",
+    "name": "Hamilton Enhanced Technology DayMAX ETF",
+    "weight": 1.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -15.2
+   },
+   {
+    "ticker": "SMAX",
+    "name": "Hamilton U.S. Equity YIELD MAXIMIZER ETF",
+    "weight": 59.8
+   },
+   {
+    "ticker": "QMAX",
+    "name": "Hamilton Technology YIELD MAXIMIZER ETF",
+    "weight": 28.1
+   },
+   {
+    "ticker": "FMAX",
+    "name": "Hamilton U.S. Financials YIELD MAXIMIZER ETF",
+    "weight": 7.6
+   },
+   {
+    "ticker": "SDAY",
+    "name": "Hamilton Enhanced U.S. Equity DayMAX ETF",
+    "weight": 7.4
+   },
+   {
+    "ticker": "LMAX",
+    "name": "Hamilton Healthcare YIELD MAXIMIZER ETF",
+    "weight": 6.3
+   },
+   {
+    "ticker": "QDAY",
+    "name": "Hamilton Enhanced Technology DayMAX ETF",
+    "weight": 4.9
+   },
+   {
+    "ticker": "AMAX",
+    "name": "Hamilton Gold Producer YIELD MAXIMIZER ETF",
+    "weight": 2.7
+   },
+   {
+    "ticker": "EMAX",
+    "name": "Hamilton Energy YIELD MAXIMIZER ETF",
+    "weight": 2.6
+   },
+   {
+    "ticker": "RMAX",
+    "name": "Hamilton REITs YIELD MAXIMIZER ETF",
+    "weight": 1.8
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -21.2
+   },
+   {
+    "ticker": "UMVP",
+    "name": "HAMILTON CHAMPIONS Utilities Index ETF",
+    "weight": 125.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -25.4
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 24.9
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 17.5
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 10.5
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 9.8
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 9.1
+   },
+   {
+    "ticker": "BN",
+    "name": "Brookfield Corp",
+    "weight": 8.9
+   },
+   {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "weight": 6.2
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 5.3
+   },
+   {
+    "ticker": "GWO",
+    "name": "Great-West Lifeco Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc",
+    "weight": 3.8
+   },
+   {
+    "ticker": "",
+    "name": "CANADIAN TREASURY BILL",
+    "weight": 0.0
+   },
+   {
+    "ticker": "",
+    "name": "CANADIAN TREASURY BILL",
+    "weight": 0.0
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.6
+   },
+   {
+    "ticker": "CDE",
+    "name": "Coeur Mining Inc",
+    "weight": 7.1
+   },
+   {
+    "ticker": "NEM",
+    "name": "Newmont Corp",
+    "weight": 7.1
+   },
+   {
+    "ticker": "GFI",
+    "name": "Gold Fields Ltd",
+    "weight": 7.0
+   },
+   {
+    "ticker": "WPM",
+    "name": "Wheaton Precious Metals Corp",
+    "weight": 7.0
+   },
+   {
+    "ticker": "RGLD",
+    "name": "Royal Gold Inc",
+    "weight": 7.0
+   },
+   {
+    "ticker": "HL",
+    "name": "Hecla Mining Co",
+    "weight": 7.0
+   },
+   {
+    "ticker": "AU",
+    "name": "Anglogold Ashanti Plc",
+    "weight": 6.8
+   },
+   {
+    "ticker": "KGC",
+    "name": "Kinross Gold Corp",
+    "weight": 6.8
+   },
+   {
+    "ticker": "EDV",
+    "name": "Endeavour Mining PLC",
+    "weight": 6.8
+   },
+   {
+    "ticker": "AEM",
+    "name": "Agnico Eagle Mines Ltd",
+    "weight": 6.8
+   },
+   {
+    "ticker": "FNV",
+    "name": "Franco-Nevada Corp",
+    "weight": 6.6
+   },
+   {
+    "ticker": "AGI",
+    "name": "Alamos Gold Inc",
+    "weight": 6.5
+   },
+   {
+    "ticker": "B",
+    "name": "Barrick Mining Corp",
+    "weight": 6.4
+   },
+   {
+    "ticker": "PAAS",
+    "name": "Pan American Silver Corp",
+    "weight": 6.2
+   },
+   {
+    "ticker": "HMY",
+    "name": "Harmony Gold Mining Co Ltd",
+    "weight": 6.1
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.6
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.7
+   },
+   {
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corp",
+    "weight": 6.6
+   },
+   {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "weight": 6.5
+   },
+   {
+    "ticker": "VLO",
+    "name": "Valero Energy Corp",
+    "weight": 6.5
+   },
+   {
+    "ticker": "CVE",
+    "name": "Cenovus Energy Inc",
+    "weight": 5.4
+   },
+   {
+    "ticker": "SLB",
+    "name": "SLB Ltd",
+    "weight": 5.3
+   },
+   {
+    "ticker": "CNQ",
+    "name": "Canadian Natural Resources Ltd",
+    "weight": 5.2
+   },
+   {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "weight": 5.1
+   },
+   {
+    "ticker": "FANG",
+    "name": "Diamondback Energy Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "IMO",
+    "name": "Imperial Oil Ltd",
+    "weight": 5.0
+   },
+   {
+    "ticker": "SU",
+    "name": "Suncor Energy Inc",
+    "weight": 4.9
+   },
+   {
+    "ticker": "EOG",
+    "name": "EOG Resources Inc",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BKR",
+    "name": "Baker Hughes Co",
+    "weight": 4.9
+   },
+   {
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corp",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CVX",
+    "name": "Chevron Corp",
+    "weight": 4.8
+   },
+   {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corp",
+    "weight": 4.7
+   },
+   {
+    "ticker": "DVN",
+    "name": "Devon Energy Corp",
+    "weight": 4.7
+   },
+   {
+    "ticker": "HAL",
+    "name": "Halliburton Co",
+    "weight": 4.5
+   },
+   {
+    "ticker": "EXE",
+    "name": "Expand Energy Corp",
+    "weight": 4.4
+   },
+   {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land Corp",
+    "weight": 4.2
+   },
+   {
+    "ticker": "EQT",
+    "name": "EQT Corp",
+    "weight": 4.1
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.6
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.9
+   },
+   {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "weight": 5.6
+   },
+   {
+    "ticker": "BX",
+    "name": "Blackstone Inc",
+    "weight": 5.5
+   },
+   {
+    "ticker": "MA",
+    "name": "Mastercard Inc",
+    "weight": 5.4
+   },
+   {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corp/The",
+    "weight": 5.3
+   },
+   {
+    "ticker": "MRSH",
+    "name": "Marsh & McLennan Cos Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "BLK",
+    "name": "Blackrock Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co",
+    "weight": 5.2
+   },
+   {
+    "ticker": "BAC",
+    "name": "Bank of America Corp",
+    "weight": 5.1
+   },
+   {
+    "ticker": "GS",
+    "name": "Goldman Sachs Group Inc/The",
+    "weight": 5.1
+   },
+   {
+    "ticker": "COF",
+    "name": "Capital One Financial Corp",
+    "weight": 5.1
+   },
+   {
+    "ticker": "WFC",
+    "name": "Wells Fargo & Co",
+    "weight": 5.1
+   },
+   {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "weight": 5.1
+   },
+   {
+    "ticker": "SPGI",
+    "name": "S&P Global Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "AXP",
+    "name": "American Express Co",
+    "weight": 5.0
+   },
+   {
+    "ticker": "C",
+    "name": "Citigroup Inc",
+    "weight": 4.9
+   },
+   {
+    "ticker": "PGR",
+    "name": "Progressive Corp/The",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BRK/B",
+    "name": "Berkshire Hathaway Inc",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CB",
+    "name": "Chubb Ltd",
+    "weight": 4.8
+   },
+   {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange Inc",
+    "weight": 4.6
+   },
+   {
+    "ticker": "CME",
+    "name": "CME Group Inc",
+    "weight": 4.4
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.7
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.7
+   },
+   {
+    "ticker": "AMGN",
+    "name": "Amgen Inc",
+    "weight": 5.7
+   },
+   {
+    "ticker": "ABBV",
+    "name": "AbbVie Inc",
+    "weight": 5.7
+   },
+   {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc",
+    "weight": 5.6
+   },
+   {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals Inc",
+    "weight": 5.6
+   },
+   {
+    "ticker": "MRK",
+    "name": "Merck & Co Inc",
+    "weight": 5.6
+   },
+   {
+    "ticker": "BMY",
+    "name": "Bristol-Myers Squibb Co",
+    "weight": 5.5
+   },
+   {
+    "ticker": "LLY",
+    "name": "Eli Lilly & Co",
+    "weight": 5.3
+   },
+   {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "weight": 5.3
+   },
+   {
+    "ticker": "DHR",
+    "name": "Danaher Corp",
+    "weight": 5.3
+   },
+   {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "weight": 5.2
+   },
+   {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "CVS",
+    "name": "CVS Health Corp",
+    "weight": 5.2
+   },
+   {
+    "ticker": "GILD",
+    "name": "Gilead Sciences Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "PFE",
+    "name": "Pfizer Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "MDT",
+    "name": "Medtronic PLC",
+    "weight": 4.9
+   },
+   {
+    "ticker": "CI",
+    "name": "Cigna Group/The",
+    "weight": 4.8
+   },
+   {
+    "ticker": "MCK",
+    "name": "McKesson Corp",
+    "weight": 4.7
+   },
+   {
+    "ticker": "SYK",
+    "name": "Stryker Corp",
+    "weight": 4.5
+   },
+   {
+    "ticker": "BSX",
+    "name": "Boston Scientific Corp",
+    "weight": 3.8
+   },
+   {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.6
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.8
+   },
+   {
+    "ticker": "MU",
+    "name": "Micron Technology Inc",
+    "weight": 5.8
+   },
+   {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc",
+    "weight": 5.3
+   },
+   {
+    "ticker": "CSCO",
+    "name": "Cisco Systems Inc",
+    "weight": 4.7
+   },
+   {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp",
+    "weight": 4.6
+   },
+   {
+    "ticker": "AAPL",
+    "name": "Apple Inc",
+    "weight": 4.4
+   },
+   {
+    "ticker": "LLY",
+    "name": "Eli Lilly & Co",
+    "weight": 4.4
+   },
+   {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp",
+    "weight": 4.4
+   },
+   {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc",
+    "weight": 4.4
+   },
+   {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "weight": 4.3
+   },
+   {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc",
+    "weight": 4.3
+   },
+   {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co",
+    "weight": 4.3
+   },
+   {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "weight": 4.0
+   },
+   {
+    "ticker": "GE",
+    "name": "General Electric Co",
+    "weight": 4.0
+   },
+   {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc",
+    "weight": 4.0
+   },
+   {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc",
+    "weight": 3.8
+   },
+   {
+    "ticker": "PLD",
+    "name": "Prologis Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "BRK/B",
+    "name": "Berkshire Hathaway Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "LIN",
+    "name": "Linde PLC",
+    "weight": 3.6
+   },
+   {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corp",
+    "weight": 3.6
+   },
+   {
+    "ticker": "TSLA",
+    "name": "Tesla Inc",
+    "weight": 3.4
+   },
+   {
+    "ticker": "NFLX",
+    "name": "Netflix Inc",
+    "weight": 3.4
+   },
+   {
+    "ticker": "META",
+    "name": "Meta Platforms Inc",
+    "weight": 3.3
+   },
+   {
+    "ticker": "NEE",
+    "name": "NextEra Energy Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "WMT",
+    "name": "Walmart Inc",
+    "weight": 3.1
+   },
+   {
+    "ticker": "#N/A",
+    "name": "#N/A Field Not Applicable Equity",
+    "weight": 0.0
+   },
+   {
+    "ticker": "#N/A",
+    "name": "#N/A Field Not Applicable Equity",
+    "weight": 0.0
+   },
+   {
+    "ticker": "#N/A",
+    "name": "#N/A Field Not Applicable Equity",
+    "weight": 0.0
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.6
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.9
+   },
+   {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc",
+    "weight": 8.9
+   },
+   {
+    "ticker": "MU",
+    "name": "Micron Technology Inc",
+    "weight": 8.0
+   },
+   {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp",
+    "weight": 7.8
+   },
+   {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc",
+    "weight": 7.7
+   },
+   {
+    "ticker": "AAPL",
+    "name": "Apple Inc",
+    "weight": 6.9
+   },
+   {
+    "ticker": "LRCX",
+    "name": "Lam Research Corp",
+    "weight": 6.8
+   },
+   {
+    "ticker": "AMAT",
+    "name": "Applied Materials Inc",
+    "weight": 6.7
+   },
+   {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp",
+    "weight": 6.6
+   },
+   {
+    "ticker": "INTC",
+    "name": "Intel Corp",
+    "weight": 6.5
+   },
+   {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc",
+    "weight": 6.3
+   },
+   {
+    "ticker": "NFLX",
+    "name": "Netflix Inc",
+    "weight": 6.3
+   },
+   {
+    "ticker": "META",
+    "name": "Meta Platforms Inc",
+    "weight": 6.0
+   },
+   {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc",
+    "weight": 5.9
+   },
+   {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc",
+    "weight": 5.9
+   },
+   {
+    "ticker": "TSLA",
+    "name": "Tesla Inc",
+    "weight": 5.3
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.7
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.9
+   },
+   {
+    "ticker": "TLT",
+    "name": "iShares 20+ Year Treasury Bond",
+    "weight": 50.4
+   },
+   {
+    "ticker": "VGLT",
+    "name": "Vanguard Long-Term Treasury ET",
+    "weight": 40.4
+   },
+   {
+    "ticker": "EDV",
+    "name": "Vanguard Extended Duration Tre",
+    "weight": 10.1
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.2
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.8
+   },
+   {
+    "ticker": "SGOV",
+    "name": "iShares 0-3 Month Treasury Bon",
+    "weight": 80.3
+   },
+   {
+    "ticker": "TLT",
+    "name": "iShares 20+ Year Treasury Bond",
+    "weight": 20.0
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": 0.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.3
+   },
+   {
+    "ticker": "WPM",
+    "name": "Wheaton Precious Metals Corp",
+    "weight": 5.1
+   },
+   {
+    "ticker": "AEM",
+    "name": "Agnico Eagle Mines Ltd",
+    "weight": 5.0
+   },
+   {
+    "ticker": "FNV",
+    "name": "Franco-Nevada Corp",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CNQ",
+    "name": "Canadian Natural Resources Ltd",
+    "weight": 4.7
+   },
+   {
+    "ticker": "NTR",
+    "name": "Nutrien Ltd",
+    "weight": 4.4
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 4.1
+   },
+   {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "weight": 4.0
+   },
+   {
+    "ticker": "QSR",
+    "name": "Restaurant Brands Internationa",
+    "weight": 4.0
+   },
+   {
+    "ticker": "CP",
+    "name": "Canadian Pacific Kansas City L",
+    "weight": 4.0
+   },
+   {
+    "ticker": "CNR",
+    "name": "Canadian National Railway Co",
+    "weight": 4.0
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 3.9
+   },
+   {
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc",
+    "weight": 3.9
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 3.8
+   },
+   {
+    "ticker": "L",
+    "name": "Loblaw Cos Ltd",
+    "weight": 3.8
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 3.8
+   },
+   {
+    "ticker": "WCN",
+    "name": "Waste Connections Inc",
+    "weight": 3.8
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 3.8
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 3.8
+   },
+   {
+    "ticker": "FTS",
+    "name": "Fortis Inc/Canada",
+    "weight": 3.7
+   },
+   {
+    "ticker": "DOL",
+    "name": "Dollarama Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "ENB",
+    "name": "Enbridge Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "ATD",
+    "name": "Alimentation Couche-Tard Inc",
+    "weight": 3.6
+   },
+   {
+    "ticker": "T",
+    "name": "TELUS Corp",
+    "weight": 3.5
+   },
+   {
+    "ticker": "IFC",
+    "name": "Intact Financial Corp",
+    "weight": 3.5
+   },
+   {
+    "ticker": "RBA",
+    "name": "RB Global Inc",
+    "weight": 3.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.1
+   },
+   {
+    "ticker": "BDX",
+    "name": "Becton Dickinson & Co",
+    "weight": 3.3
+   },
+   {
+    "ticker": "TGT",
+    "name": "Target Corp",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ROP",
+    "name": "Roper Technologies Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "CVX",
+    "name": "Chevron Corp",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corp",
+    "weight": 3.1
+   },
+   {
+    "ticker": "WAT",
+    "name": "Waters Corp",
+    "weight": 3.0
+   },
+   {
+    "ticker": "MDT",
+    "name": "Medtronic PLC",
+    "weight": 2.9
+   },
+   {
+    "ticker": "EMR",
+    "name": "Emerson Electric Co",
+    "weight": 2.9
+   },
+   {
+    "ticker": "KO",
+    "name": "Coca-Cola Co/The",
+    "weight": 2.8
+   },
+   {
+    "ticker": "FAST",
+    "name": "Fastenal Co",
+    "weight": 2.8
+   },
+   {
+    "ticker": "APD",
+    "name": "Air Products and Chemicals Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "ECL",
+    "name": "Ecolab Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "SPGI",
+    "name": "S&P Global Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams Co/The",
+    "weight": 2.7
+   },
+   {
+    "ticker": "GD",
+    "name": "General Dynamics Corp",
+    "weight": 2.6
+   },
+   {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "weight": 2.6
+   },
+   {
+    "ticker": "PG",
+    "name": "Procter & Gamble Co/The",
+    "weight": 2.6
+   },
+   {
+    "ticker": "PEP",
+    "name": "PepsiCo Inc",
+    "weight": 2.6
+   },
+   {
+    "ticker": "GWW",
+    "name": "WW Grainger Inc",
+    "weight": 2.6
+   },
+   {
+    "ticker": "O",
+    "name": "Realty Income Corp",
+    "weight": 2.6
+   },
+   {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark Corp",
+    "weight": 2.6
+   },
+   {
+    "ticker": "CAH",
+    "name": "Cardinal Health Inc",
+    "weight": 2.6
+   },
+   {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive Co",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ED",
+    "name": "Consolidated Edison Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "LOW",
+    "name": "Lowe's Cos Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "NEE",
+    "name": "NextEra Energy Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "AFL",
+    "name": "Aflac Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "MBGL",
+    "name": "Mobility Global Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "CB",
+    "name": "Chubb Ltd",
+    "weight": 2.5
+   },
+   {
+    "ticker": "MCD",
+    "name": "McDonald's Corp",
+    "weight": 2.5
+   },
+   {
+    "ticker": "WMT",
+    "name": "Walmart Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "LLY",
+    "name": "Eli Lilly & Co",
+    "weight": 2.4
+   },
+   {
+    "ticker": "LIN",
+    "name": "Linde PLC",
+    "weight": 2.4
+   },
+   {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc",
+    "weight": 2.2
+   },
+   {
+    "ticker": "IBM",
+    "name": "International Business Machine",
+    "weight": 2.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.4
+   },
+   {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp",
+    "weight": 6.4
+   },
+   {
+    "ticker": "TSLA",
+    "name": "Tesla Inc",
+    "weight": 6.4
+   },
+   {
+    "ticker": "AAPL",
+    "name": "Apple Inc",
+    "weight": 6.3
+   },
+   {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp",
+    "weight": 6.1
+   },
+   {
+    "ticker": "META",
+    "name": "Meta Platforms Inc",
+    "weight": 6.0
+   },
+   {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc",
+    "weight": 5.9
+   },
+   {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc",
+    "weight": 5.8
+   },
+   {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc",
+    "weight": 5.4
+   },
+   {
+    "ticker": "MU",
+    "name": "Micron Technology Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions",
+    "weight": 3.5
+   },
+   {
+    "ticker": "WDAY",
+    "name": "Workday Inc",
+    "weight": 3.5
+   },
+   {
+    "ticker": "ADBE",
+    "name": "Adobe Inc",
+    "weight": 3.4
+   },
+   {
+    "ticker": "INTU",
+    "name": "Intuit Inc",
+    "weight": 3.3
+   },
+   {
+    "ticker": "NFLX",
+    "name": "Netflix Inc",
+    "weight": 3.3
+   },
+   {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "LRCX",
+    "name": "Lam Research Corp",
+    "weight": 2.9
+   },
+   {
+    "ticker": "EBAY",
+    "name": "eBay Inc",
+    "weight": 2.9
+   },
+   {
+    "ticker": "TXN",
+    "name": "Texas Instruments Inc",
+    "weight": 2.8
+   },
+   {
+    "ticker": "KLAC",
+    "name": "KLA Corp",
+    "weight": 2.7
+   },
+   {
+    "ticker": "CSCO",
+    "name": "Cisco Systems Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "INTC",
+    "name": "Intel Corp",
+    "weight": 2.6
+   },
+   {
+    "ticker": "AMAT",
+    "name": "Applied Materials Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.2
+   },
+   {
+    "ticker": "CU",
+    "name": "Canadian Utilities Ltd",
+    "weight": 9.0
+   },
+   {
+    "ticker": "FTS",
+    "name": "Fortis Inc/Canada",
+    "weight": 8.8
+   },
+   {
+    "ticker": "PPL",
+    "name": "Pembina Pipeline Corp",
+    "weight": 8.7
+   },
+   {
+    "ticker": "ALA",
+    "name": "AltaGas Ltd",
+    "weight": 8.7
+   },
+   {
+    "ticker": "EMA",
+    "name": "Emera Inc",
+    "weight": 8.6
+   },
+   {
+    "ticker": "BIP-U",
+    "name": "Brookfield Infrastructure Part",
+    "weight": 8.6
+   },
+   {
+    "ticker": "RCI/B",
+    "name": "Rogers Communications Inc",
+    "weight": 8.5
+   },
+   {
+    "ticker": "BCE",
+    "name": "BCE Inc",
+    "weight": 8.4
+   },
+   {
+    "ticker": "TRP",
+    "name": "TC Energy Corp",
+    "weight": 8.1
+   },
+   {
+    "ticker": "ENB",
+    "name": "Enbridge Inc",
+    "weight": 7.9
+   },
+   {
+    "ticker": "BEP-U",
+    "name": "Brookfield Renewable Partners",
+    "weight": 7.5
+   },
+   {
+    "ticker": "T",
+    "name": "TELUS Corp",
+    "weight": 6.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.2
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 17.6
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 17.4
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 17.3
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 16.5
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 15.8
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 15.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.0
+   },
+   {
+    "ticker": "GWO",
+    "name": "Great-West Lifeco Inc",
+    "weight": 9.3
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 9.2
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 8.8
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 8.8
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 8.7
+   },
+   {
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc",
+    "weight": 8.5
+   },
+   {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "weight": 8.4
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 8.0
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 7.9
+   },
+   {
+    "ticker": "IFC",
+    "name": "Intact Financial Corp",
+    "weight": 7.8
+   },
+   {
+    "ticker": "FFH",
+    "name": "Fairfax Financial Holdings Ltd",
+    "weight": 7.3
+   },
+   {
+    "ticker": "BN",
+    "name": "Brookfield Corp",
+    "weight": 7.1
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.2
+   },
+   {
+    "ticker": "",
+    "name": "Intercontinental Exchange Inc.",
+    "weight": 3.11
+   },
+   {
+    "ticker": "",
+    "name": "Grupo Financiero Banorte SAB de CV",
+    "weight": 2.71
+   },
+   {
+    "ticker": "",
+    "name": "Progressive Corp. (The)",
+    "weight": 2.59
+   },
+   {
+    "ticker": "",
+    "name": "HDFC Bank Ltd., ADR(1)",
+    "weight": 2.58
+   },
+   {
+    "ticker": "",
+    "name": "London Stock Exchange Group PLC",
+    "weight": 2.52
+   },
+   {
+    "ticker": "",
+    "name": "Visa Inc.",
+    "weight": 2.51
+   },
+   {
+    "ticker": "",
+    "name": "Erste Group Bank AG",
+    "weight": 2.48
+   },
+   {
+    "ticker": "",
+    "name": "Huntington Bancshares Inc.",
+    "weight": 2.45
+   },
+   {
+    "ticker": "",
+    "name": "PNC Financial Services Group Inc.",
+    "weight": 2.4
+   },
+   {
+    "ticker": "",
+    "name": "Fairfax Financial Holdings Ltd.",
+    "weight": 2.3
+   },
+   {
+    "ticker": "",
+    "name": "Bank of America Corp.",
+    "weight": 2.27
+   },
+   {
+    "ticker": "",
+    "name": "JPMorgan Chase & Co.",
+    "weight": 2.22
+   },
+   {
+    "ticker": "",
+    "name": "Mastercard Inc.",
+    "weight": 2.2
+   },
+   {
+    "ticker": "",
+    "name": "KKR & Co. Inc.",
+    "weight": 2.12
+   },
+   {
+    "ticker": "",
+    "name": "Barclays PLC",
+    "weight": 2.11
+   },
+   {
+    "ticker": "",
+    "name": "Admiral Group PLC",
+    "weight": 2.07
+   },
+   {
+    "ticker": "",
+    "name": "DBS Group Holdings Ltd.",
+    "weight": 2.04
+   },
+   {
+    "ticker": "",
+    "name": "Aon PLC",
+    "weight": 1.97
+   },
+   {
+    "ticker": "",
+    "name": "Mitsubishi UFJ Financial Group Inc.",
+    "weight": 1.97
+   },
+   {
+    "ticker": "",
+    "name": "EQT AB",
+    "weight": 1.92
+   },
+   {
+    "ticker": "",
+    "name": "Capital One Financial Corp.",
+    "weight": 1.86
+   },
+   {
+    "ticker": "",
+    "name": "Willis Towers Watson PLC",
+    "weight": 1.72
+   },
+   {
+    "ticker": "",
+    "name": "Bank of Nova Scotia (The)",
+    "weight": 1.69
+   },
+   {
+    "ticker": "",
+    "name": "M&T Bank Corp.",
+    "weight": 1.69
+   },
+   {
+    "ticker": "",
+    "name": "NU Holdings Ltd.",
+    "weight": 1.64
+   }
+  ]
+ },
+ {
+  "ticker": "HUM",
+  "name": "Hamilton U.S. Mid-Cap Financials ETF",
+  "asof": "March 31, 2026 (source: \\\\\\\"Latest Portfolio Summary\\\\\\\" SOI PDF from DOCUMENTS tab)",
+  "status": "TOP-25-ONLY (SOI publishes only the 25 largest positions; holding tickers not published in the SOI)",
+  "holdings": [
+   {
+    "ticker": "",
+    "name": "LPL Financial Holdings Inc.",
+    "weight": 3.33
+   },
+   {
+    "ticker": "",
+    "name": "Pinnacle Financial Partners Inc.",
+    "weight": 3.3
+   },
+   {
+    "ticker": "",
+    "name": "Southstate Bank Corp.",
+    "weight": 3.11
+   },
+   {
+    "ticker": "",
+    "name": "Palomar Holdings Inc.",
+    "weight": 3.08
+   },
+   {
+    "ticker": "",
+    "name": "Huntington Bancshares Inc.",
+    "weight": 3.06
+   },
+   {
+    "ticker": "",
+    "name": "Hanover Insurance Group Inc. (The)",
+    "weight": 2.9
+   },
+   {
+    "ticker": "",
+    "name": "UMB Financial Corp.",
+    "weight": 2.87
+   },
+   {
+    "ticker": "",
+    "name": "Popular Inc.",
+    "weight": 2.72
+   },
+   {
+    "ticker": "",
+    "name": "Old National Bancorp",
+    "weight": 2.66
+   },
+   {
+    "ticker": "",
+    "name": "Ryan Specialty Group Holdings Inc.",
+    "weight": 2.63
+   },
+   {
+    "ticker": "",
+    "name": "Prosperity Bancshares Inc.",
+    "weight": 2.47
+   },
+   {
+    "ticker": "",
+    "name": "Brown & Brown Inc.",
+    "weight": 2.36
+   },
+   {
+    "ticker": "",
+    "name": "Nasdaq Inc.",
+    "weight": 2.31
+   },
+   {
+    "ticker": "",
+    "name": "Ally Financial Inc.",
+    "weight": 2.27
+   },
+   {
+    "ticker": "",
+    "name": "Unum Group",
+    "weight": 2.25
+   },
+   {
+    "ticker": "",
+    "name": "Hartford Financial Services Group Inc. (The)",
+    "weight": 2.22
+   },
+   {
+    "ticker": "",
+    "name": "TPG Inc.",
+    "weight": 2.13
+   },
+   {
+    "ticker": "",
+    "name": "East West Bancorp Inc.",
+    "weight": 2.05
+   },
+   {
+    "ticker": "",
+    "name": "Wintrust Financial Corp.",
+    "weight": 1.84
+   },
+   {
+    "ticker": "",
+    "name": "Hamilton Lane Inc.",
+    "weight": 1.76
+   },
+   {
+    "ticker": "",
+    "name": "First American Financial Corp.",
+    "weight": 1.63
+   },
+   {
+    "ticker": "",
+    "name": "Kinsale Capital Group Inc.",
+    "weight": 1.59
+   },
+   {
+    "ticker": "",
+    "name": "Fifth Third Bancorp",
+    "weight": 1.59
+   },
+   {
+    "ticker": "",
+    "name": "Bank OZK",
+    "weight": 1.56
+   },
+   {
+    "ticker": "",
+    "name": "Globe Life Inc.",
+    "weight": 1.52
+   }
+  ]
+ },
+ {
+  "ticker": "HCA",
+  "name": "Hamilton Canadian Bank Mean Reversion Index ETF",
+  "asof": "August 31, 2026",
+  "status": "COMPLETE",
+  "holdings": [
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 28.3
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 26.0
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 25.7
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 6.8
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 6.6
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 6.5
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.1
+   },
+   {
+    "ticker": "MQG",
+    "name": "Macquarie Group Ltd",
+    "weight": 25.7
+   },
+   {
+    "ticker": "ANZ",
+    "name": "ANZ Group Holdings Ltd",
+    "weight": 20.3
+   },
+   {
+    "ticker": "CBA",
+    "name": "Commonwealth Bank of Australia",
+    "weight": 19.8
+   },
+   {
+    "ticker": "WBC",
+    "name": "Westpac Banking Corp",
+    "weight": 17.8
+   },
+   {
+    "ticker": "NAB",
+    "name": "National Australia Bank Ltd",
+    "weight": 17.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.8
+   },
+   {
+    "ticker": "HEB",
+    "name": "HAMILTON CHAMPIONS Canadian Equal-Weight Index ETF",
+    "weight": 126.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -26.0
+   },
+   {
+    "ticker": "HFN",
+    "name": "HAMILTON CHAMPIONS Canadian Financials Index ETF",
+    "weight": 69.9
+   },
+   {
+    "ticker": "GWO",
+    "name": "Great-West Lifeco Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 5.1
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 4.9
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 4.8
+   },
+   {
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc",
+    "weight": 4.7
+   },
+   {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "weight": 4.7
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 4.4
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 4.4
+   },
+   {
+    "ticker": "IFC",
+    "name": "Intact Financial Corp",
+    "weight": 4.4
+   },
+   {
+    "ticker": "FFH",
+    "name": "Fairfax Financial Holdings Ltd",
+    "weight": 4.1
+   },
+   {
+    "ticker": "BN",
+    "name": "Brookfield Corp",
+    "weight": 3.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -25.4
+   },
+   {
+    "ticker": "HFIN",
+    "name": "Hamilton Enhanced Canadian Financials ETF",
+    "weight": 22.2
+   },
+   {
+    "ticker": "HMAX",
+    "name": "Hamilton Canadian Financials YIELD MAXIMIZER ETF",
+    "weight": 19.2
+   },
+   {
+    "ticker": "EMAX",
+    "name": "Hamilton Energy YIELD MAXIMIZER ETF",
+    "weight": 18.8
+   },
+   {
+    "ticker": "AMAX",
+    "name": "Hamilton Gold Producer YIELD MAXIMIZER ETF",
+    "weight": 15.1
+   },
+   {
+    "ticker": "QMAX",
+    "name": "Hamilton Technology YIELD MAXIMIZER ETF",
+    "weight": 15.1
+   },
+   {
+    "ticker": "UMAX",
+    "name": "Hamilton Utilities YIELD MAXIMIZER ETF",
+    "weight": 9.3
+   },
+   {
+    "ticker": "CDAY",
+    "name": "Hamilton Enhanced Canadian Equity DayMAX ETF",
+    "weight": 7.4
+   },
+   {
+    "ticker": "HUTS",
+    "name": "Hamilton Enhanced Utilities ETF",
+    "weight": 3.9
+   },
+   {
+    "ticker": "RMAX",
+    "name": "Hamilton REITs YIELD MAXIMIZER ETF",
+    "weight": 2.3
+   },
+   {
+    "ticker": "QDAY",
+    "name": "Hamilton Enhanced Technology DayMAX ETF",
+    "weight": 1.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -15.2
+   },
+   {
+    "ticker": "SMAX",
+    "name": "Hamilton U.S. Equity YIELD MAXIMIZER ETF",
+    "weight": 59.8
+   },
+   {
+    "ticker": "QMAX",
+    "name": "Hamilton Technology YIELD MAXIMIZER ETF",
+    "weight": 28.1
+   },
+   {
+    "ticker": "FMAX",
+    "name": "Hamilton U.S. Financials YIELD MAXIMIZER ETF",
+    "weight": 7.6
+   },
+   {
+    "ticker": "SDAY",
+    "name": "Hamilton Enhanced U.S. Equity DayMAX ETF",
+    "weight": 7.4
+   },
+   {
+    "ticker": "LMAX",
+    "name": "Hamilton Healthcare YIELD MAXIMIZER ETF",
+    "weight": 6.3
+   },
+   {
+    "ticker": "QDAY",
+    "name": "Hamilton Enhanced Technology DayMAX ETF",
+    "weight": 4.9
+   },
+   {
+    "ticker": "AMAX",
+    "name": "Hamilton Gold Producer YIELD MAXIMIZER ETF",
+    "weight": 2.7
+   },
+   {
+    "ticker": "EMAX",
+    "name": "Hamilton Energy YIELD MAXIMIZER ETF",
+    "weight": 2.6
+   },
+   {
+    "ticker": "RMAX",
+    "name": "Hamilton REITs YIELD MAXIMIZER ETF",
+    "weight": 1.8
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -21.2
+   },
+   {
+    "ticker": "UMVP",
+    "name": "HAMILTON CHAMPIONS Utilities Index ETF",
+    "weight": 125.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -25.4
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 24.9
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 17.5
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 10.5
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 9.8
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 9.1
+   },
+   {
+    "ticker": "BN",
+    "name": "Brookfield Corp",
+    "weight": 8.9
+   },
+   {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "weight": 6.2
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 5.3
+   },
+   {
+    "ticker": "GWO",
+    "name": "Great-West Lifeco Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc",
+    "weight": 3.8
+   },
+   {
+    "ticker": "",
+    "name": "CANADIAN TREASURY BILL",
+    "weight": 0.0
+   },
+   {
+    "ticker": "",
+    "name": "CANADIAN TREASURY BILL",
+    "weight": 0.0
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.3
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.6
+   },
+   {
+    "ticker": "CDE",
+    "name": "Coeur Mining Inc",
+    "weight": 7.1
+   },
+   {
+    "ticker": "NEM",
+    "name": "Newmont Corp",
+    "weight": 7.1
+   },
+   {
+    "ticker": "GFI",
+    "name": "Gold Fields Ltd",
+    "weight": 7.0
+   },
+   {
+    "ticker": "WPM",
+    "name": "Wheaton Precious Metals Corp",
+    "weight": 7.0
+   },
+   {
+    "ticker": "RGLD",
+    "name": "Royal Gold Inc",
+    "weight": 7.0
+   },
+   {
+    "ticker": "HL",
+    "name": "Hecla Mining Co",
+    "weight": 7.0
+   },
+   {
+    "ticker": "AU",
+    "name": "Anglogold Ashanti Plc",
+    "weight": 6.8
+   },
+   {
+    "ticker": "KGC",
+    "name": "Kinross Gold Corp",
+    "weight": 6.8
+   },
+   {
+    "ticker": "EDV",
+    "name": "Endeavour Mining PLC",
+    "weight": 6.8
+   },
+   {
+    "ticker": "AEM",
+    "name": "Agnico Eagle Mines Ltd",
+    "weight": 6.8
+   },
+   {
+    "ticker": "FNV",
+    "name": "Franco-Nevada Corp",
+    "weight": 6.6
+   },
+   {
+    "ticker": "AGI",
+    "name": "Alamos Gold Inc",
+    "weight": 6.5
+   },
+   {
+    "ticker": "B",
+    "name": "Barrick Mining Corp",
+    "weight": 6.4
+   },
+   {
+    "ticker": "PAAS",
+    "name": "Pan American Silver Corp",
+    "weight": 6.2
+   },
+   {
+    "ticker": "HMY",
+    "name": "Harmony Gold Mining Co Ltd",
+    "weight": 6.1
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.6
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.7
+   },
+   {
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corp",
+    "weight": 6.6
+   },
+   {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "weight": 6.5
+   },
+   {
+    "ticker": "VLO",
+    "name": "Valero Energy Corp",
+    "weight": 6.5
+   },
+   {
+    "ticker": "CVE",
+    "name": "Cenovus Energy Inc",
+    "weight": 5.4
+   },
+   {
+    "ticker": "SLB",
+    "name": "SLB Ltd",
+    "weight": 5.3
+   },
+   {
+    "ticker": "CNQ",
+    "name": "Canadian Natural Resources Ltd",
+    "weight": 5.2
+   },
+   {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "weight": 5.1
+   },
+   {
+    "ticker": "FANG",
+    "name": "Diamondback Energy Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "IMO",
+    "name": "Imperial Oil Ltd",
+    "weight": 5.0
+   },
+   {
+    "ticker": "SU",
+    "name": "Suncor Energy Inc",
+    "weight": 4.9
+   },
+   {
+    "ticker": "EOG",
+    "name": "EOG Resources Inc",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BKR",
+    "name": "Baker Hughes Co",
+    "weight": 4.9
+   },
+   {
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corp",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CVX",
+    "name": "Chevron Corp",
+    "weight": 4.8
+   },
+   {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corp",
+    "weight": 4.7
+   },
+   {
+    "ticker": "DVN",
+    "name": "Devon Energy Corp",
+    "weight": 4.7
+   },
+   {
+    "ticker": "HAL",
+    "name": "Halliburton Co",
+    "weight": 4.5
+   },
+   {
+    "ticker": "EXE",
+    "name": "Expand Energy Corp",
+    "weight": 4.4
+   },
+   {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land Corp",
+    "weight": 4.2
+   },
+   {
+    "ticker": "EQT",
+    "name": "EQT Corp",
+    "weight": 4.1
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.6
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.9
+   },
+   {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "weight": 5.6
+   },
+   {
+    "ticker": "BX",
+    "name": "Blackstone Inc",
+    "weight": 5.5
+   },
+   {
+    "ticker": "MA",
+    "name": "Mastercard Inc",
+    "weight": 5.4
+   },
+   {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corp/The",
+    "weight": 5.3
+   },
+   {
+    "ticker": "MRSH",
+    "name": "Marsh & McLennan Cos Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "BLK",
+    "name": "Blackrock Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co",
+    "weight": 5.2
+   },
+   {
+    "ticker": "BAC",
+    "name": "Bank of America Corp",
+    "weight": 5.1
+   },
+   {
+    "ticker": "GS",
+    "name": "Goldman Sachs Group Inc/The",
+    "weight": 5.1
+   },
+   {
+    "ticker": "COF",
+    "name": "Capital One Financial Corp",
+    "weight": 5.1
+   },
+   {
+    "ticker": "WFC",
+    "name": "Wells Fargo & Co",
+    "weight": 5.1
+   },
+   {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "weight": 5.1
+   },
+   {
+    "ticker": "SPGI",
+    "name": "S&P Global Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "AXP",
+    "name": "American Express Co",
+    "weight": 5.0
+   },
+   {
+    "ticker": "C",
+    "name": "Citigroup Inc",
+    "weight": 4.9
+   },
+   {
+    "ticker": "PGR",
+    "name": "Progressive Corp/The",
+    "weight": 4.9
+   },
+   {
+    "ticker": "BRK/B",
+    "name": "Berkshire Hathaway Inc",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CB",
+    "name": "Chubb Ltd",
+    "weight": 4.8
+   },
+   {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange Inc",
+    "weight": 4.6
+   },
+   {
+    "ticker": "CME",
+    "name": "CME Group Inc",
+    "weight": 4.4
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.7
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.7
+   },
+   {
+    "ticker": "AMGN",
+    "name": "Amgen Inc",
+    "weight": 5.7
+   },
+   {
+    "ticker": "ABBV",
+    "name": "AbbVie Inc",
+    "weight": 5.7
+   },
+   {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc",
+    "weight": 5.6
+   },
+   {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals Inc",
+    "weight": 5.6
+   },
+   {
+    "ticker": "MRK",
+    "name": "Merck & Co Inc",
+    "weight": 5.6
+   },
+   {
+    "ticker": "BMY",
+    "name": "Bristol-Myers Squibb Co",
+    "weight": 5.5
+   },
+   {
+    "ticker": "LLY",
+    "name": "Eli Lilly & Co",
+    "weight": 5.3
+   },
+   {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "weight": 5.3
+   },
+   {
+    "ticker": "DHR",
+    "name": "Danaher Corp",
+    "weight": 5.3
+   },
+   {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "weight": 5.2
+   },
+   {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "CVS",
+    "name": "CVS Health Corp",
+    "weight": 5.2
+   },
+   {
+    "ticker": "GILD",
+    "name": "Gilead Sciences Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "PFE",
+    "name": "Pfizer Inc",
+    "weight": 5.0
+   },
+   {
+    "ticker": "MDT",
+    "name": "Medtronic PLC",
+    "weight": 4.9
+   },
+   {
+    "ticker": "CI",
+    "name": "Cigna Group/The",
+    "weight": 4.8
+   },
+   {
+    "ticker": "MCK",
+    "name": "McKesson Corp",
+    "weight": 4.7
+   },
+   {
+    "ticker": "SYK",
+    "name": "Stryker Corp",
+    "weight": 4.5
+   },
+   {
+    "ticker": "BSX",
+    "name": "Boston Scientific Corp",
+    "weight": 3.8
+   },
+   {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.6
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.8
+   },
+   {
+    "ticker": "MU",
+    "name": "Micron Technology Inc",
+    "weight": 5.8
+   },
+   {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc",
+    "weight": 5.3
+   },
+   {
+    "ticker": "CSCO",
+    "name": "Cisco Systems Inc",
+    "weight": 4.7
+   },
+   {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp",
+    "weight": 4.6
+   },
+   {
+    "ticker": "AAPL",
+    "name": "Apple Inc",
+    "weight": 4.4
+   },
+   {
+    "ticker": "LLY",
+    "name": "Eli Lilly & Co",
+    "weight": 4.4
+   },
+   {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp",
+    "weight": 4.4
+   },
+   {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc",
+    "weight": 4.4
+   },
+   {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "weight": 4.3
+   },
+   {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc",
+    "weight": 4.3
+   },
+   {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co",
+    "weight": 4.3
+   },
+   {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "weight": 4.0
+   },
+   {
+    "ticker": "GE",
+    "name": "General Electric Co",
+    "weight": 4.0
+   },
+   {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc",
+    "weight": 4.0
+   },
+   {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc",
+    "weight": 3.8
+   },
+   {
+    "ticker": "PLD",
+    "name": "Prologis Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "BRK/B",
+    "name": "Berkshire Hathaway Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "LIN",
+    "name": "Linde PLC",
+    "weight": 3.6
+   },
+   {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corp",
+    "weight": 3.6
+   },
+   {
+    "ticker": "TSLA",
+    "name": "Tesla Inc",
+    "weight": 3.4
+   },
+   {
+    "ticker": "NFLX",
+    "name": "Netflix Inc",
+    "weight": 3.4
+   },
+   {
+    "ticker": "META",
+    "name": "Meta Platforms Inc",
+    "weight": 3.3
+   },
+   {
+    "ticker": "NEE",
+    "name": "NextEra Energy Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "WMT",
+    "name": "Walmart Inc",
+    "weight": 3.1
+   },
+   {
+    "ticker": "#N/A",
+    "name": "#N/A Field Not Applicable Equity",
+    "weight": 0.0
+   },
+   {
+    "ticker": "#N/A",
+    "name": "#N/A Field Not Applicable Equity",
+    "weight": 0.0
+   },
+   {
+    "ticker": "#N/A",
+    "name": "#N/A Field Not Applicable Equity",
+    "weight": 0.0
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.6
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.9
+   },
+   {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc",
+    "weight": 8.9
+   },
+   {
+    "ticker": "MU",
+    "name": "Micron Technology Inc",
+    "weight": 8.0
+   },
+   {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp",
+    "weight": 7.8
+   },
+   {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc",
+    "weight": 7.7
+   },
+   {
+    "ticker": "AAPL",
+    "name": "Apple Inc",
+    "weight": 6.9
+   },
+   {
+    "ticker": "LRCX",
+    "name": "Lam Research Corp",
+    "weight": 6.8
+   },
+   {
+    "ticker": "AMAT",
+    "name": "Applied Materials Inc",
+    "weight": 6.7
+   },
+   {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp",
+    "weight": 6.6
+   },
+   {
+    "ticker": "INTC",
+    "name": "Intel Corp",
+    "weight": 6.5
+   },
+   {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc",
+    "weight": 6.3
+   },
+   {
+    "ticker": "NFLX",
+    "name": "Netflix Inc",
+    "weight": 6.3
+   },
+   {
+    "ticker": "META",
+    "name": "Meta Platforms Inc",
+    "weight": 6.0
+   },
+   {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc",
+    "weight": 5.9
+   },
+   {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc",
+    "weight": 5.9
+   },
+   {
+    "ticker": "TSLA",
+    "name": "Tesla Inc",
+    "weight": 5.3
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.7
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.9
+   },
+   {
+    "ticker": "TLT",
+    "name": "iShares 20+ Year Treasury Bond",
+    "weight": 50.4
+   },
+   {
+    "ticker": "VGLT",
+    "name": "Vanguard Long-Term Treasury ET",
+    "weight": 40.4
+   },
+   {
+    "ticker": "EDV",
+    "name": "Vanguard Extended Duration Tre",
+    "weight": 10.1
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": -0.2
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.8
+   },
+   {
+    "ticker": "SGOV",
+    "name": "iShares 0-3 Month Treasury Bon",
+    "weight": 80.3
+   },
+   {
+    "ticker": "TLT",
+    "name": "iShares 20+ Year Treasury Bond",
+    "weight": 20.0
+   },
+   {
+    "ticker": "",
+    "name": "Written Call Options",
+    "weight": 0.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": -0.3
+   },
+   {
+    "ticker": "WPM",
+    "name": "Wheaton Precious Metals Corp",
+    "weight": 5.1
+   },
+   {
+    "ticker": "AEM",
+    "name": "Agnico Eagle Mines Ltd",
+    "weight": 5.0
+   },
+   {
+    "ticker": "FNV",
+    "name": "Franco-Nevada Corp",
+    "weight": 4.8
+   },
+   {
+    "ticker": "CNQ",
+    "name": "Canadian Natural Resources Ltd",
+    "weight": 4.7
+   },
+   {
+    "ticker": "NTR",
+    "name": "Nutrien Ltd",
+    "weight": 4.4
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 4.1
+   },
+   {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "weight": 4.0
+   },
+   {
+    "ticker": "QSR",
+    "name": "Restaurant Brands Internationa",
+    "weight": 4.0
+   },
+   {
+    "ticker": "CP",
+    "name": "Canadian Pacific Kansas City L",
+    "weight": 4.0
+   },
+   {
+    "ticker": "CNR",
+    "name": "Canadian National Railway Co",
+    "weight": 4.0
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 3.9
+   },
+   {
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc",
+    "weight": 3.9
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 3.8
+   },
+   {
+    "ticker": "L",
+    "name": "Loblaw Cos Ltd",
+    "weight": 3.8
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 3.8
+   },
+   {
+    "ticker": "WCN",
+    "name": "Waste Connections Inc",
+    "weight": 3.8
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 3.8
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 3.8
+   },
+   {
+    "ticker": "FTS",
+    "name": "Fortis Inc/Canada",
+    "weight": 3.7
+   },
+   {
+    "ticker": "DOL",
+    "name": "Dollarama Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "ENB",
+    "name": "Enbridge Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "ATD",
+    "name": "Alimentation Couche-Tard Inc",
+    "weight": 3.6
+   },
+   {
+    "ticker": "T",
+    "name": "TELUS Corp",
+    "weight": 3.5
+   },
+   {
+    "ticker": "IFC",
+    "name": "Intact Financial Corp",
+    "weight": 3.5
+   },
+   {
+    "ticker": "RBA",
+    "name": "RB Global Inc",
+    "weight": 3.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.1
+   },
+   {
+    "ticker": "BDX",
+    "name": "Becton Dickinson & Co",
+    "weight": 3.3
+   },
+   {
+    "ticker": "TGT",
+    "name": "Target Corp",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ROP",
+    "name": "Roper Technologies Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "CVX",
+    "name": "Chevron Corp",
+    "weight": 3.2
+   },
+   {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corp",
+    "weight": 3.1
+   },
+   {
+    "ticker": "WAT",
+    "name": "Waters Corp",
+    "weight": 3.0
+   },
+   {
+    "ticker": "MDT",
+    "name": "Medtronic PLC",
+    "weight": 2.9
+   },
+   {
+    "ticker": "EMR",
+    "name": "Emerson Electric Co",
+    "weight": 2.9
+   },
+   {
+    "ticker": "KO",
+    "name": "Coca-Cola Co/The",
+    "weight": 2.8
+   },
+   {
+    "ticker": "FAST",
+    "name": "Fastenal Co",
+    "weight": 2.8
+   },
+   {
+    "ticker": "APD",
+    "name": "Air Products and Chemicals Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "ECL",
+    "name": "Ecolab Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "SPGI",
+    "name": "S&P Global Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams Co/The",
+    "weight": 2.7
+   },
+   {
+    "ticker": "GD",
+    "name": "General Dynamics Corp",
+    "weight": 2.6
+   },
+   {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "weight": 2.6
+   },
+   {
+    "ticker": "PG",
+    "name": "Procter & Gamble Co/The",
+    "weight": 2.6
+   },
+   {
+    "ticker": "PEP",
+    "name": "PepsiCo Inc",
+    "weight": 2.6
+   },
+   {
+    "ticker": "GWW",
+    "name": "WW Grainger Inc",
+    "weight": 2.6
+   },
+   {
+    "ticker": "O",
+    "name": "Realty Income Corp",
+    "weight": 2.6
+   },
+   {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark Corp",
+    "weight": 2.6
+   },
+   {
+    "ticker": "CAH",
+    "name": "Cardinal Health Inc",
+    "weight": 2.6
+   },
+   {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive Co",
+    "weight": 2.5
+   },
+   {
+    "ticker": "ED",
+    "name": "Consolidated Edison Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "LOW",
+    "name": "Lowe's Cos Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "NEE",
+    "name": "NextEra Energy Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "AFL",
+    "name": "Aflac Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "MBGL",
+    "name": "Mobility Global Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "CB",
+    "name": "Chubb Ltd",
+    "weight": 2.5
+   },
+   {
+    "ticker": "MCD",
+    "name": "McDonald's Corp",
+    "weight": 2.5
+   },
+   {
+    "ticker": "WMT",
+    "name": "Walmart Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "LLY",
+    "name": "Eli Lilly & Co",
+    "weight": 2.4
+   },
+   {
+    "ticker": "LIN",
+    "name": "Linde PLC",
+    "weight": 2.4
+   },
+   {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc",
+    "weight": 2.2
+   },
+   {
+    "ticker": "IBM",
+    "name": "International Business Machine",
+    "weight": 2.0
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.4
+   },
+   {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp",
+    "weight": 6.4
+   },
+   {
+    "ticker": "TSLA",
+    "name": "Tesla Inc",
+    "weight": 6.4
+   },
+   {
+    "ticker": "AAPL",
+    "name": "Apple Inc",
+    "weight": 6.3
+   },
+   {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp",
+    "weight": 6.1
+   },
+   {
+    "ticker": "META",
+    "name": "Meta Platforms Inc",
+    "weight": 6.0
+   },
+   {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc",
+    "weight": 5.9
+   },
+   {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc",
+    "weight": 5.8
+   },
+   {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc",
+    "weight": 5.4
+   },
+   {
+    "ticker": "MU",
+    "name": "Micron Technology Inc",
+    "weight": 5.2
+   },
+   {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc",
+    "weight": 3.7
+   },
+   {
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions",
+    "weight": 3.5
+   },
+   {
+    "ticker": "WDAY",
+    "name": "Workday Inc",
+    "weight": 3.5
+   },
+   {
+    "ticker": "ADBE",
+    "name": "Adobe Inc",
+    "weight": 3.4
+   },
+   {
+    "ticker": "INTU",
+    "name": "Intuit Inc",
+    "weight": 3.3
+   },
+   {
+    "ticker": "NFLX",
+    "name": "Netflix Inc",
+    "weight": 3.3
+   },
+   {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks Inc",
+    "weight": 3.2
+   },
+   {
+    "ticker": "LRCX",
+    "name": "Lam Research Corp",
+    "weight": 2.9
+   },
+   {
+    "ticker": "EBAY",
+    "name": "eBay Inc",
+    "weight": 2.9
+   },
+   {
+    "ticker": "TXN",
+    "name": "Texas Instruments Inc",
+    "weight": 2.8
+   },
+   {
+    "ticker": "KLAC",
+    "name": "KLA Corp",
+    "weight": 2.7
+   },
+   {
+    "ticker": "CSCO",
+    "name": "Cisco Systems Inc",
+    "weight": 2.7
+   },
+   {
+    "ticker": "INTC",
+    "name": "Intel Corp",
+    "weight": 2.6
+   },
+   {
+    "ticker": "AMAT",
+    "name": "Applied Materials Inc",
+    "weight": 2.5
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.2
+   },
+   {
+    "ticker": "CU",
+    "name": "Canadian Utilities Ltd",
+    "weight": 9.0
+   },
+   {
+    "ticker": "FTS",
+    "name": "Fortis Inc/Canada",
+    "weight": 8.8
+   },
+   {
+    "ticker": "PPL",
+    "name": "Pembina Pipeline Corp",
+    "weight": 8.7
+   },
+   {
+    "ticker": "ALA",
+    "name": "AltaGas Ltd",
+    "weight": 8.7
+   },
+   {
+    "ticker": "EMA",
+    "name": "Emera Inc",
+    "weight": 8.6
+   },
+   {
+    "ticker": "BIP-U",
+    "name": "Brookfield Infrastructure Part",
+    "weight": 8.6
+   },
+   {
+    "ticker": "RCI/B",
+    "name": "Rogers Communications Inc",
+    "weight": 8.5
+   },
+   {
+    "ticker": "BCE",
+    "name": "BCE Inc",
+    "weight": 8.4
+   },
+   {
+    "ticker": "TRP",
+    "name": "TC Energy Corp",
+    "weight": 8.1
+   },
+   {
+    "ticker": "ENB",
+    "name": "Enbridge Inc",
+    "weight": 7.9
+   },
+   {
+    "ticker": "BEP-U",
+    "name": "Brookfield Renewable Partners",
+    "weight": 7.5
+   },
+   {
+    "ticker": "T",
+    "name": "TELUS Corp",
+    "weight": 6.9
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.2
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 17.6
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 17.4
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 17.3
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 16.5
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 15.8
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 15.4
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.0
+   },
+   {
+    "ticker": "GWO",
+    "name": "Great-West Lifeco Inc",
+    "weight": 9.3
+   },
+   {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia/The",
+    "weight": 9.2
+   },
+   {
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "weight": 8.8
+   },
+   {
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank/The",
+    "weight": 8.8
+   },
+   {
+    "ticker": "BMO",
+    "name": "Bank of Montreal",
+    "weight": 8.7
+   },
+   {
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc",
+    "weight": 8.5
+   },
+   {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "weight": 8.4
+   },
+   {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Comm",
+    "weight": 8.0
+   },
+   {
+    "ticker": "NA",
+    "name": "National Bank of Canada",
+    "weight": 7.9
+   },
+   {
+    "ticker": "IFC",
+    "name": "Intact Financial Corp",
+    "weight": 7.8
+   },
+   {
+    "ticker": "FFH",
+    "name": "Fairfax Financial Holdings Ltd",
+    "weight": 7.3
+   },
+   {
+    "ticker": "BN",
+    "name": "Brookfield Corp",
+    "weight": 7.1
+   },
+   {
+    "ticker": "",
+    "name": "Cash and Other Assets/Liabilities",
+    "weight": 0.2
+   }
+  ]
+ }
+]

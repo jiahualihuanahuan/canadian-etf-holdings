@@ -1,0 +1,194 @@
+etf_ticker,holding_ticker,holding_name,weight_pct
+GBFC,,Government of Canada,1.9
+GBFC,,"Manitoba, Province of",2.4
+GBFC,,"Ontario, Province of",7.0
+GBFC,,Hydro One Inc.,8.9
+GBFC,,Stantec Inc.,9.5
+GBFC,,North West Redwater Partnership/NWR Financing Company Limited,9.6
+GBFC,,Canadian Imperial Bank of Commerce,9.6
+GBFC,,Bell Canada,9.6
+GBFC,,AltaGas Limited,9.7
+GBFC,,Toyota Credit Canada Inc.,9.7
+GBFC,,Royal Bank of Canada,4.9
+GBFC,,Inter Pipeline Limited,4.8
+GBFC,,Enbridge Inc.,4.8
+GBFC,,Sun Life Financial Inc.,2.4
+GBFC,,The Toronto-Dominion Bank,2.4
+GBFC,,Choice Properties Real Estate Investment Trust,2.4
+GBFD,,"Ontario, Province of",19.9
+GBFD,,Ontario Teachers' Finance Trust,9.5
+GBFD,,Bell Canada,9.5
+GBFD,,OMERS Finance Trust,9.5
+GBFD,,Saputo Inc.,9.4
+GBFD,,Granite REIT Holdings Limited Partnership,8.7
+GBFD,,The Bank of Nova Scotia,7.8
+GBFD,,Choice Properties Real Estate Investment Trust,7.2
+GBFD,,Royal Bank of Canada,6.2
+GBFD,,Canadian Imperial Bank of Commerce,5.4
+GBFD,,Wells Fargo & Company,3.8
+GBFD,,North West Redwater Partnership/NWR Financing Company Limited,2.1
+GBFD,,Heathrow Funding Limited,0.4
+GBFD,,Hyundai Capital Canada Inc.,0.2
+GBFE,,"Nova Scotia, Province of",11.0
+GBFE,,CGI Inc.,9.5
+GBFE,,The Toronto-Dominion Bank,9.5
+GBFE,,Granite REIT Holdings Limited Partnership,9.5
+GBFE,,WSP Global Inc.,9.4
+GBFE,,Greater Toronto Airports Authority,9.2
+GBFE,,Verizon Communications Inc.,8.8
+GBFE,,Hydro-Québec,7.6
+GBFE,,Honda Canada Finance Inc.,5.0
+GBFE,,TELUS Corporation,4.2
+GBFE,,The Bank of Nova Scotia,3.8
+GBFE,,Bank of Montreal,3.8
+GBFE,,"Québec, Province of",3.4
+GBFE,,Bell Canada,1.7
+GBFE,,Videotron Limited,1.3
+GBFE,,"Ontario, Province of",1.0
+GBFE,,Royal Bank of Canada,0.9
+GBFE,,Municipal Finance Authority of British Columbia,0.1
+GBFF,,"Ontario, Province of",19.8
+GBFF,,National Grid Electricity Transmission PLC,9.5
+GBFF,,Nestle Holdings Inc.,9.5
+GBFF,,Gibson Energy Inc.,9.5
+GBFF,,Bell Canada,9.4
+GBFF,,Enbridge Inc.,9.4
+GBFF,,Brookfield Infrastructure Finance ULC,9.3
+GBFF,,AIMCo Realty Investors Limited Partnership,8.2
+GBFF,,TransCanada Pipelines Limited,5.1
+GBFF,,Ontario Power Generation Inc.,4.9
+GBFF,,Rogers Communications Inc.,2.6
+GBFF,,Municipal Finance Authority of British Columbia,1.6
+GBFF,,"Quebec, Province of",0.3
+GBFF,,OMERS Finance Trust,0.2
+GBFF,,Choice Properties Real Estate Investment Trust,0.1
+GBLF,GBFC,GuardBonds 2026 Investment Grade Bond Fund - ETF Units,33.7
+GBLF,GBFD,GuardBonds 2027 Investment Grade Bond Fund - ETF Units,33.4
+GBLF,GBFE,GuardBonds 2028 Investment Grade Bond Fund - ETF Units,32.8
+GCBD,,Government of Canada,31.1
+GCBD,,"Ontario, Province of",19.6
+GCBD,,"Quebec, Province of",11.2
+GCBD,,Canada Housing Trust No.1,5.9
+GCBD,,"British Columbia, Province of",4.1
+GCBD,,"Alberta, Province of",3.6
+GCBD,,"Manitoba, Province of",3.4
+GCBD,,Bank of Montreal,2.8
+GCBD,,Royal Bank of Canada,2.7
+GCBD,,The Toronto-Dominion Bank,2.6
+GCBD,,"Saskatchewan, Province of",1.5
+GCBD,,Canadian Imperial Bank of Commerce,1.3
+GCBD,,"New Brunswick, Province of",1.2
+GCBD,,Enbridge Inc.,1.2
+GCBD,,TransCanada PipeLines Limited,0.9
+GCBD,,"Nova Scotia, Province of",0.9
+GCBD,,"Newfoundland and Labrador, Province of",0.8
+GCBD,,Bell Canada,0.8
+GCBD,,407 International Inc.,0.6
+GCBD,,TELUS Corporation,0.6
+GCBD,,Greater Toronto Airports Authority,0.4
+GCBD,,"Prince Edward Island, Province of",0.4
+GCBD,,Brookfield Infrastructure Finance ULC,0.3
+GCBD,,Bank of Nova Scotia,0.3
+GCBD,,AIMCo Realty Investors Limited Partnership,0.3
+GCEI,,Royal Bank of Canada,7.1
+GCEI,,The Toronto-Dominion Bank,6.2
+GCEI,,Canadian Natural Resources Limited,5.1
+GCEI,,Canadian Pacific Kansas City Limited,4.6
+GCEI,,Bank of Montreal,4.4
+GCEI,,Enbridge Inc.,4.0
+GCEI,,Canadian National Railway Company,3.7
+GCEI,,"Brookfield Asset Management Limited, Class A",3.5
+GCEI,,Intact Financial Corporation,3.4
+GCEI,,Constellation Software Inc.,3.3
+GCEI,,The Bank of Nova Scotia,3.2
+GCEI,,Canadian Imperial Bank of Commerce,3.2
+GCEI,,Manulife Financial Corporation,3.1
+GCEI,,Sun Life Financial Inc.,3.1
+GCEI,,Suncor Energy Inc.,3.0
+GCEI,,Nutrien Limited,2.9
+GCEI,,TC Energy Corporation,2.8
+GCEI,,Thomson Reuters Corporation,2.4
+GCEI,,Loblaw Companies Limited,2.1
+GCEI,,Waste Connections Inc.,2.0
+GCEI,,Agnico Eagle Mines Limited,1.9
+GCEI,,Power Corporation of Canada,1.7
+GCEI,,"Rogers Communications Inc., Class B",1.7
+GCEI,,WSP Global Inc.,1.7
+GCEI,,Alimentation Couche-Tard Inc.,1.6
+GCFE,,Canadian Natural Resources Limited,6.2
+GCFE,,Fairfax Financial Holdings Limited,6.1
+GCFE,,"CGI Inc., Class 'A'",6.0
+GCFE,,Agnico Eagle Mines Limited,5.9
+GCFE,,Capital Power Corporation,5.9
+GCFE,,"Brookfield Corporation, Class 'A'",5.5
+GCFE,,Maple Leaf Foods Inc.,5.4
+GCFE,,"CCL Industries Inc., Class 'B'",5.2
+GCFE,,Trisura Group Limited,5.1
+GCFE,,Suncor Energy Inc.,5.0
+GCFE,,Alimentation Couche-Tard Inc.,4.9
+GCFE,,Element Fleet Management Corporation,4.8
+GCFE,,Open Text Corporation,4.6
+GCFE,,"Teck Resources Limited, Class 'B'",4.5
+GCFE,,MDA Space Limited,4.3
+GCFE,,Boyd Group Services Inc.,4.1
+GCFE,,Spin Master Corporation,3.6
+GCFE,,Canadian Apartment Properties Real Estate Investment Trust,3.4
+GCFE,,ARC Resources Limited,3.1
+GCFE,,EQB Inc.,2.5
+GCFE,,Mattr Corporation,2.3
+GCFE,,"Government of Canada, Treasury Bill",1.1
+GCSC,,Royal Bank of Canada,7.1
+GCSC,,Maple Leaf Foods Inc.,6.0
+GCSC,,Brookfield Corporation,4.8
+GCSC,,Canadian Pacific Kansas City Limited,4.2
+GCSC,,Alimentation Couche-Tard Inc.,4.2
+GCSC,,"CGI Inc., Class 'A'",4.1
+GCSC,,MDA Space Limited,3.9
+GCSC,,Restaurant Brands International Inc.,3.7
+GCSC,,Open Text Corporation,3.7
+GCSC,,"Gildan Activewear Inc., Class 'A'",3.6
+GCSC,,"Metro Inc., Class 'A'",3.5
+GCSC,,Canadian Imperial Bank of Commerce,3.5
+GCSC,,"Shopify Inc., Class 'A'",3.4
+GCSC,,Element Fleet Management Corporation,3.1
+GCSC,,Boyd Group Services Inc.,3.1
+GCSC,,Fairfax Financial Holdings Limited,3.1
+GCSC,,Capital Power Corporation,2.9
+GCSC,,Bank of Montreal,2.8
+GCSC,,Canadian Natural Resources Limited,2.6
+GCSC,,Suncor Energy Inc.,2.6
+GCSC,,The Toronto-Dominion Bank,2.1
+GCSC,,Stantec Inc.,2.1
+GCSC,,"Government of Canada, Treasury Bill",2.0
+GCSC,,TMX Group Limited,1.8
+GCSC,,WSP Global Inc.,1.7
+GCTB,,"Province of Ontario, Treasury Bills",29.0
+GCTB,,"Province of Alberta, Treasury Bills",27.9
+GCTB,,"Province of Quebec, Treasury Bills",21.6
+GCTB,,"Province of British Columbia, Treasury Bills",17.9
+GCTB,,"Government of Canada, Treasury Bill",3.7
+GFGE,,"CME Group Inc., Class 'A'",9.6
+GFGE,,Yum China Holdings Inc.,7.1
+GFGE,,L'Oreal SA,5.7
+GFGE,,"Mastercard Inc., Class 'A'",5.5
+GFGE,,Booking Holdings Inc.,5.3
+GFGE,,Reckitt Benckiser Group PLC,5.0
+GFGE,,"Novonesis (Novozymes A/S), Class 'B'",5.0
+GFGE,,Colgate-Palmolive Company,4.8
+GFGE,,EssilorLuxottica SA,4.7
+GFGE,,UnitedHealth Group Inc.,4.3
+GFGE,,Microsoft Corporation,4.0
+GFGE,,Illumina Inc.,3.6
+GFGE,,MarketAxess Holdings Inc.,3.6
+GFGE,,"Verisk Analytics Inc., Class 'A'",3.3
+GFGE,,Adobe Inc.,3.1
+GFGE,,"NIKE Inc., Class 'B'",3.1
+GFGE,,Nestle SA,3.1
+GFGE,,RELX PLC,2.9
+GFGE,,Intertek Group PLC,2.9
+GFGE,,Keyence Corporation,2.6
+GFGE,,"Accenture PLC, Class 'A'",2.4
+GFGE,,Automatic Data Processing Inc.,2.1
+GFGE,,Dassault Systemes SE,2.0
+GFGE,,Adyen NV,2.0
+GFGE,,"Government of Canada, Treasury Bill",1.3

@@ -1,0 +1,191 @@
+TICKER,HOLDING_TICKER,HOLDING_NAME,WEIGHT_PCT,AS_OF_DATE
+NBUE,,Microsoft Corp,9.89,2026-08-31
+NBUE,,Alphabet Inc Cl A,9.22,2026-08-31
+NBUE,,Moody's Corp,7.57,2026-08-31
+NBUE,,Amazon.com Inc,6.95,2026-08-31
+NBUE,,Mastercard Inc Cl A,6.65,2026-08-31
+NBUE,,Analog Devices Inc,5.10,2026-08-31
+NBUE,,CME Group Inc Cl A,4.79,2026-08-31
+NBUE,,Autozone Inc,4.74,2026-08-31
+NBUE,,KLA Corp,4.50,2026-08-31
+NBUE,,Linde PLC,3.71,2026-08-31
+NBUE.F,,Microsoft Corp,9.89,2026-08-31
+NBUE.F,,Alphabet Inc Cl A,9.22,2026-08-31
+NBUE.F,,Moody's Corp,7.57,2026-08-31
+NBUE.F,,Amazon.com Inc,6.95,2026-08-31
+NBUE.F,,Mastercard Inc Cl A,6.65,2026-08-31
+NBUE.F,,Analog Devices Inc,5.10,2026-08-31
+NBUE.F,,CME Group Inc Cl A,4.79,2026-08-31
+NBUE.F,,Autozone Inc,4.74,2026-08-31
+NBUE.F,,KLA Corp,4.50,2026-08-31
+NBUE.F,,Linde PLC,3.71,2026-08-31
+NBUX,,NVIDIA Corp,7.57,2026-08-31
+NBUX,,Apple Inc,6.80,2026-08-31
+NBUX,,Microsoft Corp,5.51,2026-08-31
+NBUX,,Amazon.com Inc,3.73,2026-08-31
+NBUX,,Alphabet Inc Cl A,2.91,2026-08-31
+NBUX,,Broadcom Inc,2.52,2026-08-31
+NBUX,,Alphabet Inc Cl C,2.31,2026-08-31
+NBUX,,Meta Platforms Inc Cl A,1.83,2026-08-31
+NBUX,SPY,SPDR S&P 500 ETF Trust (SPY),1.77,2026-08-31
+NBUX,,Micron Technology Inc,1.58,2026-08-31
+NCNS,NSCB,NBI Sustainable Canadian Bond ETF (NSCB),33.92,2026-08-31
+NCNS,NCPB,NBI Canadian Core Plus Bond Fund ETF (NCPB),16.90,2026-08-31
+NCNS,NUBF,NBI Unconstrained Fixed Income ETF (NUBF),16.84,2026-08-31
+NCNS,NBUX,NBI U.S. Equity Index Fund ETF Series (NBUX),9.02,2026-08-31
+NCNS,NBCX,NBI Canadian Equity Index Fund ETF Series (NBCX),6.95,2026-08-31
+NCNS,NBIX,NBI International Equity Index Fund ETF (NBIX),3.96,2026-08-31
+NCNS,NBEM,NBI Diversified Emerging Markets Equ Fd ETF (NBEM),3.52,2026-08-31
+NCNS,NUSA,NBI Active U.S. Equity ETF (NUSA),3.03,2026-08-31
+NCNS,NBCG,NBI Canadian Equity Growth Fund ETF Series (NBCG),2.31,2026-08-31
+NCNS,NBIV,NBI International Value Fund ETF (NBIV),1.32,2026-08-31
+NCPB,,NBI Senior Loan Fund Series O,3.95,2026-08-31
+NCPB,,Canada Government 3.25% 01-Jun-2036,3.18,2026-08-31
+NCPB,,Canada Government 3.25% 01-Dec-2035,3.14,2026-08-31
+NCPB,,Canada Government 2.75% 01-Dec-2055,2.91,2026-08-31
+NCPB,,"Canada Housing Trust No 1 1.10% 15-Mar-2031",2.63,2026-08-31
+NCPB,,Canada Government 1.50% 01-Dec-2031,2.61,2026-08-31
+NCPB,,Hydro-Quebec 3.55% 01-Sep-2032,2.47,2026-08-31
+NCPB,,Government of Canada 3.50% 01-Dec-2036,2.43,2026-08-31
+NCPB,,Canada Government 3.25% 01-Jun-2035,2.06,2026-08-31
+NCPB,,Canada Government 3.25% 01-Mar-2036,2.00,2026-08-31
+NDIV,,Royal Bank of Canada,8.08,2026-08-31
+NDIV,,Toronto-Dominion Bank,6.03,2026-08-31
+NDIV,,Bank of Nova Scotia,5.72,2026-08-31
+NDIV,,Lundin Gold Inc,4.66,2026-08-31
+NDIV,,Agnico Eagle Mines Ltd,4.28,2026-08-31
+NDIV,,Brookfield Asset Management Ltd Cl A,4.18,2026-08-31
+NDIV,,Bank of Montreal,4.11,2026-08-31
+NDIV,,Wheaton Precious Metals Corp,3.62,2026-08-31
+NDIV,,Whitecap Resources Inc,3.60,2026-08-31
+NDIV,,Parex Resources Inc,3.19,2026-08-31
+NEQT,NBUX,NBI U.S. Equity Index Fund ETF Series (NBUX),28.20,2026-08-31
+NEQT,NBCX,NBI Canadian Equity Index Fund ETF Series (NBCX),21.71,2026-08-31
+NEQT,NBIX,NBI International Equity Index Fund ETF (NBIX),12.39,2026-08-31
+NEQT,NBEM,NBI Diversified Emerging Markets Equ Fd ETF (NBEM),10.95,2026-08-31
+NEQT,NUSA,NBI Active U.S. Equity ETF (NUSA),9.42,2026-08-31
+NEQT,NBCG,NBI Canadian Equity Growth Fund ETF Series (NBCG),7.23,2026-08-31
+NEQT,NBIV,NBI International Value Fund ETF (NBIV),4.12,2026-08-31
+NEQT,NTHM,NBI Active Canadian Equity ETF (NTHM),3.02,2026-08-31
+NEQT,NREA,NBI Global Real Assets Income ETF (NREA),2.87,2026-08-31
+NEQT,,Cash and Cash Equivalents,0.10,2026-08-31
+NGPE,,Blackstone Inc,8.28,2026-08-31
+NGPE,,3i Group PLC,8.21,2026-08-31
+NGPE,,KKR & Co Inc,7.77,2026-08-31
+NGPE,,Apollo Global Management Inc,7.07,2026-08-31
+NGPE,,EQT AB,5.69,2026-08-31
+NGPE,,Ares Management Corp Cl A,4.95,2026-08-31
+NGPE,,Brookfield Asset Management Ltd Cl A,4.93,2026-08-31
+NGPE,,CVC Capital Partners PLC,4.45,2026-08-31
+NGPE,,Partners Group Holding AG,4.10,2026-08-31
+NGPE,,T Rowe Price Group Inc,3.71,2026-08-31
+NGRW,NBUX,NBI U.S. Equity Index Fund ETF Series (NBUX),23.02,2026-08-31
+NGRW,NBCX,NBI Canadian Equity Index Fund ETF Series (NBCX),17.90,2026-08-31
+NGRW,NBIX,NBI International Equity Index Fund ETF (NBIX),10.20,2026-08-31
+NGRW,NSCB,NBI Sustainable Canadian Bond ETF (NSCB),9.08,2026-08-31
+NGRW,NBEM,NBI Diversified Emerging Markets Equ Fd ETF (NBEM),8.73,2026-08-31
+NGRW,NUSA,NBI Active U.S. Equity ETF (NUSA),7.72,2026-08-31
+NGRW,NBCG,NBI Canadian Equity Growth Fund ETF Series (NBCG),5.95,2026-08-31
+NGRW,NCPB,NBI Canadian Core Plus Bond Fund ETF (NCPB),4.56,2026-08-31
+NGRW,NUBF,NBI Unconstrained Fixed Income ETF (NUBF),4.52,2026-08-31
+NGRW,NBIV,NBI International Value Fund ETF (NBIV),3.38,2026-08-31
+NHYB,,Cash and Cash Equivalents,6.02,2026-08-31
+NHYB,,CCO Holdings LLC 4.75% 01-Mar-2030,1.66,2026-08-31
+NHYB,,Government of the United States 4.13% 30-Apr-2033,0.95,2026-08-31
+NHYB,,CCO Holdings LLC 4.25% 01-Feb-2031,0.73,2026-08-31
+NHYB,,CCO Holdings LLC 4.50% 15-Aug-2030,0.68,2026-08-31
+NHYB,,Sirius XM Radio LLC 4.00% 15-Jul-2028,0.63,2026-08-31
+NHYB,,Nexstar Broadcasting Inc. 6.50% 15-Sep-2033,0.60,2026-08-31
+NHYB,,DISH DBS Corp 5.25% 01-Dec-2026,0.57,2026-08-31
+NHYB,,Live Nation Entertainment Inc 4.75% 15-Oct-2027,0.56,2026-08-31
+NHYB,,Mauser Packaging Solutions Holding Co. 7.88% 01-Jun-2027,0.55,2026-08-31
+NINT,,Taiwan Semiconductor Manufactrg Co Ltd - ADR,4.22,2026-08-31
+NINT,,Standard Chartered PLC,3.06,2026-08-31
+NINT,,Cash and Cash Equivalents,3.00,2026-08-31
+NINT,,Orix Corp,2.98,2026-08-31
+NINT,,Sumitomo Mitsui Trust Holdings Inc,2.96,2026-08-31
+NINT,,Safran SA,2.90,2026-08-31
+NINT,,Prudential PLC,2.86,2026-08-31
+NINT,,Schneider Electric SE,2.84,2026-08-31
+NINT,,ING Groep NV,2.84,2026-08-31
+NINT,,L'Air Liquide SA,2.83,2026-08-31
+NINV,,Alphabet Inc Cl A,6.62,2026-08-31
+NINV,,Microsoft Corp,6.51,2026-08-31
+NINV,,Amazon.com Inc,6.15,2026-08-31
+NINV,,NVIDIA Corp,5.18,2026-08-31
+NINV,,Broadcom Inc,4.03,2026-08-31
+NINV,,Apple Inc,3.73,2026-08-31
+NINV,,Micron Technology Inc,3.09,2026-08-31
+NINV,,Cash and Cash Equivalents,3.04,2026-08-31
+NINV,,Eli Lilly and Co,2.46,2026-08-31
+NINV,,Mastercard Inc Cl A,2.31,2026-08-31
+NINV.F,,Alphabet Inc Cl A,6.62,2026-08-31
+NINV.F,,Microsoft Corp,6.51,2026-08-31
+NINV.F,,Amazon.com Inc,6.15,2026-08-31
+NINV.F,,NVIDIA Corp,5.18,2026-08-31
+NINV.F,,Broadcom Inc,4.03,2026-08-31
+NINV.F,,Apple Inc,3.73,2026-08-31
+NINV.F,,Micron Technology Inc,3.09,2026-08-31
+NINV.F,,Cash and Cash Equivalents,3.04,2026-08-31
+NINV.F,,Eli Lilly and Co,2.46,2026-08-31
+NINV.F,,Mastercard Inc Cl A,2.31,2026-08-31
+NMBL,SCHB,Schwab US Broad Market ETF (SCHB),21.27,2026-08-31
+NMBL,ZAG,BMO Aggregate Bond Index ETF (ZAG),18.19,2026-08-31
+NMBL,ZCN,BMO S&P/TSX Capped Composite Index ETF (ZCN),14.52,2026-08-31
+NMBL,IEFA,iShares Core MSCI EAFE ETF (IEFA),5.73,2026-08-31
+NMBL,IEMG,iShares Core MSCI Emerging Markets ETF (IEMG),5.19,2026-08-31
+NMBL,WXM,CI MStar Canada Moment Indx ETF (WXM),4.78,2026-08-31
+NMBL,ZCB,BMO Corporate Bond Index ETF (ZCB),4.78,2026-08-31
+NMBL,ZUQ,BMO MSCI USA High Quality Index ETF (ZUQ),2.63,2026-08-31
+NMBL,SPMO,Invesco S&P 500 Momentum ETF (SPMO),2.30,2026-08-31
+NMBL,RSP,Invesco S&P 500 Eql Wght ETF (RSP),2.19,2026-08-31
+NMEQ,SCHB,Schwab US Broad Market ETF (SCHB),30.85,2026-08-31
+NMEQ,ZCN,BMO S&P/TSX Capped Composite Index ETF (ZCN),20.89,2026-08-31
+NMEQ,IEFA,iShares Core MSCI EAFE ETF (IEFA),8.43,2026-08-31
+NMEQ,IEMG,iShares Core MSCI Emerging Markets ETF (IEMG),7.28,2026-08-31
+NMEQ,WXM,CI MStar Canada Moment Indx ETF (WXM),7.07,2026-08-31
+NMEQ,ZUQ,BMO MSCI USA High Quality Index ETF (ZUQ),3.92,2026-08-31
+NMEQ,SPMO,Invesco S&P 500 Momentum ETF (SPMO),3.31,2026-08-31
+NMEQ,RSP,Invesco S&P 500 Eql Wght ETF (RSP),3.27,2026-08-31
+NMEQ,NSDI,NBI SmartData International Equity Fund ETF (NSDI),2.77,2026-08-31
+NMEQ,QQQ,Invesco QQQ ETF (QQQ),2.67,2026-08-31
+NMGR,SCHB,Schwab US Broad Market ETF (SCHB),27.49,2026-08-31
+NMGR,ZCN,BMO S&P/TSX Capped Composite Index ETF (ZCN),19.26,2026-08-31
+NMGR,IEFA,iShares Core MSCI EAFE ETF (IEFA),7.43,2026-08-31
+NMGR,IEMG,iShares Core MSCI Emerging Markets ETF (IEMG),6.47,2026-08-31
+NMGR,WXM,CI MStar Canada Moment Indx ETF (WXM),6.06,2026-08-31
+NMGR,ZAG,BMO Aggregate Bond Index ETF (ZAG),5.61,2026-08-31
+NMGR,ZUQ,BMO MSCI USA High Quality Index ETF (ZUQ),3.46,2026-08-31
+NMGR,SPMO,Invesco S&P 500 Momentum ETF (SPMO),2.91,2026-08-31
+NMGR,RSP,Invesco S&P 500 Eql Wght ETF (RSP),2.89,2026-08-31
+NMGR,NSDI,NBI SmartData International Equity Fund ETF (NSDI),2.46,2026-08-31
+NMMO,ZAG,BMO Aggregate Bond Index ETF (ZAG),27.68,2026-08-31
+NMMO,ZCN,BMO S&P/TSX Capped Composite Index ETF (ZCN),11.43,2026-08-31
+NMMO,SCHB,Schwab US Broad Market ETF (SCHB),16.73,2026-08-31
+NMMO,ZCB,BMO Corporate Bond Index ETF (ZCB),7.27,2026-08-31
+NMMO,IEFA,iShares Core MSCI EAFE ETF (IEFA),4.53,2026-08-31
+NMMO,IEMG,iShares Core MSCI Emerging Markets ETF (IEMG),4.01,2026-08-31
+NMMO,WXM,CI MStar Canada Moment Indx ETF (WXM),3.78,2026-08-31
+NMMO,USHY,iShares Broad USD High Yield Corp Bond ETF (USHY),3.25,2026-08-31
+NMMO,EMB,iShares JPMorgan USD EM Bond ETF (EMB),3.25,2026-08-31
+NMMO,ZPL,BMO Long Provincial Bond Index ETF (ZPL),2.43,2026-08-31
+NPRF,,Cash and Cash Equivalents,4.33,2026-08-31
+NPRF,,Royal Bank of Canada 6.70% 31-Dec-2099,3.71,2026-08-31
+NPRF,,Canadian Imperial Bank of Commerce 7.33% 31-Dec-2099,3.58,2026-08-31
+NPRF,,Enbridge Inc - Pfd Sr L,3.13,2026-08-31
+NPRF,,Toronto-Dominion Bank - Pfd Cl A Sr 1,2.98,2026-08-31
+NPRF,,iA Financial Corp Inc,2.97,2026-08-31
+NPRF,,National Bank of Canada - Pfd Sr 30,2.35,2026-08-31
+NPRF,,Enbridge Inc - Pfd Cl A Sr 3,2.31,2026-08-31
+NPRF,,Brookfield Corp - Pfd,2.07,2026-08-31
+NPRF,,Bank of Montreal 7.37% 26-Nov-2027,2.07,2026-08-31
+NBSC.F,,Puuilo Oyj,4.75,2026-08-31
+NBSC.F,,Diploma PLC,4.66,2026-08-31
+NBSC.F,,Federal Signal Corp,4.49,2026-08-31
+NBSC.F,,Robertet SA,4.15,2026-08-31
+NBSC.F,,Rational AG,4.14,2026-08-31
+NBSC.F,,TechnologyOne Ltd,3.99,2026-08-31
+NBSC.F,,Nordnet AB (publ),3.92,2026-08-31
+NBSC.F,,Japan Elevator Service Holdings Co Ltd,3.83,2026-08-31
+NBSC.F,,HMS Networks AB,3.64,2026-08-31
+NBSC.F,,Houlihan Lokey Inc Cl A,3.39,2026-08-31

@@ -1,0 +1,1197 @@
+TICKER,holding_ticker,holding_name,weight_pct,as_of
+BNC,,The Bank of Nova Scotia,12.15,2026-09-18
+BNC,,Toronto-Dominion Bank,11.55,2026-09-18
+BNC,,Bank Of Montreal,11.16,2026-09-18
+BNC,,Canadian Imperial Bank Of Commerce,11.12,2026-09-18
+BNC,,Royal Bank Of Canada,10.99,2026-09-18
+BNC,,National Bank Of Canada,10.69,2026-09-18
+BNC,,Manulife Financial Corp,7.84,2026-09-18
+BNC,,"Ia Financial Corporation Inc.",7.76,2026-09-18
+BNC,,Great-West Lifeco Inc.,7.56,2026-09-18
+BNC,,Sun Life Financial Inc.,7.45,2026-09-18
+BND,,Brazilian Government International Bond (Eur) 5.500% 04/23/2036,0.72,2026-08-31
+BND,,Cox Asset Mexico Sa Cv (USD) 7.750% 05/08/2036,0.68,2026-08-31
+BND,,Argentine Republic Government International Bond ( 3.625% 07/09/2035,0.63,2026-08-31
+BND,,Amazon.Com Inc. (USD) 6.100% 07/09/2056,0.59,2026-08-31
+BND,,Galaxy Pipeline Assets Bidco Ltd. (USD) 2.940% 09/30/2040,0.54,2026-08-31
+BND,,Serbia International Bond (Eur) 4.875% 05/06/2038,0.54,2026-08-31
+BND,,Cdx Itraxx.Xo.45.V1 R 5%,0.50,2026-08-31
+BND,,Romanian Government International Bond (USD) 5.750% 07/04/2036,0.47,2026-08-31
+BND,,Fiemex Energia - Banco Actinver Sa Institucion De 7.250% 01/31/2041,0.45,2026-08-31
+BND,,Oracle Corporation (USD) 6.700% 02/04/2056,0.43,2026-08-31
+IGB,,Brazilian Government International Bond (Eur) 5.500% 04/23/2036,0.72,2026-08-31
+IGB,,Cox Asset Mexico Sa Cv (USD) 7.750% 05/08/2036,0.68,2026-08-31
+IGB,,Argentine Republic Government International Bond ( 3.625% 07/09/2035,0.63,2026-08-31
+IGB,,Amazon.Com Inc. (USD) 6.100% 07/09/2056,0.59,2026-08-31
+IGB,,Galaxy Pipeline Assets Bidco Ltd. (USD) 2.940% 09/30/2040,0.54,2026-08-31
+IGB,,Serbia International Bond (Eur) 4.875% 05/06/2038,0.54,2026-08-31
+IGB,,Cdx Itraxx.Xo.45.V1 R 5%,0.50,2026-08-31
+IGB,,Romanian Government International Bond (USD) 5.750% 07/04/2036,0.47,2026-08-31
+IGB,,Fiemex Energia - Banco Actinver Sa Institucion De 7.250% 01/31/2041,0.45,2026-08-31
+IGB,,Oracle Corporation (USD) 6.700% 02/04/2056,0.43,2026-08-31
+KILO,,Gold Bars,OUNCES:187449,2026-09-18
+KILO.B,,Gold Bars,OUNCES:187449,2026-09-18
+KILO.U,,Gold Bars,OUNCES:187449,2026-09-18
+PBD,,iBoxx $ High Yield Corporate Bond,66.68,2026-09-18
+PBD,,Purpose Cash Management Fund ETF,16.90,2026-09-18
+PBD,,Purpose Global Bond Class,15.14,2026-09-18
+PBD,,BMO Mid Federal Bond Index ETF,1.29,2026-09-18
+PBI,,Advanced Micro Devices Inc.,3.97,2026-09-18
+PBI,,Meta,3.87,2026-09-18
+PBI,,Illumina Inc,3.71,2026-09-18
+PBI,,Space Exploration Technologies Corp,3.54,2026-09-18
+PBI,,Apple Inc,3.54,2026-09-18
+PBI,,Thermo Fisher Scientific Inc.,3.50,2026-09-18
+PBI,,Taiwan Semiconductor Manufacturing Company Limited,3.49,2026-09-18
+PBI,,Anthem Inc,3.49,2026-09-18
+PBI,,Snowflake Inc,3.45,2026-09-18
+PBI,,Alphabet Inc,3.44,2026-09-18
+PBI,,Nvidia Corporation,3.36,2026-09-18
+PBI,,Tesla Inc.,3.32,2026-09-18
+PBI,,Coca-Cola Co,3.32,2026-09-18
+PBI,,"ASML Holding NV, ADR",3.31,2026-09-18
+PBI,,Danaher Corporation,3.30,2026-09-18
+PBI,,"Amazon.com, Inc.",3.26,2026-09-18
+PBI,,Microsoft Corporation,3.24,2026-09-18
+PBI,,Visa Inc.,3.24,2026-09-18
+PBI,,Applied Materials Inc.,3.24,2026-09-18
+PBI,,Broadcom Inc.,3.22,2026-09-18
+PBI,,Union Pacific Corp,3.19,2026-09-18
+PBI,,Ferguson Enterprises Inc.,3.19,2026-09-18
+PBI,,Capital One Financial Corp,3.18,2026-09-18
+PBI,,Nu Holdings Ltd,3.13,2026-09-18
+PBI,,Spotify Technology Sa,3.13,2026-09-18
+PBI,,Uber Technologies Inc.,3.11,2026-09-18
+PBI,,"Square Inc., Class A",3.09,2026-09-18
+PBI,,Mercadolibre Inc.,3.08,2026-09-18
+PBI,,Crh Plc,3.06,2026-09-18
+PBI,,Doordash Inc,2.76,2026-09-18
+PBI.B,,Advanced Micro Devices Inc.,3.97,2026-09-18
+PBI.B,,Meta,3.87,2026-09-18
+PBI.B,,Illumina Inc,3.71,2026-09-18
+PBI.B,,Space Exploration Technologies Corp,3.54,2026-09-18
+PBI.B,,Apple Inc,3.54,2026-09-18
+PBI.B,,Thermo Fisher Scientific Inc.,3.50,2026-09-18
+PBI.B,,Taiwan Semiconductor Manufacturing Company Limited,3.49,2026-09-18
+PBI.B,,Anthem Inc,3.49,2026-09-18
+PBI.B,,Snowflake Inc,3.45,2026-09-18
+PBI.B,,Alphabet Inc,3.44,2026-09-18
+PBI.B,,Nvidia Corporation,3.36,2026-09-18
+PBI.B,,Tesla Inc.,3.32,2026-09-18
+PBI.B,,Coca-Cola Co,3.32,2026-09-18
+PBI.B,,"ASML Holding NV, ADR",3.31,2026-09-18
+PBI.B,,Danaher Corporation,3.30,2026-09-18
+PBI.B,,"Amazon.com, Inc.",3.26,2026-09-18
+PBI.B,,Microsoft Corporation,3.24,2026-09-18
+PBI.B,,Visa Inc.,3.24,2026-09-18
+PBI.B,,Applied Materials Inc.,3.24,2026-09-18
+PBI.B,,Broadcom Inc.,3.22,2026-09-18
+PBI.B,,Union Pacific Corp,3.19,2026-09-18
+PBI.B,,Ferguson Enterprises Inc.,3.19,2026-09-18
+PBI.B,,Capital One Financial Corp,3.18,2026-09-18
+PBI.B,,Nu Holdings Ltd,3.13,2026-09-18
+PBI.B,,Spotify Technology Sa,3.13,2026-09-18
+PBI.B,,Uber Technologies Inc.,3.11,2026-09-18
+PBI.B,,"Square Inc., Class A",3.09,2026-09-18
+PBI.B,,Mercadolibre Inc.,3.08,2026-09-18
+PBI.B,,Crh Plc,3.06,2026-09-18
+PBI.B,,Doordash Inc,2.76,2026-09-18
+PDF,,Toronto-Dominion Bank,6.73,2026-09-18
+PDF,,The Bank of Nova Scotia,5.94,2026-09-18
+PDF,,Royal Bank Of Canada,5.20,2026-09-18
+PDF,,Canadian Imperial Bank Of Commerce,4.84,2026-09-18
+PDF,,Manulife Financial Corp,4.58,2026-09-18
+PDF,,Enbridge Inc.,3.83,2026-09-18
+PDF,,"Power Corporation Of Canada, SV",3.61,2026-09-18
+PDF,,TC Energy Corporation,3.18,2026-09-18
+PDF,,Whitecap Resources Inc.,3.17,2026-09-18
+PDF,,Bank Of Montreal,2.98,2026-09-18
+PDF,,Great-West Lifeco Inc.,2.89,2026-09-18
+PDF,,AbbVie Inc,2.86,2026-09-18
+PDF,,Pembina Pipeline Corporation,2.78,2026-09-18
+PDF,,Canadian National Railway Company,2.53,2026-09-18
+PDF,,Igm Financial Inc.,2.44,2026-09-18
+PDF,,Sun Life Financial Inc.,2.44,2026-09-18
+PDF,,Cisco Systems Inc,2.32,2026-09-18
+PDF,,Magna International Inc.,2.25,2026-09-18
+PDF,,BCE Inc.,1.91,2026-09-18
+PDF,,Nutrien Ltd,1.81,2026-09-18
+PDF,,Tourmaline Oil Corp.,1.80,2026-09-18
+PDF,,Hydro One Limited,1.77,2026-09-18
+PDF,,Coca-Cola Co,1.76,2026-09-18
+PDF,,"Canadian Tire Corporation Limited, Class A Nv",1.67,2026-09-18
+PDF,,Johnson & Johnson,1.63,2026-09-18
+PDF,,Microsoft Corporation,1.60,2026-09-18
+PDF,,Union Pacific Corp,1.50,2026-09-18
+PDF,,Lundin Gold Inc.,1.44,2026-09-18
+PDF,,Merck & Co Inc,1.26,2026-09-18
+PDF,,Emera Inc.,1.26,2026-09-18
+PDF,,Bristol-Myers Squibb Co,1.16,2026-09-18
+PDF,,Lockheed Martin Corp,1.14,2026-09-18
+PDF,,Gilead Sciences Inc,1.13,2026-09-18
+PDF,,Caterpillar Inc,1.02,2026-09-18
+PDF,,Procter & Gamble Co,1.01,2026-09-18
+PDF,,McDonald's Corp,0.87,2026-09-18
+PDF,,National Bank Of Canada,0.83,2026-09-18
+PDF,,Brookfield Asset Management Ltd,0.83,2026-09-18
+PDF,,"Rogers Communications Inc., Class B",0.80,2026-09-18
+PDF,,Open Text Corporation,0.78,2026-09-18
+PDF,,International Business Machines Corp,0.75,2026-09-18
+PDF,,Gildan Activewear Inc.,0.64,2026-09-18
+PDF,,Ccl Industries Inc.,0.63,2026-09-18
+PDF,,Texas Instruments Inc,0.63,2026-09-18
+PDF,,Agnico Eagle Mines Limited,0.63,2026-09-18
+PDF,,"Canadian Utilities Limited, Class A",0.61,2026-09-18
+PDF,,Fortis Inc.,0.58,2026-09-18
+PDF,,Restaurant Brands International Inc.,0.40,2026-09-18
+PDF,,Pfizer Inc,0.38,2026-09-18
+PDF,,Telus Corporation,0.30,2026-09-18
+PDF,,"Ia Financial Corporation Inc.",0.24,2026-09-18
+PDF,,Broadcom Inc.,0.24,2026-09-18
+PDF,,Keyera Corp.,0.09,2026-09-18
+PDIV,,Toronto-Dominion Bank,5.31,2026-09-18
+PDIV,,The Bank of Nova Scotia,4.46,2026-09-18
+PDIV,,Royal Bank Of Canada,4.02,2026-09-18
+PDIV,,Canadian Imperial Bank Of Commerce,3.64,2026-09-18
+PDIV,,Manulife Financial Corp,3.44,2026-09-18
+PDIV,,Enbridge Inc.,3.08,2026-09-18
+PDIV,,"Power Corporation Of Canada, SV",2.72,2026-09-18
+PDIV,,Nvidia Corporation,2.41,2026-09-18
+PDIV,,Whitecap Resources Inc.,2.39,2026-09-18
+PDIV,,TC Energy Corporation,2.39,2026-09-18
+PDIV,,Bank Of Montreal,2.24,2026-09-18
+PDIV,,Canadian National Railway Company,2.19,2026-09-18
+PDIV,,Great-West Lifeco Inc.,2.18,2026-09-18
+PDIV,,AbbVie Inc,2.15,2026-09-18
+PDIV,,Pembina Pipeline Corporation,2.10,2026-09-18
+PDIV,,Igm Financial Inc.,1.84,2026-09-18
+PDIV,,Sun Life Financial Inc.,1.84,2026-09-18
+PDIV,,Cisco Systems Inc,1.75,2026-09-18
+PDIV,,Shopify Inc.,1.75,2026-09-18
+PDIV,,Magna International Inc.,1.69,2026-09-18
+PDIV,,Nutrien Ltd,1.38,2026-09-18
+PDIV,,Tourmaline Oil Corp.,1.36,2026-09-18
+PDIV,,Johnson & Johnson,1.35,2026-09-18
+PDIV,,Hydro One Limited,1.33,2026-09-18
+PDIV,,Coca-Cola Co,1.32,2026-09-18
+PDIV,,"Canadian Tire Corporation Limited, Class A Nv",1.26,2026-09-18
+PDIV,,Microsoft Corporation,1.26,2026-09-18
+PDIV,,Union Pacific Corp,1.13,2026-09-18
+PDIV,,Lundin Gold Inc.,1.09,2026-09-18
+PDIV,,Merck & Co Inc,0.95,2026-09-18
+PDIV,,Emera Inc.,0.95,2026-09-18
+PDIV,,BCE Inc.,0.94,2026-09-18
+PDIV,,Bristol-Myers Squibb Co,0.87,2026-09-18
+PDIV,,Lockheed Martin Corp,0.86,2026-09-18
+PDIV,,Gilead Sciences Inc,0.85,2026-09-18
+PDIV,,Caterpillar Inc,0.77,2026-09-18
+PDIV,,Procter & Gamble Co,0.76,2026-09-18
+PDIV,,Meta,0.68,2026-09-18
+PDIV,,McDonald's Corp,0.66,2026-09-18
+PDIV,,National Bank Of Canada,0.63,2026-09-18
+PDIV,,Brookfield Asset Management Ltd,0.62,2026-09-18
+PDIV,,"Rogers Communications Inc., Class B",0.60,2026-09-18
+PDIV,,Open Text Corporation,0.59,2026-09-18
+PDIV,,International Business Machines Corp,0.57,2026-09-18
+PDIV,,Gildan Activewear Inc.,0.48,2026-09-18
+PDIV,,Ccl Industries Inc.,0.48,2026-09-18
+PDIV,,Texas Instruments Inc,0.48,2026-09-18
+PDIV,,"Canadian Utilities Limited, Class A",0.46,2026-09-18
+PDIV,,Agnico Eagle Mines Limited,0.46,2026-09-18
+PDIV,,Fortis Inc.,0.44,2026-09-18
+PDIV,,Restaurant Brands International Inc.,0.31,2026-09-18
+PDIV,,Telus Corporation,0.23,2026-09-18
+PDIV,,"Ia Financial Corporation Inc.",0.19,2026-09-18
+PDIV,,Broadcom Inc.,0.18,2026-09-18
+PDIV,,Pfizer Inc,0.10,2026-09-18
+PDIV,,Keyera Corp.,0.07,2026-09-18
+PDIV,,Emerson Electric Co,0.04,2026-09-18
+PDIV,,"Amazon.com, Inc.",0.04,2026-09-18
+PDIV,,Apple Inc,0.01,2026-09-18
+PDIV,,Pfizer Inc Call 29.5 09/25/26,0.00,2026-09-18
+PDIV,,Meta Platforms Inc Put 540 09/18/26,0.00,2026-09-18
+PDIV,,Broadcom Inc Call 420 09/25/26,0.00,2026-09-18
+PDIV,,Union Pacific Corp Call 330 09/25/26,0.00,2026-09-18
+PDIV,,McDonald's Corp Call 280 09/25/26,0.00,2026-09-18
+PDIV,,Keyera Corp Call 62 09/25/26,0.00,2026-09-18
+PDIV,,Microsoft Corp Put 460 09/18/26,0.00,2026-09-18
+PDIV,,Merck & Co Inc Call 165 09/25/26,0.00,2026-09-18
+PDIV,,Amazon.com Inc Put 245 09/18/26,0.00,2026-09-18
+PDIV,,Apple Inc Put 290 09/18/26,0.00,2026-09-18
+PDIV,,Canadian National Railway Call 180 09/18/26,0.00,2026-09-18
+PDIV,,Lockheed Martin Corp Call 605 09/25/26,0.00,2026-09-18
+PDIV,,AbbVie Inc Call 275 09/25/26,0.00,2026-09-18
+PDIV,,Enbridge Inc Put 68 09/18/26,0.00,2026-09-18
+PDIV,,Coca-Cola Co/The Call 94 09/25/26,0.00,2026-09-18
+PDIV,,Toronto-Dominion Bank/The Put 160 09/18/26,0.00,2026-09-18
+PDIV,,National Bank of Canada Call 220 09/25/26,0.00,2026-09-18
+PDIV,,Emera Inc Call 73 09/25/26,0.00,2026-09-18
+PDIV,,Rogers Communications In Call 54 09/25/26,0.00,2026-09-18
+PDIV,,Microsoft Corp Call 525 09/25/26,0.00,2026-09-18
+PDIV,,Texas Instruments Inc Call 290 09/25/26,0.00,2026-09-18
+PDIV,,Shopify Inc Call 215 09/18/26,0.00,2026-09-18
+PDIV,,AEM CN Call 330 10/02/26,0.00,2026-09-18
+PDIV,,International Business Ma Call 250 09/25/26,0.00,2026-09-18
+PDIV,,Caterpillar Inc Call 905 09/25/26,0.00,2026-09-18
+PDIV,,Royal Bank of Canada Put 280 09/18/26,0.00,2026-09-18
+PDIV,,Canadian National Railway Call 182 09/25/26,0.00,2026-09-18
+PDIV,,TELUS Corp Call 14 10/02/26,0.00,2026-09-18
+PDIV,,Pembina Pipeline Corp Call 71 09/25/26,0.00,2026-09-18
+PDIV,,Canadian Imperial Bank of Call 174 09/25/26,0.00,2026-09-18
+PDIV,,Johnson & Johnson Call 285 09/25/26,0.00,2026-09-18
+PDIV,,Cisco Systems Inc Call 122 09/25/26,0.00,2026-09-18
+PDIV,,Hydro One Ltd Call 56 09/25/26,0.00,2026-09-18
+PDIV,,Procter & Gamble Co/The Call 150 09/25/26,0.00,2026-09-18
+PDIV,,Bristol-Myers Squibb Co Call 72 09/25/26,0.00,2026-09-18
+PDIV,,Tourmaline Oil Corp Call 64 09/25/26,0.00,2026-09-18
+PDIV,,Enbridge Inc Call 72 09/25/26,0.00,2026-09-18
+PDIV,,Gilead Sciences Inc Call 155 09/25/26,0.00,2026-09-18
+PDIV,,Bank of Montreal Call 248 09/25/26,0.00,2026-09-18
+PDIV,,Bank of Nova Scotia/The Call 134 09/25/26,-0.01,2026-09-18
+PDIV,,Sun Life Financial Inc Call 114 09/25/26,-0.01,2026-09-18
+PHE,,Nvidia Corporation,9.27,2026-09-18
+PHE,,Apple Inc,8.75,2026-09-18
+PHE,,Alphabet Inc,6.92,2026-09-18
+PHE,,Microsoft Corporation,6.04,2026-09-18
+PHE,,"Amazon.com, Inc.",3.57,2026-09-18
+PHE,,Broadcom Inc.,3.04,2026-09-18
+PHE,,Visa Inc.,2.37,2026-09-18
+PHE,,JPMorgan Chase & Co,2.26,2026-09-18
+PHE,,Meta,2.25,2026-09-18
+PHE,,Eli Lilly & Co,2.24,2026-09-18
+PHE,,Costco Wholesale Corporation,1.71,2026-09-18
+PHE,,Analog Devices Inc,1.66,2026-09-18
+PHE,,Amphenol Corporation,1.60,2026-09-18
+PHE,,Intercontinental Exchange Inc,1.57,2026-09-18
+PHE,,Tesla Inc.,1.57,2026-09-18
+PHE,,Lam Research Corporation,1.56,2026-09-18
+PHE,,Unum Group,1.45,2026-09-18
+PHE,,General Motors Co,1.44,2026-09-18
+PHE,,Marsh & Mclennan Companies Inc.,1.43,2026-09-18
+PHE,,Parker-Hannifin Corporation,1.42,2026-09-18
+PHE,,Micron Technology Inc,1.41,2026-09-18
+PHE,,Howmet Aerospace,1.29,2026-09-18
+PHE,,nVent Electric PLC,1.28,2026-09-18
+PHE,,Salesforce Inc,1.28,2026-09-18
+PHE,,Edwards Lifesciences Corporation,1.26,2026-09-18
+PHE,,Exxonmobil Holdings Corp,1.25,2026-09-18
+PHE,,UnitedHealth Group Inc.,1.23,2026-09-18
+PHE,,ConocoPhillips,1.21,2026-09-18
+PHE,,Thermo Fisher Scientific Inc.,1.20,2026-09-18
+PHE,,TJX Cos Inc/The,1.18,2026-09-18
+PHE,,Nasdaq Inc.,1.16,2026-09-18
+PHE,,General Electric Company,1.15,2026-09-18
+PHE,,United Rentals Inc,1.15,2026-09-18
+PHE,,Trane Technologies Plc,1.04,2026-09-18
+PHE,,Lockheed Martin Corp,0.96,2026-09-18
+PHE,,UGI Corporation,0.91,2026-09-18
+PHE,,Morgan Stanley,0.85,2026-09-18
+PHE,,Tenet Healthcare Corp,0.84,2026-09-18
+PHE,,Western Digital Corp,0.82,2026-09-18
+PHE,,New Linde Plc,0.79,2026-09-18
+PHE,,Ventas Inc,0.79,2026-09-18
+PHE,,Citigroup Inc,0.74,2026-09-18
+PHE,,"British American Tobacco Plc, Adr",0.70,2026-09-18
+PHE,,Sun Communities Inc,0.69,2026-09-18
+PHE,,Agnico Eagle Mines Limited,0.68,2026-09-18
+PHE,,Texas Instruments Inc,0.68,2026-09-18
+PHE,,Procter & Gamble Co,0.64,2026-09-18
+PHE,,Raytheon Technologies Corporation,0.62,2026-09-18
+PHE,,O'Reilly Automotive Inc,0.59,2026-09-18
+PHE,,DRAFTKINGS INC-CL A,0.55,2026-09-18
+PHE,,Coca-Cola Co,0.53,2026-09-18
+PHE,,Netflix Inc,0.52,2026-09-18
+PHE,,ULTA BEAUTY INC,0.51,2026-09-18
+PHE,,PNC Financial Services Group Inc,0.50,2026-09-18
+PHE,,Servicenow Inc.,0.46,2026-09-18
+PHE,,Steel Dynamics Inc,0.40,2026-09-18
+PHE,,T-Mobile US Inc,0.37,2026-09-18
+PHE,,Autodesk Inc.,0.33,2026-09-18
+PHE,,Danaher Corporation,0.33,2026-09-18
+PHE,,Motorola Solutions Inc,0.32,2026-09-18
+PHE,,Walt Disney Co,0.29,2026-09-18
+PHE,,American Electric Power Co Inc,0.29,2026-09-18
+PHE,,Prologis Inc,0.26,2026-09-18
+PHE,,Baker Hughes Company,0.25,2026-09-18
+PHE,,Quest Diagnostics Inc,0.24,2026-09-18
+PHE,,Stryker Corporation,0.24,2026-09-18
+PHE,,Phillips 66,0.22,2026-09-18
+PHE,,FirstEnergy Corp,0.21,2026-09-18
+PHE,,Duke Energy Corp,0.19,2026-09-18
+PHE,,The Williams Companies Inc.,0.17,2026-09-18
+PHE,,Martin Marietta Materials Inc.,0.17,2026-09-18
+PHE,,Cooper Companies Inc. (The),0.17,2026-09-18
+PHE,,Southern Copper Corp,0.15,2026-09-18
+PHE,,Public Storage,0.15,2026-09-18
+PHE,,Align Technology Inc.,0.15,2026-09-18
+PHE,,Itt Inc.,0.14,2026-09-18
+PHE,,Church & Dwight Co Inc,0.14,2026-09-18
+PHE,,State Street SPDR S&P 500 Put 730 10/16/26,0.13,2026-09-18
+PHE,,Monster Beverage Corporation,0.13,2026-09-18
+PHE,,Dt Midstream Inc,0.12,2026-09-18
+PHE,,State Street SPDR S&P 500 Put 720 10/30/26,0.12,2026-09-18
+PHE,,Caci International Inc.,0.12,2026-09-18
+PHE,,TOLL BROTHERS INC,0.11,2026-09-18
+PHE,,State Street SPDR S&P 500 Put 710 09/30/26,0.01,2026-09-18
+PHE,,State Street SPDR S&P 500 Call 812 09/30/26,0.00,2026-09-18
+PHE,,State Street SPDR S&P 500 Put 658 09/18/26,0.00,2026-09-18
+PHE,,State Street SPDR S&P 500 Put 670 09/30/26,-0.01,2026-09-18
+PHE,,State Street SPDR S&P 500 Call 805 10/16/26,-0.02,2026-09-18
+PHE,,State Street SPDR S&P 500 Put 665 10/16/26,-0.03,2026-09-18
+PHE,,State Street SPDR S&P 500 Call 805 10/30/26,-0.04,2026-09-18
+PHE.B,,Nvidia Corporation,9.27,2026-09-18
+PHE.B,,Apple Inc,8.75,2026-09-18
+PHE.B,,Alphabet Inc,6.92,2026-09-18
+PHE.B,,Microsoft Corporation,6.04,2026-09-18
+PHE.B,,"Amazon.com, Inc.",3.57,2026-09-18
+PHE.B,,Broadcom Inc.,3.04,2026-09-18
+PHE.B,,Visa Inc.,2.37,2026-09-18
+PHE.B,,JPMorgan Chase & Co,2.26,2026-09-18
+PHE.B,,Meta,2.25,2026-09-18
+PHE.B,,Eli Lilly & Co,2.24,2026-09-18
+PHE.B,,Costco Wholesale Corporation,1.71,2026-09-18
+PHE.B,,Analog Devices Inc,1.66,2026-09-18
+PHE.B,,Amphenol Corporation,1.60,2026-09-18
+PHE.B,,Intercontinental Exchange Inc,1.57,2026-09-18
+PHE.B,,Tesla Inc.,1.57,2026-09-18
+PHE.B,,Lam Research Corporation,1.56,2026-09-18
+PHE.B,,Unum Group,1.45,2026-09-18
+PHE.B,,General Motors Co,1.44,2026-09-18
+PHE.B,,Marsh & Mclennan Companies Inc.,1.43,2026-09-18
+PHE.B,,Parker-Hannifin Corporation,1.42,2026-09-18
+PHE.B,,Micron Technology Inc,1.41,2026-09-18
+PHE.B,,Howmet Aerospace,1.29,2026-09-18
+PHE.B,,nVent Electric PLC,1.28,2026-09-18
+PHE.B,,Salesforce Inc,1.28,2026-09-18
+PHE.B,,Edwards Lifesciences Corporation,1.26,2026-09-18
+PHE.B,,Exxonmobil Holdings Corp,1.25,2026-09-18
+PHE.B,,UnitedHealth Group Inc.,1.23,2026-09-18
+PHE.B,,ConocoPhillips,1.21,2026-09-18
+PHE.B,,Thermo Fisher Scientific Inc.,1.20,2026-09-18
+PHE.B,,TJX Cos Inc/The,1.18,2026-09-18
+PHE.B,,Nasdaq Inc.,1.16,2026-09-18
+PHE.B,,General Electric Company,1.15,2026-09-18
+PHE.B,,United Rentals Inc,1.15,2026-09-18
+PHE.B,,Trane Technologies Plc,1.04,2026-09-18
+PHE.B,,Lockheed Martin Corp,0.96,2026-09-18
+PHE.B,,UGI Corporation,0.91,2026-09-18
+PHE.B,,Morgan Stanley,0.85,2026-09-18
+PHE.B,,Tenet Healthcare Corp,0.84,2026-09-18
+PHE.B,,Western Digital Corp,0.82,2026-09-18
+PHE.B,,New Linde Plc,0.79,2026-09-18
+PHE.B,,Ventas Inc,0.79,2026-09-18
+PHE.B,,Citigroup Inc,0.74,2026-09-18
+PHE.B,,"British American Tobacco Plc, Adr",0.70,2026-09-18
+PHE.B,,Sun Communities Inc,0.69,2026-09-18
+PHE.B,,Agnico Eagle Mines Limited,0.68,2026-09-18
+PHE.B,,Texas Instruments Inc,0.68,2026-09-18
+PHE.B,,Procter & Gamble Co,0.64,2026-09-18
+PHE.B,,Raytheon Technologies Corporation,0.62,2026-09-18
+PHE.B,,O'Reilly Automotive Inc,0.59,2026-09-18
+PHE.B,,DRAFTKINGS INC-CL A,0.55,2026-09-18
+PHE.B,,Coca-Cola Co,0.53,2026-09-18
+PHE.B,,Netflix Inc,0.52,2026-09-18
+PHE.B,,ULTA BEAUTY INC,0.51,2026-09-18
+PHE.B,,PNC Financial Services Group Inc,0.50,2026-09-18
+PHE.B,,Servicenow Inc.,0.46,2026-09-18
+PHE.B,,Steel Dynamics Inc,0.40,2026-09-18
+PHE.B,,T-Mobile US Inc,0.37,2026-09-18
+PHE.B,,Autodesk Inc.,0.33,2026-09-18
+PHE.B,,Danaher Corporation,0.33,2026-09-18
+PHE.B,,Motorola Solutions Inc,0.32,2026-09-18
+PHE.B,,Walt Disney Co,0.29,2026-09-18
+PHE.B,,American Electric Power Co Inc,0.29,2026-09-18
+PHE.B,,Prologis Inc,0.26,2026-09-18
+PHE.B,,Baker Hughes Company,0.25,2026-09-18
+PHE.B,,Quest Diagnostics Inc,0.24,2026-09-18
+PHE.B,,Stryker Corporation,0.24,2026-09-18
+PHE.B,,Phillips 66,0.22,2026-09-18
+PHE.B,,FirstEnergy Corp,0.21,2026-09-18
+PHE.B,,Duke Energy Corp,0.19,2026-09-18
+PHE.B,,The Williams Companies Inc.,0.17,2026-09-18
+PHE.B,,Martin Marietta Materials Inc.,0.17,2026-09-18
+PHE.B,,Cooper Companies Inc. (The),0.17,2026-09-18
+PHE.B,,Southern Copper Corp,0.15,2026-09-18
+PHE.B,,Public Storage,0.15,2026-09-18
+PHE.B,,Align Technology Inc.,0.15,2026-09-18
+PHE.B,,Itt Inc.,0.14,2026-09-18
+PHE.B,,Church & Dwight Co Inc,0.14,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Put 730 10/16/26,0.13,2026-09-18
+PHE.B,,Monster Beverage Corporation,0.13,2026-09-18
+PHE.B,,Dt Midstream Inc,0.12,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Put 720 10/30/26,0.12,2026-09-18
+PHE.B,,Caci International Inc.,0.12,2026-09-18
+PHE.B,,TOLL BROTHERS INC,0.11,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Put 710 09/30/26,0.01,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Call 812 09/30/26,0.00,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Put 658 09/18/26,0.00,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Put 670 09/30/26,-0.01,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Call 805 10/16/26,-0.02,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Put 665 10/16/26,-0.03,2026-09-18
+PHE.B,,State Street SPDR S&P 500 Call 805 10/30/26,-0.04,2026-09-18
+PHR,,Flagship Communities Reit,5.47,2026-09-18
+PHR,,Chartwell Retirement Residences,5.40,2026-09-18
+PHR,,Granite Real Estate Investment Trust,4.94,2026-09-18
+PHR,,Dream Industrial Real Estate Investment Trust,4.60,2026-09-18
+PHR,,Killam Apartment Real Estate Investment Trust,4.45,2026-09-18
+PHR,,Prologis Inc,4.25,2026-09-18
+PHR,,Bsr Real State Investment Trust Unit,4.13,2026-09-18
+PHR,,Sienna Senior Living Inc.,4.00,2026-09-18
+PHR,,Primaris Reit,3.65,2026-09-18
+PHR,,Canadian Apartment Properties Real Estate Investme,3.62,2026-09-18
+PHR,,Riocan Real Estate Investment Trust,2.94,2026-09-18
+PHR,,H&R Real Estate Investment Trust,2.85,2026-09-18
+PHR,,Boardwalk Real Estate Investment Trust,2.77,2026-09-18
+PHR,,Storagevault Canada Inc.,2.69,2026-09-18
+PHR,,Peninsula Capital Corp,2.66,2026-09-18
+PHR,,Equinix Inc,2.66,2026-09-18
+PHR,,National Retail Properties Inc,2.48,2026-09-18
+PHR,,Ventas Inc,2.46,2026-09-18
+PHR,,Healthpeak Properties Inc,2.34,2026-09-18
+PHR,,Nexus Industrial Reit,2.33,2026-09-18
+PHR,,Canadian Net Real Estate Investment,2.30,2026-09-18
+PHR,,Automotive Properties Real Estate Investment Trust,2.28,2026-09-18
+PHR,,Crombie Real Estate Investment Trust,2.22,2026-09-18
+PHR,,Smartcentres Real Estate Investment Trust,2.16,2026-09-18
+PHR,,Digital Realty Trust Inc,2.16,2026-09-18
+PHR,,Sun Communities Inc,1.77,2026-09-18
+PHR,,VICI Properties Inc,1.67,2026-09-18
+PHR,,Camden Property Trust,1.64,2026-09-18
+PHR,,American Tower Corp,1.58,2026-09-18
+PHR,,Public Storage,1.52,2026-09-18
+PHR,,First Capital Real Estate Investment Trust,1.34,2026-09-18
+PHR,,Go Residential Real Estate Investment Trust,1.29,2026-09-18
+PHR,,Crown Castle International Corp,1.27,2026-09-18
+PHR,,Nexliving Communities Inc.,1.10,2026-09-18
+PHR,,Equity LifeStyle Properties Inc,0.89,2026-09-18
+PHR,,0,0.70,2026-09-18
+PHR,,Aip Yield Fund,0.16,2026-09-18
+PHR,,Invesque Inc,0.05,2026-09-18
+PHW,,"ASML Holding NV, ADR",6.19,2026-09-18
+PHW,,Bhp Group Limited,3.45,2026-09-18
+PHW,,Novartis AG,3.31,2026-09-18
+PHW,,"Mitsubishi Ufj Financial Group Inc., Sponsored Adr",2.76,2026-09-18
+PHW,,Shell Plc,2.45,2026-09-18
+PHW,,Roche Holding Ag,2.36,2026-09-18
+PHW,,Gsk Plc,2.06,2026-09-18
+PHW,,Natwest Group Plc,1.99,2026-09-18
+PHW,,Abb Limited,1.88,2026-09-18
+PHW,,"Banco Bilbao Vizcaya Argentaria Sa, Sponsored Adr",1.83,2026-09-18
+PHW,,UBS,1.82,2026-09-18
+PHW,,Total Sa,1.79,2026-09-18
+PHW,,Intesa Sanpaolo SpA,1.67,2026-09-18
+PHW,,Takeda Pharmaceutical Company Ltd.,1.51,2026-09-18
+PHW,,Advantest Corporation,1.51,2026-09-18
+PHW,,Allianz Se,1.48,2026-09-18
+PHW,,Axa Sa,1.41,2026-09-18
+PHW,,Assicurazioni Generali Spa,1.40,2026-09-18
+PHW,,Siemens AG,1.40,2026-09-18
+PHW,,"Relx Plc, Adr",1.36,2026-09-18
+PHW,,"Lafargeholcim Ltd., Class B",1.22,2026-09-18
+PHW,,Nksj Holdings Inc.,1.20,2026-09-18
+PHW,,Komatsu Limited,1.18,2026-09-18
+PHW,,Sumitomo Corporation,1.07,2026-09-18
+PHW,,Softbank Corporation,1.07,2026-09-18
+PHW,,Unilever Plc,1.07,2026-09-18
+PHW,,"Barclays Plc, Sponsored Adr",1.06,2026-09-18
+PHW,,Bridgestone Corporation,1.05,2026-09-18
+PHW,,Wesfarmers Limited,1.01,2026-09-18
+PHW,,Vinci Sa,1.00,2026-09-18
+PHW,,Cie Generale Des Etablissements Michelin Sca,0.99,2026-09-18
+PHW,,Enel Spa,0.98,2026-09-18
+PHW,,Koninklijke Ahold Delhaize Nv,0.96,2026-09-18
+PHW,,Deutsche Telekom Ag,0.95,2026-09-18
+PHW,,"Sap Se, Sponsored Adr",0.94,2026-09-18
+PHW,,Tokio Marine Holdings Inc.,0.94,2026-09-18
+PHW,,Unicredit Spa,0.92,2026-09-18
+PHW,,Caixabank Sa,0.90,2026-09-18
+PHW,,Safran Sa,0.87,2026-09-18
+PHW,,Canon Inc.,0.85,2026-09-18
+PHW,,Astrazeneca Plc,0.84,2026-09-18
+PHW,,Ryanair Holdings Plc,0.83,2026-09-18
+PHW,,Orix Corporation,0.83,2026-09-18
+PHW,,Mercedes-Benz Group Ag,0.77,2026-09-18
+PHW,,Aena Sme Sa,0.74,2026-09-18
+PHW,,Fortescue Metals Group Ltd,0.73,2026-09-18
+PHW,,Kioxia Holdings Corp,0.73,2026-09-18
+PHW,,Endesa Sa,0.72,2026-09-18
+PHW,,Tokyo Electron Ltd,0.71,2026-09-18
+PHW,,Aristocrat Leisure Limited,0.71,2026-09-18
+PHW,,Sumitomo Mitsui Trust Holdings Inc.,0.69,2026-09-18
+PHW,,Telstra Corporation Limited,0.69,2026-09-18
+PHW,,Deutsche Post Ag,0.68,2026-09-18
+PHW,,Capgemini SE,0.65,2026-09-18
+PHW,,Kddi Corporation,0.62,2026-09-18
+PHW,,Otsuka Holdings Company Limited,0.60,2026-09-18
+PHW,,Suzuki Motor Corporation,0.59,2026-09-18
+PHW,,Boc Hong Kong (Holdings) Limited,0.56,2026-09-18
+PHW,,Industria De Diseno Textil Sa,0.55,2026-09-18
+PHW,,Tesco Plc,0.54,2026-09-18
+PHW,,Iberdrola Sa,0.54,2026-09-18
+PHW,,Cie De Saint-Gobain,0.52,2026-09-18
+PHW,,Sunbelt Rentals Holdings Inc,0.50,2026-09-18
+PHW,,Aib Group Plc,0.49,2026-09-18
+PHW,,Poste Italiane Spa,0.47,2026-09-18
+PHW,,Ly Corp,0.47,2026-09-18
+PHW,,Acs Actividades De Construccion Y Servicios Sa,0.45,2026-09-18
+PHW,,Inpex Corporation,0.45,2026-09-18
+PHW,,"Sony Group Corporation, Sponsored Adr",0.44,2026-09-18
+PHW,,Murata Manufacturing Company Limited,0.42,2026-09-18
+PHW,,Astellas Pharma Inc.,0.42,2026-09-18
+PHW,,Wh Group Limited,0.41,2026-09-18
+PHW,,Sanofi,0.40,2026-09-18
+PHW,,Heidelberg Materials Ag,0.39,2026-09-18
+PHW,,Next Plc,0.38,2026-09-18
+PHW,,Hitachi Ltd.,0.37,2026-09-18
+PHW,,Reckitt Benck Grp Ord,0.37,2026-09-18
+PHW,,Fujikura Ltd,0.37,2026-09-18
+PHW,,Christian Dior Se,0.36,2026-09-18
+PHW,,Associated British Foods Plc,0.36,2026-09-18
+PHW,,Screen Holdings Company Limited,0.34,2026-09-18
+PHW,,Fujitsu Limited,0.32,2026-09-18
+PHW,,Brambles Limited,0.29,2026-09-18
+PHW,,Geberit Ag,0.28,2026-09-18
+PHW,,Lasertec Corporation,0.26,2026-09-18
+PHW,,Endeavour Mining Plc,0.25,2026-09-18
+PHW,,Logitech International Sa,0.22,2026-09-18
+PHW,,Mitsui Mining & Smelting Co Ltd,0.15,2026-09-18
+PHW,,Furukawa Electric Co Ltd,0.13,2026-09-18
+PHW,,Rolls-Royce Holdings Plc,0.12,2026-09-18
+PHW,,Fresnillo Plc,0.12,2026-09-18
+PHW,,Shin-Etsu Chemical Company Limited,0.12,2026-09-18
+PHW,,Recruit Holdings Company Limited,0.12,2026-09-18
+PHW,,"Rio Tinto Plc, Sponsored Adr",0.11,2026-09-18
+PHW,,Softbank Group Corporation,0.08,2026-09-18
+PHW,,Evolution Mining Ltd.,0.05,2026-09-18
+PHW,,Sbi Holdings Inc.,0.04,2026-09-18
+PHW,,Airtel Africa Plc,0.04,2026-09-18
+PHW,,Halma PLC,0.04,2026-09-18
+PHW,,Mitsubishi Electric Corp.,0.03,2026-09-18
+PID,,Roche Holding Ag,3.10,2026-09-18
+PID,,Intesa Sanpaolo SpA,3.01,2026-09-18
+PID,,Bhp Group Limited,3.01,2026-09-18
+PID,,TotalEnergies SE,2.96,2026-09-18
+PID,,Ing Groep Nv,2.88,2026-09-18
+PID,,Allianz Se,2.80,2026-09-18
+PID,,Shell Plc,2.75,2026-09-18
+PID,,Banco Bilbao Vizcaya Argentaria Sa,2.65,2026-09-18
+PID,,Novartis Ag,2.49,2026-09-18
+PID,,Axa Sa,2.32,2026-09-18
+PID,,Natwest Group Plc,2.24,2026-09-18
+PID,,Enel Spa,2.17,2026-09-18
+PID,,Gsk Plc,2.02,2026-09-18
+PID,,Deutsche Telekom Ag,2.01,2026-09-18
+PID,,Nordea Bank Abp,1.98,2026-09-18
+PID,,Deutsche Post Ag,1.94,2026-09-18
+PID,,Assicurazioni Generali Spa,1.93,2026-09-18
+PID,,Endesa Sa,1.87,2026-09-18
+PID,,Kddi Corporation,1.75,2026-09-18
+PID,,Nksj Holdings Inc.,1.75,2026-09-18
+PID,,Ubs Group Ag,1.73,2026-09-18
+PID,,Boc Hong Kong (Holdings) Limited,1.72,2026-09-18
+PID,,Orix Corporation,1.71,2026-09-18
+PID,,Mercedes-Benz Group Ag,1.65,2026-09-18
+PID,,Industria De Diseno Textil Sa,1.63,2026-09-18
+PID,,Canon Inc.,1.62,2026-09-18
+PID,,Cie Generale Des Etablissements Michelin Sca,1.61,2026-09-18
+PID,,Tesco Plc,1.61,2026-09-18
+PID,,Fortescue Metals Group Ltd,1.59,2026-09-18
+PID,,Bridgestone Corporation,1.58,2026-09-18
+PID,,Vinci Sa,1.56,2026-09-18
+PID,,Rio Tinto Limited,1.55,2026-09-18
+PID,,MS & AD Insurance Group Holdings Inc,1.52,2026-09-18
+PID,,Takeda Pharmaceutical Company Ltd.,1.51,2026-09-18
+PID,,Telstra Corporation Limited,1.43,2026-09-18
+PID,,Reckitt Benck Grp Ord,1.40,2026-09-18
+PID,,Wesfarmers Limited,1.39,2026-09-18
+PID,,Komatsu Limited,1.32,2026-09-18
+PID,,Mitsubishi Ufj Financial Group Inc.,1.31,2026-09-18
+PID,,"Lafargeholcim Ltd., Class B",1.24,2026-09-18
+PID,,Rio Tinto Plc,1.22,2026-09-18
+PID,,Koninklijke Ahold Delhaize Nv,1.17,2026-09-18
+PID,,Iberdrola Sa,1.12,2026-09-18
+PID,,Aena Sme Sa,1.10,2026-09-18
+PID,,HSBC Holdings PLC,1.06,2026-09-18
+PID,,Swisscom AG,0.96,2026-09-18
+PID,,Unilever Plc,0.94,2026-09-18
+PID,,Sanofi,0.91,2026-09-18
+PID,,BNP Paribas SA,0.77,2026-09-18
+PID,,Capgemini SE,0.76,2026-09-18
+PID,,Toyota Tsusho Corporation,0.59,2026-09-18
+PID,,Caixabank Sa,0.58,2026-09-18
+PID,,Zurich Insurance Group Ag,0.51,2026-09-18
+PID,,Softbank Corporation,0.50,2026-09-18
+PID,,Vodafone Group Plc,0.49,2026-09-18
+PID,,Sumitomo Corporation,0.47,2026-09-18
+PID,,Lloyds Banking Group PLC,0.47,2026-09-18
+PID,,Amadeus IT Holding SA,0.46,2026-09-18
+PID,,Denso Corporation,0.45,2026-09-18
+PID,,"Daiichi Life Group, Inc.",0.44,2026-09-18
+PID,,Veolia Environnement,0.43,2026-09-18
+PID,,Cie De Saint-Gobain,0.42,2026-09-18
+PID,,Siemens AG,0.41,2026-09-18
+PID,,Unicredit Spa,0.40,2026-09-18
+PID,,Japan Post Holdings Company Limited,0.37,2026-09-18
+PID,,Danone SA,0.36,2026-09-18
+PID,,Tokio Marine Holdings Inc.,0.34,2026-09-18
+PID,,Sumitomo Mitsui Financial Group Inc.,0.32,2026-09-18
+PID,,Relx Plc,0.28,2026-09-18
+PID,,National Grid Plc,0.27,2026-09-18
+PID,,Suzuki Motor Corporation,0.27,2026-09-18
+PID,,Banco Santander Sa,0.22,2026-09-18
+PID,,Aia Group Limited,0.20,2026-09-18
+PID,,Westpac Banking Corporation,0.19,2026-09-18
+PID,,Australia And New Zealand Banking Group Limited,0.17,2026-09-18
+PID,,Henkel Ag & Company Kgaa,0.14,2026-09-18
+PID,,Seven & I Holdings Company Limited,0.12,2026-09-18
+PID,,Nestle Sa,0.12,2026-09-18
+PID,,Standard Chartered PLC,0.04,2026-09-18
+PID,,Experian Plc,0.04,2026-09-18
+PIN,,Gold Bars,1.74,2026-09-18
+PIN,,Exxonmobil Holdings Corp,1.07,2026-09-18
+PIN,,Nutrien Ltd,0.87,2026-09-18
+PIN,,Agnico Eagle Mines Limited,0.46,2026-09-18
+PIN,,Archer-Daniels-Midland Co,0.46,2026-09-18
+PIN,,iBoxx $ High Yield Corporate Bond,21.36,2026-09-18
+PIN,,Purpose Global Bond Fund Iam,6.75,2026-09-18
+PIN,,BMO Mid Federal Bond Index ETF,2.58,2026-09-18
+PIN,,BMO Mid Corporate Bond Index ETF,1.75,2026-09-18
+PIN,,Purpose Global Bond Fund,0.53,2026-09-18
+PIN,,Purpose Premium Yield Fund,1.92,2026-09-18
+PIN,,Toronto-Dominion Bank,1.60,2026-09-18
+PIN,,The Bank of Nova Scotia,1.43,2026-09-18
+PIN,,Royal Bank Of Canada,1.24,2026-09-18
+PIN,,Canadian Imperial Bank Of Commerce,1.17,2026-09-18
+PIN,,Enbridge Inc.,0.65,2026-09-18
+PIN,,Procter & Gamble Co,0.38,2026-09-18
+PIN,,TotalEnergies SE,0.21,2026-09-18
+PIN,,Nksj Holdings Inc.,0.13,2026-09-18
+PIN,,Vinci Sa,0.11,2026-09-18
+PINC,,Toronto-Dominion Bank,3.61,2026-09-18
+PINC,,The Bank of Nova Scotia,3.50,2026-09-18
+PINC,,Gibson Energy Inc.,2.78,2026-09-18
+PINC,,Royal Bank Of Canada,2.70,2026-09-18
+PINC,,Canadian Imperial Bank Of Commerce,2.66,2026-09-18
+PINC,,Canadian Treasury Bill,0.88,2026-09-18
+PINC,,Gran Tierra Energy Inc. (USD) 9.750% 04/15/2031,0.14,2026-09-18
+PINC,,Stonemor Inc. (USD) 8.500% 05/15/2029,0.13,2026-09-18
+PINC,,Trulieve Cannabis Company (USD) 10.50% 12/17/2030,0.12,2026-09-18
+PINC,,Hudson Pacific Properties Lp (USD) 4.650% 04/01/2029,0.11,2026-09-18
+PINC,,Royal Bank Of Canada 4.200% 12/31/2049,0.31,2026-09-18
+PINC,,"Capital Power Corporation, Pref. Series 1",0.20,2026-09-18
+PINC,,Brookfield Corp Pref. Series 40,0.11,2026-09-18
+PINC,,"Transalta Corporation, Pref. 5.194% Series E",0.11,2026-09-18
+PINC,,"Toronto-Dominion Bank (The), Pref. 3.9% Series A",0.10,2026-09-18
+PINV,,Advanced Micro Devices Inc.,6.10,2026-09-18
+PINV,,Snowflake Inc,5.32,2026-09-18
+PINV,,Alphabet Inc,5.29,2026-09-18
+PINV,,Taiwan Semiconductor Manufacturing Company Limited,5.29,2026-09-18
+PINV,,Nebius Group Nv,4.30,2026-09-18
+PINV,,Microsoft Corporation,4.11,2026-09-18
+PINV,,Palantir Technologies Inc,3.98,2026-09-18
+PINV,,"Amazon.com, Inc.",3.40,2026-09-18
+PINV,,Mongodb Inc.,3.19,2026-09-18
+PINV,,Nvidia Corporation,3.13,2026-09-18
+PINV,,Marvell Technology Inc,3.13,2026-09-18
+PINV,,Cloudflare Inc.,3.11,2026-09-18
+PINV,,Crowdstrike Holdings Inc.,3.04,2026-09-18
+PINV,,"ASML Holding NV, ADR",2.96,2026-09-18
+PINV,,Twilio Inc.,2.81,2026-09-18
+PINV,,Ge Vernova Inc,2.71,2026-09-18
+PINV,,Servicenow Inc.,2.60,2026-09-18
+PINV,,Bloom Energy Corporation,2.55,2026-09-18
+PINV,,Digitalocean Holdings Inc,2.50,2026-09-18
+PINV,,Vertiv Holdings Llc,2.40,2026-09-18
+PINV,,Datadog Inc,2.21,2026-09-18
+PINV,,Astera Labs Inc,2.14,2026-09-18
+PINV,,"Shopify Inc., Class A",2.06,2026-09-18
+PINV,,Quanta Services Inc,2.04,2026-09-18
+PINV,,Lam Research Corporation,2.03,2026-09-18
+PINV,,Applied Materials Inc.,1.99,2026-09-18
+PINV,,EMCOR Group Inc,1.92,2026-09-18
+PINV,,Solaris Energy Infrastructure,1.78,2026-09-18
+PINV,,Broadcom Inc.,1.60,2026-09-18
+PINV,,Siemens Energy Ag,1.56,2026-09-18
+PINV,,8Twelve Financial Technologies Inc.,0.35,2026-09-18
+PINV,,Qyou Media Inc Com,0.00,2026-09-18
+PINV,,Opera Event Inc. Preferred Stock Series A,0.00,2026-09-18
+PINV,,Axion Ventures Inc,0.00,2026-09-18
+PINV,,Qntmpay Inc.,0.00,2026-09-18
+PINV,,"Seal Storage Technology Inc. Preferred Shares, Cl",0.00,2026-09-18
+PINV,,Panaxia Pharmaceutical Industries,0.00,2026-09-18
+PMM,,10Yr Mini Jgb Fut,6.52,2026-09-18
+PMM,,Long Gilt Future,6.44,2026-09-18
+PMM,,Euro-Oat Future,6.43,2026-09-18
+PMM,,Xae Energy,5.10,2026-09-18
+PMM,,E-Mini Russ 1000 Vdec26,4.70,2026-09-18
+PMM,,Xab Materials,4.69,2026-09-18
+PMM,,Nasd100 Micro Emindec26,3.76,2026-09-18
+PMM,,Nvidia Corporation,3.32,2026-09-18
+PMM,,Apple Inc,3.14,2026-09-18
+PMM,,Alphabet Inc,2.48,2026-09-18
+PMM,,Microsoft Corporation,2.16,2026-09-18
+PMM,,MSCI Emgmkt,2.16,2026-09-18
+PMM,,Sugar #11 (World) Jul27,2.08,2026-09-18
+PMM,,MSCI World Index,2.01,2026-09-18
+PMM,,Brent Crude Futr Dec26,1.87,2026-09-18
+PMM,,Natural Gas Futr Dec26,1.71,2026-09-18
+PMM,,E-Mini Copper Dec26,1.58,2026-09-18
+PMM,,Mini Soybean Fut,1.31,2026-09-18
+PMM,,"Amazon.com, Inc.",1.27,2026-09-18
+PMM,,Wti Crude Future Dec26,1.16,2026-09-18
+PMM,,Soybean Meal Futr,1.13,2026-09-18
+PMM,,Broadcom Inc.,1.08,2026-09-18
+PMM,,MSCI Eafe,1.00,2026-09-18
+PMM,,Gasoline Rbob Fut Nov26,0.86,2026-09-18
+PMM,,Visa Inc.,0.84,2026-09-18
+PMM,,JPMorgan Chase & Co,0.80,2026-09-18
+PMM,,Meta,0.80,2026-09-18
+PMM,,Eli Lilly & Co,0.79,2026-09-18
+PMM,,Lean Hogs Future,0.68,2026-09-18
+PMM,,Costco Wholesale Corporation,0.60,2026-09-18
+PMM,,Analog Devices Inc,0.59,2026-09-18
+PMM,,Amphenol Corporation,0.57,2026-09-18
+PMM,,Tesla Inc.,0.56,2026-09-18
+PMM,,Intercontinental Exchange Inc,0.55,2026-09-18
+PMM,,Lam Research Corporation,0.55,2026-09-18
+PMM,,Live Cattle Futr,0.54,2026-09-18
+PMM,,Soybean Oil Futr,0.52,2026-09-18
+PMM,,Unum Group,0.51,2026-09-18
+PMM,,General Motors Co,0.51,2026-09-18
+PMM,,Marsh & Mclennan Companies Inc.,0.51,2026-09-18
+PMM,,Micron Technology Inc,0.50,2026-09-18
+PMM,,Parker-Hannifin Corporation,0.49,2026-09-18
+PMM,,Howmet Aerospace,0.46,2026-09-18
+PMM,,nVent Electric PLC,0.45,2026-09-18
+PMM,,Salesforce Inc,0.45,2026-09-18
+PMM,,Edwards Lifesciences Corporation,0.44,2026-09-18
+PMM,,Exxonmobil Holdings Corp,0.44,2026-09-18
+PMM,,UnitedHealth Group Inc.,0.43,2026-09-18
+PMM,,ConocoPhillips,0.43,2026-09-18
+PMM,,Thermo Fisher Scientific Inc.,0.42,2026-09-18
+PMM,,TJX Cos Inc/The,0.42,2026-09-18
+PMM,,Nasdaq Inc.,0.41,2026-09-18
+PMM,,General Electric Company,0.40,2026-09-18
+PMM,,United Rentals Inc,0.40,2026-09-18
+PMM,,Trane Technologies Plc,0.36,2026-09-18
+PMM,,Lockheed Martin Corp,0.34,2026-09-18
+PMM,,UGI Corporation,0.32,2026-09-18
+PMM,,Morgan Stanley,0.30,2026-09-18
+PMM,,Tenet Healthcare Corp,0.29,2026-09-18
+PMM,,Western Digital Corp,0.28,2026-09-18
+PMM,,New Linde Plc,0.27,2026-09-18
+PMM,,Ventas Inc,0.27,2026-09-18
+PMM,,Citigroup Inc,0.26,2026-09-18
+PMM,,"British American Tobacco Plc, Adr",0.24,2026-09-18
+PMM,,Corn Future,0.24,2026-09-18
+PMM,,Sun Communities Inc,0.24,2026-09-18
+PMM,,Texas Instruments Inc,0.24,2026-09-18
+PMM,,Agnico Eagle Mines Limited,0.23,2026-09-18
+PMM,,Procter & Gamble Co,0.22,2026-09-18
+PMM,,Raytheon Technologies Corporation,0.21,2026-09-18
+PMM,,O'Reilly Automotive Inc,0.20,2026-09-18
+PMM,,DRAFTKINGS INC-CL A,0.19,2026-09-18
+PMM,,Coca-Cola Co,0.18,2026-09-18
+PMM,,Netflix Inc,0.18,2026-09-18
+PMM,,ULTA BEAUTY INC,0.17,2026-09-18
+PMM,,PNC Financial Services Group Inc,0.17,2026-09-18
+PMM,,Servicenow Inc.,0.15,2026-09-18
+PMM,,Steel Dynamics Inc,0.14,2026-09-18
+PMM,,T-Mobile US Inc,0.13,2026-09-18
+PMM,,Autodesk Inc.,0.11,2026-09-18
+PMM,,Danaher Corporation,0.11,2026-09-18
+PMM,,Motorola Solutions Inc,0.10,2026-09-18
+PMM,,American Electric Power Co Inc,0.10,2026-09-18
+PMM,,Walt Disney Co,0.09,2026-09-18
+PMM,,Prologis Inc,0.08,2026-09-18
+PMM,,Baker Hughes Company,0.08,2026-09-18
+PMM,,Stryker Corporation,0.08,2026-09-18
+PMM,,Quest Diagnostics Inc,0.08,2026-09-18
+PMM,,FirstEnergy Corp,0.07,2026-09-18
+PMM,,Phillips 66,0.06,2026-09-18
+PMM,,Duke Energy Corp,0.06,2026-09-18
+PMM,,Cattle Feeder Fut,0.06,2026-09-18
+PMM,,Cooper Companies Inc. (The),0.05,2026-09-18
+PMM,,The Williams Companies Inc.,0.05,2026-09-18
+PMM,,State Street SPDR S&P 500 Put 720 10/30/26,0.05,2026-09-18
+PMM,,Martin Marietta Materials Inc.,0.05,2026-09-18
+PMM,,Align Technology Inc.,0.04,2026-09-18
+PMM,,Southern Copper Corp,0.04,2026-09-18
+PMM,,Public Storage,0.04,2026-09-18
+PMM,,Church & Dwight Co Inc,0.04,2026-09-18
+PRA,,Low Su Gasoil G,2.10,2026-09-18
+PRA,,Gasoline Rbob Fut Nov26,2.00,2026-09-18
+PRA,,Ny Harb Ulsd Fut Nov26,1.67,2026-09-18
+PRA,,Brent Crude Futr Dec26,1.59,2026-09-18
+PRA,,New Linde Plc,1.59,2026-09-18
+PRA,,Exxonmobil Holdings Corp,2.20,2026-09-18
+PRA,,Duke Energy Corp,1.95,2026-09-18
+PRA,,Nextera Energy Inc,1.87,2026-09-18
+PRA,,National Grid Plc,1.64,2026-09-18
+PRA,,Constellation Energy Corp,1.29,2026-09-18
+PRA,,Nutrien Ltd,2.10,2026-09-18
+PRA,,Archer-Daniels-Midland Co,2.09,2026-09-18
+PRA,,Corteva Inc,2.09,2026-09-18
+PRA,,Live Cattle Futr,1.85,2026-09-18
+PRA,,Soybean Future,1.84,2026-09-18
+PRA,,Copper Future,2.33,2026-09-18
+PRA,,Bhp Group Limited,2.11,2026-09-18
+PRA,,"Rio Tinto Plc, Sponsored Adr",1.65,2026-09-18
+PRA,,Southern Copper Corp,1.46,2026-09-18
+PRA,,Lme Zinc Future,1.30,2026-09-18
+PRA,,Welltower Inc,2.00,2026-09-18
+PRA,,Prologis Inc,1.85,2026-09-18
+PRA,,Equinix Inc,1.65,2026-09-18
+PRA,,Simon Property Group Inc,1.54,2026-09-18
+PRA,,American Tower Corp,1.38,2026-09-18
+PRA,,Gold Bars,3.73,2026-09-18
+PRA,,Silver Bars,1.93,2026-09-18
+PRA,,Newmont Mining Corporation,1.05,2026-09-18
+PRA,,Gold 100 Oz Futr,0.95,2026-09-18
+PRA,,Barrick Gold Corporation,0.77,2026-09-18
+PRP,,Exxonmobil Holdings Corp,0.72,2026-09-18
+PRP,,Nutrien Ltd,0.46,2026-09-18
+PRP,,Agnico Eagle Mines Limited,0.34,2026-09-18
+PRP,,ConocoPhillips,0.32,2026-09-18
+PRP,,EOG Resources Inc,0.28,2026-09-18
+PRP,,iBoxx $ High Yield Corporate Bond,15.91,2026-09-18
+PRP,,iShares 20+ Year Treasury Bond,3.79,2026-09-18
+PRP,,BMO Mid Federal Bond Index ETF,1.92,2026-09-18
+PRP,,BMO Mid Corporate Bond Index ETF,1.30,2026-09-18
+PRP,,Accenture Plc,0.32,2026-09-18
+PRP,,Toronto-Dominion Bank,1.71,2026-09-18
+PRP,,The Bank of Nova Scotia,1.51,2026-09-18
+PRP,,Royal Bank Of Canada,1.32,2026-09-18
+PRP,,Canadian Imperial Bank Of Commerce,1.23,2026-09-18
+PRP,,Manulife Financial Corp,1.16,2026-09-18
+PRP,,Equity Residential,0.44,2026-09-18
+PRP,,Cognizant Technology Solutions Corporation,0.35,2026-09-18
+PRP,,AT&T Inc,0.31,2026-09-18
+PRP,,Verisign Inc.,0.29,2026-09-18
+PRP,,CME Group Inc,0.29,2026-09-18
+PRP,,Purpose Global Bond Fund Iam,10.41,2026-09-18
+PRP,,Purpose Global Bond Fund,0.82,2026-09-18
+PRP,,Gartner Inc,0.34,2026-09-18
+PRP,,Thermo Fisher Scientific Inc.,0.31,2026-09-18
+PRP,,"Fox Corporation, Class A",0.29,2026-09-18
+PSA,,National Bank Cash Account,49.54,2026-09-18
+PSA,,Canadian Treasury Bill,27.50,2026-09-18
+PSA,,BMO Cash Account,13.43,2026-09-18
+PSA,,Scotiabank Cash Account,9.52,2026-09-18
+PSU.U,,BMO Cash Account,46.49,2026-09-18
+PSU.U,,National Bank Cash Account,43.59,2026-09-18
+PSU.U,,Scotiabank Cash Account,8.97,2026-09-18
+PSU.U,,CIBC Cash Account,0.95,2026-09-18
+PYF,,Home Depot Inc,1.60,2026-09-18
+PYF,,iShares 20+ Year Treasury Bond,1.58,2026-09-18
+PYF,,Raytheon Technologies Corporation,1.57,2026-09-18
+PYF,,Procter & Gamble Co,1.36,2026-09-18
+PYF,,Booking Holdings Inc.,1.17,2026-09-18
+PYF,,Xtrackers Harvest Csi 300 Ch,0.94,2026-09-18
+PYF,,General Electric Company,0.73,2026-09-18
+PYF,,Nextera Energy Inc,0.65,2026-09-18
+PYF,,Crh Plc,0.60,2026-09-18
+PYF,,UnitedHealth Group Inc.,0.52,2026-09-18
+PYF,,CVS Health Corp,0.51,2026-09-18
+PYF,,Alphabet Inc,0.48,2026-09-18
+PYF,,Microsoft Corporation,0.46,2026-09-18
+PYF,,Servicenow Inc.,0.31,2026-09-18
+PYF,,Coinbase Global Inc,0.25,2026-09-18
+PYF,,Mercadolibre Inc.,0.21,2026-09-18
+PYF,,DRAFTKINGS INC-CL A,0.18,2026-09-18
+PYF,,Booking Holdings Inc Put 190 10/16/26,0.03,2026-09-18
+PYF,,Home Depot Inc/The Put 320 10/16/26,0.03,2026-09-18
+PYF,,Invesco QQQ Trust Series Call 717 09/23/26,0.03,2026-09-18
+PYF,,iShares 20+ Year Treasury B Put 82 11/20/26,0.02,2026-09-18
+PYF,,CRH PLC Put 91 09/25/26,0.02,2026-09-18
+PYF,,iShares Russell 2000 ETF Put 272 10/30/26,0.02,2026-09-18
+PYF,,State Street SPDR S&P 500 Put 705 11/20/26,0.02,2026-09-18
+PYF,,Invesco QQQ Trust Series 1 Put 665 10/30/26,0.01,2026-09-18
+PYF,,State Street SPDR S&P 500 Call 764 09/25/26,0.01,2026-09-18
+PYF,,State Street SPDR S&P 500 Put 732 10/16/26,0.01,2026-09-18
+PYF,,iShares 20+ Year Treasury B Put 81 10/30/26,0.01,2026-09-18
+PYF,,Invesco QQQ Trust Series 1 Put 665 10/23/26,0.01,2026-09-18
+PYF,,State Street SPDR S&P 500 Put 710 10/30/26,0.01,2026-09-18
+PYF,,State Street SPDR S&P 500 Put 735 10/09/26,0.01,2026-09-18
+PYF,,Invesco QQQ Trust Series Call 725 09/24/26,0.01,2026-09-18
+PYF,,Caterpillar Inc Put 720 10/30/26,0.01,2026-09-18
+PYF,,Invesco QQQ Trust Series 1 Put 702 09/30/26,0.01,2026-09-18
+PYF,,Tesla Inc Put 335 10/30/26,0.01,2026-09-18
+PYF,,Meta Platforms Inc Put 640 10/09/26,0.01,2026-09-18
+PYF,,Invesco QQQ Trust Series 1 Put 675 10/09/26,0.01,2026-09-18
+PYF,,Amazon.com Inc Put 240 10/23/26,0.01,2026-09-18
+PYF,,DKNG US Put 22.5 10/16/26,0.01,2026-09-18
+PYF,,Apple Inc Put 310 10/30/26,0.01,2026-09-18
+PYF,,iShares MSCI Emerging Marke Put 64 10/23/26,0.01,2026-09-18
+PYF,,ServiceNow Inc Put 115 10/30/26,0.01,2026-09-18
+PYF,,State Street SPDR S&P 500 Put 740 10/02/26,0.01,2026-09-18
+PYF,,iShares 20+ Year Treasury Put 81.5 09/28/26,0.01,2026-09-18
+PYF,,Procter & Gamble Co/The Put 140 10/23/26,0.01,2026-09-18
+PYF,,Meta Platforms Inc Put 560 10/30/26,0.01,2026-09-18
+PYF,,Lam Research Corp Call 330 11/20/26,0.01,2026-09-18
+PYF,,State Street SPDR S&P 500 Put 748 09/30/26,0.01,2026-09-18
+PYF,,Invesco QQQ Trust Series 1 Put 675 10/16/26,0.01,2026-09-18
+PYF,,Microsoft Corp Put 470 10/16/26,0.01,2026-09-18
+PYF,,Alphabet Inc Put 320 10/30/26,0.01,2026-09-18
+PYF,,Coinbase Global Inc Put 155 10/16/26,0.01,2026-09-18
+PYF,,JPMorgan Chase & Co Put 330 10/16/26,0.01,2026-09-18
+PYF,,iShares 20+ Year Treasury Call 84 11/20/26,0.01,2026-09-18
+PYF,,ASML US Put 1460 10/23/26,0.00,2026-09-18
+PYF,,RTX Corp Put 185 10/16/26,0.00,2026-09-18
+PYF,,Invesco QQQ Trust Series 1 Put 665 10/16/26,0.00,2026-09-18
+PYF,,Eli Lilly & Co Put 1100 10/16/26,0.00,2026-09-18
+PYF,,MercadoLibre Inc Put 1800 09/25/26,0.00,2026-09-18
+PYF,,Palantir Technologies Inc Put 145 10/16/26,0.00,2026-09-18
+PYF,,iShares MSCI EAFE ETF Put 103 10/30/26,0.00,2026-09-18
+PYF,,Palantir Technologies Inc Put 155 10/09/26,0.00,2026-09-18
+PYF,,Broadcom Inc Put 320 10/23/26,0.00,2026-09-18
+PYF,,Xtrackers Harvest CSI 300 Call 35 10/30/26,0.00,2026-09-18
+PYF,,ExxonMobil Holdings Corp Call 170 10/02/26,0.00,2026-09-18
+PYF,,NVIDIA Corp Put 200 10/16/26,0.00,2026-09-18
+PYF,,Invesco QQQ Trust Series 1 Put 680 10/02/26,0.00,2026-09-18
+PYF,,Visa Inc Put 340 10/30/26,0.00,2026-09-18
+PYF,,Lam Research Corp Put 250 10/16/26,0.00,2026-09-18
+PYF,,Uber Technologies Inc Put 65 10/16/26,0.00,2026-09-18
+PYF,,Newmont Corp Put 115 10/16/26,0.00,2026-09-18
+PYF,,Micron Technology Inc Put 760 10/16/26,0.00,2026-09-18
+PYF,,Broadcom Inc Put 320 10/16/26,0.00,2026-09-18
+PYF,,iShares 20+ Year Treasury Call 84 10/16/26,0.00,2026-09-18
+PYF,,Coinbase Global Inc Put 155 10/02/26,0.00,2026-09-18
+PYF,,Amazon.com Inc Call 265 09/25/26,0.00,2026-09-18
+PYF,,Xtrackers Harvest CSI 300 Call 37 09/18/26,0.00,2026-09-18
+PYF,,Micron Technology Inc Put 680 09/18/26,0.00,2026-09-18
+PYF,,Caterpillar Inc Put 690 09/18/26,0.00,2026-09-18
+PYF,,Eli Lilly & Co Put 1040 09/18/26,0.00,2026-09-18
+PYF,,Tesla Inc Put 290 09/18/26,0.00,2026-09-18
+PYF,,Broadcom Inc Put 310 09/18/26,0.00,2026-09-18
+PYF,,Alphabet Inc Call 385 09/18/26,0.00,2026-09-18
+PYF,,UnitedHealth Group Inc Call 415 09/18/26,0.00,2026-09-18
+PYF,,UnitedHealth Group Inc Put 365 09/18/26,0.00,2026-09-18
+PYF,,Amazon.com Inc Put 235 09/18/26,0.00,2026-09-18
+PYF,,Visa Inc Put 355 09/18/26,0.00,2026-09-18
+PYF,,ASML Holding NV Put 1480 09/18/26,0.00,2026-09-18
+PYF,,Apple Inc Put 280 09/18/26,0.00,2026-09-18
+PYF,,Newmont Corp Put 115 09/18/26,0.00,2026-09-18
+PYF,,Lam Research Corp Put 250 09/18/26,0.00,2026-09-18
+PYF,,Home Depot Inc/The Call 320 09/18/26,0.00,2026-09-18
+PYF,,ServiceNow Inc Put 100 09/18/26,0.00,2026-09-18
+PYF,,ExxonMobil Holdings Corp Put 150 09/18/26,0.00,2026-09-18
+PYF,,ServiceNow Inc Put 122 09/18/26,0.00,2026-09-18
+PYF,,NVIDIA Corp Put 180 09/18/26,0.00,2026-09-18
+PYF,,RTX Corp Call 205 09/18/26,0.00,2026-09-18
+PYF,,Invesco QQQ Trust Series 1 Put 674 09/21/26,0.00,2026-09-18
+PYF,,Home Depot Inc/The Call 370 09/18/26,0.00,2026-09-18
+PYF,,Procter & Gamble Co/The Call 152.5 09/18/26,0.00,2026-09-18
+PYF.B,,Home Depot Inc,1.60,2026-09-18
+PYF.B,,iShares 20+ Year Treasury Bond,1.58,2026-09-18
+PYF.B,,Raytheon Technologies Corporation,1.57,2026-09-18
+PYF.B,,Procter & Gamble Co,1.36,2026-09-18
+PYF.B,,Booking Holdings Inc.,1.17,2026-09-18
+PYF.B,,Xtrackers Harvest Csi 300 Ch,0.94,2026-09-18
+PYF.B,,General Electric Company,0.73,2026-09-18
+PYF.B,,Nextera Energy Inc,0.65,2026-09-18
+PYF.B,,Crh Plc,0.60,2026-09-18
+PYF.B,,UnitedHealth Group Inc.,0.52,2026-09-18
+PYF.B,,CVS Health Corp,0.51,2026-09-18
+PYF.B,,Alphabet Inc,0.48,2026-09-18
+PYF.B,,Microsoft Corporation,0.46,2026-09-18
+PYF.B,,Servicenow Inc.,0.31,2026-09-18
+PYF.B,,Coinbase Global Inc,0.25,2026-09-18
+PYF.B,,Mercadolibre Inc.,0.21,2026-09-18
+PYF.B,,DRAFTKINGS INC-CL A,0.18,2026-09-18
+PYF.B,,Booking Holdings Inc Put 190 10/16/26,0.03,2026-09-18
+PYF.B,,Home Depot Inc/The Put 320 10/16/26,0.03,2026-09-18
+PYF.B,,Invesco QQQ Trust Series Call 717 09/23/26,0.03,2026-09-18
+PYF.B,,iShares 20+ Year Treasury B Put 82 11/20/26,0.02,2026-09-18
+PYF.B,,CRH PLC Put 91 09/25/26,0.02,2026-09-18
+PYF.B,,iShares Russell 2000 ETF Put 272 10/30/26,0.02,2026-09-18
+PYF.B,,State Street SPDR S&P 500 Put 705 11/20/26,0.02,2026-09-18
+PYF.B,,Invesco QQQ Trust Series 1 Put 665 10/30/26,0.01,2026-09-18
+PYF.B,,State Street SPDR S&P 500 Call 764 09/25/26,0.01,2026-09-18
+PYF.B,,State Street SPDR S&P 500 Put 732 10/16/26,0.01,2026-09-18
+PYF.B,,iShares 20+ Year Treasury B Put 81 10/30/26,0.01,2026-09-18
+PYF.B,,Invesco QQQ Trust Series 1 Put 665 10/23/26,0.01,2026-09-18
+PYF.B,,State Street SPDR S&P 500 Put 710 10/30/26,0.01,2026-09-18
+PYF.B,,State Street SPDR S&P 500 Put 735 10/09/26,0.01,2026-09-18
+PYF.B,,Invesco QQQ Trust Series Call 725 09/24/26,0.01,2026-09-18
+PYF.B,,Caterpillar Inc Put 720 10/30/26,0.01,2026-09-18
+PYF.B,,Invesco QQQ Trust Series 1 Put 702 09/30/26,0.01,2026-09-18
+PYF.B,,Tesla Inc Put 335 10/30/26,0.01,2026-09-18
+PYF.B,,Meta Platforms Inc Put 640 10/09/26,0.01,2026-09-18
+PYF.B,,Invesco QQQ Trust Series 1 Put 675 10/09/26,0.01,2026-09-18
+PYF.B,,Amazon.com Inc Put 240 10/23/26,0.01,2026-09-18
+PYF.B,,DKNG US Put 22.5 10/16/26,0.01,2026-09-18
+PYF.B,,Apple Inc Put 310 10/30/26,0.01,2026-09-18
+PYF.B,,iShares MSCI Emerging Marke Put 64 10/23/26,0.01,2026-09-18
+PYF.B,,ServiceNow Inc Put 115 10/30/26,0.01,2026-09-18
+PYF.B,,State Street SPDR S&P 500 Put 740 10/02/26,0.01,2026-09-18
+PYF.B,,iShares 20+ Year Treasury Put 81.5 09/28/26,0.01,2026-09-18
+PYF.B,,Procter & Gamble Co/The Put 140 10/23/26,0.01,2026-09-18
+PYF.B,,Meta Platforms Inc Put 560 10/30/26,0.01,2026-09-18
+PYF.B,,Lam Research Corp Call 330 11/20/26,0.01,2026-09-18
+PYF.B,,State Street SPDR S&P 500 Put 748 09/30/26,0.01,2026-09-18
+PYF.B,,Invesco QQQ Trust Series 1 Put 675 10/16/26,0.01,2026-09-18
+PYF.B,,Microsoft Corp Put 470 10/16/26,0.01,2026-09-18
+PYF.B,,Alphabet Inc Put 320 10/30/26,0.01,2026-09-18
+PYF.B,,Coinbase Global Inc Put 155 10/16/26,0.01,2026-09-18
+PYF.B,,JPMorgan Chase & Co Put 330 10/16/26,0.01,2026-09-18
+PYF.B,,iShares 20+ Year Treasury Call 84 11/20/26,0.01,2026-09-18
+PYF.B,,ASML US Put 1460 10/23/26,0.00,2026-09-18
+PYF.B,,RTX Corp Put 185 10/16/26,0.00,2026-09-18
+PYF.B,,Invesco QQQ Trust Series 1 Put 665 10/16/26,0.00,2026-09-18
+PYF.B,,Eli Lilly & Co Put 1100 10/16/26,0.00,2026-09-18
+PYF.B,,MercadoLibre Inc Put 1800 09/25/26,0.00,2026-09-18
+PYF.B,,Palantir Technologies Inc Put 145 10/16/26,0.00,2026-09-18
+PYF.B,,iShares MSCI EAFE ETF Put 103 10/30/26,0.00,2026-09-18
+PYF.B,,Palantir Technologies Inc Put 155 10/09/26,0.00,2026-09-18
+PYF.B,,Broadcom Inc Put 320 10/23/26,0.00,2026-09-18
+PYF.B,,Xtrackers Harvest CSI 300 Call 35 10/30/26,0.00,2026-09-18
+PYF.B,,ExxonMobil Holdings Corp Call 170 10/02/26,0.00,2026-09-18
+PYF.B,,NVIDIA Corp Put 200 10/16/26,0.00,2026-09-18
+PYF.B,,Invesco QQQ Trust Series 1 Put 680 10/02/26,0.00,2026-09-18
+PYF.B,,Visa Inc Put 340 10/30/26,0.00,2026-09-18
+PYF.B,,Lam Research Corp Put 250 10/16/26,0.00,2026-09-18
+PYF.B,,Uber Technologies Inc Put 65 10/16/26,0.00,2026-09-18
+PYF.B,,Newmont Corp Put 115 10/16/26,0.00,2026-09-18
+PYF.B,,Micron Technology Inc Put 760 10/16/26,0.00,2026-09-18
+PYF.B,,Broadcom Inc Put 320 10/16/26,0.00,2026-09-18
+PYF.B,,iShares 20+ Year Treasury Call 84 10/16/26,0.00,2026-09-18
+PYF.B,,Coinbase Global Inc Put 155 10/02/26,0.00,2026-09-18
+PYF.B,,Amazon.com Inc Call 265 09/25/26,0.00,2026-09-18
+PYF.B,,Xtrackers Harvest CSI 300 Call 37 09/18/26,0.00,2026-09-18
+PYF.B,,Micron Technology Inc Put 680 09/18/26,0.00,2026-09-18
+PYF.B,,Caterpillar Inc Put 690 09/18/26,0.00,2026-09-18
+PYF.B,,Eli Lilly & Co Put 1040 09/18/26,0.00,2026-09-18
+PYF.B,,Tesla Inc Put 290 09/18/26,0.00,2026-09-18
+PYF.B,,Broadcom Inc Put 310 09/18/26,0.00,2026-09-18
+PYF.B,,Alphabet Inc Call 385 09/18/26,0.00,2026-09-18
+PYF.B,,UnitedHealth Group Inc Call 415 09/18/26,0.00,2026-09-18
+PYF.B,,UnitedHealth Group Inc Put 365 09/18/26,0.00,2026-09-18
+PYF.B,,Amazon.com Inc Put 235 09/18/26,0.00,2026-09-18
+PYF.B,,Visa Inc Put 355 09/18/26,0.00,2026-09-18
+PYF.B,,ASML Holding NV Put 1480 09/18/26,0.00,2026-09-18
+PYF.B,,Apple Inc Put 280 09/18/26,0.00,2026-09-18
+PYF.B,,Newmont Corp Put 115 09/18/26,0.00,2026-09-18
+PYF.B,,Lam Research Corp Put 250 09/18/26,0.00,2026-09-18
+PYF.B,,Home Depot Inc/The Call 320 09/18/26,0.00,2026-09-18
+PYF.B,,ServiceNow Inc Put 100 09/18/26,0.00,2026-09-18
+PYF.B,,ExxonMobil Holdings Corp Put 150 09/18/26,0.00,2026-09-18
+PYF.B,,ServiceNow Inc Put 122 09/18/26,0.00,2026-09-18
+PYF.B,,NVIDIA Corp Put 180 09/18/26,0.00,2026-09-18
+PYF.B,,RTX Corp Call 205 09/18/26,0.00,2026-09-18
+PYF.B,,Invesco QQQ Trust Series 1 Put 674 09/21/26,0.00,2026-09-18
+PYF.B,,Home Depot Inc/The Call 370 09/18/26,0.00,2026-09-18
+PYF.B,,Procter & Gamble Co/The Call 152.5 09/18/26,0.00,2026-09-18
+PYF.U,,Home Depot Inc,1.60,2026-09-18
+PYF.U,,iShares 20+ Year Treasury Bond,1.58,2026-09-18
+PYF.U,,Raytheon Technologies Corporation,1.57,2026-09-18
+PYF.U,,Procter & Gamble Co,1.36,2026-09-18
+PYF.U,,Booking Holdings Inc.,1.17,2026-09-18
+PYF.U,,Xtrackers Harvest Csi 300 Ch,0.94,2026-09-18
+PYF.U,,General Electric Company,0.73,2026-09-18
+PYF.U,,Nextera Energy Inc,0.65,2026-09-18
+PYF.U,,Crh Plc,0.60,2026-09-18
+PYF.U,,UnitedHealth Group Inc.,0.52,2026-09-18
+PYF.U,,CVS Health Corp,0.51,2026-09-18
+PYF.U,,Alphabet Inc,0.48,2026-09-18
+PYF.U,,Microsoft Corporation,0.46,2026-09-18
+PYF.U,,Servicenow Inc.,0.31,2026-09-18
+PYF.U,,Coinbase Global Inc,0.25,2026-09-18
+PYF.U,,Mercadolibre Inc.,0.21,2026-09-18
+PYF.U,,DRAFTKINGS INC-CL A,0.18,2026-09-18
+PYF.U,,Booking Holdings Inc Put 190 10/16/26,0.03,2026-09-18
+PYF.U,,Home Depot Inc/The Put 320 10/16/26,0.03,2026-09-18
+PYF.U,,Invesco QQQ Trust Series Call 717 09/23/26,0.03,2026-09-18
+PYF.U,,iShares 20+ Year Treasury B Put 82 11/20/26,0.02,2026-09-18
+PYF.U,,CRH PLC Put 91 09/25/26,0.02,2026-09-18
+PYF.U,,iShares Russell 2000 ETF Put 272 10/30/26,0.02,2026-09-18
+PYF.U,,State Street SPDR S&P 500 Put 705 11/20/26,0.02,2026-09-18
+PYF.U,,Invesco QQQ Trust Series 1 Put 665 10/30/26,0.01,2026-09-18
+PYF.U,,State Street SPDR S&P 500 Call 764 09/25/26,0.01,2026-09-18
+PYF.U,,State Street SPDR S&P 500 Put 732 10/16/26,0.01,2026-09-18
+PYF.U,,iShares 20+ Year Treasury B Put 81 10/30/26,0.01,2026-09-18
+PYF.U,,Invesco QQQ Trust Series 1 Put 665 10/23/26,0.01,2026-09-18
+PYF.U,,State Street SPDR S&P 500 Put 710 10/30/26,0.01,2026-09-18
+PYF.U,,State Street SPDR S&P 500 Put 735 10/09/26,0.01,2026-09-18
+PYF.U,,Invesco QQQ Trust Series Call 725 09/24/26,0.01,2026-09-18
+PYF.U,,Caterpillar Inc Put 720 10/30/26,0.01,2026-09-18
+PYF.U,,Invesco QQQ Trust Series 1 Put 702 09/30/26,0.01,2026-09-18
+PYF.U,,Tesla Inc Put 335 10/30/26,0.01,2026-09-18
+PYF.U,,Meta Platforms Inc Put 640 10/09/26,0.01,2026-09-18
+PYF.U,,Invesco QQQ Trust Series 1 Put 675 10/09/26,0.01,2026-09-18
+PYF.U,,Amazon.com Inc Put 240 10/23/26,0.01,2026-09-18
+PYF.U,,DKNG US Put 22.5 10/16/26,0.01,2026-09-18
+PYF.U,,Apple Inc Put 310 10/30/26,0.01,2026-09-18
+PYF.U,,iShares MSCI Emerging Marke Put 64 10/23/26,0.01,2026-09-18
+PYF.U,,ServiceNow Inc Put 115 10/30/26,0.01,2026-09-18
+PYF.U,,State Street SPDR S&P 500 Put 740 10/02/26,0.01,2026-09-18
+PYF.U,,iShares 20+ Year Treasury Put 81.5 09/28/26,0.01,2026-09-18
+PYF.U,,Procter & Gamble Co/The Put 140 10/23/26,0.01,2026-09-18
+PYF.U,,Meta Platforms Inc Put 560 10/30/26,0.01,2026-09-18
+PYF.U,,Lam Research Corp Call 330 11/20/26,0.01,2026-09-18
+PYF.U,,State Street SPDR S&P 500 Put 748 09/30/26,0.01,2026-09-18
+PYF.U,,Invesco QQQ Trust Series 1 Put 675 10/16/26,0.01,2026-09-18
+PYF.U,,Microsoft Corp Put 470 10/16/26,0.01,2026-09-18
+PYF.U,,Alphabet Inc Put 320 10/30/26,0.01,2026-09-18
+PYF.U,,Coinbase Global Inc Put 155 10/16/26,0.01,2026-09-18
+PYF.U,,JPMorgan Chase & Co Put 330 10/16/26,0.01,2026-09-18
+PYF.U,,iShares 20+ Year Treasury Call 84 11/20/26,0.01,2026-09-18
+PYF.U,,ASML US Put 1460 10/23/26,0.00,2026-09-18
+PYF.U,,RTX Corp Put 185 10/16/26,0.00,2026-09-18
+PYF.U,,Invesco QQQ Trust Series 1 Put 665 10/16/26,0.00,2026-09-18
+PYF.U,,Eli Lilly & Co Put 1100 10/16/26,0.00,2026-09-18
+PYF.U,,MercadoLibre Inc Put 1800 09/25/26,0.00,2026-09-18
+PYF.U,,Palantir Technologies Inc Put 145 10/16/26,0.00,2026-09-18
+PYF.U,,iShares MSCI EAFE ETF Put 103 10/30/26,0.00,2026-09-18
+PYF.U,,Palantir Technologies Inc Put 155 10/09/26,0.00,2026-09-18
+PYF.U,,Broadcom Inc Put 320 10/23/26,0.00,2026-09-18
+PYF.U,,Xtrackers Harvest CSI 300 Call 35 10/30/26,0.00,2026-09-18
+PYF.U,,ExxonMobil Holdings Corp Call 170 10/02/26,0.00,2026-09-18
+PYF.U,,NVIDIA Corp Put 200 10/16/26,0.00,2026-09-18
+PYF.U,,Invesco QQQ Trust Series 1 Put 680 10/02/26,0.00,2026-09-18
+PYF.U,,Visa Inc Put 340 10/30/26,0.00,2026-09-18
+PYF.U,,Lam Research Corp Put 250 10/16/26,0.00,2026-09-18
+PYF.U,,Uber Technologies Inc Put 65 10/16/26,0.00,2026-09-18
+PYF.U,,Newmont Corp Put 115 10/16/26,0.00,2026-09-18
+PYF.U,,Micron Technology Inc Put 760 10/16/26,0.00,2026-09-18
+PYF.U,,Broadcom Inc Put 320 10/16/26,0.00,2026-09-18
+PYF.U,,iShares 20+ Year Treasury Call 84 10/16/26,0.00,2026-09-18
+PYF.U,,Coinbase Global Inc Put 155 10/02/26,0.00,2026-09-18
+PYF.U,,Amazon.com Inc Call 265 09/25/26,0.00,2026-09-18
+PYF.U,,Xtrackers Harvest CSI 300 Call 37 09/18/26,0.00,2026-09-18
+PYF.U,,Micron Technology Inc Put 680 09/18/26,0.00,2026-09-18
+PYF.U,,Caterpillar Inc Put 690 09/18/26,0.00,2026-09-18
+PYF.U,,Eli Lilly & Co Put 1040 09/18/26,0.00,2026-09-18
+PYF.U,,Tesla Inc Put 290 09/18/26,0.00,2026-09-18
+PYF.U,,Broadcom Inc Put 310 09/18/26,0.00,2026-09-18
+PYF.U,,Alphabet Inc Call 385 09/18/26,0.00,2026-09-18
+PYF.U,,UnitedHealth Group Inc Call 415 09/18/26,0.00,2026-09-18
+PYF.U,,UnitedHealth Group Inc Put 365 09/18/26,0.00,2026-09-18
+PYF.U,,Amazon.com Inc Put 235 09/18/26,0.00,2026-09-18
+PYF.U,,Visa Inc Put 355 09/18/26,0.00,2026-09-18
+PYF.U,,ASML Holding NV Put 1480 09/18/26,0.00,2026-09-18
+PYF.U,,Apple Inc Put 280 09/18/26,0.00,2026-09-18
+PYF.U,,Newmont Corp Put 115 09/18/26,0.00,2026-09-18
+PYF.U,,Lam Research Corp Put 250 09/18/26,0.00,2026-09-18
+PYF.U,,Home Depot Inc/The Call 320 09/18/26,0.00,2026-09-18
+PYF.U,,ServiceNow Inc Put 100 09/18/26,0.00,2026-09-18
+PYF.U,,ExxonMobil Holdings Corp Put 150 09/18/26,0.00,2026-09-18
+PYF.U,,ServiceNow Inc Put 122 09/18/26,0.00,2026-09-18
+PYF.U,,NVIDIA Corp Put 180 09/18/26,0.00,2026-09-18
+PYF.U,,RTX Corp Call 205 09/18/26,0.00,2026-09-18
+PYF.U,,Invesco QQQ Trust Series 1 Put 674 09/21/26,0.00,2026-09-18
+PYF.U,,Home Depot Inc/The Call 370 09/18/26,0.00,2026-09-18
+PYF.U,,Procter & Gamble Co/The Call 152.5 09/18/26,0.00,2026-09-18
+SBT,,Silver Bars,OUNCES:1598047,2026-09-18
+SBT.B,,Silver Bars,OUNCES:1598047,2026-09-18
+SBT.U,,Silver Bars,OUNCES:1598047,2026-09-18
+SYLD,,Canada T-Bill,YIELD:0,2026-08-31
+SYLD,,Gran Tierra Energy Inc. (USD),YIELD:9.750,2026-08-31
+SYLD,,Hudson Pacific Properties Lp (USD),YIELD:4.650,2026-08-31
+SYLD,,Iheartcommunications Inc. (USD),YIELD:9.125,2026-08-31
+SYLD,,LSB Industries Inc. (USD),YIELD:6.250,2026-08-31
+SYLD,,Mda Space Ltd.,YIELD:7.000,2026-08-31
+SYLD,,Royal Bank Of Canada,YIELD:4.200,2026-08-31
+SYLD,,Stonemor Inc. (USD),YIELD:8.500,2026-08-31
+SYLD,,Trulieve Cannabis Company (USD),YIELD:10.50,2026-08-31
+SYLD,,Vistra Operations Co LLC (USD),YIELD:5.000,2026-08-31

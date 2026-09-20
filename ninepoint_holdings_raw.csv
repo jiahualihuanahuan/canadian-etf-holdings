@@ -1,0 +1,236 @@
+TICKER,HOLDING_TICKER,HOLDING_NAME,WEIGHT_PCT
+ABHI,ABX,Barrick Mining Corp,
+BCHI,BCE,BCE Inc.,
+CCHI,CCO,Cameco Corp.,
+CLHI,CLS,Celestica Inc.,
+CQHI,CNQ,Canadian Natural Resources Ltd.,
+CRHI,CNR,Canadian National Railway Co.,
+CSHI,CSU,Constellation Software Inc.,
+CSUC,CSU,Constellation Software Inc.,
+ENHI,ENB,Enbridge Inc.,
+GOHI,GOOGL,Alphabet Inc.,
+INHI,INTC,Intel Corporation,
+KGHI,K,Kinross Gold Corporation,
+NVHI,NVDA,NVIDIA Corporation,
+PLHI,PLTR,Palantir Technologies Inc.,
+RYHI,RY,Royal Bank of Canada,128.8
+RYHI,,Covered Calls,48.3
+SHHI,SHOP,Shopify Inc.,
+SUHI,SU,Suncor Energy Inc.,
+SXHI,SPCX,SpaceX,
+TDHI,TD,Toronto-Dominion Bank,
+TSHI,TSLA,Tesla Inc.,
+ECHI,TD,TD Bank,14.71
+ECHI,RY,Royal Bank of Canada,14.62
+ECHI,ENB,Enbridge Inc.,11.69
+ECHI,CNR,Canadian National Railway Co.,11.28
+ECHI,SU,Suncor Energy Inc.,11.27
+ECHI,SHOP,Shopify Inc.,11.17
+ECHI,CNQ,Canadian Natural Resources Ltd.,10.86
+ECHI,ABX,Barrick Mining Corp.,10.15
+ECHI,CCO,Cameco Corp.,9.81
+ECHI,BCE,BCE Inc.,8.33
+ECHI,K,Kinross Gold Corporation,4.30
+ECHI,CSU,Constellation Software Inc.,3.73
+ECHI,CLS,Celestica Inc.,1.20
+USHI,GOHI,Ninepoint Alphabet HighShares,6.0
+USHI,,Amazon.com,5.5
+USHI,TSHI,Ninepoint Tesla HighShares ETF,5.5
+USHI,,Microsoft Corp,5.4
+USHI,,General Electric Co,5.0
+USHI,,Eli Lilly & Co,4.6
+USHI,,Johnson & Johnson,4.6
+USHI,,Advanced Micro Devices,4.4
+USHI,,Apple,4.4
+USHI,,Crowdstrike Holdings,4.4
+USHI,NVHI,Ninepoint NVIDIA HighShares ETF,4.4
+USHI,PLHI,Ninepoint Palantir HighShares,4.4
+USHI,,Goldman Sachs Group Inc/The,4.2
+USHI,,JPMorgan Chase & Co,4.2
+USHI,,Visa,4.2
+USHI,,Union Pacific Corp,4.0
+USHI,,Micron Technology,3.4
+USHI,INHI,Ninepoint Intel HighShares ETF,3.4
+USHI,,Costco Wholesale Corp,3.0
+USHI,,ExxonMobil Holdings Corp,3.0
+USHI,,Freeport-McMoRan,3.0
+USHI,,Vistra Corp,3.0
+USHI,,Walmart,3.0
+USHI,,Caterpillar,1.5
+USHI,,GE Vernova,1.5
+GBSL,,Amazon.Com Inc,5.34
+GBSL,,Taiwan Semiconductor Manufacturing Company Limited,4.80
+GBSL,,Rolls-Royce Holdings Plc,4.46
+GBSL,,Alphabet Inc,4.36
+GBSL,,Crowdstrike Holdings Inc,4.14
+GBSL,,Natera Inc,4.14
+GBSL,,Guardant Health Inc,3.98
+GBSL,,Jfrog Ltd,3.73
+GBSL,,Ing Groep Nv,3.53
+GBSL,,Asml Holding Nv,3.37
+GBSL.U,,Amazon.Com Inc,5.34
+GBSL.U,,Taiwan Semiconductor Manufacturing Company Limited,4.80
+GBSL.U,,Rolls-Royce Holdings Plc,4.46
+GBSL.U,,Alphabet Inc,4.36
+GBSL.U,,Crowdstrike Holdings Inc,4.14
+GBSL.U,,Natera Inc,4.14
+GBSL.U,,Guardant Health Inc,3.98
+GBSL.U,,Jfrog Ltd,3.73
+GBSL.U,,Ing Groep Nv,3.53
+GBSL.U,,Asml Holding Nv,3.37
+GBUL,,Gold Bullion,99.29
+GBUL,,Cash and Cash Equivalents,0.71
+GLDE,,Agnico Eagle Mines Ltd,
+GLDE,,Anglogold Ashanti Plc,
+GLDE,,Dpm Metals Inc,
+GLDE,,G Mining Ventures Corp,
+GLDE,,Iamgold Corp,
+GLDE,,K92 Mining Inc,
+GLDE,,Kinross Gold Corp,
+GLDE,,Omai Gold Mines Corp,
+GLDE,,Predictive Discovery Ltd,
+GLDE,,Snowline Gold Corp,
+INFR,,Aena Sme Sa,
+INFR,,Altagas Ltd,
+INFR,,American Tower Corporation,
+INFR,,Cheniere Energy Inc,
+INFR,,Csx Corp,
+INFR,,Equinix Inc,
+INFR,,Targa Resources Corp,
+INFR,,Tc Energy Corp,
+INFR,,The Williams Companies Inc,
+INFR,,Union Pacific Corporation,
+NACO,,Alberta (Province Of) 3.45% 12/01/2043,
+NACO,,Algonquin Power & Utilities Corp 4.75% 01/18/2082,
+NACO,,Bank Of Montreal 6.534% 10/27/2032,
+NACO,,Bank Of Nova Scotia 3.934% 05/03/2032,
+NACO,,Canada (Government Of) 3.5% 12/01/2057,
+NACO,,Canadian Imperial Bank Of Commerce 4.2% 04/07/2032,
+NACO,,Cenovus Energy Inc 3.5% 02/07/2028,
+NACO,,Enbridge Inc 5.375% 09/27/2077,
+NACO,,"First Capital Real Estate Investment Trust 4.76% 02/15/2035",
+NACO,,"Realt_24-Rona-A 6.264 12-Dec-2029",
+NBAL,,Alimentation Couche Tard Inc,
+NBAL,,Canadian Pacific Kansas City,
+NBAL,,Eli Lilly,
+NBAL,,Finning International Inc,
+NBAL,,Jpmorgan Chase,
+NBAL,,Microsoft,
+NBAL,,Morgan Stanley,
+NBAL,,Nvidia,
+NBAL,,Power Corporation Of Canada,
+NBAL,,Toronto Dominion,
+NBAL,,NINEPOINT DIVERSIFIED BOND FUND,20.08
+NBAL,,NINEPOINT GLOBAL SELECT FUND,14.88
+NBAL,,NINEPOINT ENERGY FUND,13.32
+NBAL,,NINEPOINT GLOBAL INFRASTRUCTURE FUND,12.54
+NBAL,,"NINEPOINT GOLD AND PRECIOUS MINERALS FUND",9.51
+NBAL,,NINEPOINT TARGET INCOME FUND,5.02
+NBAL,,NINEPOINT GOLD BULLION FUND,2.67
+NBAL,,CANADIAN LARGE CAP LEADERS SPLIT CORP,2.49
+NBAL,,"NINEPOINT ALTERNATIVE CREDIT OPPORTUNITIES FUND",2.48
+NBND,,Algonquin Power & Utilities Corp 4.75% 01/18/2082,
+NBND,,Brookfield Infrastructure Finance Ulc 5.6% 09/01/2055,
+NBND,,Brookfield Renewable Partners Ulc 5.373% 09/10/2055,
+NBND,,Ci Financial Corp 4.75% 04/03/2028,
+NBND,,Enbridge Inc 5.375% 09/27/2077,
+NBND,,Fortis Inc 5.1% 12/04/2055,
+NBND,,Homeequity Bank 4.717% 07/17/2028,
+NBND,,Mcap Commercial Lp 4.299% 03/04/2031,
+NBND,,"Realt_24-Rona-A 6.264 12-Dec-2029",
+NBND,,Transcanada Trust 4.65% 05/18/2077,
+NMNG,,Cameco Corporation,
+NMNG,,G Mining Ventures Corp,
+NMNG,,Hudbay Minerals Inc,
+NMNG,,K92 Mining Inc,
+NMNG,,Lynas Rare Earths Ltd,
+NMNG,,Nexgen Energy Ltd,
+NMNG,,Ninepoint Energy Fund,
+NMNG,,Osisko Metals Inc,
+NMNG,,Q2 Metals Corp,
+NMNG,,Snowline Gold Corp,
+NNRG,,Athabasca Oil Corp,
+NNRG,,Baytex Energy Corp,
+NNRG,,Calfrac Well Services Ltd,
+NNRG,,Cenovus Energy Incorporation,
+NNRG,,Ovintiv Inc,
+NNRG,,Spartan Delta Corp,
+NNRG,,Strathcona Resources Ltd,
+NNRG,,Suncor Energy Inc,
+NNRG,,Tamarack Valley Energy Ltd,
+NNRG,,Whitecap Resources Inc,
+NNRG.U,,Athabasca Oil Corp,
+NNRG.U,,Baytex Energy Corp,
+NNRG.U,,Calfrac Well Services Ltd,
+NNRG.U,,Cenovus Energy Incorporation,
+NNRG.U,,Ovintiv Inc,
+NNRG.U,,Spartan Delta Corp,
+NNRG.U,,Strathcona Resources Ltd,
+NNRG.U,,Suncor Energy Inc,
+NNRG.U,,Tamarack Valley Energy Ltd,
+NNRG.U,,Whitecap Resources Inc,
+NRGI,,Capital Power Corp,
+NRGI,,Cardinal Energy Ltd,
+NRGI,,Cenovus Energy Incorporation,
+NRGI,,Enbridge Inc,
+NRGI,,Prairiesky Royalty Ltd,
+NRGI,,South Bow Corp,
+NRGI,,Tc Energy Corp,
+NRGI,,Topaz Energy Corp,
+NRGI,,Vnom Sub Inc,
+NRGI,,Whitecap Resources Inc,
+NSAV,,Aimco Realty Investors Lp 2.195% 11/04/2026,
+NSAV,,Bcimc Realty Corp 3% 03/31/2027,
+NSAV,,Canadian Imperial Bank Of Commerce 03/19/2027,
+NSAV,,Fortified Trust 1.964% 10/23/2026,
+NSAV,,Glacier Credit Card Trust 4.74% 09/20/2026,
+NSAV,,Laurentian Bank Of Canada 3.545% 04/20/2027,
+NSAV,,Manulife Bank Of Canada 2.864% 02/16/2027,
+NSAV,,Pacific Life Global Funding Ii 2.65029% 02/01/2027,
+NSAV,,Royal Bank Of Canada 10/06/2026,
+NSAV,,"Toronto-Dominion Bank/The (Toronto Branch)",
+SBUL,,Silver Bullion,99.34
+SBUL,,Cash and Cash Equivalents,0.66
+TIF,,Canada (Government Of) 09/23/2026,
+TIF,,Coastal Gaslink Pipeline Lp 4.673% 06/30/2027,
+TIF,,Enbridge Inc 09/03/2026,
+TIF,,Equitable Bank 5.16% 01/11/2027,
+TIF,,General Motors Financial Of Canada Ltd 3.15% 02/08/2027,
+TIF,,Hyundai Capital Canada Inc 3.196% 02/16/2027,
+TIF,,Ninepoint Cash Mgmt Fund Cl I,
+TIF,,Saputo Inc 2.242% 06/16/2027,
+TIF,,Tc Energy Corp 3.8% 04/05/2027,
+TIF,,Transcanada Pipelines Ltd 09/10/2026,
+TIF,,DEC26 SPX P @ 5750.000000 (notional),17.20
+TIF,,DEC26 SPX P @ 5650.000000 (notional),13.52
+TIF,,MAR27 XSP P @ 550.000000 (notional),8.22
+TIF,,JUN27 XSP P @ 620.000000 (notional),7.42
+TIF,,MAR27 XSP P @ 570.000000 (notional),5.11
+TIF,,MAR27 XSP P @ 560.000000 (notional),5.02
+TIF,,SEP26 SX5E P @ 4600.000000 (notional),3.84
+TIF,,JUN27 XSP P @ 630.000000 (notional),3.77
+TIF,,MAR27 XSP P @ 580.000000 (notional),3.47
+TIF,,DEC26 SX5E P @ 4850.000000 (notional),2.36
+TIF,,JUN27 SX5E P @ 5200.000000 (notional),1.81
+TIF,,MAR27 SX5E P @ 4700.000000 (notional),1.63
+TIF,,DEC26 XSP P @ 575.000000 (notional),0.69
+TKN,,Bitwise Hyperliquid Etf,
+TKN,,Ci Galaxy Bitcoin Etf,
+TKN,,Ci Galaxy Ethereum Etf (Usd),
+TKN,,Circle Internet Group Inc,
+TKN,,Coinbase Global Inc,
+TKN,,Figure Technology Solutions Inc,
+TKN,,Galaxy Digital Inc,
+TKN,,Nvidia Corporation,
+TKN,,Purpose Solana Etf,
+TKN,,Robinhood Markets Inc,
+TKN.U,,Bitwise Hyperliquid Etf,
+TKN.U,,Ci Galaxy Bitcoin Etf,
+TKN.U,,Ci Galaxy Ethereum Etf (Usd),
+TKN.U,,Circle Internet Group Inc,
+TKN.U,,Coinbase Global Inc,
+TKN.U,,Figure Technology Solutions Inc,
+TKN.U,,Galaxy Digital Inc,
+TKN.U,,Nvidia Corporation,
+TKN.U,,Purpose Solana Etf,
+TKN.U,,Robinhood Markets Inc,

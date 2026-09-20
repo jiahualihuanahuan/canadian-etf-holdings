@@ -1,0 +1,74 @@
+etf_ticker,holding_name,weight_pct
+TBUF-U,"HCA Inc. (USD) Callable 5.375% Sep 1 2026",7.8
+TBUF-U,"American Tower Corporation (USD) Callable 3.375% Oct 15 2026",7.7
+TBUF-U,"The Goldman Sachs Group Inc. (USD) Callable 3.500% Nov 16 2026",7.5
+TBUF-U,"Air Lease Corporation (USD) Callable 1.875% Aug 15 2026",6.7
+TBUF-U,"Citigroup Inc. (USD) Callable 3.200% Oct 21 2026",6.6
+TBUF-U,"Equinix Inc. (USD) Callable 2.900% Nov 18 2026",5.6
+TBUF-U,"Societe Generale SA (USD) 4.250% Aug 19 2026",5.3
+TBUF-U,"Dell International LLC/EMC Corporation (USD) Callable 4.900% Oct 1 2026",5.2
+TBUF-U,"Kinder Morgan Inc. (USD) Callable 1.750% Nov 15 2026",4.9
+TBUF-U,"Emera US Finance Limited Partnership (USD) Callable 3.550% Jun 15 2026",4.0
+TBUF-U,"Mid-America Apartments Limited Partnership (USD) Callable 1.100% Sep 15 2026",3.5
+TBUF-U,"ONEOK Inc. (USD) Callable 5.550% Nov 1 2026",3.4
+TBUF-U,"UDR Inc. (USD) Callable 2.950% Sep 1 2026",3.3
+TBUF-U,"D.R. Horton Inc. (USD) Callable 1.300% Oct 15 2026",3.2
+TBUF-U,"Ventas Realty Limited Partnership (USD) Callable 3.250% Oct 15 2026",2.9
+TBUF-U,"General Motors Financial Company Inc. (USD) 5.400% Apr 6 2026",2.9
+TBUF-U,"Lennar Corporation (USD) Callable 5.250% Jun 1 2026",2.8
+TBUF-U,"Enbridge Inc. (USD) Callable 1.600% Oct 4 2026",2.7
+TBUF-U,"Marriott International Inc. (USD) Callable Series R 3.125% Jun 15 2026",2.5
+TBUF-U,"JPMorgan Chase & Company (USD) Callable 3.300% Apr 1 2026",2.0
+TBUF-U,"The Southern Company (USD) Callable 3.250% Jul 1 2026",1.9
+TBUF-U,"Plains All American Pipeline Limited Partnership/Plains All American Finance Corporation (USD) Callable 4.500% Dec 15 2026",1.8
+TBUF-U,"Wells Fargo & Company (USD) 3.000% Apr 22 2026",1.6
+TBUF-U,"Alexandria Real Estate Equities Inc. (USD) Callable 3.800% Apr 15 2026",1.5
+TBUF-U,"L3Harris Technologies Inc. (USD) Callable 3.850% Dec 15 2026",0.9
+TBUG-U,"Energy Transfer Limited Partnership (USD) Callable 4.000% Oct 1 2027",6.9
+TBUG-U,"American Tower Corporation (USD) Callable 3.550% Jul 15 2027",6.6
+TBUG-U,"Truist Financial Corporation (USD) Callable 1.125% Aug 3 2027",6.6
+TBUG-U,"Capital One Financial Corporation (USD) Callable 3.650% May 11 2027",6.4
+TBUG-U,"Wells Fargo & Company (USD) Variable Rate Callable 2.393% Jun 2 2028",5.7
+TBUG-U,"CVS Health Corporation (USD) Callable 1.300% Aug 21 2027",5.4
+TBUG-U,"Fifth Third Bancorp (USD) Callable 2.550% May 5 2027",4.8
+TBUG-U,"Citigroup Inc. (USD) 4.450% Sep 29 2027",4.5
+TBUG-U,"Air Lease Corporation (USD) Callable 3.625% Dec 1 2027",4.3
+TBUG-U,"General Motors Financial Company Inc. (USD) Callable 2.350% Feb 26 2027",4.2
+TBUG-U,"Essex Portfolio Limited Partnership (USD) Callable 3.625% May 1 2027",4.2
+TBUG-U,"Constellation Brands Inc. (USD) Callable 3.500% May 9 2027",4.1
+TBUG-U,"ERP Operating Limited Partnership (USD) Callable 3.250% Aug 1 2027",4.1
+TBUG-U,"Morgan Stanley (USD) 3.950% Apr 23 2027",4.0
+TBUG-U,"McCormick & Company Inc. (USD) Callable 3.400% Aug 15 2027",3.9
+TBUG-U,"Sysco Corporation (USD) Callable 3.250% Jul 15 2027",3.9
+TBUG-U,"UDR Inc. (USD) Callable 3.500% Jul 1 2027",3.8
+TBUG-U,"NextEra Energy Capital Holdings Inc. (USD) Callable 3.550% May 1 2027",3.7
+TBUG-U,"LYB International Finance II BV (USD) Callable 3.500% Mar 2 2027",3.6
+TBUG-U,"TELUS Corporation (USD) Callable 2.800% Feb 16 2027",3.5
+TBUG-U,"Lennar Corporation (USD) Callable 5.000% Jun 15 2027",2.7
+TBUG-U,"Humana Inc. (USD) Callable 1.350% Feb 3 2027",2.2
+TBUG-U,"Cash (Bank Overdraft)",0.3
+TDNA,"Cash (Bank Overdraft)",6.4
+TDNA,"National Bank of Canada",4.4
+TDNA,"Royal Bank of Canada",4.2
+TDNA,"Johnson & Johnson",3.8
+TDNA,"Bank of Montreal",3.6
+TDNA,"GE Vernova Inc.",3.6
+TDNA,"Caterpillar Inc.",3.6
+TDNA,"Corning Inc.",3.6
+TDNA,"Wheaton Precious Metals Corporation",3.4
+TDNA,"Agnico Eagle Mines Limited",3.3
+TDNA,"Curtiss-Wright Corporation",2.9
+TDNA,"Howmet Aerospace Inc.",2.9
+TDNA,"KLA Corporation",2.6
+TDNA,"Loblaw Companies Limited",2.6
+TDNA,"Canadian Natural Resources Limited",2.6
+TDNA,"Hydro One Limited",2.6
+TDNA,"Imperial Oil Limited",2.5
+TDNA,"Suncor Energy Inc.",2.4
+TDNA,"Cameco Corporation",2.3
+TDNA,"Power Corporation of Canada",2.2
+TDNA,"Gilead Sciences Inc.",2.1
+TDNA,"NVIDIA Corporation",2.1
+TDNA,"Broadcom Inc.",2.0
+TDNA,"Hilton Worldwide Holdings Inc.",1.8
+TDNA,"Costco Wholesale Corporation",1.6

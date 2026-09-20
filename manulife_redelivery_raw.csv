@@ -1,0 +1,1114 @@
+etf_ticker,holding_name,weight_pct
+MCAP,"Manulife Smart Core Bond ETF",18.62
+MCAP,"Manulife Strategic Income ETF",10.85
+MCAP,"Vanguard Emerging Markets Government Bond ETF",7.30
+MCAP,"Manulife Smart Corporate Bond ETF",6.86
+MCAP,"Manulife Smart Global Bond ETF",5.93
+MCAP,"Manulife Smart Dividend ETF",5.65
+MCAP,"Manulife Global Edge ETF",5.02
+MCAP,"Manulife CQS Multi Asset Credit Fund ETF",4.98
+MCAP,"iShares Broad USD High Yield Corporate Bond ETF",4.37
+MCAP,"Manulife Smart International Dividend ETF",4.08
+MCAP,"Manulife Fundamental Equity Class ETF",3.16
+MCAP,"Manulife Multifactor Canadian Smid Cap Index Etf",3.04
+MCAP,"Vanguard FTSE Developed Markets ETF",3.01
+MCAP,"Manulife Smart Short-Term Bond ETF",2.99
+MCAP,"Manulife Smart US Dividend ETF",2.96
+MCAP,"iShares Core S&P/TSX Capped Composite Index ETF",2.59
+MCAP,"Vanguard S&P 500 ETF",2.06
+MCAP,"iShares Core S&P 500 ETF",2.06
+MCAP,"iShares Global Infrastructure ETF",1.94
+MCAP,"iShares Core MSCI Emerging Markets ETF",1.92
+MCAP,"Cash",0.38
+MCAP,"United States Dollar",0.15
+MCAP,"Canadian Dollar",0.06
+MCAP,"iShares U.S. High Yield Bond Index ETF (CAD-Hedged)",0.02
+MCLC,"The Toronto-Dominion Bank",4.24
+MCLC,"Royal Bank of Canada",4.21
+MCLC,"Suncor Energy Inc.",4.02
+MCLC,"Cenovus Energy Inc.",3.97
+MCLC,"Sun Life Financial Inc.",3.36
+MCLC,"The Bank of Nova Scotia",3.24
+MCLC,"Bank of Montreal",3.20
+MCLC,"Agnico Eagle Mines Limited",3.06
+MCLC,"Brookfield Corporation",3.00
+MCLC,"Canadian Imperial Bank of Commerce",2.96
+MCLC,"Canadian Natural Resources Limited",2.91
+MCLC,"Shopify Inc.",2.83
+MCLC,"Barrick Mining Corporation",2.36
+MCLC,"Manulife Financial Corporation",2.15
+MCLC,"Canadian National Railway Company",2.14
+MCLC,"National Bank of Canada",1.71
+MCLC,"Enbridge Inc.",1.67
+MCLC,"Nutrien Ltd.",1.62
+MCLC,"Teck Resources Limited",1.54
+MCLC,"Celestica Inc.",1.54
+MCLC,"Magna International Inc.",1.49
+MCLC,"Intact Financial Corporation",1.48
+MCLC,"Whitecap Resources Inc.",1.46
+MCLC,"Power Corporation of Canada",1.43
+MCLC,"Rogers Communications Inc.",1.43
+MCLC,"Dollarama Inc.",1.43
+MCLC,"Canadian Pacific Kansas City Limited",1.36
+MCLC,"Pembina Pipeline Corporation",1.22
+MCLC,"Wheaton Precious Metals Corp.",1.21
+MCLC,"Fortis Inc.",1.20
+MCLC,"Kinross Gold Corporation",1.20
+MCLC,"Alimentation Couche-Tard Inc.",1.19
+MCLC,"Waste Connections, Inc.",1.18
+MCLC,"Constellation Software Inc. Com",1.15
+MCLC,"ARC Resources Ltd.",1.14
+MCLC,"First Quantum Minerals Ltd.",1.05
+MCLC,"Fairfax Financial Holdings Limited",1.01
+MCLC,"TC Energy Corporation",1.00
+MCLC,"iA Financial Corporation Inc.",0.98
+MCLC,"Restaurant Brands International Inc.",0.92
+MCLC,"Franco-Nevada Corporation",0.92
+MCLC,"Hudbay Minerals Inc.",0.89
+MCLC,"IAMGOLD Corporation",0.88
+MCLC,"BCE Inc.",0.78
+MCLC,"Tourmaline Oil Corp.",0.76
+MCLC,"Loblaw Companies Limited",0.74
+MCLC,"Cameco Corporation",0.74
+MCLC,"Great-West Lifeco Inc.",0.72
+MCLC,"Alamos Gold Inc.",0.67
+MCLC,"Emera Incorporated",0.65
+MCLC,"Pan American Silver Corp.",0.64
+MCLC,"Equinox Gold Corp.",0.64
+MCLC,"Imperial Oil Limited",0.63
+MCLC,"CGI Inc.",0.63
+MCLC,"Metro Inc.",0.60
+MCLC,"Lundin Mining Corporation",0.56
+MCLC,"George Weston Limited",0.53
+MCLC,"Bombardier Inc.",0.52
+MCLC,"AltaGas Ltd.",0.50
+MCLC,"TFI International Inc.",0.50
+MCLC,"Keyera Corp.",0.46
+MCLC,"RB Global, Inc.",0.44
+MCLC,"First Majestic Silver Corp.",0.44
+MCLC,"Gildan Activewear Inc.",0.40
+MCLC,"Stantec Inc.",0.37
+MCLC,"Telus Corporation",0.37
+MCLC,"IGM Financial Inc.",0.36
+MCLC,"Lundin Gold Inc.",0.35
+MCLC,"Hydro One Limited",0.33
+MCLC,"Canadian Utilities Limited",0.32
+MCLC,"Saputo Inc.",0.31
+MCLC,"Element Fleet Management Corp.",0.31
+MCLC,"TMX Group Limited",0.29
+MCLC,"Thomson Reuters Corp",0.26
+MCLC,"CAE Inc.",0.24
+MCLC,"GFL Environmental Inc.",0.24
+MCLC,"AtkinsRéalis Group Inc.",0.24
+MCLC,"Ivanhoe Mines Ltd.",0.20
+MCLC,"Brookfield Renewable Corporation",0.14
+MCLC,"Cash",0.11
+MCLC,"Brookfield Wealth Solutions Limited",0.07
+MCLC,"United States Dollar",0.01
+MCLC,"Constellation Software Inc.",0.00
+MCOR,"Province of Ontario, 4.7%, 6/2/2037",2.22
+MCOR,"Gov. of Canada, 3.5%, 9/1/2029",1.95
+MCOR,"Gov. of Canada, 2.75%, 3/1/2031",1.52
+MCOR,"Gov. of Canada, 3.25%, 12/1/2035",1.51
+MCOR,"Brookfield Finance Inc. (FRN), 6.3%, 1/15/2055",1.49
+MCOR,"HM Treasury, 0.5%, 1/31/2029",1.47
+MCOR,"Province of Alberta, 4.45%, 12/1/2054",1.39
+MCOR,"Gov. of Canada, 5%, 6/1/2037",1.26
+MCOR,"HM Treasury, 4.38%, 7/31/2054",
+MCOR,"Province of Ontario, 2.55%, 12/2/2052",1.17
+BYLD,"iShares 20+ Year Treasury Bond ETF",25.08
+BYLD,"United States Treasury Bill (USD) 09/15/2026",21.07
+BYLD,"United States Treasury Bill (USD) United States Treasury Bill 10/06/2026",17.91
+BYLD,"Manulife Smart Global Bond ETF",8.97
+BYLD,"Manulife Smart Short-Term Bond ETF",8.96
+BYLD,"Manulife Smart Corporate Bond ETF",8.89
+BYLD,"Manulife Smart Core Bond ETF",8.88
+BYLD,"CDX CDX.NA.HY.46 R 5.00% 06/20/2031",0.39
+BYLD,"United States Dollar",0.28
+BYLD,"Canadian Dollar",0.17
+BYLD,"Cash",0.04
+BYLD,"TLT US,Call,83.000000,/26,iShares 20+ Year Tr",-0.04
+BYLD,"TLT US,Call,84,/26,iShares 20+ Year Treasury",-0.05
+BYLD,"TLT US,Put,81.000000,/26,iShares 20+ Year Tre",-0.11
+BYLD,"CCP BALANCE MS",-0.43
+CBND,"Fortified Trust 4.42% 12/23/2027",2.30
+CBND,"Federation Des Caisses Desjardins Du Quebec 5.28% 05/15/2034",2.18
+CBND,"Hyundai Capital Canada Inc. 5.57% 03/08/2028",2.06
+CBND,"Royal Bank of Canada 4.83% 08/08/2034",1.84
+CBND,"Brookfield Renewable Partners Ulc 5.45% 03/12/2055",1.60
+CBND,"Chubb INA Holdings LLC 4.03% 06/10/2033",1.30
+CBND,"Fédération des caisses Desjardins du Québec 4.26% 01/24/2035",1.29
+CBND,"Citigroup Inc. 4.55% 06/03/2035",1.29
+CBND,"Amazon.com Inc. Amazon.com Inc 4.35% 06/12/2036",1.22
+CBND,"Athene Global Funding 4.61% 09/19/2035",1.20
+CBND,"Manulife Financial Corporation 4.06% 12/06/2034",1.18
+CBND,"Canadian Imperial Bank Of Commerce 5.33% 01/20/2033",1.16
+CBND,"Glacier Credit Card Trust 5.68% 09/20/2028",1.16
+CBND,"Athene Global Funding 4.09% 05/23/2030",1.14
+CBND,"Royal Bank of Canada 5.01% 02/01/2033",1.08
+CBND,"Coastal Gaslink Pipeline Limited 4.91% 06/30/2031",1.07
+CBND,"Ford Credit Canada Co Cie Credit Ford Du Canada 4.45% 06/24/2030",1.06
+CBND,"Bnp Paribas SA 4.49% 09/03/2035",1.02
+CBND,"The Bank Of Nova Scotia 3.62% 01/30/2032",1.02
+CBND,"Allied Properties Real Estate Investment Trust 4.81% 02/24/2029",1.00
+CBND,"Enbridge Inc. 5.36% 05/26/2033",0.98
+CBND,"Bank of Montreal 4.54% 12/18/2028",0.98
+CBND,"Brookfield Finance Ii Inc. 5.43% 12/14/2032",0.95
+CBND,"Prologis LP 3.60% 02/15/2032",0.94
+CBND,"Enbridge Gas Inc. 5.70% 10/06/2033",0.93
+CBND,"Veren Inc. 5.50% 06/21/2034",0.93
+CBND,"Telus Corp. 4.85% 04/05/2044",0.93
+CBND,"Toronto-Dominion Bank/The 4.21% 06/16/2036",0.91
+CBND,"General Motors Financial of Canada Limited 5.00% 02/09/2029",0.89
+CBND,"Enbridge Inc. 3.10% 09/21/2033",0.87
+CBND,"North West Redwater Partnership Inc. 2.80% 06/01/2031",0.86
+CBND,"Mini Mall Storage Properties Trust 5.03% 07/30/2031",0.84
+CBND,"Ontario Power Generation Inc. 4.83% 06/28/2034",0.84
+CBND,"Coastal Gaslink Pipeline Limited 5.19% 09/30/2034",0.81
+CBND,"Intact Financial Company Intact Financial Corp 5.64% 03/31/2086",0.80
+CBND,"Arc Resources Ltd. 3.47% 03/10/2031",0.79
+CBND,"GA Global Funding Trust 4.86% 07/22/2033",0.79
+CBND,"Oncor Electric Delivery Company LLC 4.20% 10/01/2035",0.78
+CBND,"Epcor Utilities Inc. 5.33% 10/03/2053",0.77
+CBND,"Heathrow Funding Ltd. 4.90% 08/06/2039",0.76
+CBND,"Enbridge Inc. 6.51% 11/09/2052",0.76
+CBND,"Cenovus Energy Inc. 3.50% 02/07/2028",0.76
+CBND,"Allied Properties Real Estate Investment Trust 4.67% 09/25/2031",0.74
+CBND,"Toyota Credit Canada Inc. 3.74% 05/21/2030",0.74
+CBND,"Coastal Gaslink Pipeline Limited 5.61% 09/30/2042",0.73
+CBND,"Bell Canada, Inc. 5.25% 08/14/2055",0.72
+CBND,"AltaLink, L.P. 5.46% 10/11/2055",0.72
+CBND,"North West Redwater Partnership/NWR Financing Comp any Limited 4.35% 01/10/2039",0.69
+CBND,"Brookfield Infrastructure Finance Ulc 5.98% 02/14/2033",0.68
+CBND,"Telus Corp. 4.75% 01/17/2045",0.67
+CBND,"Keyera Corp. 5.66% 01/04/2054",0.67
+CBND,"General Motors Financial of Canada Limited 5.20% 02/09/2028",0.66
+CBND,"Crédit Agricole S.A. 4.19% 10/15/2035",0.64
+CBND,"Nav Canada 2.92% 09/29/2051",0.64
+CBND,"Enbridge Gas Inc. 4.20% 06/02/2044",0.63
+CBND,"Altagas Ltd. 2.48% 11/30/2030",0.63
+CBND,"Greater Toronto Airports Authority 2.75% 10/17/2039",0.63
+CBND,"Fairfax Financial Holdings Limited 4.73% 11/22/2034",0.62
+CBND,"Brookfield Finance II Inc. Brookfield Finance II Inc 5.40% 12/11/2055",0.61
+CBND,"407 International Inc. 4.48% 10/07/2036",0.61
+CBND,"Ford Credit Canada Company 5.58% 05/23/2031",0.60
+CBND,"Hydro One Inc. 4.17% 06/06/2044",0.59
+CBND,"Transcanada Pipelines Ltd. Transcanada Pipelines Ltd 5.13% 11/19/2055",0.59
+CBND,"Bank of Montreal 5.04% 05/29/2028",0.59
+CBND,"Sun Life Financial Inc. 2.80% 11/21/2033",0.59
+CBND,"Stella-Jones Inc. 4.31% 10/01/2031",0.57
+CBND,"Keyera Corp. 3.70% 10/15/2030",0.57
+CBND,"Bell Canada, Inc. 5.85% 11/10/2032",0.56
+CBND,"The Toronto-Dominion Bank 4.48% 01/18/2028",0.56
+CBND,"Greater Toronto Airports Authority 3.26% 06/01/2037",0.56
+CBND,"Mini Mall Storage Properties Trust 4.28% 12/01/2028",0.56
+CBND,"Hydro One Inc. 3.93% 11/30/2029",0.55
+CBND,"Bell Canada, Inc. 4.30% 03/14/2033",0.55
+CBND,"Toronto Hydro Corp. 5.13% 10/12/2028",0.55
+CBND,"Pembina Pipeline Corp. 4.02% 03/27/2028",0.54
+CBND,"Avenue Living 2014 Lp Avenue Living 2014 Lp 5.11% 05/12/2030",0.54
+CBND,"Fairfax Financial Holdings Ltd. 4.25% 12/06/2027",0.53
+CBND,"407 International Inc. 4.19% 04/25/2042",0.52
+CBND,"Cu Inc. 4.09% 09/02/2044",0.51
+CBND,"Rogers Communications Inc. 6.75% 11/09/2039",0.51
+CBND,"Toronto Hydro Corporation 3.27% 10/18/2051",0.51
+CBND,"H&R Real Estate Investment Trust 5.46% 02/28/2029",0.51
+CBND,"Intact Financial Corporation 3.77% 05/20/2053",0.50
+CBND,"Laurentian Bank Of Canada 4.19% 01/23/2028",0.50
+CBND,"Pembina Pipeline Corporation 4.81% 03/25/2044",0.50
+CBND,"Enbridge Inc. 5.38% 09/27/2077",0.50
+CBND,"Smartcentres Real Estate Investment Trust 3.65% 12/11/2030",0.48
+CBND,"Ford Credit Canada Company 5.05% 01/09/2032",0.48
+CBND,"General Motors Financial of Canada Limited 3.80% 11/07/2030",0.47
+CBND,"Northwest Healthcare Properties Real Estate Investment Trust 5.02% 02/18/2028",0.47
+CBND,"National Bank of Canada 4.33% 08/15/2035",0.47
+CBND,"Equinix Canada Financialancing Ltd. 4.00% 11/15/2032",0.46
+CBND,"Vital Infra Prop Trust 5.51% 02/18/2030",0.46
+CBND,"Hydro One Inc. 2.23% 09/17/2031",0.45
+CBND,"Avenue Living 2014 LP 4.52% 09/25/2028",0.45
+CBND,"Brookfield Renewable Partners Ulc 3.38% 01/15/2030",0.45
+CBND,"Smartcentres Real Estate Investment Trust 3.53% 12/20/2029",0.45
+CBND,"Transcanada Pipelines Limited 5.28% 07/15/2030",0.45
+CBND,"West Edmonton Mall Property Inc. 7.79% 10/04/2027",0.44
+CBND,"Keyera Corp. 4.57% 10/15/2035",0.44
+CBND,"Glacier Credit Card Trust 4.96% 09/20/2027",0.42
+CBND,"Hyundai Capital Canada Inc. 4.58% 07/24/2029",0.41
+CBND,"Ontario Power Generation Inc. 4.25% 01/18/2049",0.41
+CBND,"The Bank Of Nova Scotia 4.44% 11/15/2035",0.41
+CBND,"Ford Credit Canada Company 4.92% 01/09/2031",0.41
+CBND,"Vw Credit Canada Inc. 5.86% 11/15/2027",0.40
+CBND,"Allied Properties Real Estate Investment Trust 3.10% 02/06/2032",0.40
+CBND,"Great-West Lifeco Inc. 2.98% 07/08/2050",0.40
+CBND,"Fortis BC Energy Inc. 2.54% 07/13/2050",0.40
+CBND,"Mini Mall Storage Properties Trust Mini Mall Storage Properties Trust 4.75% 12/01/2030",0.39
+CBND,"407 International Inc. 3.65% 09/08/2044",0.38
+CBND,"Heathrow Funding Ltd. 4.65% 04/14/2037",0.38
+CBND,"Sun Life Financial Inc. 2.06% 10/01/2035",0.38
+CBND,"The Toronto-Dominion Bank 4.42% 10/31/2035",0.38
+CBND,"Hydro One Inc. 4.80% 11/21/2056",0.38
+CBND,"Mcap Commercial LP 4.30% 03/04/2031",0.38
+CBND,"Morguard Company 4.31% 06/18/2029",0.38
+CBND,"Lower Mattagami Energy Limited Partnership 5.14% 05/18/2041",0.37
+CBND,"Brookfield Renewable Partners Ulc 5.37% 09/10/2055",0.37
+CBND,"Electricité de France S.A. 4.57% 02/06/2035",0.35
+CBND,"Dollarama Inc. DUE ON 07/25/2031 3.94% 07/25/2031",0.35
+CBND,"Ontario Power Generation Inc. 3.84% 06/22/2048",0.34
+CBND,"CT Real Estate Inv Trust (REIT) 5.83% 06/14/2028",0.33
+CBND,"Canadian Natural Resources Ltd. 4.85% 05/30/2047",0.33
+CBND,"Enbridge Inc. 4.57% 03/11/2044",0.32
+CBND,"British Columbia Ferry Services Inc. 2.79% 10/15/2049",0.32
+CBND,"Cu Inc. 4.21% 10/29/2055",0.32
+CBND,"Riocan Real Estate Investment Trust 5.96% 10/01/2029",0.31
+CBND,"Rogers Communications Inc. 6.11% 08/25/2040",0.31
+CBND,"Metropolitan Life Global Funding I 4.15% 06/06/2033",0.30
+CBND,"Avenue Living 2014 LP Avenue Living 2014 LP 4.65% 07/15/2029",0.30
+CBND,"F3 Fibre Capital Inc. 4.37% 08/13/2031",0.29
+CBND,"Inter Pipeline Ltd. 5.71% 05/29/2030",0.28
+CBND,"Fortis Inc. 5.10% 12/04/2055",0.27
+CBND,"Loblaw Companies Limited 5.01% 09/13/2032",0.27
+CBND,"Royal Bank of Canada 3.99% 07/22/2031",0.27
+CBND,"Ford Credit Canada Company 6.38% 11/10/2028",0.27
+CBND,"Epcor Utilities Inc. 2.90% 05/19/2050",0.27
+CBND,"Saputo Inc. 5.49% 11/20/2030",0.26
+CBND,"Primaris Real Estate Investment Trust 5.30% 03/15/2032",0.26
+CBND,"Great-West Lifeco Inc. 2.38% 05/14/2030",0.26
+CBND,"407 International Inc. 3.14% 03/06/2030",0.26
+CBND,"Federation Des Caisses Desjardins Du Quebec 3.71% 07/16/2031",0.25
+CBND,"Sun Life Financial Inc. 4.56% 12/03/2040",0.23
+CBND,"Brookfield Finance II Inc. Brookfield Finance II Inc 4.39% 03/01/2033",0.23
+CBND,"Trisura Group Ltd. 4.02% 03/17/2031",0.23
+CBND,"ARC Resources Ltd. 4.10% 02/25/2033",0.23
+CBND,"Sagen Mi Canada Inc. 5.91% 05/19/2028",0.22
+CBND,"Vw Credit Canada Inc. 4.42% 08/20/2029",0.22
+CBND,"Crombie Real Estate Investment Trust 4.73% 01/15/2032",0.21
+CBND,"Intact Financial Corporation 4.65% 03/21/2060",0.21
+CBND,"Smartcentres Real Estate Investment Trust 4.32% 06/12/2032",0.20
+CBND,"Pembina Pipeline Corp. 4.67% 05/28/2050",0.20
+CBND,"Pembina Pipeline Corp. 3.31% 02/01/2030",0.20
+CBND,"Bell Canada, Inc. 3.65% 08/14/2029",0.19
+CBND,"Ford Credit Canada Company 5.44% 02/09/2029",0.18
+CBND,"Ford Credit Canada Company 5.24% 05/23/2028",0.18
+CBND,"Hoopp Realty Finance Trust Hoopp Realty Finance Trust 3.92% 11/27/2032",0.18
+CBND,"North West Redwater Partnership/NWR Financing Comp any Limited 4.75% 06/01/2037",0.18
+CBND,"Intact Financial Company 6.13% 09/30/2086",0.18
+CBND,"Bell Canada, Inc. 4.70% 03/14/2036",0.17
+CBND,"407 International Inc. 4.86% 07/31/2053",0.17
+CBND,"Pembina Pipeline Corp. 5.21% 01/12/2034",0.17
+CBND,"Sun Life Financial Inc. 5.40% 05/29/2042",0.17
+CBND,"Bruce Power Inc. 4.00% 06/21/2030",0.16
+CBND,"Chip Mortgage Trust 4.07% 08/28/2031",0.16
+CBND,"Finning International Inc. 4.78% 02/13/2029",0.16
+CBND,"Prologis, L.P. 5.25% 01/15/2031",0.16
+CBND,"First National Financial Corporation 5.44% 10/25/2032",0.15
+CBND,"AT&T Inc. 4.85% 05/25/2047",0.14
+CBND,"Teranet Holdings Limited Partnership 4.64% 03/07/2032",0.14
+CBND,"Keyera Corp. 4.20% 04/15/2033",0.14
+CBND,"Reliance LP Reliance LP 3.60% 04/18/2030",0.14
+CBND,"Hydro One Inc. 4.30% 08/24/2035",0.13
+CBND,"Pembina Pipeline Corp. 4.75% 04/30/2043",0.13
+CBND,"Waste Connections, Inc. 4.50% 06/14/2029",0.13
+CBND,"Stantec Inc. 4.37% 06/10/2032",0.12
+CBND,"Toronto Hydro Corporation 4.95% 10/13/2052",0.11
+CBND,"Cash",0.11
+CBND,"Brookfield Infrastructure Finance Ulc 5.62% 11/14/2027",0.11
+CBND,"Igm Financial Inc. 6.00% 12/10/2040",0.09
+CBND,"Bell Telephone Co of Canada or Bell 6.17% 02/26/2037",0.09
+CBND,"Canadian Natural Resources Ltd. 4.55% 02/08/2036",0.09
+CBND,"Toronto-Dominion Bank 4.68% 01/08/2029",0.08
+CBND,"First Capital Realty Inc. 4.76% 02/15/2035",0.08
+CBND,"Ventas Canada Finance Ltd. 3.30% 12/01/2031",0.06
+CDEF,"The Bank of Nova Scotia",2.74
+CDEF,"The Toronto-Dominion Bank",2.69
+CDEF,"Great-West Lifeco Inc.",2.66
+CDEF,"Royal Bank of Canada",2.62
+CDEF,"Sun Life Financial Inc.",2.61
+CDEF,"Intact Financial Corporation",2.59
+CDEF,"Canadian Imperial Bank of Commerce",2.59
+CDEF,"Imperial Oil Limited",2.55
+CDEF,"Bank of Montreal",2.54
+CDEF,"BCE Inc.",2.52
+CDEF,"Canadian Pacific Kansas City Limited",2.50
+CDEF,"National Bank of Canada",2.44
+CDEF,"Enbridge Inc.",2.42
+CDEF,"Canadian National Railway Company",2.42
+CDEF,"Waste Connections, Inc.",2.41
+CDEF,"Franco-Nevada Corporation",2.40
+CDEF,"Emera Incorporated",2.39
+CDEF,"Cash",2.39
+CDEF,"Metro Inc.",2.39
+CDEF,"Fortis Inc.",2.39
+CDEF,"Loblaw Companies Limited",2.36
+CDEF,"Hydro One Limited",2.33
+CDEF,"Telus Corporation",2.26
+CDEF,"Pembina Pipeline Corporation",2.25
+CDEF,"Canadian Natural Resources Limited",2.22
+CDEF,"Alimentation Couche-Tard Inc.",2.21
+CDEF,"CCL Industries Inc.",2.13
+CDEF,"Wheaton Precious Metals Corp.",2.06
+CDEF,"Agnico Eagle Mines Limited",2.05
+CDEF,"TC Energy Corporation",1.99
+CDEF,"RB Global, Inc.",1.94
+CDEF,"Dollarama Inc.",1.86
+CDEF,"Definity Financial Corporation",1.74
+CDEF,"iA Financial Corporation Inc.",1.70
+CDEF,"Barrick Mining Corporation",1.69
+CDEF,"WSP Global Inc.",1.44
+CDEF,"CGI Inc.",1.32
+CDEF,"Stantec Inc.",1.11
+CDEF,"TMX Group Limited",1.06
+CDEF,"Thomson Reuters Corp",1.04
+CDEF,"The Descartes Systems Group Inc.",0.90
+CDEF,"PrairieSky Royalty Ltd.",0.66
+CDEF,"Keyera Corp.",0.66
+CDEF,"AltaGas Ltd.",0.62
+CDEF,"Canadian Utilities Limited",0.61
+CDEF,"Topaz Energy Corp.",0.60
+CDEF,"Chartwell Retirement Residenceces",0.58
+CDEF,"OR Royalties inc.",0.57
+CDEF,"Nutrien Ltd.",0.56
+CDEF,"Toromont Industries Ltd.",0.55
+CDEF,"Granite Real Estatent Trust",0.55
+CDEF,"Tourmaline Oil Corp.",0.53
+CDEF,"Rogers Communications Inc.",0.51
+CDEF,"Canadian Tire Corporation, Limited",0.51
+CDEF,"Constellation Software Inc.",0.51
+CDEF,"Dream Industrial Real Estate Investment Trust",0.49
+CDEF,"SmartCentres Real Estate Investment Trust",0.48
+CDEF,"Empire Company Limited",0.48
+CDEF,"West Fraser Timber Co. Ltd.",0.46
+CDEF,"Quebecor Inc.",0.44
+CDEF,"Cenovus Energy Inc.",0.28
+CDEF,"Altius Minerals Corporation",0.25
+CDEF,"Kinaxis Inc.",0.25
+CDEF,"United States Dollar",0.25
+CDEF,"RioCan Real Estate Investment Trust",0.24
+CDEF,"Exchange Income Corporation",0.23
+CDEF,"Stella-Jones Inc.",0.22
+CDIV,"The Toronto-Dominion Bank",5.25
+CDIV,"Canadian National Railway Company",4.01
+CDIV,"The Bank of Nova Scotia",3.98
+CDIV,"Barrick Mining Corporation",3.97
+CDIV,"Canadian Natural Resources Limited",3.92
+CDIV,"Canadian Imperial Bank of Commerce",3.84
+CDIV,"Manulife Financial Corporation",3.81
+CDIV,"Bank of Montreal",3.78
+CDIV,"Enbridge Inc.",3.56
+CDIV,"Nutrien Ltd.",3.29
+CDIV,"Pembina Pipeline Corporation",2.84
+CDIV,"Whitecap Resources Inc.",2.78
+CDIV,"Fortis Inc.",2.62
+CDIV,"Brookfield Asset Management Ltd.",2.57
+CDIV,"Open Text Corporation",2.50
+CDIV,"Magna International Inc.",2.38
+CDIV,"Great-West Lifeco Inc.",2.34
+CDIV,"Parex Resources Inc.",2.32
+CDIV,"Gibson Energy Inc.",2.24
+CDIV,"Freehold Royalties Ltd.",2.14
+CDIV,"Canadian Tire Corporation, Limited",2.12
+CDIV,"IGM Financial Inc.",2.12
+CDIV,"CCL Industries Inc.",2.06
+CDIV,"Telus Corporation",2.02
+CDIV,"Rogers Communications Inc.",1.97
+CDIV,"Choice Properties Real Estate Investment Trust",1.91
+CDIV,"Agnico Eagle Mines Limited",1.90
+CDIV,"SmartCentres Real Estate Investment Trust",1.84
+CDIV,"Alimentation Couche-Tard Inc.",1.78
+CDIV,"Centerra Gold Inc.",1.62
+CDIV,"Pan American Silver Corp.",1.53
+CDIV,"Lundin Gold Inc.",1.39
+CDIV,"Cameco Corporation",1.39
+CDIV,"Peyto Exploration & Development Corp.",0.98
+CDIV,"Suncor Energy Inc.",0.94
+CDIV,"TFI International Inc.",0.86
+CDIV,"ATCO Ltd.",0.85
+CDIV,"Metro Inc.",0.84
+CDIV,"Quebecor Inc.",0.81
+CDIV,"Granite Real Estatent Trust",0.71
+CDIV,"Sprott Inc.",0.65
+CDIV,"Gildan Activewear Inc.",0.55
+CDIV,"Royal Bank of Canada",0.48
+CDIV,"Primaris Real Estate Investment Trust",0.48
+CDIV,"Sienna Senior Living Inc.",0.47
+CDIV,"Emera Incorporated",0.46
+CDIV,"RioCan Real Estate Investment Trust",0.45
+CDIV,"H&R Real Estate Investment Trust",0.44
+CDIV,"Brookfield Renewable Partners L.P.",0.43
+CDIV,"National Bank of Canada",0.39
+CDIV,"Constellation Software Inc.",0.39
+CDIV,"RB Global, Inc.",0.38
+CDIV,"Element Fleet Management Corp.",0.38
+CDIV,"Cash",0.25
+CDIV,"United States Dollar",0.02
+CDIV,"LunR Royalties Corp",0.00
+CYLD,"Canada T-Bill 10/21/2026",7.49
+CYLD,"Canadian Treasury Bill 12/02/2026",5.21
+CYLD,"The Toronto-Dominion Bank",4.25
+CYLD,"Canadian Treasury Bill 10/07/2026",3.63
+CYLD,"Canada T-Bill 11/04/2026",3.40
+CYLD,"The Bank of Nova Scotia",3.23
+CYLD,"Canadian National Railway Company",3.23
+CYLD,"Barrick Mining Corporation",3.21
+CYLD,"Canadian Imperial Bank of Commerce",3.07
+CYLD,"Bank of Montreal",3.06
+CYLD,"Canadian Natural Resources Limited",3.06
+CYLD,"Sun Life Financial Inc.",2.96
+CYLD,"Enbridge Inc.",2.84
+CYLD,"Nutrien Ltd.",2.60
+CYLD,"Pembina Pipeline Corporation",2.24
+CYLD,"Whitecap Resources Inc.",2.12
+CYLD,"Fortis Inc.",2.10
+CYLD,"Brookfield Asset Management Ltd.",2.05
+CYLD,"Open Text Corporation",1.95
+CYLD,"Magna International Inc.",1.92
+CYLD,"Great-West Lifeco Inc.",1.90
+CYLD,"Parex Resources Inc.",1.83
+CYLD,"Rogers Communications Inc.",1.81
+CYLD,"Gibson Energy Inc.",1.77
+CYLD,"IGM Financial Inc.",1.71
+CYLD,"Canadian Tire Corporation, Limited",1.71
+CYLD,"Freehold Royalties Ltd.",1.68
+CYLD,"CCL Industries Inc.",1.67
+CYLD,"Telus Corporation",1.66
+CYLD,"Choice Properties Real Estate Investment Trust",1.54
+CYLD,"Agnico Eagle Mines Limited",1.51
+CYLD,"SmartCentres Real Estate Investment Trust",1.49
+CYLD,"Alimentation Couche-Tard Inc.",1.42
+CYLD,"Centerra Gold Inc.",1.30
+CYLD,"Pan American Silver Corp.",1.23
+CYLD,"Lundin Gold Inc.",1.13
+CYLD,"Cameco Corporation",1.13
+CYLD,"Cash",0.93
+CYLD,"Peyto Exploration & Development Corp.",0.77
+CYLD,"Suncor Energy Inc.",0.73
+CYLD,"TFI International Inc.",0.70
+CYLD,"ATCO Ltd.",0.68
+CYLD,"Metro Inc.",0.68
+CYLD,"Quebecor Inc.",0.64
+CYLD,"Granite Real Estatent Trust",0.57
+CYLD,"Sprott Inc.",0.51
+CYLD,"Gildan Activewear Inc.",0.44
+CYLD,"Royal Bank of Canada",0.39
+CYLD,"Primaris Real Estate Investment Trust",0.39
+CYLD,"Sienna Senior Living Inc.",0.38
+CYLD,"Emera Incorporated",0.37
+CYLD,"RioCan Real Estate Investment Trust",0.36
+CYLD,"Brookfield Renewable Partners L.P.",0.35
+CYLD,"H&R Real Estate Investment Trust",0.35
+CYLD,"Constellation Software Inc.",0.32
+CYLD,"National Bank of Canada",0.32
+CYLD,"RB Global, Inc.",0.31
+CYLD,"Element Fleet Management Corp.",0.30
+CYLD,"United States Dollar",0.23
+CYLD,"NA CN,Call,245,/26,National Bank of Canada",0.00
+CYLD,"GIL CN,Call,85,/26,Gildan Activewear Inc",0.00
+CYLD,"RY CN,Call,310,/26,Royal Bank of Canada",0.00
+CYLD,"BMO CN,Call,265,/26,Bank of Montreal",0.00
+CYLD,"EFN CN,Call,30,/26,Element Fleet Management C",0.00
+CYLD,"QBR/B CN,Call,70,/26,Quebecor Inc",0.00
+CYLD,"ACO/X CN,Call,80,/26,Atco Ltd",0.00
+CYLD,"EMA CN,Call,74,/26,Emera Inc",0.00
+CYLD,"REI-U CN,Call,22.5,/26,RioCan Real Estate Inv",0.00
+CYLD,"ATD CN,Call,98,/26,Alimentation Couche-Tard I",0.00
+CYLD,"SIA CN,Call,23,/26,Sienna Senior Living Inc",0.00
+CYLD,"TFII CN,Call,220,/26,TFI International Inc",0.00
+CYLD,"PMZ-U CN,Call,23,/26,Primaris Real Estate Inv",0.00
+CYLD,"GRT-U CN,Call,95,/26,Granite Real Estate Inve",0.00
+CYLD,"CM CN,Call,180,/26,Canadian Imperial Bank of",0.00
+CYLD,"GWO CN,Call,96,/26,Great-West Lifeco Inc",0.00
+CYLD,"RBA CN,Call,125,/26,RB Global Inc",0.00
+CYLD,"MRU CN,Call,92,/26,Metro Inc",0.00
+CYLD,"BAM CN,Call,80,/26,Brookfield Asset Managemen",0.00
+CYLD,"CCL/B CN,Call,100,/26,CCL Industries Inc",0.00
+CYLD,"FTS CN,Call,80,/26,Fortis Inc",0.00
+CYLD,"CTC/A CN,Call,210,/26,Canadian Tire Corp Ltd",0.00
+CYLD,"SRU-U CN,Call,29,/26,SmartCentres Real Estate",0.00
+CYLD,"NTR CN,Put,94,/26,Nutrien Ltd",0.00
+CYLD,"IGM CN,Call,94,/26,IGM Financial Inc",0.00
+CYLD,"GEI CN,Call,33,/26,Gibson Energy Inc",0.00
+CYLD,"SU CN,Call,98,/26,Suncor Energy Inc",0.00
+CYLD,"TD CN,Call,180,/26,Toronto-Dominion Bank/The",0.00
+CYLD,"CNR CN,Call,185,/26,Canadian National Railway",0.00
+CYLD,"CHP-U CN,Call,16,/26,Choice Properties Real E",0.00
+CYLD,"T CN,Call,14,/26,Telus Corp",0.00
+CYLD,"SLF CN,Call,115,/26,Sun Life Financial Inc",0.00
+CYLD,"MG CN,Call,105,/26,Magna International Inc",0.00
+CYLD,"RCI/B CN,Call,54,/26,Rogers Communications In",0.00
+CYLD,"HR-U CN,Call,11,/26,H&R Real Estate Investmen",0.00
+CYLD,"ENB CN,Call,73,/26,Enbridge Inc",0.00
+CYLD,"PEY CN,Put,24.5,/26,Peyto Exploration & Devel",0.00
+CYLD,"FRU CN,Put,17,/26,Freehold Royalties Ltd",0.00
+CYLD,"PEY CN,Call,26,/26,Peyto Exploration & Develo",0.00
+CYLD,"PPL CN,Call,70,/26,Pembina Pipeline Corp",0.00
+CYLD,"REI-U CN,Put,21.5,/26,RioCan Real Estate Inve",0.00
+CYLD,"RBA CN,Put,120,/26,RB Global Inc",0.00
+CYLD,"PMZ-U CN,Put,22,/26,Primaris Real Estate Inve",0.00
+CYLD,"WCP CN,Put,17,/26,Whitecap Resources Inc",0.00
+CYLD,"PXT CN,Put,26,/26,Parex Resources Inc",0.00
+CYLD,"GRT-U CN,Put,90,/26,Granite Real Estate Inves",0.00
+CYLD,"FRU CN,Call,18,/26,Freehold Royalties Ltd",0.00
+CYLD,"PAAS CN,Put,66,/26,Pan American Silver Corp",0.00
+CYLD,"LUG CN,Put,90,/26,Lundin Gold Inc",0.00
+CYLD,"AEM CN,Put,260,/26,Agnico Eagle Mines Ltd",0.00
+CYLD,"EMA CN,Put,72,/26,Emera Inc",0.00
+CYLD,"CCO CN,Call,150,/26,Cameco Corp",0.00
+CYLD,"SU CN,Put,92,/26,Suncor Energy Inc",0.00
+CYLD,"OTEX CN,Call,38,/26,Open Text Corp",0.00
+CYLD,"SIA CN,Put,22,/26,Sienna Senior Living Inc",-0.01
+CYLD,"EFN CN,Put,28,/26,Element Fleet Management Co",-0.01
+CYLD,"MRU CN,Put,90,/26,Metro Inc",-0.01
+CYLD,"HR-U CN,Put,10.5,/26,H&R Real Estate Investme",-0.01
+CYLD,"ACO/X CN,Put,76,/26,Atco Ltd",-0.01
+CYLD,"CNQ CN,Put,66,/26,Canadian Natural Resources",-0.01
+CYLD,"RCI/B CN,Put,50,/26,Rogers Communications Inc",-0.01
+CYLD,"BNS CN,Put,125,/26,Bank Of Nova Scotia",-0.01
+CYLD,"CG CN,Put,30,/26,Centerra Gold Inc",-0.01
+CYLD,"RY CN,Put,300,/26,Royal Bank of Canada",-0.01
+CYLD,"NA CN,Put,230,/26,National Bank of Canada",-0.01
+CYLD,"CHP-U CN,Put,15.5,/26,Choice Properties Real",-0.01
+CYLD,"ABX CN,Put,58,/26,Barrick Mining Corp",-0.01
+CYLD,"CCO CN,Put,135,/26,Cameco Corp",-0.01
+CYLD,"BNS CN,Call,130,/26,Bank Of Nova Scotia",-0.01
+CYLD,"GIL CN,Put,78,/26,Gildan Activewear Inc",-0.01
+CYLD,"CG CN,Call,34,/26,Centerra Gold Inc",-0.01
+CYLD,"T CN,Put,13.5,/26,Telus Corp",-0.01
+CYLD,"PAAS CN,Call,75,/26,Pan American Silver Corp",-0.01
+CYLD,"ENB CN,Put,70,/26,Enbridge Inc",-0.01
+CYLD,"FTS CN,Put,78,/26,Fortis Inc",-0.01
+CYLD,"LUG CN,Call,100,/26,Lundin Gold Inc",-0.01
+CYLD,"QBR/B CN,Put,66,/26,Quebecor Inc",-0.01
+CYLD,"WCP CN,Call,18,/26,Whitecap Resources Inc",-0.01
+CYLD,"GEI CN,Put,32,/26,Gibson Energy Inc",-0.01
+CYLD,"PPL CN,Put,68,/26,Pembina Pipeline Corp",-0.01
+CYLD,"OTEX CN,Put,34,/26,Open Text Corp",-0.01
+CYLD,"SLF CN,Put,110,/26,Sun Life Financial Inc",-0.02
+CYLD,"TFII CN,Put,205,/26,TFI International Inc",-0.02
+CYLD,"CNR CN,Put,175,/26,Canadian National Railway",-0.02
+CYLD,"IGM CN,Put,90,/26,IGM Financial Inc",-0.02
+CYLD,"GWO CN,Put,92,/26,Great-West Lifeco Inc",-0.02
+CYLD,"SRU-U CN,Put,29,/26,SmartCentres Real Estate",-0.02
+CYLD,"CNQ CN,Call,70,/26,Canadian Natural Resources",-0.02
+CYLD,"AEM CN,Call,280,/26,Agnico Eagle Mines Ltd",-0.02
+CYLD,"TD CN,Put,170,/26,Toronto-Dominion Bank/The",-0.02
+CYLD,"CCL/B CN,Put,98,/26,CCL Industries Inc",-0.02
+CYLD,"PXT CN,Call,28,/26,Parex Resources Inc",-0.03
+CYLD,"ABX CN,Call,64,/26,Barrick Mining Corp",-0.03
+CYLD,"CTC/A CN,Put,200,/26,Canadian Tire Corp Ltd",-0.03
+CYLD,"BAM CN,Put,75,/26,Brookfield Asset Management",-0.03
+CYLD,"MG CN,Put,96,/26,Magna International Inc",-0.03
+CYLD,"ATD CN,Put,92,/26,Alimentation Couche-Tard In",-0.04
+CYLD,"NTR CN,Call,100,/26,Nutrien Ltd",-0.05
+CYLD,"CM CN,Put,170,/26,Canadian Imperial Bank of C",-0.05
+GBND,"Canada T-Bill 01/13/2027",6.96
+GBND,"Canada T-Bill 10/21/2026",4.55
+GBND,"Japan Government Twenty Year Bond (JPY) 1.10% 09/20/2042",4.48
+GBND,"Bundesrepublik Deutschland Bundesanleihe (EUR) 2.20% 02/15/2034",3.54
+GBND,"Republic of Austria Government Bond (EUR) Republic of Austria Government Bond 2.90% 05/23/2029",2.96
+GBND,"Japan Government Ten Year Bond (JPY) 0.80% 03/20/2034",2.86
+GBND,"United States Department of The Treasury 4.88% 08/15/2045",2.42
+GBND,"French Republic Government Bond OAT (EUR) 0.75% 02/25/2028",2.08
+GBND,"Italy Buoni Poliennali Del Tesoro (EUR) Italy Buoni Poliennali Del Tesoro 2.10% 08/26/2027",2.07
+GBND,"United Kingdom Gilt (GBP) 4.38% 03/07/2030",2.07
+GBND,"Australia Government Bond (AUD) 2.50% 05/21/2030",2.05
+GBND,"Netherlands Government Bond (EUR) Netherlands Government Bond 2.75% 07/15/2036",1.99
+GBND,"Japan Government Thirty Year Bond (JPY) 1.40% 03/20/2053",1.98
+GBND,"Spain Government Bond (EUR) Spain Government Bond 2.60% 05/31/2031",1.86
+GBND,"Spain Government Bond (EUR) Spain Government Bond 3.50% 05/31/2029",1.82
+GBND,"United States Department of The Treasury 4.75% 08/15/2055",1.68
+GBND,"French Republic Government Bond OAT (EUR) French Republic Government Bond OAT 2.70% 02/25/2031",1.56
+GBND,"Spain Government Bond (EUR) Spain Government Bond 4.00% 10/31/2054",1.46
+GBND,"Land Berlin (EUR) 0.01% 07/02/2030",1.38
+GBND,"State of North Rhine-Westphalia Germany (EUR) 10/12/2035",1.31
+GBND,"United Kingdom Gilt (GBP) United Kingdom Gilt 4.13% 07/22/2029",1.30
+GBND,"Canadian Government Bond 2.25% 02/01/2028",1.24
+GBND,"Government of Alberta 4.15% 06/01/2033",1.16
+GBND,"African Development Bank (EUR) 0.50% 03/21/2029",1.14
+GBND,"United States Department of The Treasury 4.63% 02/15/2035",1.11
+GBND,"Province of British Columbia 4.15% 06/18/2034",1.08
+GBND,"French Republic Government Bond OAT (EUR) French Republic Government Bond OAT 2.00% 11/25/2032",1.06
+GBND,"Treasury Corp of Victoria (AUD) 2.25% 09/15/2033",1.04
+GBND,"United Kingdom Gilt (GBP) United Kingdom Gilt 5.38% 01/31/2056",0.98
+GBND,"French Republic Government Bond OAT (EUR) French Republic Government Bond OAT 2.75% 02/25/2030",0.98
+GBND,"Deutsche Telekom International Finance BV (EUR) 2.00% 12/01/2029",0.94
+GBND,"Western Australian Treasury Corporation (AUD) 2.00% 10/24/2034",0.90
+GBND,"Italy Buoni Poliennali Del Tesoro (EUR) 4.45% 09/01/2043",0.89
+GBND,"Portugal Obrigacoes do Tesouro OT (EUR) 1.95% 06/15/2029",0.89
+GBND,"Province of Ontario 3.45% 06/02/2045",0.86
+GBND,"Italy Buoni Poliennali Del Tesoro (EUR) Italy Buoni Poliennali Del Tesoro 3.00% 10/01/2029",0.85
+GBND,"Mercedes-Benz Group AG (EUR) 2.38% 05/22/2030",0.85
+GBND,"European Union (EUR) 3.38% 11/04/2042",0.84
+GBND,"European Union (EUR) 10/04/2028",0.83
+GBND,"CDX CDX.NA.HY.46 R 5.00% 06/20/2031",0.80
+GBND,"European Financial Stability Facility (EUR) 1.70% 02/13/2043",0.78
+GBND,"Province of Quebec 2.30% 09/01/2029",0.70
+GBND,"Portugal Obrigacoes do Tesouro OT (EUR) Portugal Obrigacoes do Tesouro OT 3.00% 06/15/2035",0.69
+GBND,"Chile Government International Bond (EUR) Chile Government International Bond 3.80% 07/01/2035",0.67
+GBND,"Province of British Columbia 4.45% 12/18/2055",0.51
+GBND,"International Bank for Reconstruction & Developmen International Bank for Reconstruction & Developmen 3.00% 07/23/2035",0.49
+GBND,"Asian Development Bank (EUR) Asian Development Bank 2.80% 01/15/2032",0.49
+GBND,"Fannie Mae Pool 5.00% 10/01/2054",0.48
+GBND,"Athene Holding Ltd. 3.45% 05/15/2052",0.46
+GBND,"Republic of Poland Government International Bond (EUR) 3.88% 02/14/2033",0.46
+GBND,"Freddie Mac Pool 5.00% 07/01/2053",0.46
+GBND,"FN CB5087 5.5 11/1/52 5.50% 11/01/2052",0.45
+GBND,"Elevance Health, Inc. 6.10% 10/15/2052",0.43
+GBND,"Amgen Inc. 5.60% 03/02/2043",0.38
+GBND,"European Financial Stability Facility (EUR) 10/13/2027",0.38
+GBND,"Freddie Mac Pool 5.50% 04/01/2056",0.38
+GBND,"Viatris Inc. 3.85% 06/22/2040",0.37
+GBND,"Romanian Government International Bond (EUR) 2.75% 04/14/2041",0.37
+GBND,"Bulgaria Government International Bond (EUR) 4.63% 09/23/2034",0.36
+GBND,"Oracle Corp. 3.65% 03/25/2041",0.35
+GBND,"Freddie Mac Pool 6.00% 05/01/2055",0.35
+GBND,"BANK5 2025-5YR14 5.65% 04/15/2058",0.35
+GBND,"KeyCorp 5.12% 04/04/2031",0.34
+GBND,"American Homes 4 Rent, L.P. 4.95% 06/15/2030",0.34
+GBND,"Truist Financial Corp. 3.88% 03/19/2029",0.33
+GBND,"American Tower Corp. 3.80% 08/15/2029",0.33
+GBND,"Enbridge Inc. 3.10% 09/21/2033",0.33
+GBND,"North West Redwater Partnership Inc. 4.85% 06/01/2034",0.32
+GBND,"Brookfield Renewable Partners Ulc 4.96% 10/20/2034",0.32
+GBND,"Host Hotels & Resorts L.P. 3.50% 09/15/2030",0.32
+GBND,"Lincoln National Corp. 3.80% 03/01/2028",0.32
+GBND,"Ally Financial Inc. 5.54% 01/17/2031",0.31
+GBND,"Western Midstream Operating LP (USD) Western Midstream Operating LP 5.70% 07/01/2036",0.31
+GBND,"General Motors Financial Company, Inc. 5.55% 07/15/2029",0.31
+GBND,"Charter Communications Operating Capital Corp. 5.75% 04/01/2048",0.30
+GBND,"Energy Transfer LP 5.75% 02/15/2033",0.30
+GBND,"Jefferies Financial Group Inc. 6.20% 04/14/2034",0.30
+GBND,"Citizens Financial Group, Inc. 5.72% 07/23/2032",0.30
+GBND,"Fifth Third Bancorp 5.63% 01/29/2032",0.30
+GBND,"Canadian Western Bank 5.95% 01/29/2034",0.29
+GBND,"Freeport-McMoRan Inc. 5.45% 03/15/2043",0.29
+GBND,"Canadian Imperial Bank Of Commerce 5.30% 01/16/2034",0.29
+GBND,"Royal Bank of Canada 5.10% 04/03/2034",0.29
+GBND,"Bank of Montreal 4.08% 03/05/2035",0.28
+GBND,"Boston Properties Limited Partnership 2.45% 10/01/2033",0.28
+GBND,"Boeing Co. 5.81% 05/01/2050",0.28
+GBND,"Corebridge Financial, Inc. 4.40% 04/05/2052",0.28
+GBND,"Freddie Mac Pool 4.50% 05/01/2053",0.27
+GBND,"CAPITAL ONE FINANCIAL CO CALLABLE4. DUE 4.72% 01/30/2032",0.27
+GBND,"First Citizens BancShares, Inc. 5.60% 09/05/2035",0.27
+GBND,"Cash",0.27
+GBND,"HUNTINGTON BANCSHARES INC. (USD) CALLABLE DUE 4.62% 01/28/2032",0.26
+GBND,"American International Group Inc. 4.38% 06/30/2050",0.26
+GBND,"M&T Bank Corporation 5.40% 07/30/2035",0.26
+GBND,"DTE Energy Company 5.85% 06/01/2034",0.26
+GBND,"Australia Government Bond (AUD) 3.50% 12/21/2034",0.25
+GBND,"Freddie Mac Pool 5.00% 05/01/2053",0.25
+GBND,"Marvell Technology, Inc. 5.75% 02/15/2029",0.25
+GBND,"Nextera Energy Capital Holdings Inc. (USD) Nextera Energy Capital Holdings Inc 4.40% 03/01/2031",0.25
+GBND,"Constellation Energy Generation LLC (USD) Constellation Energy Generation LLC 4.40% 01/15/2031",0.25
+GBND,"Southern Power Company 4.25% 10/01/2030",0.25
+GBND,"Fannie Mae Pool 5.50% 12/01/2055",0.24
+GBND,"AEP Texas Inc. (USD) AEP Texas Inc 5.20% 04/15/2036",0.24
+GBND,"Republic of Poland Government International Bond (EUR) 4.25% 02/14/2043",0.24
+GBND,"Duke Energy Corporation 4.95% 09/15/2035",0.24
+GBND,"NiSource Inc. 5.35% 07/15/2035",0.24
+GBND,"Stella-Jones Inc. 4.31% 10/01/2031",0.24
+GBND,"ONEOK, Inc. 5.65% 11/01/2028",0.24
+GBND,"Alimentation Couche-Tard Inc. 5.59% 09/25/2030",0.24
+GBND,"Regions Financial Corporation 5.72% 06/06/2030",0.24
+GBND,"Owens Corning 5.50% 06/15/2027",0.24
+GBND,"Motorola Solutions, Inc. 5.00% 04/15/2029",0.23
+GBND,"The Williams Companies, Inc. 4.90% 03/15/2029",0.23
+GBND,"Fortis Inc. 5.68% 11/08/2033",0.23
+GBND,"Citigroup Commercial Mortgage Trust 2019-C7 3.10% 12/15/2072",0.23
+GBND,"Bank 2019-BNK23 2.92% 12/15/2052",0.23
+GBND,"COMM 2019-GC44 Mortgage Trust 2.95% 08/15/2057",0.23
+GBND,"Italy Buoni Poliennali Del Tesoro (EUR) 4.50% 10/01/2053",0.23
+GBND,"JBS NV/JBS USA Foods Group Holdings Inc/JBS USA Fo od Co Holdings (USD) 5.95% 04/20/2035",0.23
+GBND,"Pembina Pipeline Corp. 4.67% 05/28/2050",0.23
+GBND,"CVS Health Corporation 5.00% 09/15/2032",0.22
+GBND,"BBCMS Mortgage Trust 2020-C7 2.04% 04/15/2053",0.22
+GBND,"Bell Canada, Inc. 5.60% 08/11/2053",0.22
+GBND,"DBJPM 2020-C9 A5 8/53 1.93% 08/15/2053",0.22
+GBND,"Canadian National Railway Company 4.70% 05/10/2053",0.21
+GBND,"FN FS5200 5.5 7/1/53 5.50% 07/01/2053",0.20
+GBND,"Fannie Mae Pool 4.50% 07/01/2053",0.20
+GBND,"Freddie Mac Pool 5.50% 12/01/2055",0.20
+GBND,"Province of Ontario 4.00% 03/08/2029",0.19
+GBND,"FR RJ0473 6 12/1/53 6.00% 12/01/2053",0.19
+GBND,"Morgan Stanley Capital I Trust 2019-H6 3.42% 06/15/2052",0.19
+GBND,"FN CB7298 5.5 10/1/53 5.50% 10/01/2053",0.19
+GBND,"FN CB5704 6 2/1/53 6.00% 02/01/2053",0.19
+GBND,"FR SD2766 6 4/1/53 6.00% 04/01/2053",0.18
+GBND,"FR SD4762 6 2/1/54 6.00% 02/01/2054",0.18
+GBND,"FR SD4343 5.5 11/1/53 5.50% 11/01/2053",0.18
+GBND,"United States Dollar",0.16
+GBND,"FN DA1515 6 10/1/53 6.00% 10/01/2053",0.16
+GBND,"T-Mobile USA Inc. 4.38% 04/15/2040",0.16
+GBND,"FN DA1514 6 10/1/53 6.00% 10/01/2053",0.15
+GBND,"FR SD1859 5.5 11/1/52 5.50% 11/01/2052",0.13
+GBND,"FR SD1853 5.5 11/1/52 5.50% 11/01/2052",0.11
+GBND,"Boston Properties L.P. 2.75% 10/01/2026",0.01
+GBND,"Euro",0.00
+GBND,"Pound Sterling",0.00
+GBND,"Canadian Dollar",-0.01
+GBND,"CCP BALANCE MS",-0.90
+GDIV,"Manulife Smart US Dividend ETF",67.68
+GDIV,"Manulife Smart International Dividend ETF",24.24
+GDIV,"Manulife Smart Dividend ETF",5.82
+GDIV,"Manulife Smart Short-Term Bond ETF",2.01
+GDIV,"Cash",0.24
+GEDG,"NVIDIA Corporation",6.20
+GEDG,"Microsoft Corporation",5.01
+GEDG,"Alphabet Inc.",4.79
+GEDG,"Amazon.com, Inc.",4.08
+GEDG,"Taiwan Semiconductor Manufacturingturing Company Limited",3.64
+GEDG,"Apple Inc.",3.13
+GEDG,"Broadcom Inc.",3.02
+GEDG,"Cash",3.02
+GEDG,"Eli Lilly and Company",2.89
+GEDG,"JPMorgan Chase & Co.",2.82
+GEDG,"Visa Inc.",2.19
+GEDG,"Morgan Stanley",1.98
+GEDG,"Cheniere Energy, Inc.",1.98
+GEDG,"Meta Platforms, Inc.",1.90
+GEDG,"Advanced Micro Devices, Inc.",1.83
+GEDG,"Walmart Inc.",1.81
+GEDG,"United Rentals, Inc.",1.70
+GEDG,"Palo Alto Networks, Inc.",1.65
+GEDG,"Micron Technology, Inc.",1.57
+GEDG,"Arista Networks Inc",1.54
+GEDG,"Samsung Electronics Company Limited",1.54
+GEDG,"Schneider Electric S.E.",1.52
+GEDG,"Sumitomo Mitsui Trust Holdings Inc.",1.52
+GEDG,"TOTO Limited",1.50
+GEDG,"Waste Connections, Inc.",1.40
+GEDG,"Compagnie Financiere Richemont SA",1.40
+GEDG,"Astrazeneca PLC",1.38
+GEDG,"Linde plc",1.36
+GEDG,"Medtronic plc",1.33
+GEDG,"American Express Company",1.32
+GEDG,"Contemporary Amperex Technology Co Ltd",1.31
+GEDG,"Rolls-Royce Holdings PLC",1.30
+GEDG,"Applied Materials, Inc.",1.16
+GEDG,"Ferrari N.V.",1.16
+GEDG,"ING Groep NV",1.16
+GEDG,"Japan Post Bank Company Limited",1.14
+GEDG,"Galderma Group AG",1.13
+GEDG,"Amgen Inc.",1.09
+GEDG,"Tencent Holdings Limited",1.08
+GEDG,"Siemens AG",1.08
+GEDG,"McKesson Corporation",1.07
+GEDG,"Abbott Laboratories",1.03
+GEDG,"Arthur J. Gallagher & Co.",1.02
+GEDG,"Danone SA",0.98
+GEDG,"Stryker Corporation",0.98
+GEDG,"Nasdaq, Inc.",0.96
+GEDG,"Amphenol Corporation",0.96
+GEDG,"Dollarama Inc.",0.92
+GEDG,"ConocoPhillips",0.91
+GEDG,"Costco Wholesale Corporation",0.88
+GEDG,"Viking Holdings Ltd",0.86
+GEDG,"Citizens Financial Group, Inc.",0.81
+GEDG,"L3Harris Technologies, Inc.",0.79
+GEDG,"DSV A/S",0.75
+GEDG,"Netflix, Inc.",0.74
+GEDG,"Constellation Software Inc.",0.63
+GEDG,"Renesas Electronics Corporation",0.62
+GEDG,"CaixaBank SA",0.60
+GEDG,"Freeport-McMoRan Inc.",0.51
+GEDG,"Delta Electronics Inc.",0.48
+GEDG,"Aritzia Inc.",0.45
+GEDG,"Tesla, Inc.",0.37
+GEDG,"United States Dollar",0.01
+GEDG,"Swiss Franc",0.00
+GEDG,"Euro",0.00
+MBAP,"Manulife Smart Core Bond ETF",12.05
+MBAP,"Manulife Strategic Income ETF",8.26
+MBAP,"Manulife Smart Dividend ETF",7.99
+MBAP,"Manulife Global Edge ETF",7.04
+MBAP,"Manulife Smart US Dividend ETF",6.00
+MBAP,"Manulife Fundamental Equity Class ETF",5.23
+MBAP,"Vanguard Emerging Markets Government Bond ETF",4.86
+MBAP,"Manulife Smart International Dividend ETF",4.64
+MBAP,"iShares Core S&P 500 ETF",4.53
+MBAP,"Vanguard S&P 500 ETF",4.52
+MBAP,"Manulife Smart Corporate Bond ETF",4.34
+MBAP,"Manulife Multifactor Canadian Smid Cap Index Etf",3.98
+MBAP,"Manulife Smart Global Bond ETF",3.88
+MBAP,"Vanguard FTSE Developed Markets ETF",3.52
+MBAP,"Manulife CQS Multi Asset Credit Fund ETF",3.44
+MBAP,"iShares Core S&P/TSX Capped Composite Index ETF",3.38
+MBAP,"iShares Core MSCI Emerging Markets ETF",2.92
+MBAP,"iShares Broad USD High Yield Corporate Bond ETF",2.88
+MBAP,"Manulife Multifactor Emerging Markets Index ETF",1.96
+MBAP,"Manulife Smart Short-Term Bond ETF",1.96
+MBAP,"iShares Global Infrastructure ETF",1.93
+MBAP,"Cash",0.57
+MBAP,"United States Dollar",0.09
+MBAP,"Canadian Dollar",0.03
+MBAP,"iShares U.S. High Yield Bond Index ETF (CAD-Hedged)",0.02
+IDEF.B,"DBS Group Holdings Limited",2.03
+IDEF.B,"Shell plc",1.94
+IDEF.B,"ASML holding nv",1.93
+IDEF.B,"Total Energies SE",1.65
+IDEF.B,"ABB Limited",1.63
+IDEF.B,"Oversea-Chinese Banking Corporation Limited",1.61
+IDEF.B,"Auckland International Airport Limited",1.57
+IDEF.B,"HSBC Holdings plc",1.45
+IDEF.B,"Orange S.A.",1.41
+IDEF.B,"HKT Trust and HKT Limited",1.40
+IDEF.B,"Novartis AG",1.40
+IDEF.B,"KBC Group NV",1.35
+IDEF.B,"Fisher & Paykel Healthcare Corporation Limited",1.35
+IDEF.B,"Tryg AS",1.29
+IDEF.B,"SoftBank Corporation",1.28
+IDEF.B,"Roche Holdings AG",1.27
+IDEF.B,"Nestlé S.A.",1.23
+IDEF.B,"Japan Tobacco Inc.",1.23
+IDEF.B,"BOC Hong Kong (Holdings) Limited",1.22
+IDEF.B,"SAP SE",1.21
+IDEF.B,"McDonald's Holdings Company (Japan) Limited",1.17
+IDEF.B,"Koninklijke Ahold Delhaize NV",1.14
+IDEF.B,"Swiss Prime Site AG",1.14
+IDEF.B,"Koninklijke KPN NV",1.09
+IDEF.B,"Aena SME SA",1.07
+IDEF.B,"CLP Holdings Limited",1.06
+IDEF.B,"SECOM Company Limited",1.02
+IDEF.B,"BAE Systems plc",1.00
+IDEF.B,"Sanofi",0.94
+IDEF.B,"Industria de Diseño Textil, S.A.",0.94
+IDEF.B,"Japan Post Bank Company Limited",0.92
+IDEF.B,"Power Assets Holdings Limited",0.92
+IDEF.B,"Cash",0.90
+IDEF.B,"Danske Bank A/S",0.90
+IDEF.B,"Bank Leumi Le-Israel BM",0.89
+IDEF.B,"Bridgestone Corporation",0.89
+IDEF.B,"Tokyo Electron Limited",0.87
+IDEF.B,"Gaztransport Et Technigaz SA",0.85
+IDEF.B,"Washington H. Soul Pattinson & Company Limited",0.82
+IDEF.B,"Banco Bilbao Vizcaya Argentaria, S.A.",0.81
+IDEF.B,"OMV Aktiengesellschaft",0.79
+IDEF.B,"Unilever PLC",0.79
+IDEF.B,"First International Bank of Israel Limited",0.78
+IDEF.B,"Rio Tinto Group",0.77
+IDEF.B,"Elisa Oyj",0.77
+IDEF.B,"LY Corp",0.75
+IDEF.B,"Astrazeneca PLC",0.75
+IDEF.B,"Flughafen Zürich AG",0.74
+IDEF.B,"Galenica AG",0.73
+IDEF.B,"KDDI Corporation",0.72
+IDEF.B,"Sea Limited, ADR",0.70
+IDEF.B,"Tenaris SA",0.69
+IDEF.B,"Nisshin Seifun Group Inc.",0.68
+IDEF.B,"Compass Group PLC",0.68
+IDEF.B,"Singapore Technologies Engineering Limited",0.67
+IDEF.B,"Mitsubishi UFJ Financial Group Inc.",0.66
+IDEF.B,"Coles Group Limited",0.66
+IDEF.B,"Aker BP ASA",0.63
+IDEF.B,"Galp Energia SGPS SA",0.61
+IDEF.B,"Sydbank A/S",0.60
+IDEF.B,"Sino Land Company Limited",0.60
+IDEF.B,"MTR Corporation Limited",0.57
+IDEF.B,"MEIJI Holdings Company Limited",0.56
+IDEF.B,"BP p.l.c.",0.56
+IDEF.B,"OBIC Company Limited",0.55
+IDEF.B,"Safran SA",0.54
+IDEF.B,"Advantest Corporation",0.54
+IDEF.B,"USS Company Limited",0.54
+IDEF.B,"Beiersdorf AG",0.54
+IDEF.B,"Toyota Motor Corporation",0.54
+IDEF.B,"Pearson PLC",0.53
+IDEF.B,"Jardine Matheson Holdings Limited",0.53
+IDEF.B,"Venture Corporation Limited",0.53
+IDEF.B,"EMS-Chemie Holding AG",0.51
+IDEF.B,"ASR Nederland NV",0.51
+IDEF.B,"REA Group Limited",0.50
+IDEF.B,"Invincible Investment Corp",0.50
+IDEF.B,"Schindler Holding AG, Participation Certificate",0.50
+IDEF.B,"Kewpie Corporation",0.49
+IDEF.B,"AIB Group PLC",0.48
+IDEF.B,"INPEX Corporation",0.48
+IDEF.B,"Compagnie Generale des Etablissements Michelin",0.48
+IDEF.B,"Phoenix Finance Ltd.",0.47
+IDEF.B,"Gsk Plc",0.46
+IDEF.B,"Lion Finance Group PLC",0.46
+IDEF.B,"International Consolidated Airlines Group SA",0.46
+IDEF.B,"Hitachi Limited",0.45
+IDEF.B,"Equinor ASA",0.44
+IDEF.B,"Henkel AG & Company KGaA",0.43
+IDEF.B,"Accor SA",0.42
+IDEF.B,"British American Tobacco PLC",0.42
+IDEF.B,"Suntory Beverage & Food Limited",0.42
+IDEF.B,"BHP Group Limited",0.42
+IDEF.B,"Obayashi Corporation",0.42
+IDEF.B,"United Overseas Bank Limited",0.42
+IDEF.B,"Danone SA",0.42
+IDEF.B,"Deutsche Telekom AG",0.41
+IDEF.B,"Jeronimo Martins SGPS SA",0.41
+IDEF.B,"Wesfarmers Ltd",0.41
+IDEF.B,"Koito Manufacturing Company Limited",0.40
+IDEF.B,"Ackermans & van Haaren NV",0.40
+IDEF.B,"Azrieli Group Limited",0.39
+IDEF.B,"ANZ Group Holdings Limited",0.39
+IDEF.B,"Reckitt Benck Grp Ord",0.39
+IDEF.B,"Ryanair Holdings PLC",0.39
+IDEF.B,"Nintendo Company Limited",0.39
+IDEF.B,"Imperial Brands PLC",0.39
+IDEF.B,"Singapore Telecommunications Limited",0.38
+IDEF.B,"OPC Energy Ltd",0.38
+IDEF.B,"Scout24 SE",0.37
+IDEF.B,"Nordea Bank Abp",0.36
+IDEF.B,"Yara International ASA",0.36
+IDEF.B,"Rolls-Royce Holdings PLC",0.36
+IDEF.B,"Dr Ing hc F Porsche AG",0.35
+IDEF.B,"Contact Energy Limited",0.35
+IDEF.B,"Smiths Group plc",0.35
+IDEF.B,"IMI plc",0.34
+IDEF.B,"ING Groep NV",0.34
+IDEF.B,"Aristocrat Leisure Limited",0.33
+IDEF.B,"Kerry Group PLC, Class 'A'",0.33
+IDEF.B,"Dassault Aviation SA",0.33
+IDEF.B,"DENSO Corporation",0.33
+IDEF.B,"ANA Holdings Inc.",0.33
+IDEF.B,"Deutsche Boerse AG",0.32
+IDEF.B,"Kandenko Co Ltd.",0.32
+IDEF.B,"Ferrari N.V.",0.32
+IDEF.B,"Nice Limited",0.32
+IDEF.B,"Yokohama Rubber Co Ltd/The",0.32
+IDEF.B,"ARGENX SE",0.32
+IDEF.B,"Tesco PLC",0.32
+IDEF.B,"Medibank Private Limited",0.31
+IDEF.B,"Hong Kong and China Gas Company Limited (The)",0.30
+IDEF.B,"Yakult Honsha Company Limited",0.30
+IDEF.B,"Bayerische Motoren Werke AG",0.30
+IDEF.B,"Schneider Electric S.E.",0.30
+IDEF.B,"ASM International NV",0.29
+IDEF.B,"Vodafone Group Public Limited Company",0.29
+IDEF.B,"Kinden Corporation",0.29
+IDEF.B,"Coca-Cola HBC AG",0.28
+IDEF.B,"Singapore Airlines Limited",0.28
+IDEF.B,"Redeia Corporacion SA",0.27
+IDEF.B,"Holcim Ltd.",0.27
+IDEF.B,"Siemens Energy AG",0.27
+IDEF.B,"Aisin Corp",0.27
+IDEF.B,"WiseTech Global Ltd",0.26
+IDEF.B,"Canon Inc.",0.26
+IDEF.B,"Toyo Tire Corporation",0.26
+IDEF.B,"Prosus NV",0.26
+IDEF.B,"Zurich Insurance Group AG",0.25
+IDEF.B,"Investor AB, Class B",0.25
+IDEF.B,"Enagas SA",0.25
+IDEF.B,"ComfortDelGro Corporation Limited",0.25
+IDEF.B,"Renesas Electronics Corporation",0.24
+IDEF.B,"Kioxia Holdings Corp",0.24
+IDEF.B,"Swiss Life Holding AG",0.24
+IDEF.B,"Japanese Yen",0.18
+IDEF.B,"Swiss Franc",0.11
+IDEF.B,"Euro",0.01
+IDEF.B,"Singapore Dollar",0.01
+IDEF.B,"Australian Dollar",0.01
+IDEF.B,"British Pound Sterling",0.00
+IDEF.B,"Canadian Dollar",0.00
+IDEF.B,"Norwegian Krone",0.00
+IDIV.B,"ASML holding nv",2.58
+IDIV.B,"EDP - Energias de Portugal SA",2.00
+IDIV.B,"Banco Bilbao Vizcaya Argentaria, S.A.",1.98
+IDIV.B,"Intesa Sanpaolo S.p.A.",1.97
+IDIV.B,"Banco Bpm Spa",1.95
+IDIV.B,"AB Volvo (publ)",1.92
+IDIV.B,"Klepierre SA",1.90
+IDIV.B,"AIB Group PLC",1.90
+IDIV.B,"Assicurazioni Generali SpA",1.89
+IDIV.B,"Total Energies SE",1.89
+IDIV.B,"Sanofi",1.88
+IDIV.B,"Unipol Assicurazioni SpA",1.84
+IDIV.B,"Novartis AG",1.74
+IDIV.B,"Engie SA",1.72
+IDIV.B,"Sumitomo Corporation",1.69
+IDIV.B,"Shell plc",1.68
+IDIV.B,"Rio Tinto Group",1.67
+IDIV.B,"UPM-Kymmene Oyj",1.66
+IDIV.B,"Mercedes-Benz Group AG",1.62
+IDIV.B,"Tokyo Electron Limited",1.62
+IDIV.B,"Telenor ASA",1.59
+IDIV.B,"CaixaBank SA",1.58
+IDIV.B,"Kobe Steel, Ltd.",1.47
+IDIV.B,"HKT Trust and HKT Limited",1.43
+IDIV.B,"British American Tobacco PLC",1.42
+IDIV.B,"MS & AD Insurance Group Holdings Inc.",1.41
+IDIV.B,"ABB Limited",1.39
+IDIV.B,"Astrazeneca PLC",1.38
+IDIV.B,"Imperial Brands PLC",1.38
+IDIV.B,"Roche Holdings AG",1.32
+IDIV.B,"Publicis Groupe SA",1.30
+IDIV.B,"Mitsubishi UFJ Financial Group Inc.",1.28
+IDIV.B,"Novo Nordisk A/S",1.28
+IDIV.B,"CK Hutchison Holdings Limited",1.23
+IDIV.B,"Advantest Corporation",1.22
+IDIV.B,"ANZ Group Holdings Limited",1.15
+IDIV.B,"Nestlé S.A.",1.15
+IDIV.B,"AXA SA",1.13
+IDIV.B,"Marubeni Corporation",1.13
+IDIV.B,"Hitachi Limited",1.12
+IDIV.B,"BOC Hong Kong (Holdings) Limited",1.09
+IDIV.B,"Heidelberg Materials AG",1.07
+IDIV.B,"Siemens AG",1.05
+IDIV.B,"Sumitomo Mitsui Financial Group Inc.",1.04
+IDIV.B,"Atlas Copco AB, Class A",1.00
+IDIV.B,"QBE Insurance Group Limited",0.98
+IDIV.B,"Commonwealth Bank of Australia",0.96
+IDIV.B,"ING Groep NV",0.95
+IDIV.B,"Alps Alpine Company Limited",0.94
+IDIV.B,"Natwest Group PLC",0.94
+IDIV.B,"Land Securities Group PLC",0.92
+IDIV.B,"WH Group Limited",0.92
+IDIV.B,"Toyota Motor Corporation",0.86
+IDIV.B,"Central Japan Railway Company",0.84
+IDIV.B,"DBS Group Holdings Limited",0.83
+IDIV.B,"Komatsu Limited",0.79
+IDIV.B,"Ageas SA/NV",0.75
+IDIV.B,"OMV Aktiengesellschaft",0.74
+IDIV.B,"Cash",0.73
+IDIV.B,"National Grid PLC",0.73
+IDIV.B,"Vinci SA",0.68
+IDIV.B,"Mizrahi Tefahot Bank Limited",0.67
+IDIV.B,"Unilever PLC",0.67
+IDIV.B,"Enel SpA",0.66
+IDIV.B,"Scentre Group",0.66
+IDIV.B,"Deutsche Telekom AG",0.66
+IDIV.B,"LVMH Moet Hennessy-Louis Vuitton SE",0.61
+IDIV.B,"Wesfarmers Ltd",0.60
+IDIV.B,"Origin Energy Limited",0.60
+IDIV.B,"Yangzijiang Shipbuilding (Holdi",0.57
+IDIV.B,"Tokio Marine Holdings Inc.",0.55
+IDIV.B,"Venture Corporation Limited",0.54
+IDIV.B,"Aberdeen Group PLC",0.53
+IDIV.B,"DNB Bank ASA",0.50
+IDIV.B,"Swedbank AB (publ)",0.50
+IDIV.B,"Stockland",0.50
+IDIV.B,"Var Energi ASA",0.50
+IDIV.B,"SoftBank Group Corporation",0.50
+IDIV.B,"Pernod Ricard SA",0.50
+IDIV.B,"HSBC Holdings plc",0.50
+IDIV.B,"BHP Group Limited",0.49
+IDIV.B,"Partners Group Holding AG",0.49
+IDIV.B,"Recruit Holdings Company Limited",0.49
+IDIV.B,"Gsk Plc",0.49
+IDIV.B,"BNP Paribas SA",0.48
+IDIV.B,"Temp Holdings Company Limited",0.47
+IDIV.B,"Skandinaviska Enskilda Banken AB, Class 'A'",0.45
+IDIV.B,"FUJIFILM Holdings Corporation",0.44
+IDIV.B,"Daito Trust Construction Company Limited",0.44
+IDIV.B,"Santos Limited",0.44
+IDIV.B,"Sankyo Company Limited",0.39
+IDIV.B,"SBI Holdings Inc.",0.39
+IDIV.B,"Orion Oyj",0.38
+IDIV.B,"Swiss Re Limited",0.37
+IDIV.B,"H&M Hennes & Mauritz AB, Class 'B'",0.36
+IDIV.B,"Astellas Pharma Inc.",0.28
+IDIV.B,"Australian Dollar",0.03
+IDIV.B,"Euro",0.02
+IDIV.B,"Israeli Shekel",0.01
+IDIV.B,"Swiss Franc",0.00
+IDIV.B,"British Pound Sterling",0.00
+IDIV.B,"Singapore Dollar",0.00
+IDIV.B,"Canadian Dollar",0.00
+IDIV.B,"Hong Kong Dollar",0.00
+IDIV.B,"Danish Krone",0.00
+IDIV.B,"Norwegian Krone",0.00
+IDIV.B,"Swedish Krona",0.00
+IDIV.B,"Pound Sterling",0.00
+IDIV.B,"Japanese Yen",0.00

@@ -1,0 +1,655 @@
+TICKER,HOLDING_TICKER,HOLDING_NAME,WEIGHT_PCT
+BAAA,,"RIN 10 Ltd. 5.1029% due January 15, 2039",5.7
+BAAA,,"Benefit Street Partners CLO Ltd. 4.9929% due October 15, 2038",5.7
+BAAA,,"BBAM US CLO VII Ltd. 5.0081% due July 27, 2039",5.7
+BAAA,,"Garnet CLO 2 Ltd. 5.0792% due October 20, 2038",5.5
+BAAA,,"Franklin Park Place CLO I 4.9906% due April 14, 2038",5.0
+BAAA,,"Trintas CLO Ltd. 4.9736% due October 23, 2039",4.7
+BAAA,,"MAGNETITE LV Ltd. 4.8199% due April 15, 2039",4.3
+BAAA,,"Neuberger Berman Loan Advisers CLO 31 Ltd. 4.9592% due January 20, 2039",4.0
+BAAA,,"Elmwood CLO 36 Ltd. 5.0692% due October 20, 2037",3.8
+BAAA,,"AGL CLO 8 Ltd. 5.2292% due January 20, 2038",3.8
+BAAA,,"Janus Henderson AAA CLO ETF",3.8
+BAAA,,"Symphony CLO XXIV Ltd. 6.5522% due October 23, 2035",2.9
+BAAA,,"Generate CLO 4 Ltd. 6.9792% due July 20, 2037",2.9
+BAAA,,"Benefit Street Partners CLO XXXVIII Ltd. 5.1202% due January 25, 2038",2.9
+BAAA,,"Generate CLO Ltd. 5.0792% due January 20, 2038",2.8
+BAAA,,"OHA Credit Funding 20 Ltd. 4.8292% due April 20, 2038",2.8
+BAAA,,"Magnetite XXVI Ltd. 4.9601% due January 25, 2038",2.8
+BAAA,,"CQS US CLO 6 Ltd. 6.8807% due March 31, 2039",2.6
+BAAA,,"OHA Credit Funding 15-R Ltd. 5.0192% due July 20, 2038",2.6
+BAAA,,"Magnetite XLII Ltd. 5.1202% due January 25, 2038",2.4
+BAAA,,"720 East CLO 2023-I Ltd. 5.1229% due April 15, 2038",2.3
+BAAA,,"Trestles CLO VI Ltd. 4.9902% due April 25, 2038",1.9
+BAAA,,"Elmwood CLO 21 Ltd. 4.9729% due October 15, 2038",1.9
+BAAA,,"TCW CLO 2025-1 Ltd. 5.6292% due April 20, 2038",1.9
+BAAA,,"OHA Credit Funding 17-R Ltd. 4.8692% due April 20, 2039",1.9
+BAAA.U,,"RIN 10 Ltd. 5.1029% due January 15, 2039",5.7
+BAAA.U,,"Benefit Street Partners CLO Ltd. 4.9929% due October 15, 2038",5.7
+BAAA.U,,"BBAM US CLO VII Ltd. 5.0081% due July 27, 2039",5.7
+BAAA.U,,"Garnet CLO 2 Ltd. 5.0792% due October 20, 2038",5.5
+BAAA.U,,"Franklin Park Place CLO I 4.9906% due April 14, 2038",5.0
+BAAA.U,,"Trintas CLO Ltd. 4.9736% due October 23, 2039",4.7
+BAAA.U,,"MAGNETITE LV Ltd. 4.8199% due April 15, 2039",4.3
+BAAA.U,,"Neuberger Berman Loan Advisers CLO 31 Ltd. 4.9592% due January 20, 2039",4.0
+BAAA.U,,"Elmwood CLO 36 Ltd. 5.0692% due October 20, 2037",3.8
+BAAA.U,,"AGL CLO 8 Ltd. 5.2292% due January 20, 2038",3.8
+BAAA.U,,"Janus Henderson AAA CLO ETF",3.8
+BAAA.U,,"Symphony CLO XXIV Ltd. 6.5522% due October 23, 2035",2.9
+BAAA.U,,"Generate CLO 4 Ltd. 6.9792% due July 20, 2037",2.9
+BAAA.U,,"Benefit Street Partners CLO XXXVIII Ltd. 5.1202% due January 25, 2038",2.9
+BAAA.U,,"Generate CLO Ltd. 5.0792% due January 20, 2038",2.8
+BAAA.U,,"OHA Credit Funding 20 Ltd. 4.8292% due April 20, 2038",2.8
+BAAA.U,,"Magnetite XXVI Ltd. 4.9601% due January 25, 2038",2.8
+BAAA.U,,"CQS US CLO 6 Ltd. 6.8807% due March 31, 2039",2.6
+BAAA.U,,"OHA Credit Funding 15-R Ltd. 5.0192% due July 20, 2038",2.6
+BAAA.U,,"Magnetite XLII Ltd. 5.1202% due January 25, 2038",2.4
+BAAA.U,,"720 East CLO 2023-I Ltd. 5.1229% due April 15, 2038",2.3
+BAAA.U,,"Trestles CLO VI Ltd. 4.9902% due April 25, 2038",1.9
+BAAA.U,,"Elmwood CLO 21 Ltd. 4.9729% due October 15, 2038",1.9
+BAAA.U,,"TCW CLO 2025-1 Ltd. 5.6292% due April 20, 2038",1.9
+BAAA.U,,"OHA Credit Funding 17-R Ltd. 4.8692% due April 20, 2039",1.9
+BBBB,,"Janus Henderson AAA CLO ETF",8.6
+BBBB,,"HPS Loan Management 2025-26 Ltd. 6.5792% due July 20, 2038",6.7
+BBBB,,"Marble Point CLO XIX Ltd. 6.7292% due October 19, 2038",6.7
+BBBB,,"Harriman Park CLO Ltd. 6.6292% due July 20, 2038",6.4
+BBBB,,"AGL CLO 6 Ltd. 7.0292% due April 20, 2038",6.4
+BBBB,,"Generate CLO 17 Ltd. 6.7332% due October 22, 2037",5.9
+BBBB,,"Bain Capital Credit CLO 2021-2 Ltd. 6.8929% due July 16, 2034",4.9
+BBBB,,"AGL CLO 11 Ltd. 10.0529% due October 15, 2038",4.5
+BBBB,,"HalseyPoint CLO 7 Ltd. 8.4092% due July 20, 2038",4.1
+BBBB,,"AGL CLO 24 Ltd. 10.5922% due March 31, 2038",3.8
+BBBB,,"Generate CLO 19 Ltd. 7.9832% due April 22, 2036",3.4
+BBBB,,"Regatta XVIII Funding Ltd. 6.3529% due April 15, 2038",3.3
+BBBB,,"Generate CLO 4 Ltd. 6.9792% due July 20, 2037",3.3
+BBBB,,"Madison Park Funding LXIX Ltd. 8.5601% due July 25, 2037",3.3
+BBBB,,"Generate CLO 5 Ltd. 7.4332% due July 22, 2037",3.3
+BBBB,,"AGL CLO 15 LTD 7.5292% due January 20, 2039",3.3
+BBBB,,"Elmwood CLO XII Ltd. 8.1029% due October 15, 2037",3.3
+BBBB,,"Oaktree CLO 2020-1 Ltd. 8.7529% due January 15, 2038",3.3
+BBBB,,"Davis Park CLO Ltd. 6.8292% due July 20, 2038",3.3
+BBBB,,"AGL CLO 21 Ltd. 6.7837% due October 21, 2037",3.2
+BBBB,,"KKR CLO 37 Ltd. 7.9792% due April 20, 2038",3.2
+BBBB,,"AGL CLO 19 Ltd. 9.2337% due July 21, 2038",3.1
+BBBB,,"TCW CLO 2022-1 Ltd. 10.2292% due January 20, 2038",0.8
+BBBB,,"Janus Henderson B-BBB CLO ETF",0.3
+BBBB,,"Cash",0.2
+BBBB.U,,"Janus Henderson AAA CLO ETF",8.6
+BBBB.U,,"HPS Loan Management 2025-26 Ltd. 6.5792% due July 20, 2038",6.7
+BBBB.U,,"Marble Point CLO XIX Ltd. 6.7292% due October 19, 2038",6.7
+BBBB.U,,"Harriman Park CLO Ltd. 6.6292% due July 20, 2038",6.4
+BBBB.U,,"AGL CLO 6 Ltd. 7.0292% due April 20, 2038",6.4
+BBBB.U,,"Generate CLO 17 Ltd. 6.7332% due October 22, 2037",5.9
+BBBB.U,,"Bain Capital Credit CLO 2021-2 Ltd. 6.8929% due July 16, 2034",4.9
+BBBB.U,,"AGL CLO 11 Ltd. 10.0529% due October 15, 2038",4.5
+BBBB.U,,"HalseyPoint CLO 7 Ltd. 8.4092% due July 20, 2038",4.1
+BBBB.U,,"AGL CLO 24 Ltd. 10.5922% due March 31, 2038",3.8
+BBBB.U,,"Generate CLO 19 Ltd. 7.9832% due April 22, 2036",3.4
+BBBB.U,,"Regatta XVIII Funding Ltd. 6.3529% due April 15, 2038",3.3
+BBBB.U,,"Generate CLO 4 Ltd. 6.9792% due July 20, 2037",3.3
+BBBB.U,,"Madison Park Funding LXIX Ltd. 8.5601% due July 25, 2037",3.3
+BBBB.U,,"Generate CLO 5 Ltd. 7.4332% due July 22, 2037",3.3
+BBBB.U,,"AGL CLO 15 LTD 7.5292% due January 20, 2039",3.3
+BBBB.U,,"Elmwood CLO XII Ltd. 8.1029% due October 15, 2037",3.3
+BBBB.U,,"Oaktree CLO 2020-1 Ltd. 8.7529% due January 15, 2038",3.3
+BBBB.U,,"Davis Park CLO Ltd. 6.8292% due July 20, 2038",3.3
+BBBB.U,,"AGL CLO 21 Ltd. 6.7837% due October 21, 2037",3.2
+BBBB.U,,"KKR CLO 37 Ltd. 7.9792% due April 20, 2038",3.2
+BBBB.U,,"AGL CLO 19 Ltd. 9.2337% due July 21, 2038",3.1
+BBBB.U,,"TCW CLO 2022-1 Ltd. 10.2292% due January 20, 2038",0.8
+BBBB.U,,"Janus Henderson B-BBB CLO ETF",0.3
+BBBB.U,,"Cash",0.2
+BDIV,,"Welltower Inc.",4.7
+BDIV,,"Apple Inc.",4.4
+BDIV,,"Cash",3.6
+BDIV,,"American Express Company",3.4
+BDIV,,"Broadcom Inc.",3.3
+BDIV,,"Seagate Technology Holdings PLC",3.3
+BDIV,,"Citigroup Inc.",3.3
+BDIV,,"Barclays PLC",3.1
+BDIV,,"BHP Group Ltd.",3.0
+BDIV,,"Canadian Imperial Bank of Commerce",3.0
+BDIV,,"General Electric Company",3.0
+BDIV,,"JPMorgan Chase & Co.",3.0
+BDIV,,"Motorola Solutions Inc.",2.9
+BDIV,,"UnitedHealth Group Inc.",2.9
+BDIV,,"Mizuho Financial Group, Inc.",2.8
+BDIV,,"AbbVie Inc.",2.8
+BDIV,,"Mitsubishi Heavy Industries, Ltd.",2.8
+BDIV,,"Microsoft Corporation",2.7
+BDIV,,"Alphabet Inc.",2.6
+BDIV,,"Dollarama Inc.",2.6
+BDIV,,"Linde PLC",2.6
+BDIV,,"Knight-Swift Transportation Holdings Inc.",2.6
+BDIV,,"Verizon Communications Inc.",2.6
+BDIV,,"The Williams Companies, Inc.",2.6
+BDIV,,"Cardinal Health, Inc.",2.6
+BEPR,,"Delphi Financial Group, 7.192% due May 15, 2037",5.5
+BEPR,,"MetLife Inc., 10.750% due August 01, 2039",3.6
+BEPR,,"Provident Financing TR I, 7.405% due March 15, 2038",3.4
+BEPR,,"Liberty Mutual Insurance, 7.697% due October 15, 2097",2.7
+BEPR,,"Everest Reinsurance Holdings, 6.387% due May 15, 2037",2.4
+BEPR,,"Fifth Third Bancorp., 6.875%",2.4
+BEPR,,"ING Groep NV, 7.500%",2.2
+BEPR,,"Liberty Mutual Group, 7.800% due March 15, 2037",1.8
+BEPR,,"Zions Bancorporation, 6.816% due November 19, 2035",1.5
+BEPR,,"Lincoln National Corporation, 6.249% due May 17, 2066",1.4
+BEPR,,"American Electric Power, 3.875% due February 15, 2062",1.3
+BEPR,,"Lloyds Banking Group PLC, 8.000%",1.3
+BEPR,,"Energy Transfer LP, 6.750% due February 15, 2056",1.2
+BEPR,,"Athene Holding Ltd., 6.350%",1.2
+BEPR,,"Xcel Energy Inc., 6.250% due October 15, 2085",1.1
+BEPR,,"Eushi Finance Inc., 6.250% due April 01, 2056",1.1
+BEPR,,"Pinnacle Financial Partners, 8.397%",1.1
+BEPR,,"Algonquin Power & Utilities Corp., 4.750% due January 18, 2082",1.1
+BEPR,,"Canadian Imperial Bank of Commerce, 7.150% due July 28, 2082",1.1
+BEPR,,"Manulife Financial Corporation, 7.117% due June 19, 2082",1.0
+BEPR,,"NatWest Group PLC, 4.600%",1.0
+BEPR,,"BNP Paribas, 7.450%",1.0
+BEPR,,"Standard Chartered PLC, 7.750%",1.0
+BEPR,,"Sempra, 4.125% due April 01, 2052",1.0
+BEPR,,"Societe Generale, 6.750%",1.0
+BEPR.U,,"Delphi Financial Group, 7.192% due May 15, 2037",5.5
+BEPR.U,,"MetLife Inc., 10.750% due August 01, 2039",3.6
+BEPR.U,,"Provident Financing TR I, 7.405% due March 15, 2038",3.4
+BEPR.U,,"Liberty Mutual Insurance, 7.697% due October 15, 2097",2.7
+BEPR.U,,"Everest Reinsurance Holdings, 6.387% due May 15, 2037",2.4
+BEPR.U,,"Fifth Third Bancorp., 6.875%",2.4
+BEPR.U,,"ING Groep NV, 7.500%",2.2
+BEPR.U,,"Liberty Mutual Group, 7.800% due March 15, 2037",1.8
+BEPR.U,,"Zions Bancorporation, 6.816% due November 19, 2035",1.5
+BEPR.U,,"Lincoln National Corporation, 6.249% due May 17, 2066",1.4
+BEPR.U,,"American Electric Power, 3.875% due February 15, 2062",1.3
+BEPR.U,,"Lloyds Banking Group PLC, 8.000%",1.3
+BEPR.U,,"Energy Transfer LP, 6.750% due February 15, 2056",1.2
+BEPR.U,,"Athene Holding Ltd., 6.350%",1.2
+BEPR.U,,"Xcel Energy Inc., 6.250% due October 15, 2085",1.1
+BEPR.U,,"Eushi Finance Inc., 6.250% due April 01, 2056",1.1
+BEPR.U,,"Pinnacle Financial Partners, 8.397%",1.1
+BEPR.U,,"Algonquin Power & Utilities Corp., 4.750% due January 18, 2082",1.1
+BEPR.U,,"Canadian Imperial Bank of Commerce, 7.150% due July 28, 2082",1.1
+BEPR.U,,"Manulife Financial Corporation, 7.117% due June 19, 2082",1.0
+BEPR.U,,"NatWest Group PLC, 4.600%",1.0
+BEPR.U,,"BNP Paribas, 7.450%",1.0
+BEPR.U,,"Standard Chartered PLC, 7.750%",1.0
+BEPR.U,,"Sempra, 4.125% due April 01, 2052",1.0
+BEPR.U,,"Societe Generale, 6.750%",1.0
+BFIN,,"Bank of New York Mellon Corp.",6.4
+BFIN,,"JPMorgan Chase & Co.",6.3
+BFIN,,"The Goldman Sachs Group, Inc.",6.0
+BFIN,,"M&T Bank Corporation",5.9
+BFIN,,"Great-West Lifeco Inc.",5.8
+BFIN,,"Royal Bank of Canada",5.8
+BFIN,,"Citizens Financial Group Inc.",5.7
+BFIN,,"Bank of Montreal",5.6
+BFIN,,"Canadian Imperial Bank of Commerce",5.4
+BFIN,,"Morgan Stanley",5.4
+BFIN,,"Berkshire Hathaway Inc.",5.4
+BFIN,,"Manulife Financial Corporation",5.4
+BFIN,,"Valley National Bancorp",5.4
+BFIN,,"Citigroup Inc.",5.3
+BFIN,,"The Toronto-Dominion Bank",5.3
+BFIN,,"Brookfield Corporation",3.6
+BFIN,,"CME Group Inc.",3.6
+BFIN,,"Bank of America Corporation",3.2
+BFIN,,"Raymond James Financial, Inc.",2.2
+BFIN,,"Synchrony Financial",1.8
+BFIN,,"Cash",0.5
+BFIN.U,,"Bank of New York Mellon Corp.",6.4
+BFIN.U,,"JPMorgan Chase & Co.",6.3
+BFIN.U,,"The Goldman Sachs Group, Inc.",6.0
+BFIN.U,,"M&T Bank Corporation",5.9
+BFIN.U,,"Great-West Lifeco Inc.",5.8
+BFIN.U,,"Royal Bank of Canada",5.8
+BFIN.U,,"Citizens Financial Group Inc.",5.7
+BFIN.U,,"Bank of Montreal",5.6
+BFIN.U,,"Canadian Imperial Bank of Commerce",5.4
+BFIN.U,,"Morgan Stanley",5.4
+BFIN.U,,"Berkshire Hathaway Inc.",5.4
+BFIN.U,,"Manulife Financial Corporation",5.4
+BFIN.U,,"Valley National Bancorp",5.4
+BFIN.U,,"Citigroup Inc.",5.3
+BFIN.U,,"The Toronto-Dominion Bank",5.3
+BFIN.U,,"Brookfield Corporation",3.6
+BFIN.U,,"CME Group Inc.",3.6
+BFIN.U,,"Bank of America Corporation",3.2
+BFIN.U,,"Raymond James Financial, Inc.",2.2
+BFIN.U,,"Synchrony Financial",1.8
+BFIN.U,,"Cash",0.5
+BGIE,,"Targa Resources Corp.",6.3
+BGIE,,"Valero Energy Corp.",6.2
+BGIE,,"Welltower Inc.",5.2
+BGIE,,"General Electric Company",5.1
+BGIE,,"Quanta Services Inc.",4.6
+BGIE,,"GE Vernova Inc..",4.3
+BGIE,,"The Williams Companies, Inc.",4.2
+BGIE,,"Parker-Hannifin Corp.",3.9
+BGIE,,"Lundin Mining Corporation",3.9
+BGIE,,"Prologis, Inc.",3.8
+BGIE,,"Ferrovial N.V.",3.6
+BGIE,,"RWE AG",3.5
+BGIE,,"Marriott International, Inc.",3.5
+BGIE,,"Canadian National Railway Company",3.4
+BGIE,,"Eaton Corporation PLC",3.4
+BGIE,,"Mitsubishi Heavy Industries, Ltd.",3.4
+BGIE,,"Linde PLC",3.3
+BGIE,,"Keyera Corp.",3.3
+BGIE,,"Iberdrola, S.A.",3.2
+BGIE,,"Johnson Controls International PLC",3.2
+BGIE,,"Prysmian S.p.A.",3.1
+BGIE,,"Abb Ltd.",3.0
+BGIE,,"Knight-Swift Transportation Holdings Inc.",3.0
+BGIE,,"Constellation Energy Corp.",2.8
+BGIE,,"Alphabet Inc.",2.7
+BLOV,,"JPMorgan Chase & Co.",6.0
+BLOV,,"Alphabet Inc.",5.3
+BLOV,,"Pembina Pipeline Corp.",5.2
+BLOV,,"Loblaw Companies Ltd.",4.8
+BLOV,,"Fortis Inc.",4.8
+BLOV,,"Emera Inc.",4.7
+BLOV,,"Abbvie Inc.",4.6
+BLOV,,"Canadian Natural Resources Ltd.",4.1
+BLOV,,"Fortinet, Inc.",4.0
+BLOV,,"Coca-Cola Co.",3.9
+BLOV,,"Republic Services Inc.",3.9
+BLOV,,"The TJX Companies, Inc.",3.8
+BLOV,,"National Bank of Canada",3.7
+BLOV,,"McKesson Corp.",3.6
+BLOV,,"Cisco Systems Inc.",3.5
+BLOV,,"Corning Incorporated",3.5
+BLOV,,"Johnson & Johnson",3.5
+BLOV,,"Monster Beverage Corporation",3.2
+BLOV,,"Cardinal Health, Inc.",3.0
+BLOV,,"Walmart Inc.",3.0
+BLOV,,"Sun Life Financial Inc.",2.9
+BLOV,,"Motorola Solutions Inc.",2.8
+BLOV,,"The Toronto-Dominion Bank",2.8
+BLOV,,"Microsoft Corporation",2.8
+BLOV,,"Cash",2.3
+BMAX,TLF,"Brompton Tech Leaders Income ETF",13.3
+BMAX,BFIN,"Brompton North American Financials Dividend ETF",12.8
+BMAX,BGIE,"Brompton Global Infrastucture ETF",12.1
+BMAX,BDIV,"Brompton Global Dividend Growth ETF",11.1
+BMAX,EDGF,"Brompton European Dividend Growth ETF",10.3
+BMAX,BLOV,"Brompton North American Low Volatility Dividend ETF",10.0
+BMAX,HIG,"Brompton Global Healthcare Income & Growth ETF",9.3
+BMAX,SPLT,"Brompton Split Corp. Preferred Share ETF",9.1
+BMAX,BPRF,"Brompton Flaherty & Crumrine Investment Grade Preferred ETF",7.2
+BMAX,BBBB,"Brompton Wellington Square Investment Grade CLO ETF",4.8
+BPRF,,"Delphi Financial Group, 7.192% due May 15, 2037",5.4
+BPRF,,"MetLife Inc., 10.750% due August 01, 2039",3.6
+BPRF,,"Provident Financing TR I, 7.405% due March 15, 2038",3.4
+BPRF,,"Liberty Mutual Insurance, 7.697% due October 15, 2097",2.6
+BPRF,,"Everest Reinsurance Holdings, 6.387% due May 15, 2037",2.3
+BPRF,,"Fifth Third Bancorp., 6.875%",2.3
+BPRF,,"ING Groep NV, 7.500%",2.1
+BPRF,,"Liberty Mutual Group, 7.800% due March 15, 2037",1.8
+BPRF,,"Zions Bancorporation, 6.816% due November 19, 2035",1.4
+BPRF,,"Lincoln National Corporation, 6.249% due May 17, 2066",1.4
+BPRF,,"American Electric Power, 3.875% due February 15, 2062",1.3
+BPRF,,"Lloyds Banking Group PLC, 8.000%",1.2
+BPRF,,"Energy Transfer LP, 6.750% due February 15, 2056",1.2
+BPRF,,"Athene Holding Ltd., 6.350%",1.2
+BPRF,,"Xcel Energy Inc., 6.250% due October 15, 2085",1.1
+BPRF,,"Eushi Finance Inc., 6.250% due April 01, 2056",1.1
+BPRF,,"Pinnacle Financial Partners, 8.397%",1.1
+BPRF,,"Algonquin Power & Utilities Corp., 4.750% due January 18, 2082",1.1
+BPRF,,"Canadian Imperial Bank of Commerce, 7.150% due July 28, 2082",1.0
+BPRF,,"Manulife Financial Corporation, 7.117% due June 19, 2082",1.0
+BPRF,,"NatWest Group PLC, 4.600%",1.0
+BPRF,,"BNP Paribas, 7.450%",1.0
+BPRF,,"Standard Chartered PLC, 7.750%",1.0
+BPRF,,"Sempra, 4.125% due April 01, 2052",1.0
+BPRF,,"Societe Generale, 6.750%",0.9
+BPRF.U,,"Delphi Financial Group, 7.192% due May 15, 2037",5.4
+BPRF.U,,"MetLife Inc., 10.750% due August 01, 2039",3.6
+BPRF.U,,"Provident Financing TR I, 7.405% due March 15, 2038",3.4
+BPRF.U,,"Liberty Mutual Insurance, 7.697% due October 15, 2097",2.6
+BPRF.U,,"Everest Reinsurance Holdings, 6.387% due May 15, 2037",2.3
+BPRF.U,,"Fifth Third Bancorp., 6.875%",2.3
+BPRF.U,,"ING Groep NV, 7.500%",2.1
+BPRF.U,,"Liberty Mutual Group, 7.800% due March 15, 2037",1.8
+BPRF.U,,"Zions Bancorporation, 6.816% due November 19, 2035",1.4
+BPRF.U,,"Lincoln National Corporation, 6.249% due May 17, 2066",1.4
+BPRF.U,,"American Electric Power, 3.875% due February 15, 2062",1.3
+BPRF.U,,"Lloyds Banking Group PLC, 8.000%",1.2
+BPRF.U,,"Energy Transfer LP, 6.750% due February 15, 2056",1.2
+BPRF.U,,"Athene Holding Ltd., 6.350%",1.2
+BPRF.U,,"Xcel Energy Inc., 6.250% due October 15, 2085",1.1
+BPRF.U,,"Eushi Finance Inc., 6.250% due April 01, 2056",1.1
+BPRF.U,,"Pinnacle Financial Partners, 8.397%",1.1
+BPRF.U,,"Algonquin Power & Utilities Corp., 4.750% due January 18, 2082",1.1
+BPRF.U,,"Canadian Imperial Bank of Commerce, 7.150% due July 28, 2082",1.0
+BPRF.U,,"Manulife Financial Corporation, 7.117% due June 19, 2082",1.0
+BPRF.U,,"NatWest Group PLC, 4.600%",1.0
+BPRF.U,,"BNP Paribas, 7.450%",1.0
+BPRF.U,,"Standard Chartered PLC, 7.750%",1.0
+BPRF.U,,"Sempra, 4.125% due April 01, 2052",1.0
+BPRF.U,,"Societe Generale, 6.750%",0.9
+CLSA,,"Life & Banc Split Corp. Class A Shares",16.9
+CLSA,,"Brompton Split Banc Corp. Class A Shares",15.1
+CLSA,,"Dividend 15 Split Corp. Class A Shares",13.6
+CLSA,,"Financial 15 Split Corp. Class A Shares",13.3
+CLSA,,"North American Financial 15 Split Corp. Class A Shares",11.2
+CLSA,,"Brompton Lifeco Split Corp. Class A Shares",10.7
+CLSA,,"E Split Corp. Class A Shares",9.2
+CLSA,,"Global Dividend Growth Split Corp. Class A Shares",3.4
+CLSA,,"Power & Infrastructure Split Corp. Class A Shares",2.7
+CLSA,,"Dividend 15 Split Corp. II Class A Shares",2.3
+CLSA,,"Infrastructure Dividend Split Corp. Class A Shares",1.6
+CLSA,,"Dividend Growth Split Corp. Class A Shares",0.4
+CLSA,,"Cash",0.2
+CLSA,,"Other net assets (liabilities)",-0.6
+EDGF,,"ASML Holding NV ADR",5.3
+EDGF,,"UniCredit SpA",4.8
+EDGF,,"Rolls-Royce Holdings PLC",4.6
+EDGF,,"nVent Electric PLC",4.4
+EDGF,,"InterContinental Hotels Group PLC ADR",4.3
+EDGF,,"ABN Amro Bank NV",4.2
+EDGF,,"Allianz SE",4.0
+EDGF,,"Shell PLC",3.9
+EDGF,,"Iberdrola, S.A.",3.9
+EDGF,,"Industria de Diseno Textil S.A.",3.7
+EDGF,,"Linde PLC",3.7
+EDGF,,"Barclays PLC",3.7
+EDGF,,"Prysmian S.p.A.",3.6
+EDGF,,"Societe Generale S.A.",3.6
+EDGF,,"Anglo American PLC",3.6
+EDGF,,"Tesco PLC",3.5
+EDGF,,"Assicurazioni Generali SpA",3.5
+EDGF,,"Roche Holding AG",3.5
+EDGF,,"Safran S.A.",3.4
+EDGF,,"EDP S.A.",3.3
+EDGF,,"Abb Ltd.",3.2
+EDGF,,"Ferrovial N.V.",3.2
+EDGF,,"Credit Agricole S.A.",3.0
+EDGF,,"Koninklijke KPN NV",2.6
+EDGF,,"STMicroelectronics N.V.",2.2
+HIG,,"Johnson & Johnson",5.6
+HIG,,"Novartis AG ADR",5.4
+HIG,,"Gilead Sciences, Inc.",5.4
+HIG,,"Cardinal Health, Inc.",5.3
+HIG,,"Bristol-Myers Squibb Company",5.2
+HIG,,"Eli Lilly and Company",5.2
+HIG,,"Vertex Pharmaceuticals Incorporated",5.0
+HIG,,"Merck & Co Inc.",4.9
+HIG,,"UnitedHealth Group Inc.",4.5
+HIG,,"McKesson Corp.",4.5
+HIG,,"Welltower Inc.",4.4
+HIG,,"HCA Healthcare, Inc.",4.1
+HIG,,"Agilent Technologies Inc.",4.0
+HIG,,"The Cigna Group",3.7
+HIG,,"GSK plc",3.6
+HIG,,"CVS Health Corporation",3.4
+HIG,,"Danaher Corporation",3.3
+HIG,,"Amgen Inc.",2.9
+HIG,,"Quest Diagnostics Inc.",2.8
+HIG,,"Regeneron Pharmaceuticals, Inc.",2.5
+HIG,,"AstraZeneca PLC",2.5
+HIG,,"Edwards Lifesciences Corporation",2.4
+HIG,,"Thermo Fisher Scientific Inc.",2.1
+HIG,,"Cencora, Inc.",2.0
+HIG,,"Roche Holding AG",2.0
+HIG.U,,"Johnson & Johnson",5.6
+HIG.U,,"Novartis AG ADR",5.4
+HIG.U,,"Gilead Sciences, Inc.",5.4
+HIG.U,,"Cardinal Health, Inc.",5.3
+HIG.U,,"Bristol-Myers Squibb Company",5.2
+HIG.U,,"Eli Lilly and Company",5.2
+HIG.U,,"Vertex Pharmaceuticals Incorporated",5.0
+HIG.U,,"Merck & Co Inc.",4.9
+HIG.U,,"UnitedHealth Group Inc.",4.5
+HIG.U,,"McKesson Corp.",4.5
+HIG.U,,"Welltower Inc.",4.4
+HIG.U,,"HCA Healthcare, Inc.",4.1
+HIG.U,,"Agilent Technologies Inc.",4.0
+HIG.U,,"The Cigna Group",3.7
+HIG.U,,"GSK plc",3.6
+HIG.U,,"CVS Health Corporation",3.4
+HIG.U,,"Danaher Corporation",3.3
+HIG.U,,"Amgen Inc.",2.9
+HIG.U,,"Quest Diagnostics Inc.",2.8
+HIG.U,,"Regeneron Pharmaceuticals, Inc.",2.5
+HIG.U,,"AstraZeneca PLC",2.5
+HIG.U,,"Edwards Lifesciences Corporation",2.4
+HIG.U,,"Thermo Fisher Scientific Inc.",2.1
+HIG.U,,"Cencora, Inc.",2.0
+HIG.U,,"Roche Holding AG",2.0
+KNGC,,"Suncor Energy Inc (Canada)",5.8
+KNGC,,"Cenovus Energy Incorporation",5.8
+KNGC,,"Magna International Inc.",5.8
+KNGC,,"Barrick Mining Corporation",5.8
+KNGC,,"Kinross Gold Corp.",5.8
+KNGC,,"Bombardier Inc.",5.8
+KNGC,,"George Weston Limited",5.8
+KNGC,,"CGI Inc.",5.3
+KNGC,,"IAMGOLD Corp.",4.8
+KNGC,,"Whitecap Resources Inc.",4.4
+KNGC,,"Pan American Silver Corp.",4.1
+KNGC,,"Quebecor Inc.",3.4
+KNGC,,"ARC Resources Ltd.",3.1
+KNGC,,"Open Text Corporation",2.4
+KNGC,,"Linamar Corporation",2.3
+KNGC,,"OceanaGold Corp.",2.2
+KNGC,,"Air Canada",2.2
+KNGC,,"BRP Inc.",2.1
+KNGC,,"Methanex Corp.",2.1
+KNGC,,"Northland Power Inc (Ontario)",2.0
+KNGC,,"First Majestic Silver Corp.",2.0
+KNGC,,"DPM Metals Inc.",1.9
+KNGC,,"Torex Gold Resources Inc.",1.7
+KNGC,,"Fortuna Mining Corp.",1.3
+KNGC,,"Other net assets (liabilities)",3.1
+KNGG,KNGU,"Brompton U.S. Cash Flow Kings ETF",48.7
+KNGG,KNGX,"Brompton International Cash Flow Kings ETF",27.3
+KNGG,KNGC,"Brompton Canadian Cash Flow Kings ETF",22.6
+KNGG,,"Cash",1.7
+KNGG,,"Other net assets (liabilities)",-0.2
+KNGU,,"Marathon Petroleum Corporation",3.9
+KNGU,,"Valero Energy Corp.",3.9
+KNGU,,"Newmont Corporation",3.9
+KNGU,,"Intuit Inc.",3.9
+KNGU,,"EOG Resources, Inc.",3.9
+KNGU,,"Adobe Inc.",3.9
+KNGU,,"Centene Corp.",3.9
+KNGU,,"Elevance Health Inc.",3.9
+KNGU,,"The Cigna Group",3.9
+KNGU,,"Comcast Corporation",3.9
+KNGU,,"Salesforce, Inc.",3.8
+KNGU,,"Expedia Group, Inc.",3.3
+KNGU,,"Anglogold Ashanti PLC",3.1
+KNGU,,"The Kraft Heinz Company",2.8
+KNGU,,"EQT Corporation",2.8
+KNGU,,"HP Inc.",2.7
+KNGU,,"Other net assets (liabilities)",2.7
+KNGU,,"Tenet Healthcare Corp.",2.2
+KNGU,,"Biogen Inc.",2.2
+KNGU,,"ResMed Inc.",2.21
+KNGU,,"HF Sinclair Corporation",1.9
+KNGU,,"Cognizant Technology Solutions Corporation",1.9
+KNGU,,"Expand Energy Corporation",1.6
+KNGU,,"Ovintiv Inc.",1.7
+KNGU,,"Leidos Holdings, Inc.",1.6
+KNGX,,"Equinor ASA ADR",4.1
+KNGX,,"BP PLC",4.1
+KNGX,,"Shell PLC",4.0
+KNGX,,"Koninklijke Ahold Delhaize N.V.",4.0
+KNGX,,"Vodafone Group PLC",4.0
+KNGX,,"Deutsche Telekom AG",4.0
+KNGX,,"Vinci S.A.",4.0
+KNGX,,"Sanofi S.A.",4.0
+KNGX,,"A.P. Møller – Mærsk A/S",3.9
+KNGX,,"Fortescue Ltd.",3.1
+KNGX,,"AEON CO., LTD.",3.0
+KNGX,,"LY Corp.",2.7
+KNGX,,"Astellas Pharma Inc.",2.7
+KNGX,,"Telefonaktiebolaget LM Ericsson",2.6
+KNGX,,"Eiffage S.A.",2.6
+KNGX,,"Bouygues S.A.",2.6
+KNGX,,"Imperial Brands PLC",2.5
+KNGX,,"Var Energi ASA",2.4
+KNGX,,"BRIDGESTONE CORPORATION",2.3
+KNGX,,"Compagnie Generale des Etablissements Michelin SCA",2.3
+KNGX,,"Publicis Groupe S.A.",2.3
+KNGX,,"ACS Actividades de Construccion y Servicios S.A.",2.3
+KNGX,,"International Consolidated Airlines Group, S.A.",2.1
+KNGX,,"Carrefour S.A.",2.0
+KNGX,,"Capgemini SE",2.0
+PAYG,,"UBS Group AG",8.3
+PAYG,,"BHP Group Ltd.",7.5
+PAYG,,"NVIDIA Corporation",7.4
+PAYG,,"Eli Lilly and Company",7.3
+PAYG,,"Amazon.com Inc.",7.2
+PAYG,,"Alphabet Inc.",6.8
+PAYG,,"Citigroup Inc.",6.8
+PAYG,,"Sony Group Corporation",6.6
+PAYG,,"Johnson & Johnson",6.3
+PAYG,,"Taiwan Semiconductor Manufacturing Company Limited",6.3
+PAYG,,"GE Vernova Inc.",6.1
+PAYG,,"Broadcom Inc.",6.0
+PAYG,,"HSBC Holdings PLC",5.9
+PAYG,,"ASML Holding N.V.",5.9
+PAYG,,"Shell PLC",5.7
+PAYG,,"Walmart Inc.",5.7
+PAYG,,"Trane Technologies PLC",5.4
+PAYG,,"Alibaba Group Holding Limited",5.3
+PAYG,,"Caterpillar Inc.",5.2
+PAYG,,"Microsoft Corporation",4.6
+PAYG,,"Other net assets (liabilities)",-26.4
+PAYI,,"Valero Energy Corp.",10.1
+PAYI,,"Targa Resources Corp.",9.0
+PAYI,,"The Williams Companies, Inc.",8.8
+PAYI,,"Union Pacific Corporation",8.7
+PAYI,,"Eaton Corporation PLC",8.6
+PAYI,,"Linde PLC",8.3
+PAYI,,"Quanta Services Inc.",8.3
+PAYI,,"T-Mobile US Inc.",8.3
+PAYI,,"Equinix, Inc.",8.2
+PAYI,,"NextEra Energy, Inc.",8.1
+PAYI,,"Capital Power Corp.",7.8
+PAYI,,"Caterpillar Inc.",7.8
+PAYI,,"TC Energy Corporation",7.8
+PAYI,,"Enbridge Inc.",7.8
+PAYI,,"NRG Energy Inc.",7.3
+PAYI,,"Cash",2.5
+PAYI,,"Other net assets (liabilities)",-27.4
+PAYU,,"Microsoft Corp.",7.4
+PAYU,,"Amazon.com Inc.",6.8
+PAYU,,"Tapestry Inc.",6.7
+PAYU,,"Freeport-McMoRan Inc.",6.7
+PAYU,,"Exxonmobil Holdings Corp.",6.6
+PAYU,,"Apollo Global Management Inc.",6.5
+PAYU,,"NRG Energy Inc.",6.5
+PAYU,,"Citigroup Inc.",6.4
+PAYU,,"Estee Lauder Companies Inc.",6.4
+PAYU,,"Marriott International Inc.",6.3
+PAYU,,"Alphabet Inc.",6.3
+PAYU,,"Walt Disney Co.",6.2
+PAYU,,"UnitedHealth Group Inc.",6.2
+PAYU,,"Eli Lilly and Co.",6.1
+PAYU,,"NVIDIA Corp.",6.1
+PAYU,,"Trane Technologies PLC",6.0
+PAYU,,"Goldman Sachs Group Inc.",6.0
+PAYU,,"Caterpillar Inc.",5.7
+PAYU,,"GE Vernova Inc.",5.7
+PAYU,,"Corning Inc.",5.4
+PAYU,,"Cash",2.6
+PAYU,,"Other net assets (liabilities)",-28.6
+SPLT,,"Dividend 15 Split Corp. Preferred Shares",14.3
+SPLT,,"Dividend Growth Split Corp. Preferred Shares",13.0
+SPLT,,"North American Financial 15 Split Corp. Preferred Shares",9.3
+SPLT,,"Canadian Banc Corp. Preferred Shares",9.2
+SPLT,,"Life & Banc Split Corp. Preferred Shares",8.4
+SPLT,,"Brompton Split Banc Corp. Preferred Shares",6.6
+SPLT,,"Financial 15 Split Corp. Preferred Shares",6.3
+SPLT,,"Global Dividend Growth Split Corp. Preferred Shares",6.2
+SPLT,,"Dividend 15 Split Corp. II Preferred Shares",4.3
+SPLT,,"Brompton Lifeco Split Corp. Preferred Shares",2.9
+SPLT,,"Partners Value Split Corp. Class AA Preferred Shares Series 15",2.6
+SPLT,,"Real Estate Split Corp. Preferred Shares",2.5
+SPLT,,"E Split Corp. Preferred Shares",2.3
+SPLT,,"Partners Value Split Corp. Class AA Preferred Shares Series 16",2.2
+SPLT,BAAA,"Brompton Wellington Square AAA CLO ETF",1.8
+SPLT,,"Partners Value Split Corp. Class AA Preferred Shares Series 14",1.3
+SPLT,,"Partners Value Split Corp. Class AA Preferred Shares Series 13",1.2
+SPLT,,"Partners Value Split Corp. Class AA Preferred Shares Series 12",1.1
+SPLT,,"Partners Value Split Corp. Class AA Preferred Shares Series 17",1.0
+SPLT,,"Canadian Life Companies Split Corp. Preferred Shares",1.0
+SPLT,,"Partners Value Split Corp. Class AA Preferred Shares Series 10",0.9
+SPLT,,"Cash",0.7
+SPLT,,"Power & Infrastructure Split Corp. Preferred Shares",0.5
+SPLT,,"Infrastructure Dividend Split Corp. Preferred Shares",0.4
+SPLT.U,,"Dividend 15 Split Corp. Preferred Shares",14.3
+SPLT.U,,"Dividend Growth Split Corp. Preferred Shares",13.0
+SPLT.U,,"North American Financial 15 Split Corp. Preferred Shares",9.3
+SPLT.U,,"Canadian Banc Corp. Preferred Shares",9.2
+SPLT.U,,"Life & Banc Split Corp. Preferred Shares",8.4
+SPLT.U,,"Brompton Split Banc Corp. Preferred Shares",6.6
+SPLT.U,,"Financial 15 Split Corp. Preferred Shares",6.3
+SPLT.U,,"Global Dividend Growth Split Corp. Preferred Shares",6.2
+SPLT.U,,"Dividend 15 Split Corp. II Preferred Shares",4.3
+SPLT.U,,"Brompton Lifeco Split Corp. Preferred Shares",2.9
+SPLT.U,,"Partners Value Split Corp. Class AA Preferred Shares Series 15",2.6
+SPLT.U,,"Real Estate Split Corp. Preferred Shares",2.5
+SPLT.U,,"E Split Corp. Preferred Shares",2.3
+SPLT.U,,"Partners Value Split Corp. Class AA Preferred Shares Series 16",2.2
+SPLT.U,BAAA,"Brompton Wellington Square AAA CLO ETF",1.8
+SPLT.U,,"Partners Value Split Corp. Class AA Preferred Shares Series 14",1.3
+SPLT.U,,"Partners Value Split Corp. Class AA Preferred Shares Series 13",1.2
+SPLT.U,,"Partners Value Split Corp. Class AA Preferred Shares Series 12",1.1
+SPLT.U,,"Partners Value Split Corp. Class AA Preferred Shares Series 17",1.0
+SPLT.U,,"Canadian Life Companies Split Corp. Preferred Shares",1.0
+SPLT.U,,"Partners Value Split Corp. Class AA Preferred Shares Series 10",0.9
+SPLT.U,,"Cash",0.7
+SPLT.U,,"Power & Infrastructure Split Corp. Preferred Shares",0.5
+SPLT.U,,"Infrastructure Dividend Split Corp. Preferred Shares",0.4
+TLF,,"Apple Inc.",6.7
+TLF,,"Alphabet Inc.",5.9
+TLF,,"Advanced Micro Devices Inc.",5.6
+TLF,,"NVIDIA Corporation",5.2
+TLF,,"Micron Technology, Inc.",5.1
+TLF,,"Cisco Systems Inc.",4.8
+TLF,,"Broadcom Inc.",4.7
+TLF,,"Arista Networks, Inc.",4.6
+TLF,,"Applied Materials Inc.",4.5
+TLF,,"Seagate Technology Holdings PLC",4.5
+TLF,,"CrowdStrike Holdings, Inc.",4.3
+TLF,,"Amphenol Corp.",4.1
+TLF,,"Microsoft Corporation",4.1
+TLF,,"ASML Holding N.V.",4.0
+TLF,,"Amazon.com Inc.",4.0
+TLF,,"Marvell Technology, Inc.",3.7
+TLF,,"Taiwan Semiconductor Manufacturing Company Limited",3.4
+TLF,,"Palo Alto Networks, Inc.",3.2
+TLF,,"Meta Platforms, Inc.",2.9
+TLF,,"KLA Corporation",2.9
+TLF,,"Corning Incorporated",2.8
+TLF,,"Texas Instruments Inc.",2.6
+TLF,,"Synopsys, Inc.",2.4
+TLF,,"Oracle Corporation",2.3
+TLF,,"Other net assets (liabilities)",0.9
+TLF.U,,"Apple Inc.",6.7
+TLF.U,,"Alphabet Inc.",5.9
+TLF.U,,"Advanced Micro Devices Inc.",5.6
+TLF.U,,"NVIDIA Corporation",5.2
+TLF.U,,"Micron Technology, Inc.",5.1
+TLF.U,,"Cisco Systems Inc.",4.8
+TLF.U,,"Broadcom Inc.",4.7
+TLF.U,,"Arista Networks, Inc.",4.6
+TLF.U,,"Applied Materials Inc.",4.5
+TLF.U,,"Seagate Technology Holdings PLC",4.5
+TLF.U,,"CrowdStrike Holdings, Inc.",4.3
+TLF.U,,"Amphenol Corp.",4.1
+TLF.U,,"Microsoft Corporation",4.1
+TLF.U,,"ASML Holding N.V.",4.0
+TLF.U,,"Amazon.com Inc.",4.0
+TLF.U,,"Marvell Technology, Inc.",3.7
+TLF.U,,"Taiwan Semiconductor Manufacturing Company Limited",3.4
+TLF.U,,"Palo Alto Networks, Inc.",3.2
+TLF.U,,"Meta Platforms, Inc.",2.9
+TLF.U,,"KLA Corporation",2.9
+TLF.U,,"Corning Incorporated",2.8
+TLF.U,,"Texas Instruments Inc.",2.6
+TLF.U,,"Synopsys, Inc.",2.4
+TLF.U,,"Oracle Corporation",2.3
+TLF.U,,"Other net assets (liabilities)",0.9

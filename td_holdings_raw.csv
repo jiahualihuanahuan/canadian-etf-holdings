@@ -1,0 +1,263 @@
+TICKER,HOLDING_TICKER,HOLDING_NAME,WEIGHT_PCT,AS_OF_DATE
+TBAL,,TD Canadian Aggregate Bond Index ETF (TDB),40.08,2026-03-31
+TBAL,,TD U.S. Equity Index ETF (TPU),25.18,2026-03-31
+TBAL,,TD Canadian Equity Index ETF (TTP),19.85,2026-03-31
+TBAL,,TD International Equity Index ETF (TPE),14.81,2026-03-31
+TBAL,,Cash,0.09,2026-03-31
+TBCF,,Bank of Nova Scotia 1.85% 02-Nov-2026,9.41,2026-03-31
+TBCF,,Ford Credit Canada Co 6.33% 10-Nov-2026,9.24,2026-03-31
+TBCF,,Suncor Energy Inc 5.40% 17-Nov-2026,9.06,2026-03-31
+TBCF,,Sun Life Financial Inc 2.46% 18-Nov-2026,8.89,2026-03-31
+TBCF,,iA Financial Corp Inc 3.07% 24-Sep-2031,8.89,2026-03-31
+TBCF,,Rogers Communications Inc 5.65% 21-Sep-2026,8.16,2026-03-31
+TBCF,,Royal Bank of Canada 2.14% 03-Nov-2026,8.04,2026-03-31
+TBCF,,North West Redwater Partnershp 2.00% 01-Nov-2026,7.83,2026-03-31
+TBCF,,Lower Mattagami Energy LP 2.31% 21-Oct-2026,6.79,2026-03-31
+TBCF,,National Bank of Canada 3.64% 07-Oct-2026,5.96,2026-03-31
+TBCF,,Toronto-Dominion Bank 4.68% 08-Sep-2028,4.84,2026-03-31
+TBCF,,Manulife Bank of Canada 1.34% 26-Feb-2026,4.83,2026-03-31
+TBCF,,Enbridge Inc 3.05% 19-Nov-2026,4.69,2026-03-31
+TBCF,,Loblaw Companies Ltd 4.49% 17-Dec-2026,3.67,2026-03-31
+TBCF,,Bell Canada 5.52% 29-Sep-2026,3.34,2026-03-31
+TBCF,,Canadian Imperial Bank Commerce 4.95% 29-Jun-2026,2.98,2026-03-31
+TBCF,,Allied Properties Real Estate 3.31% 02-Nov-2026,2.89,2026-03-31
+TBCF,,Cash (Bank Overdraft),0.3,2026-03-31
+TBCG,,Dream Industrial REIT 2.06% 17-Jun-2027,4.77,2026-03-31
+TBCG,,iA Financial Corp Inc 3.19% 25-Feb-2032,4.61,2026-03-31
+TBCG,,Sun Life Financial Inc 2.58% 10-May-2027,4.48,2026-03-31
+TBCG,,Cameco Corp 2.95% 21-Oct-2027,4.19,2026-03-31
+TBCG,,National Bank of Canada 1.82% 16-Oct-2027,4.19,2026-03-31
+TBCG,,Dollarama Inc 1.51% 20-Sep-2027,4.14,2026-03-31
+TBCG,,Royal Bank of Canada 2.94% 03-May-2027,3.87,2026-03-31
+TBCG,,Enbridge Gas Inc 2.88% 22-Nov-2027,3.85,2026-03-31
+TBCG,,Saputo Inc 2.24% 07-Apr-2027,3.79,2026-03-31
+TBCG,,JPMorgan Chase & Co 1.90% 05-Mar-2027,3.68,2026-03-31
+TBCG,,Bank of Nova Scotia 1.40% 01-Nov-2027,3.54,2026-03-31
+TBCG,,Hydro One Ltd 1.41% 15-Oct-2027,3.38,2026-03-31
+TBCG,,Gibson Energy Inc 2.85% 14-Jul-2027,3.37,2026-03-31
+TBCG,,Bell Canada 1.65% 16-Jun-2027,3.26,2026-03-31
+TBCG,,SmartCentres REIT 3.19% 11-Jun-2027,3.23,2026-03-31
+TBCG,,John Deere Financial Inc 1.34% 08-Sep-2027,3.2,2026-03-31
+TBCG,,Hyundai Capital Canada Inc 3.20% 16-Feb-2027,3.03,2026-03-31
+TBCG,,Choice Properties REIT 2.85% 21-May-2027,2.99,2026-03-31
+TBCG,,General Motors Fncl Canada Ltd 3.15% 08-Jan-2027,2.83,2026-03-31
+TBCG,,North West Redwater Partnershp 2.80% 01-Mar-2027,2.79,2026-03-31
+TBCG,,Granite REIT Holdings LP 3.06% 04-Jun-2027,2.57,2026-03-31
+TBCG,,Rogers Communications Inc 3.65% 31-Jan-2027,2.57,2026-03-31
+TBCG,,First Capital Realty Inc 3.75% 12-Jul-2027,2.4,2026-03-31
+TBCG,,AltaGas Ltd - Common,2.22,2026-03-31
+TBCG,,Metro Inc 3.39% 06-Dec-2027,2.11,2026-03-31
+TBCG,,Allied Properties REIT 3.11% 08-Apr-2027,1.94,2026-03-31
+TBCG,,Toronto-Dominion Bank 3.06% 26-Jan-2027,1.72,2026-03-31
+TBCG,,Manulife Bank of Canada 2.86% 16-Feb-2027,1.71,2026-03-31
+TBCG,,Enbridge Inc 3.20% 08-Mar-2027,1.69,2026-03-31
+TBCG,,Bank of Nova Scotia 2.95% 08-Mar-2027,1.68,2026-03-31
+TBCG,,Brookfield Renewable Ptnrs ULC 3.63% 15-Oct-2026,1.67,2026-03-31
+TBCG,,Inter Pipeline Ltd 4.23% 01-Apr-2027,1.4,2026-03-31
+TBCG,,Bank of Nova Scotia 3.93% 03-May-2027,1.18,2026-03-31
+TBCG,,Crombie REIT 3.92% 21-Jun-2027,0.76,2026-03-31
+TBCG,,Bank of America Corp 3.62% 16-Mar-2027,0.63,2026-03-31
+TBCG,,CASH,0.34,2026-03-31
+TBCG,,Royal Bank of Canada 2.14% 03-Nov-2026,0.24,2026-03-31
+TBCH,,Sun Life Financial Inc 2.80% 21-Nov-2028,7.39,2026-03-31
+TBCH,,Toronto-Dominion Bank 1.90% 11-Sep-2028,6.43,2026-03-31
+TBCH,,Royal Bank of Canada 1.67% 28-Jan-2028,6.39,2026-03-31
+TBCH,,Goldman Sachs Group Inc 2.01% 28-Feb-2028,6.11,2026-03-31
+TBCH,,Fortis Inc 2.18% 15-Mar-2028,6.11,2026-03-31
+TBCH,,Athene Global Funding 2.47% 09-Jun-2028,6.11,2026-03-31
+TBCH,,New York Life Global Funding 2.00% 17-Apr-2028,6.06,2026-03-31
+TBCH,,Metropolitan Life Globl Fndg I 1.95% 20-Mar-2028,6.05,2026-03-31
+TBCH,,Bell Canada 2.20% 29-Mar-2028,5.87,2026-03-31
+TBCH,,Granite REIT Holdings LP 2.19% 30-Aug-2028,5.81,2026-03-31
+TBCH,,Bruce Power LP 2.68% 21-Oct-2028,5.8,2026-03-31
+TBCH,,WSP Global Inc 2.41% 19-Apr-2028,4.98,2026-03-31
+TBCH,,Telus Corp 2.35% 27-Nov-2027,4.87,2026-03-31
+TBCH,,Verizon Communications Inc 2.38% 22-Jan-2028,4.31,2026-03-31
+TBCH,,Greater Toronto Airports Auth 1.54% 03-Mar-2028,4.04,2026-03-31
+TBCH,,Transcanada Pipelines Ltd 3.39% 15-Dec-2027,4.0,2026-03-31
+TBCH,,Canadian Pacific Railway Co 2.54% 28-Dec-2027,2.83,2026-03-31
+TBCH,,CGI Inc 2.10% 18-Jul-2028,1.97,2026-03-31
+TBCH,,Intact Financial Corp 2.18% 18-Mar-2028,1.9,2026-03-31
+TBCH,,Saputo Inc 2.30% 22-Apr-2028,0.93,2026-03-31
+TBCH,,Allied Properties REIT 3.13% 15-May-2028,0.9,2026-03-31
+TBCH,,SmartCentres REIT 2.31% 18-Dec-2028,0.53,2026-03-31
+TBCH,,CASH,0.27,2026-03-31
+TBCH,,BNP Paribas SA 2.54% 13-Jul-2028,0.12,2026-03-31
+TBCH,,Altagas Ltd 2.08% 30-Mar-2028,0.12,2026-03-31
+TBCH,,Bank of America Corp 2.60% 04-Apr-2028,0.09,2026-03-31
+TBCI,,Gibson Energy Inc 3.60% 17-Sep-2029,7.89,2026-03-31
+TBCI,,National Grid Elec Trnsmsn PLC 2.30% 22-Mar-2029,7.55,2026-03-31
+TBCI,,Transcanada Pipelines Ltd 3.00% 18-Jun-2029,7.17,2026-03-31
+TBCI,,Brookfield Infra Finance ULC 3.41% 09-Jul-2029,7.01,2026-03-31
+TBCI,,Enbridge Gas Inc 2.37% 09-Aug-2029,6.85,2026-03-31
+TBCI,,Telus Corp 3.30% 02-Feb-2029,6.84,2026-03-31
+TBCI,,Enbridge Inc 2.99% 03-Jul-2029,6.38,2026-03-31
+TBCI,,Metropolitan Life Globl Fndg I 2.45% 12-Jan-2029,6.16,2026-03-31
+TBCI,,Nestle Holdings Inc 2.19% 26-Jan-2029,6.03,2026-03-31
+TBCI,,Ontario Power Generation Inc 2.98% 13-Jun-2029,5.44,2026-03-31
+TBCI,,Choice Properties REIT 3.53% 11-Jun-2029,5.36,2026-03-31
+TBCI,,Toronto Hydro Corp 2.43% 11-Dec-2029,5.16,2026-03-31
+TBCI,,Bell Canada 2.90% 10-Jun-2029,4.14,2026-03-31
+TBCI,,Enmax Corp 3.88% 18-Jul-2029,3.54,2026-03-31
+TBCI,,Hydro One Inc 3.02% 05-Jan-2029,3.32,2026-03-31
+TBCI,,Canadian Pacific Railway Co 3.15% 13-Dec-2028,3.21,2026-03-31
+TBCI,,Allied Properties REIT 3.39% 15-Aug-2029,2.21,2026-03-31
+TBCI,,Greater Toronto Airports Auth 2.73% 03-Apr-2029,2.09,2026-03-31
+TBCI,,Enbridge Inc. 3.52% 22-Feb-2029,1.4,2026-03-31
+TBCI,,Dollarama Inc 2.44% 09-Jul-2029,1.4,2026-03-31
+TBCI,,CT REIT 3.03% 05-Feb-2029,0.46,2026-03-31
+TBCI,,CASH,0.38,2026-03-31
+TBCJ,,Telus Corp 2.05% 07-Jul-2030,7.65,2026-03-31
+TBCJ,,Manulife Financial Corp 2.82% 13-May-2030,7.38,2026-03-31
+TBCJ,,Verizon Communications Inc 2.50% 16-Feb-2030,7.35,2026-03-31
+TBCJ,,Choice Properties REIT 2.98% 04-Mar-2030,7.01,2026-03-31
+TBCJ,,Brookfield Renewable Ptnrs ULC 3.38% 15-Oct-2029,6.89,2026-03-31
+TBCJ,,Granite REIT Holdings LP 2.38% 18-Dec-2030,6.83,2026-03-31
+TBCJ,,Enbridge Gas Inc 2.90% 01-Apr-2030,6.48,2026-03-31
+TBCJ,,Metropolitan Life Globl Fndg I 3.39% 09-Apr-2030,6.2,2026-03-31
+TBCJ,,Pembina Pipeline Corp 3.31% 01-Feb-2030,4.44,2026-03-31
+TBCJ,,Ontario Power Generation Inc 3.22% 08-Jan-2030,4.37,2026-03-31
+TBCJ,,Bank of Montreal 4.08% 05-Mar-2030,4.3,2026-03-31
+TBCJ,,Credit Agricole SA 4.19% 15-Oct-2035,4.02,2026-03-31
+TBCJ,,Altalink LP 1.51% 11-Sep-2030,2.62,2026-03-31
+TBCJ,,Citigroup Inc 4.55% 03-Jun-2030,2.53,2026-03-31
+TBCJ,,Loblaw Cos Ltd 2.28% 07-May-2030,2.52,2026-03-31
+TBCJ,,Keyera Corp 3.96% 29-May-2030,2.51,2026-03-31
+TBCJ,,Great-West Lifeco Inc 2.38% 14-Feb-2030,2.49,2026-03-31
+TBCJ,,Hydro One Inc 2.16% 28-Nov-2029,2.32,2026-03-31
+TBCJ,,Toronto Hydro Corp 1.50% 15-Oct-2030,2.28,2026-03-31
+TBCJ,,Heathrow Funding Ltd 3.78% 04-Jun-2030,1.38,2026-03-31
+TBCJ,,Canadian Imperial Bank of Commerce 4.15% 02-Apr-2030,1.3,2026-03-31
+TBCJ,,National Bank of Canada,1.26,2026-03-31
+TBCJ,,Royal Bank of Canada,1.26,2026-03-31
+TBCJ,,Athene Global Funding 4.09% 23-May-2030,0.74,2026-03-31
+TBCJ,,Bell Canada 2.50% 14-Feb-2030,0.71,2026-03-31
+TBCJ,,Enmax Corp 3.77% 06-Jun-2030,0.57,2026-03-31
+TBCJ,,BPC Generation Infrastructure Trust,0.56,2026-03-31
+TBCJ,,Smartstop Self Storage REIT Inc. 3.89% 24-Sep-2030,0.56,2026-03-31
+TBCJ,,Primaris Real Estate Investment Trust 3.85% 09-Oct-2030,0.56,2026-03-31
+TBCJ,,CASH,0.37,2026-03-31
+TBCJ,,Allied Properties REIT 3.12% 21-Feb-2030,0.33,2026-03-31
+TBCJ,,Sun Life Financial Inc 2.06% 01-Oct-2030,0.09,2026-03-31
+TBCJ,,NAV Canada 2.06% 29-May-2030,0.06,2026-03-31
+TBCJ,,Intact Financial Corp 1.93% 16-Sep-2030,0.06,2026-03-31
+TBNK,,Royal Bank of Canada - Common,28.18,2026-03-31
+TBNK,,Canadian Imperial Bank of Commerce - Common,23.89,2026-03-31
+TBNK,,National Bank of Canada - Common,18.4,2026-03-31
+TBNK,,Bank of Montreal - Common,14.29,2026-03-31
+TBNK,,Toronto-Dominion Bank - Common,9.92,2026-03-31
+TBNK,,Bank of Nova Scotia - Common,5.25,2026-03-31
+TBNK,,Cash,0.08,2026-03-31
+TBUF.U,,Citigroup Inc - Pfd,9.67,2026-03-31
+TBUF.U,,State Street Bank and Trust Co 4.59% 25-Nov-2026,9.47,2026-03-31
+TBUF.U,,DR Horton Inc 1.30% 15-Sep-2026,9.44,2026-03-31
+TBUF.U,,Equinix Inc 2.90% 18-Sep-2026,9.4,2026-03-31
+TBUF.U,,Goldman Sachs Group Inc - Pfd,9.28,2026-03-31
+TBUF.U,,Kinder Morgan Inc 1.75% 15-Oct-2026,9.24,2026-03-31
+TBUF.U,,American Tower Corp 3.38% 15-Jul-2026,9.17,2026-03-31
+TBUF.U,,ONEOK Inc 5.55% 01-Oct-2026,8.99,2026-03-31
+TBUF.U,,Ventas Realty LP 3.25% 15-Jul-2026,8.56,2026-03-31
+TBUF.U,,Dell International LLC 4.90% 01-Aug-2026,8.22,2026-03-31
+TBUF.U,,Enbridge Inc 1.60% 04-Sep-2026,7.03,2026-03-31
+TBUF.U,,L3Harris Technologies Inc 3.85% 15-Sep-2026,1.31,2026-03-31
+TBUF.U,,CASH,0.22,2026-03-31
+TBUG.U,,Bank of America Corp 4.18% 25-Nov-2027,8.63,2026-03-31
+TBUG.U,,Wells Fargo & Co - Pfd,8.6,2026-03-31
+TBUG.U,,Energy Transfer LP 4.00% 01-Jul-2027,8.52,2026-03-31
+TBUG.U,,Citigroup Inc 4.45% 29-Sep-2027,8.47,2026-03-31
+TBUG.U,,General Motors Co 6.80% 01-Aug-2027,8.43,2026-03-31
+TBUG.U,,CVS Health Corp 1.30% 21-Jun-2027,7.53,2026-03-31
+TBUG.U,,American Tower Corp 3.55% 15-Apr-2027,7.38,2026-03-31
+TBUG.U,,Capital One Financial Corp 3.65% 11-Apr-2027,6.08,2026-03-31
+TBUG.U,,Truist Financial Corp 1.13% 03-Jun-2027,5.96,2026-03-31
+TBUG.U,,McCormick & Co Inc 3.40% 15-May-2027,5.8,2026-03-31
+TBUG.U,,Sysco Corp 3.25% 15-Apr-2027,5.72,2026-03-31
+TBUG.U,,ERP Operating LP 3.25% 01-May-2027,4.46,2026-03-31
+TBUG.U,,UDR Inc 3.50% 01-Apr-2027,4.01,2026-03-31
+TBUG.U,,Fifth Third Bancorp 2.55% 05-Apr-2027,3.96,2026-03-31
+TBUG.U,,Lennar Corp 5.00% 15-Dec-2026,3.89,2026-03-31
+TBUG.U,,Essex Portfolio LP 3.63% 01-Feb-2027,1.43,2026-03-31
+TBUG.U,,Air Lease Corp 3.63% 01-Sep-2027,0.9,2026-03-31
+TBUG.U,,CASH,0.24,2026-03-31
+TCLB,,Canada Government 3.25% 01-Jun-2036,18.04,2026-03-31
+TCLB,,Canada Government 2.75% 01-Dec-2055,17.78,2026-03-31
+TCLB,,Canada Government 3.50% 01-Dec-2057,15.35,2026-03-31
+TCLB,,Canada Government 2.75% 01-Dec-2048,12.93,2026-03-31
+TCLB,,Canada Government 1.75% 01-Dec-2053,12.08,2026-03-31
+TCLB,,Canada Government 2.00% 01-Dec-2051,9.74,2026-03-31
+TCLB,,Canada Government 3.50% 01-Dec-2045,6.39,2026-03-31
+TCLB,,Canadian Government Bond 3.50% 01-Dec-2036,3.53,2026-03-31
+TCLB,,Canadian Government Bond,2.94,2026-03-31
+TCLB,,Canadian Government Bond 3.75% 01-Jun-2059,1.05,2026-03-31
+TCLB,,CASH,0.16,2026-03-31
+TCLV,,Toronto-Dominion Bank - Common,5.13,2026-03-31
+TCLV,,Loblaw Cos Ltd - Common,4.99,2026-03-31
+TCLV,,Fortis Inc - Common,4.95,2026-03-31
+TCLV,,Intact Financial Corp - Common,3.85,2026-03-31
+TCLV,,Hydro One Ltd - Common,3.75,2026-03-31
+TCLV,,Great-West Lifeco Inc - Common,3.66,2026-03-31
+TCLV,,Royal Bank of Canada - Common,3.43,2026-03-31
+TCLV,,Alimentation Couche-Tard Inc - Common Cl A,3.3,2026-03-31
+TCLV,,Dollarama Inc - Common,3.29,2026-03-31
+TCLV,,Metro Inc - Common,3.22,2026-03-31
+TCLV,,BCE Inc - Common,3.17,2026-03-31
+TCLV,,Sun Life Financial Inc - Common,3.01,2026-03-31
+TCLV,,Enbridge Inc - Common,2.99,2026-03-31
+TCLV,,AltaGas Ltd - Common,2.88,2026-03-31
+TCLV,,Emera Inc - Common,2.88,2026-03-31
+TCLV,,Bank of Montreal - Common,2.52,2026-03-31
+TCLV,,TMX Group Ltd - Common,2.28,2026-03-31
+TCLV,,Toromont Industries Ltd - Common,2.18,2026-03-31
+TCLV,,Saputo Inc - Common,2.05,2026-03-31
+TCLV,,CGI Inc - Common Cl A,1.96,2026-03-31
+TCLV,,Thomson Reuters Corp - Common,1.88,2026-03-31
+TCLV,,WSP Global Inc - Common,1.87,2026-03-31
+TCLV,,Franco-Nevada Corp - Common,1.85,2026-03-31
+TCLV,,Canadian National Railway Co - Common,1.84,2026-03-31
+TCLV,,Canadian Utilities Ltd - Common Cl A,1.76,2026-03-31
+TCLV,,Telus Corp - Common,1.7,2026-03-31
+TCLV,,George Weston Ltd - Common,1.69,2026-03-31
+TCLV,,Fairfax Financial Holdings Ltd - Pfd Sr M,1.66,2026-03-31
+TCLV,,Restaurant Brands International Inc - Common,1.66,2026-03-31
+TCLV,,National Bank of Canada - Common,1.6,2026-03-31
+TCLV,,Canadian Natural Resources Ltd - Common,1.51,2026-03-31
+TCLV,,CCL Industries Inc - Common Cl B,1.45,2026-03-31
+TCLV,,Pembina Pipeline Corp - Common,1.42,2026-03-31
+TCLV,,Empire Co Ltd - Common Cl A,1.3,2026-03-31
+TCLV,,Element Fleet Management Corp - Common,1.05,2026-03-31
+TCLV,,Rogers Communications Inc - Common Cl B,1.01,2026-03-31
+TCLV,,Manulife Financial Corp - Common,0.89,2026-03-31
+TCLV,,Cenovus Energy Inc - Common,0.85,2026-03-31
+TCLV,,Power Corp of Canada - Common,0.78,2026-03-31
+TCLV,,Bank of Nova Scotia - Common,0.73,2026-03-31
+TCLV,,Suncor Energy Inc - Common,0.67,2026-03-31
+TCLV,,Keyera Corp - Common,0.62,2026-03-31
+TCLV,,Nutrien Ltd - Common,0.6,2026-03-31
+TCLV,,Stantec Inc - Common,0.58,2026-03-31
+TCLV,,IGM Financial Inc - Common,0.44,2026-03-31
+TCLV,,Tourmaline Oil Corp - Common,0.42,2026-03-31
+TCLV,,iA Financial Corp Inc - Common,0.41,2026-03-31
+TCLV,,Cameco Corp - Common,0.4,2026-03-31
+TCLV,,Wheaton Precious Metals Corp - Common,0.34,2026-03-31
+TCLV,,Imperial Oil Ltd - Common,0.32,2026-03-31
+TCLV,,Whitecap Resources Inc - Common,0.29,2026-03-31
+TCLV,,Kinross Gold Corp - Common,0.26,2026-03-31
+TCLV,,Canadian Imperial Bank of Commerce - Common,0.26,2026-03-31
+TCLV,,Celestica Inc - Common,0.14,2026-03-31
+TCLV,,Constellation Software Inc - Common,0.09,2026-03-31
+TCLV,,USD Currency,0.07,2026-03-31
+TCLV,,CASH,0.06,2026-03-31
+TCLV,,RB Global Inc - Common,0.05,2026-03-31
+TCON,,TD Canadian Aggregate Bond Index ETF (TDB),60.02,2026-03-31
+TCON,,TD U.S. Equity Index ETF (TPU),15.1,2026-03-31
+TCON,,TD Canadian Equity Index ETF (TTP),14.92,2026-03-31
+TCON,,TD International Equity Index ETF (TPE),9.87,2026-03-31
+TCON,,Cash,0.09,2026-03-31
+TDNA,,Cash (Bank Overdraft),5.5,2026-03-31
+TDNA,,Royal Bank of Canada,4.7,2026-03-31
+TDNA,,National Bank of Canada,4.1,2026-03-31
+TDNA,,Power Corporation of Canada,3.8,2026-03-31
+TDNA,,The Bank of New York Mellon Corporation,3.5,2026-03-31
+TDNA,,Canadian Imperial Bank of Commerce,3.2,2026-03-31
+TDNA,,Microsoft Corporation,2.6,2026-03-31
+TDNA,,Wheaton Precious Metals Corporation,2.5,2026-03-31

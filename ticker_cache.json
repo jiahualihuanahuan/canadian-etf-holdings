@@ -1,0 +1,1898 @@
+{
+ "A O SMITH CORPORATION": {
+  "source": "yahoo",
+  "ticker": "AOS"
+ },
+ "AAON INC": {
+  "source": "yahoo",
+  "ticker": "AAON"
+ },
+ "ACCENTURE PLC": {
+  "source": "yahoo",
+  "ticker": "ACN"
+ },
+ "ACUITY INC": {
+  "source": "yahoo",
+  "ticker": "AYI"
+ },
+ "ADOBE INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "ADBE"
+ },
+ "ADVANCED DRAINAGE SYSTEMS INC": {
+  "source": "yahoo",
+  "ticker": "WMS"
+ },
+ "ADVANCED ENERGY INDUSTRIES INC": {
+  "source": "yahoo",
+  "ticker": "AEIS"
+ },
+ "AECOM": {
+  "source": "yahoo",
+  "ticker": "ACM"
+ },
+ "AFFIRM HOLDINGS INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "AFRM"
+ },
+ "AFLAC INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "AFL"
+ },
+ "AGCO CORPORATION": {
+  "source": "yahoo",
+  "ticker": "AGCO"
+ },
+ "AGNICO EAGLE MINES LIMITED": {
+  "source": "yahoo",
+  "ticker": "AEM"
+ },
+ "ALIGN TECHNOLOGY INC": {
+  "source": "yahoo",
+  "ticker": "ALGN"
+ },
+ "ALLEGION PUBLIC LIMITED COMPANY": {
+  "source": "yahoo",
+  "ticker": "ALLE"
+ },
+ "ALLEGRO MICROSYSTEMS INC": {
+  "source": "yahoo",
+  "ticker": "ALGM"
+ },
+ "ALLIANT ENERGY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "LNT"
+ },
+ "ALLISON TRANSMISSION HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "ALSN"
+ },
+ "ALPHABET INC": {
+  "source": "yahoo",
+  "ticker": "GOOG"
+ },
+ "AMCOR PLC": {
+  "source": "yahoo",
+  "ticker": "AMCR"
+ },
+ "AMDOCS LIMITED": {
+  "source": "yahoo",
+  "ticker": "DOX"
+ },
+ "AMENTUM HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "AMTM"
+ },
+ "AMEREN CORPORATION": {
+  "source": "yahoo",
+  "ticker": "AEE"
+ },
+ "AMERICAN ELECTRIC POWER COMPANY INC": {
+  "source": "yahoo",
+  "ticker": "AEP"
+ },
+ "AMERICAN EXPRESS COMPANY": {
+  "source": "yahoo",
+  "ticker": "AXP"
+ },
+ "AMERICAN HOMES 4 RENT CLASS A": {
+  "source": "yahoo",
+  "ticker": "AMH"
+ },
+ "AMERICAN INTERNATIONAL GROUP INC": {
+  "source": "yahoo",
+  "ticker": "AIG"
+ },
+ "AMERICAN STATES WATER COMPANY": {
+  "source": "yahoo",
+  "ticker": "AWR"
+ },
+ "AMERICAN WATER WORKS COMPANY INC": {
+  "source": "yahoo",
+  "ticker": "AWK"
+ },
+ "AMETEK INC": {
+  "source": "yahoo",
+  "ticker": "AME"
+ },
+ "AMKOR TECHNOLOGY INC": {
+  "source": "yahoo",
+  "ticker": "AMKR"
+ },
+ "AMPHENOL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "APH"
+ },
+ "APPLIED INDUSTRIAL TECHNOLOGIES INC": {
+  "source": "yahoo",
+  "ticker": "AIT"
+ },
+ "APPLOVIN CORP CLASS A": {
+  "source": "yahoo",
+  "ticker": "US03831W1080.SG"
+ },
+ "APTARGROUP INC": {
+  "source": "yahoo",
+  "ticker": "ATR"
+ },
+ "ARITZIA INC": {
+  "source": "yahoo",
+  "ticker": "ATZ.TO"
+ },
+ "ARMSTRONG WORLD INDUSTRIES INC": {
+  "source": "yahoo",
+  "ticker": "AWI"
+ },
+ "ARROW ELECTRONICS INC": {
+  "source": "yahoo",
+  "ticker": "ARW"
+ },
+ "ARROWHEAD PHARMACEUTICALS INC": {
+  "source": "yahoo",
+  "ticker": "ARWR"
+ },
+ "ARTHUR J GALLAGHER CO": {
+  "source": "yahoo",
+  "ticker": "AJG"
+ },
+ "ASCENDIS PHARMA A S": {
+  "source": "yahoo",
+  "ticker": "ASND"
+ },
+ "ASSURANT INC": {
+  "source": "yahoo",
+  "ticker": "AIZ"
+ },
+ "ASSURED GUARANTY LTD": {
+  "source": "yahoo",
+  "ticker": "AGO"
+ },
+ "ASTERA LABS INC": {
+  "source": "yahoo",
+  "ticker": "ALAB"
+ },
+ "ATMOS ENERGY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "ATO"
+ },
+ "AVERY DENNISON CORPORATION": {
+  "source": "yahoo",
+  "ticker": "AVY"
+ },
+ "AVISTA CORPORATION": {
+  "source": "yahoo",
+  "ticker": "AVA"
+ },
+ "AVNET INC": {
+  "source": "yahoo",
+  "ticker": "AVT"
+ },
+ "AXALTA COATING SYSTEMS LTD": {
+  "source": "yahoo",
+  "ticker": "AXTA"
+ },
+ "AXIS CAPITAL HOLDINGS LIMITED": {
+  "source": "yahoo",
+  "ticker": "AXS"
+ },
+ "AXSOME THERAPEUTICS INC": {
+  "source": "yahoo",
+  "ticker": "AXSM"
+ },
+ "BALL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "BALL"
+ },
+ "BANK OF AMERICA CORPORATION": {
+  "source": "yahoo",
+  "ticker": "BAC"
+ },
+ "BANK OF NOVA SCOTIA THE": {
+  "source": "yahoo",
+  "ticker": "BNS.NE"
+ },
+ "BECTON DICKINSON AND COMPANY": {
+  "source": "yahoo",
+  "ticker": "BDX"
+ },
+ "BIO RAD LABORATORIES INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "BIO"
+ },
+ "BIOGEN INC": {
+  "source": "yahoo",
+  "ticker": "BIIB"
+ },
+ "BIOMARIN PHARMACEUTICAL INC": {
+  "source": "yahoo",
+  "ticker": "BMRN"
+ },
+ "BLACK HILLS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "BKH"
+ },
+ "BLOOM ENERGY CORPORATION CLASS A": {
+  "source": "yahoo",
+  "ticker": "BE"
+ },
+ "BMO EQUAL WEIGHT REITS INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "ZRE.TO"
+ },
+ "BMO EQUAL WEIGHT UTILITIES INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "ZUT.TO"
+ },
+ "BMO HIGH YIELD US CORPORATE BOND HEDGED TO CAD INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "ZHY.TO"
+ },
+ "BMO MID TERM US IG CORPORATE BOND INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "ZIC.TO"
+ },
+ "BOOZ ALLEN HAMILTON HOLDING CORPORATION": {
+  "source": "yahoo",
+  "ticker": "BAH"
+ },
+ "BOSTON SCIENTIFIC CORPORATION": {
+  "source": "yahoo",
+  "ticker": "BSX"
+ },
+ "BRADY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "BRC"
+ },
+ "BRIDGEBIO PHARMA INC": {
+  "source": "yahoo",
+  "ticker": "BBIO"
+ },
+ "BRISTOL MYERS SQUIBB COMPANY": {
+  "source": "yahoo",
+  "ticker": "BMY"
+ },
+ "BROADRIDGE FINANCIAL SOLUTIONS INC": {
+  "source": "yahoo",
+  "ticker": "BR"
+ },
+ "BROOKFIELD CORP": {
+  "source": "yahoo",
+  "ticker": "BN-PB.TO"
+ },
+ "BUILDERS FIRSTSOURCE INC": {
+  "source": "yahoo",
+  "ticker": "BLDR"
+ },
+ "BWX TECHNOLOGIES INC": {
+  "source": "yahoo",
+  "ticker": "BWXT"
+ },
+ "C H ROBINSON WORLDWIDE INC": {
+  "source": "yahoo",
+  "ticker": "CHRW"
+ },
+ "CACI INTERNATIONAL INC": {
+  "source": "yahoo",
+  "ticker": "CACI"
+ },
+ "CADENCE DESIGN SYSTEMS INC": {
+  "source": "yahoo",
+  "ticker": "CDNS"
+ },
+ "CALIFORNIA WATER SERVICE GROUP": {
+  "source": "yahoo",
+  "ticker": "CWT"
+ },
+ "CAMDEN PROPERTY TRUST": {
+  "source": "yahoo",
+  "ticker": "CPT"
+ },
+ "CANADIAN GOVERNMENT BOND 01 03 2031": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "CANADIAN GOVERNMENT BOND 01 06 2034": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "CANADIAN GOVERNMENT BOND 01 06 2035": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "CANADIAN GOVERNMENT BOND 01 06 2036": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "CANADIAN GOVERNMENT BOND 01 09 2030": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "CANADIAN GOVERNMENT BOND 01 12 2035": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "CANADIAN IMPERIAL BANK OF COMM": {
+  "source": "yahoo",
+  "ticker": "CM.TO"
+ },
+ "CANADIAN NATIONAL RAILWAY COMPANY": {
+  "source": "yahoo",
+  "ticker": "CNI"
+ },
+ "CARLISLE COMPANIES INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "CSL"
+ },
+ "CASH AND OTHER ASSETS AND LIABILITIES": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "CASH CASH EQUIVALENTS": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "CBOE GLOBAL MARKETS INC": {
+  "source": "yahoo",
+  "ticker": "CBOE"
+ },
+ "CCC INTELLIGENT SOLUTIONS HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "CCC"
+ },
+ "CCL INDUSTRIES CLASS B": {
+  "source": "yahoo",
+  "ticker": "CCL-B.TO"
+ },
+ "CDW CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CDW"
+ },
+ "CELESTICA INC": {
+  "source": "yahoo",
+  "ticker": "CLS"
+ },
+ "CENTENE CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CNC"
+ },
+ "CENTERPOINT ENERGY INC": {
+  "source": "yahoo",
+  "ticker": "CNP"
+ },
+ "CHEMED CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CHE"
+ },
+ "CHESAPEAKE UTILITIES CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CPK"
+ },
+ "CHEVRON CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CVX"
+ },
+ "CHUBB LIMITED": {
+  "source": "yahoo",
+  "ticker": "CB"
+ },
+ "CHURCH DWIGHT CO INC": {
+  "source": "yahoo",
+  "ticker": "CHD"
+ },
+ "CINCINNATI FINANCIAL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CINF"
+ },
+ "CINTAS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CTAS"
+ },
+ "CIRRUS LOGIC INC": {
+  "source": "yahoo",
+  "ticker": "CRUS"
+ },
+ "CLOUDFLARE INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "NET"
+ },
+ "CME GROUP INC": {
+  "source": "yahoo",
+  "ticker": "CME"
+ },
+ "CMS ENERGY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CMS"
+ },
+ "CNA FINANCIAL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CNA"
+ },
+ "CNH INDUSTRIAL N V": {
+  "source": "yahoo",
+  "ticker": "CNH"
+ },
+ "COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CTSH"
+ },
+ "COHERENT CORP": {
+  "source": "yahoo",
+  "ticker": "COHR"
+ },
+ "COLGATE PALMOLIVE COMPANY": {
+  "source": "yahoo",
+  "ticker": "CL"
+ },
+ "COMCAST CORPORATION CLASS A": {
+  "source": "yahoo",
+  "ticker": "CMCSA"
+ },
+ "COMFORT SYSTEMS USA INC": {
+  "source": "yahoo",
+  "ticker": "FIX"
+ },
+ "COMMERCE BANCSHARES INC": {
+  "source": "yahoo",
+  "ticker": "CBSH"
+ },
+ "CONSOLIDATED EDISON INC": {
+  "source": "yahoo",
+  "ticker": "ED"
+ },
+ "CONSTELLATION BRANDS INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "STZ"
+ },
+ "CORCEPT THERAPEUTICS INC": {
+  "source": "yahoo",
+  "ticker": "HTD.SG"
+ },
+ "COREWEAVE INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "CRWV"
+ },
+ "CORNING INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "GLW"
+ },
+ "CORPAY INC": {
+  "source": "yahoo",
+  "ticker": "CPAY"
+ },
+ "CREDO TECHNOLOGY GROUP HOLDING LTD": {
+  "source": "yahoo",
+  "ticker": "CRDO"
+ },
+ "CROWN HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "CCK"
+ },
+ "CSX CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CSX"
+ },
+ "CUMMINS INC": {
+  "source": "yahoo",
+  "ticker": "CMI"
+ },
+ "CURTISS WRIGHT CORPORATION": {
+  "source": "yahoo",
+  "ticker": "CW"
+ },
+ "DANAHER CORPORATION": {
+  "source": "yahoo",
+  "ticker": "DHR"
+ },
+ "DATADOG INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "DDOG"
+ },
+ "DAVITA INC": {
+  "source": "yahoo",
+  "ticker": "DVA"
+ },
+ "DEL MONTE CORP": {
+  "source": "yahoo",
+  "ticker": "DMC"
+ },
+ "DELL TECHNOLOGIES INC CLASS C": {
+  "source": "yahoo",
+  "ticker": "DELL"
+ },
+ "DEXCOM INC": {
+  "source": "yahoo",
+  "ticker": "DXCM"
+ },
+ "DIGITALOCEAN HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "DOCN"
+ },
+ "DOCUSIGN INC": {
+  "source": "yahoo",
+  "ticker": "DOCU"
+ },
+ "DOLBY LABORATORIES INC": {
+  "source": "yahoo",
+  "ticker": "DLB"
+ },
+ "DOMINION ENERGY INC": {
+  "source": "yahoo",
+  "ticker": "D"
+ },
+ "DONALDSON COMPANY INC": {
+  "source": "yahoo",
+  "ticker": "DCI"
+ },
+ "DOORDASH INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "DASH"
+ },
+ "DOVER CORPORATION": {
+  "source": "yahoo",
+  "ticker": "DOV"
+ },
+ "DOXIMITY INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "DOCS"
+ },
+ "DROPBOX INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "DBX"
+ },
+ "DTE ENERGY COMPANY": {
+  "source": "yahoo",
+  "ticker": "DTE"
+ },
+ "DUKE ENERGY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "DUK"
+ },
+ "DYCOM INDUSTRIES INC": {
+  "source": "yahoo",
+  "ticker": "DY"
+ },
+ "DYNATRACE INC": {
+  "source": "yahoo",
+  "ticker": "DT"
+ },
+ "EAGLE MATERIALS INC": {
+  "source": "yahoo",
+  "ticker": "EXP"
+ },
+ "EATON CORPORATION PLC": {
+  "source": "yahoo",
+  "ticker": "ETN"
+ },
+ "ELASTIC N V": {
+  "source": "yahoo",
+  "ticker": "ESTC"
+ },
+ "ELI LILLY AND COMPANY": {
+  "source": "yahoo",
+  "ticker": "LLY"
+ },
+ "EMCOR GROUP INC": {
+  "source": "yahoo",
+  "ticker": "EME"
+ },
+ "EMERA INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "EMA.TO"
+ },
+ "ENCOMPASS HEALTH CORPORATION": {
+  "source": "yahoo",
+  "ticker": "EHC"
+ },
+ "ENTEGRIS INC": {
+  "source": "yahoo",
+  "ticker": "ENTG"
+ },
+ "ENTERGY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "ETR"
+ },
+ "ENVISTA HOLDINGS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "NVST"
+ },
+ "EQUIFAX INC": {
+  "source": "yahoo",
+  "ticker": "EFX"
+ },
+ "EQUITY LIFESTYLE PROPERTIES INC": {
+  "source": "yahoo",
+  "ticker": "ELS"
+ },
+ "ESAB CORPORATION": {
+  "source": "yahoo",
+  "ticker": "ESAB"
+ },
+ "ESSENTIAL UTILITIES INC": {
+  "source": "yahoo",
+  "ticker": "WTRG"
+ },
+ "ESSEX PROPERTY TRUST INC": {
+  "source": "yahoo",
+  "ticker": "ESS"
+ },
+ "EURONET WORLDWIDE INC": {
+  "source": "yahoo",
+  "ticker": "EEFT"
+ },
+ "EVERGY INC": {
+  "source": "yahoo",
+  "ticker": "EVRG"
+ },
+ "EVERPURE INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "P"
+ },
+ "EVERSOURCE ENERGY": {
+  "source": "yahoo",
+  "ticker": "ES"
+ },
+ "EVERUS CONSTRUCTION GROUP INC": {
+  "source": "yahoo",
+  "ticker": "ECG"
+ },
+ "EXELIXIS INC": {
+  "source": "yahoo",
+  "ticker": "EXEL"
+ },
+ "EXELON CORPORATION": {
+  "source": "yahoo",
+  "ticker": "EXC"
+ },
+ "EXPEDITORS INTERNATIONAL OF WASHINGTON INC": {
+  "source": "yahoo",
+  "ticker": "EXPD"
+ },
+ "FABRINET": {
+  "source": "yahoo",
+  "ticker": "FN"
+ },
+ "FASTENAL COMPANY": {
+  "source": "yahoo",
+  "ticker": "FAST"
+ },
+ "FEDERAL REALTY INVESTMENT TRUST": {
+  "source": "yahoo",
+  "ticker": "FRT"
+ },
+ "FEDERATED HERMES INC CLASS B": {
+  "source": "yahoo",
+  "ticker": "FHI"
+ },
+ "FEDEX CORPORATION": {
+  "source": "yahoo",
+  "ticker": "FDX"
+ },
+ "FERGUSON ENTERPRISES INC": {
+  "source": "yahoo",
+  "ticker": "FERG"
+ },
+ "FINNING INTERNATIONAL INC": {
+  "source": "yahoo",
+  "ticker": "FTT.TO"
+ },
+ "FIRST TRUST SENIOR LOAN FUND": {
+  "source": "yahoo",
+  "ticker": "FTSL"
+ },
+ "FIRSTENERGY CORP": {
+  "source": "yahoo",
+  "ticker": "FE"
+ },
+ "FLOWSERVE CORPORATION": {
+  "source": "yahoo",
+  "ticker": "FLS"
+ },
+ "FORMFACTOR INC": {
+  "source": "yahoo",
+  "ticker": "FORM"
+ },
+ "FORTIVE CORPORATION": {
+  "source": "yahoo",
+  "ticker": "FTV"
+ },
+ "FORTUNE BRANDS INNOVATIONS INC": {
+  "source": "yahoo",
+  "ticker": "FBIN"
+ },
+ "FRANKLIN ELECTRIC CO INC": {
+  "source": "yahoo",
+  "ticker": "FELE"
+ },
+ "FTI CONSULTING INC": {
+  "source": "yahoo",
+  "ticker": "FCN"
+ },
+ "GAMING AND LEISURE PROPERTIES INC": {
+  "source": "yahoo",
+  "ticker": "GLPI"
+ },
+ "GATES INDUSTRIAL CORPORATION LTD": {
+  "source": "yahoo",
+  "ticker": "GTES"
+ },
+ "GE AEROSPACE": {
+  "source": "yahoo",
+  "ticker": "GE"
+ },
+ "GE HEALTHCARE TECHNOLOGIES INC": {
+  "source": "yahoo",
+  "ticker": "GEHC"
+ },
+ "GEN DIGITAL INC": {
+  "source": "yahoo",
+  "ticker": "GEN"
+ },
+ "GENERAL DYNAMICS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "GD"
+ },
+ "GENPACT LIMITED": {
+  "source": "yahoo",
+  "ticker": "G"
+ },
+ "GILDAN ACTIVEWEAR INC": {
+  "source": "yahoo",
+  "ticker": "GIL"
+ },
+ "GLOBAL PAYMENTS INC": {
+  "source": "yahoo",
+  "ticker": "GPN"
+ },
+ "GLOBAL X CANADIAN SELECT UNIVERSE BOND INDEX CORPORATE CLASS ETF": {
+  "source": "yahoo",
+  "ticker": "HBB.TO"
+ },
+ "GOV OF CANADA 0 0275 01 03 2031": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "GOV OF CANADA 0 0275 01 09 2030": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "GOV OF CANADA 0 0325 01 06 2035": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "GOV OF CANADA 0 0325 01 06 2036": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "GOV OF CANADA 0 0325 01 12 2035": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "GOVERNMENT OF CANADA 01 06 2029": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "GOVERNMENT OF CANADA 01 06 2031": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "GOVERNMENT OF CANADA 01 06 2032": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "GRACO INC": {
+  "source": "yahoo",
+  "ticker": "GGG"
+ },
+ "GRAPHIC PACKAGING HOLDING COMPANY": {
+  "source": "yahoo",
+  "ticker": "GPK"
+ },
+ "GXO LOGISTICS INC": {
+  "source": "yahoo",
+  "ticker": "GXO"
+ },
+ "HALOZYME THERAPEUTICS INC": {
+  "source": "yahoo",
+  "ticker": "HALO"
+ },
+ "HARVEST CANADIAN DIVIDEND LEADERS INCOME ETF 6": {
+  "source": "yahoo",
+  "ticker": "HLIF.TO"
+ },
+ "HARVEST LOW VOLATILITY CANADIAN EQUITY INCOME ETF": {
+  "source": "yahoo",
+  "ticker": "HVOI.TO"
+ },
+ "HARVEST PREMIUM YIELD GOLD ETF": {
+  "source": "yahoo",
+  "ticker": "HPYG.NE"
+ },
+ "HARVEST TECH LEADERS INCOME ETF 2": {
+  "source": "yahoo",
+  "ticker": "HTA.TO"
+ },
+ "HARVEST US EQUITY LEADERS INCOME ETF 1": {
+  "source": "yahoo",
+  "ticker": "HBF.TO"
+ },
+ "HARVEST UTILITIES LEADERS INCOME ETF 3": {
+  "source": "yahoo",
+  "ticker": "HUTL.TO"
+ },
+ "HAYWARD HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "HAYW"
+ },
+ "HCA HEALTHCARE INC": {
+  "source": "yahoo",
+  "ticker": "HCA"
+ },
+ "HEICO CORPORATION": {
+  "source": "yahoo",
+  "ticker": "HEI"
+ },
+ "HENRY SCHEIN INC": {
+  "source": "yahoo",
+  "ticker": "HSIC"
+ },
+ "HEWLETT PACKARD ENTERPRISE COMPANY": {
+  "source": "yahoo",
+  "ticker": "HPE"
+ },
+ "HIS MAJESTY THE KING IN RIGHT OF CANADA 0 005 01 12 2030": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "HIS MAJESTY THE KING IN RIGHT OF CANADA 0 0125 01 06 2030": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "HIS MAJESTY THE KING IN RIGHT OF CANADA 0 015 01 06 2031": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "HIS MAJESTY THE KING IN RIGHT OF CANADA 0 02 01 12 2051": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "HIS MAJESTY THE KING IN RIGHT OF CANADA 0 03 01 06 2034": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "HONEYWELL INTERNATIONAL INC": {
+  "source": "yahoo",
+  "ticker": "HON"
+ },
+ "HORMEL FOODS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "HRL"
+ },
+ "HOWMET AEROSPACE INC": {
+  "source": "yahoo",
+  "ticker": "HWM"
+ },
+ "HP INC": {
+  "source": "yahoo",
+  "ticker": "HPQ"
+ },
+ "HUBBELL INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "HUBB"
+ },
+ "HUNTINGTON INGALLS INDUSTRIES INC": {
+  "source": "yahoo",
+  "ticker": "HII"
+ },
+ "IDACORP INC": {
+  "source": "yahoo",
+  "ticker": "IDA"
+ },
+ "IDEX CORPORATION": {
+  "source": "yahoo",
+  "ticker": "IEX"
+ },
+ "IDEXX LABORATORIES INC": {
+  "source": "yahoo",
+  "ticker": "IDXX"
+ },
+ "IES HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "IESC"
+ },
+ "ILLINOIS TOOL WORKS INC": {
+  "source": "yahoo",
+  "ticker": "ITW"
+ },
+ "INCYTE CORPORATION": {
+  "source": "yahoo",
+  "ticker": "INCY"
+ },
+ "INGRAM MICRO HOLDING CORPORATION": {
+  "source": "yahoo",
+  "ticker": "INGM"
+ },
+ "INGREDION INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "INGR"
+ },
+ "INTERNATIONAL BUSINESS MACHINES CORPORATION": {
+  "source": "yahoo",
+  "ticker": "IBM"
+ },
+ "INVITATION HOMES INC": {
+  "source": "yahoo",
+  "ticker": "INVH"
+ },
+ "IONIS PHARMACEUTICALS INC": {
+  "source": "yahoo",
+  "ticker": "IONS"
+ },
+ "ISHARES CORE CANADIAN LONG TERM BOND INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "XLB.TO"
+ },
+ "ISHARES GLOBAL REAL ESTATE INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "CGR.TO"
+ },
+ "ISHARES S P TSX CANADIAN PREFERRED SHARE INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "CPD.TO"
+ },
+ "ISHARES S P TSX CAPPED FINANCIALS INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "XFN.TO"
+ },
+ "JABIL INC": {
+  "source": "yahoo",
+  "ticker": "JBL"
+ },
+ "JACK HENRY ASSOCIATES INC": {
+  "source": "yahoo",
+  "ticker": "JKHY"
+ },
+ "JACOBS SOLUTIONS INC": {
+  "source": "yahoo",
+  "ticker": "J"
+ },
+ "JOHNSON CONTROLS INTERNATIONAL PLC": {
+  "source": "yahoo",
+  "ticker": "JCI"
+ },
+ "KBR INC": {
+  "source": "yahoo",
+  "ticker": "KBR"
+ },
+ "KENVUE INC": {
+  "source": "yahoo",
+  "ticker": "KVUE"
+ },
+ "KEYSIGHT TECHNOLOGIES INC": {
+  "source": "yahoo",
+  "ticker": "KEYS"
+ },
+ "KIMBERLY CLARK CORPORATION": {
+  "source": "yahoo",
+  "ticker": "KMB"
+ },
+ "KIMCO REALTY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "KIM"
+ },
+ "KINDER MORGAN INC": {
+  "source": "yahoo",
+  "ticker": "KMI"
+ },
+ "KINROSS GOLD CORPORATION": {
+  "source": "yahoo",
+  "ticker": "KGC"
+ },
+ "KIRBY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "KEX"
+ },
+ "KLA CORPORATION": {
+  "source": "yahoo",
+  "ticker": "KLAC"
+ },
+ "KNIGHT SWIFT TRANSPORTATION HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "KNX"
+ },
+ "KYNDRYL HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "KD"
+ },
+ "L3HARRIS TECHNOLOGIES INC": {
+  "source": "yahoo",
+  "ticker": "LHX"
+ },
+ "LABCORP HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "LH"
+ },
+ "LAM RESEARCH CORPORATION": {
+  "source": "yahoo",
+  "ticker": "LRCX"
+ },
+ "LANDSTAR SYSTEM INC": {
+  "source": "yahoo",
+  "ticker": "LSTR"
+ },
+ "LATTICE SEMICONDUCTOR CORPORATION": {
+  "source": "yahoo",
+  "ticker": "LSCC"
+ },
+ "LENNOX INTERNATIONAL INC": {
+  "source": "yahoo",
+  "ticker": "LII"
+ },
+ "LINAMAR CORP": {
+  "source": "yahoo",
+  "ticker": "LNR.DU"
+ },
+ "LINCOLN ELECTRIC HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "LECO"
+ },
+ "LOCKHEED MARTIN CORPORATION": {
+  "source": "yahoo",
+  "ticker": "LMT"
+ },
+ "LOWE S COMPANIES INC": {
+  "source": "yahoo",
+  "ticker": "LOW"
+ },
+ "MACOM TECHNOLOGY SOLUTIONS HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "MTSI"
+ },
+ "MADRIGAL PHARMACEUTICALS INC": {
+  "source": "yahoo",
+  "ticker": "MDGL"
+ },
+ "MANULIFE FINANCIAL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "MFC"
+ },
+ "MARSH MCLENNAN COMPANIES INC": {
+  "source": "yahoo",
+  "ticker": "MRSH"
+ },
+ "MARTIN MARIETTA MATERIALS INC": {
+  "source": "yahoo",
+  "ticker": "MLM"
+ },
+ "MASCO CORPORATION": {
+  "source": "yahoo",
+  "ticker": "MAS"
+ },
+ "MASTEC INC": {
+  "source": "yahoo",
+  "ticker": "MTZ"
+ },
+ "MATCH GROUP INC": {
+  "source": "yahoo",
+  "ticker": "MTCH"
+ },
+ "MCDONALD S CORPORATION": {
+  "source": "yahoo",
+  "ticker": "MCD"
+ },
+ "MEDLINE INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "MDLN"
+ },
+ "MEDPACE HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "MEDP"
+ },
+ "META PLATFORMS INC": {
+  "source": "yahoo",
+  "ticker": "META"
+ },
+ "METLIFE INC": {
+  "source": "yahoo",
+  "ticker": "MET"
+ },
+ "MGE ENERGY INC": {
+  "source": "yahoo",
+  "ticker": "MGEE"
+ },
+ "MICROCHIP TECHNOLOGY INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "MCHP"
+ },
+ "MICROSOFT CORPORATION": {
+  "source": "yahoo",
+  "ticker": "MSFT"
+ },
+ "MID AMERICA APARTMENT COMMUNITIES INC": {
+  "source": "yahoo",
+  "ticker": "MAA"
+ },
+ "MKS INC": {
+  "source": "yahoo",
+  "ticker": "MKSI"
+ },
+ "MODINE MANUFACTURING COMPANY": {
+  "source": "yahoo",
+  "ticker": "MOD"
+ },
+ "MONDELEZ INTERNATIONAL INC": {
+  "source": "yahoo",
+  "ticker": "MDLZ"
+ },
+ "MONGODB INC": {
+  "source": "yahoo",
+  "ticker": "MDB"
+ },
+ "MONOLITHIC POWER SYSTEMS INC": {
+  "source": "yahoo",
+  "ticker": "MPWR"
+ },
+ "MSA SAFETY INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "MSA"
+ },
+ "MSC INDUSTRIAL DIRECT CO INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "MSM"
+ },
+ "NASDAQ INC": {
+  "source": "yahoo",
+  "ticker": "NDAQ"
+ },
+ "NATIONAL FUEL GAS COMPANY": {
+  "source": "yahoo",
+  "ticker": "NFG"
+ },
+ "NEUROCRINE BIOSCIENCES INC": {
+  "source": "yahoo",
+  "ticker": "NBIX"
+ },
+ "NEW JERSEY RESOURCES CORPORATION": {
+  "source": "yahoo",
+  "ticker": "NJR"
+ },
+ "NIQ GLOBAL INTELLIGENCE PLC": {
+  "source": "yahoo",
+  "ticker": "NIQ"
+ },
+ "NISOURCE INC": {
+  "source": "yahoo",
+  "ticker": "NI"
+ },
+ "NORDSON CORPORATION": {
+  "source": "yahoo",
+  "ticker": "NDSN"
+ },
+ "NORFOLK SOUTHERN CORPORATION": {
+  "source": "yahoo",
+  "ticker": "NSC"
+ },
+ "NORTHROP GRUMMAN CORPORATION": {
+  "source": "yahoo",
+  "ticker": "NOC"
+ },
+ "NORTHWEST BANCSHARES INC": {
+  "source": "yahoo",
+  "ticker": "NWBI"
+ },
+ "NORTHWEST NATURAL HOLDING COMPANY": {
+  "source": "yahoo",
+  "ticker": "NWN"
+ },
+ "NORTHWESTERN ENERGY GROUP INC": {
+  "source": "yahoo",
+  "ticker": "NWE"
+ },
+ "NVENT ELECTRIC PLC": {
+  "source": "yahoo",
+  "ticker": "NVT"
+ },
+ "NVIDIA CORPORATION": {
+  "source": "yahoo",
+  "ticker": "NVDA"
+ },
+ "OGE ENERGY CORP": {
+  "source": "yahoo",
+  "ticker": "OGE"
+ },
+ "OLD DOMINION FREIGHT LINE INC": {
+  "source": "yahoo",
+  "ticker": "ODFL"
+ },
+ "OLD REPUBLIC INTERNATIONAL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "ORI"
+ },
+ "ON SEMICONDUCTOR CORPORATION": {
+  "source": "yahoo",
+  "ticker": "ON"
+ },
+ "ONE GAS INC": {
+  "source": "yahoo",
+  "ticker": "OGS"
+ },
+ "ONTO INNOVATION INC": {
+  "source": "yahoo",
+  "ticker": "ONTO"
+ },
+ "ORGANON CO": {
+  "source": "yahoo",
+  "ticker": "OGN"
+ },
+ "OSHKOSH CORPORATION": {
+  "source": "yahoo",
+  "ticker": "OSK"
+ },
+ "OTIS WORLDWIDE CORPORATION": {
+  "source": "yahoo",
+  "ticker": "OTIS"
+ },
+ "PACCAR INC": {
+  "source": "yahoo",
+  "ticker": "PCAR"
+ },
+ "PACKAGING CORPORATION OF AMERICA": {
+  "source": "yahoo",
+  "ticker": "PKG"
+ },
+ "PARSONS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "PSN"
+ },
+ "PAYCHEX INC": {
+  "source": "yahoo",
+  "ticker": "PAYX"
+ },
+ "PAYCOM SOFTWARE INC": {
+  "source": "yahoo",
+  "ticker": "PAYC"
+ },
+ "PAYLOCITY HOLDING CORPORATION": {
+  "source": "yahoo",
+  "ticker": "PCTY"
+ },
+ "PEGASYSTEMS INC": {
+  "source": "yahoo",
+  "ticker": "PEGA"
+ },
+ "PEMBINA PIPELINE CORPORATION": {
+  "source": "yahoo",
+  "ticker": "PBA"
+ },
+ "PENTAIR PLC": {
+  "source": "yahoo",
+  "ticker": "PNR"
+ },
+ "PEOPLE INC": {
+  "source": "yahoo",
+  "ticker": "PPLI"
+ },
+ "PINNACLE WEST CAPITAL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "PNW"
+ },
+ "PLANET LABS PBC CLASS A": {
+  "source": "yahoo",
+  "ticker": "PL"
+ },
+ "PORTLAND GENERAL ELECTRIC COMPANY": {
+  "source": "yahoo",
+  "ticker": "POR"
+ },
+ "POWELL INDUSTRIES INC": {
+  "source": "yahoo",
+  "ticker": "POWL"
+ },
+ "PPG INDUSTRIES INC": {
+  "source": "yahoo",
+  "ticker": "PPG"
+ },
+ "PPL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "PPL"
+ },
+ "PRIMERICA INC": {
+  "source": "yahoo",
+  "ticker": "PRI"
+ },
+ "PRIMORIS SERVICES CORPORATION": {
+  "source": "yahoo",
+  "ticker": "PRIM"
+ },
+ "PRINCIPAL FINANCIAL GROUP INC": {
+  "source": "yahoo",
+  "ticker": "PFG"
+ },
+ "PROV OF ONTARIO 02 12 2030": {
+  "source": "n/a",
+  "ticker": ""
+ },
+ "PRUDENTIAL FINANCIAL INC": {
+  "source": "yahoo",
+  "ticker": "PRU"
+ },
+ "PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "PEG"
+ },
+ "PUBLIC STORAGE": {
+  "source": "yahoo",
+  "ticker": "PSA"
+ },
+ "QIAGEN N V": {
+  "source": "yahoo",
+  "ticker": "QGEN"
+ },
+ "QORVO INC": {
+  "source": "yahoo",
+  "ticker": "QRVO"
+ },
+ "QUALCOMM INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "QCOM"
+ },
+ "QUANTA SERVICES INC": {
+  "source": "yahoo",
+  "ticker": "PWR"
+ },
+ "QUEST DIAGNOSTICS INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "DGX"
+ },
+ "RAMBUS INC": {
+  "source": "yahoo",
+  "ticker": "RMBS"
+ },
+ "REALTY INCOME CORPORATION": {
+  "source": "yahoo",
+  "ticker": "O"
+ },
+ "REDDIT INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "RDDT"
+ },
+ "REGENCY CENTERS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "REG"
+ },
+ "REINSURANCE GROUP OF AMERICA INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "RGA"
+ },
+ "REPUBLIC SERVICES INC": {
+  "source": "yahoo",
+  "ticker": "RSG"
+ },
+ "RESMED INC": {
+  "source": "yahoo",
+  "ticker": "RMD"
+ },
+ "REVOLUTION MEDICINES INC": {
+  "source": "yahoo",
+  "ticker": "RVMD"
+ },
+ "REVVITY INC": {
+  "source": "yahoo",
+  "ticker": "RVTY"
+ },
+ "REYNOLDS CONSUMER PRODUCTS INC": {
+  "source": "yahoo",
+  "ticker": "REYN"
+ },
+ "RLI CORP": {
+  "source": "yahoo",
+  "ticker": "RLI"
+ },
+ "ROCKET LAB CORPORATION": {
+  "source": "yahoo",
+  "ticker": "RKLB"
+ },
+ "ROCKWELL AUTOMATION INC": {
+  "source": "yahoo",
+  "ticker": "ROK"
+ },
+ "ROGERS COMMUNICATIONS INC CLASS B": {
+  "source": "yahoo",
+  "ticker": "RCI-B.TO"
+ },
+ "RPM INTERNATIONAL INC": {
+  "source": "yahoo",
+  "ticker": "RPM"
+ },
+ "RTX CORPORATION": {
+  "source": "yahoo",
+  "ticker": "RTX"
+ },
+ "RUBRIK INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "RBRK"
+ },
+ "RYDER SYSTEM INC": {
+  "source": "yahoo",
+  "ticker": "R"
+ },
+ "SAIA INC": {
+  "source": "yahoo",
+  "ticker": "SAIA"
+ },
+ "SANDISK CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SNDK"
+ },
+ "SANMINA CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SANM"
+ },
+ "SCHNEIDER NATIONAL INC CLASS B": {
+  "source": "yahoo",
+  "ticker": "SNDR"
+ },
+ "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SAIC"
+ },
+ "SEI INVESTMENTS COMPANY": {
+  "source": "yahoo",
+  "ticker": "SEIC"
+ },
+ "SELECTIVE INSURANCE GROUP INC": {
+  "source": "yahoo",
+  "ticker": "SIGI"
+ },
+ "SEMTECH CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SMTC"
+ },
+ "SENTINELONE INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "S"
+ },
+ "SHIFT4 PAYMENTS INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "FOUR"
+ },
+ "SHOPIFY INC": {
+  "source": "yahoo",
+  "ticker": "SHOP"
+ },
+ "SHOPIFY INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "SHOP"
+ },
+ "SILGAN HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "SLGN"
+ },
+ "SIMPSON MANUFACTURING CO INC": {
+  "source": "yahoo",
+  "ticker": "SSD"
+ },
+ "SITIME CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SITM"
+ },
+ "SMURFIT WESTROCK PLC": {
+  "source": "yahoo",
+  "ticker": "SW"
+ },
+ "SNAP ON INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "SNA"
+ },
+ "SNOWFLAKE INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "SNWF.VI"
+ },
+ "SOLVENTUM CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SOLV"
+ },
+ "SONOCO PRODUCTS COMPANY": {
+  "source": "yahoo",
+  "ticker": "SON"
+ },
+ "SOUTHWEST GAS HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "SWX"
+ },
+ "SPIRE INC": {
+  "source": "yahoo",
+  "ticker": "SR"
+ },
+ "SS C TECHNOLOGIES HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "SSNC"
+ },
+ "STANTEC INC": {
+  "source": "yahoo",
+  "ticker": "STN"
+ },
+ "STATE STREET CORPORATION": {
+  "source": "yahoo",
+  "ticker": "STT"
+ },
+ "STERIS PLC": {
+  "source": "yahoo",
+  "ticker": "STE"
+ },
+ "STERLING INFRASTRUCTURE INC": {
+  "source": "yahoo",
+  "ticker": "STRL"
+ },
+ "STRYKER CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SYK"
+ },
+ "SUN COMMUNITIES INC": {
+  "source": "yahoo",
+  "ticker": "SUI"
+ },
+ "SUNBELT RENTALS HOLDINGS INC": {
+  "source": "yahoo",
+  "ticker": "SUNB"
+ },
+ "SUPER MICRO COMPUTER INC": {
+  "source": "yahoo",
+  "ticker": "SMCI"
+ },
+ "SYNCHRONY FINANCIAL": {
+  "source": "yahoo",
+  "ticker": "SYF"
+ },
+ "SYSCO CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SYY"
+ },
+ "T MOBILE US INC": {
+  "source": "yahoo",
+  "ticker": "TMUS"
+ },
+ "TC ENERGY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "TRP"
+ },
+ "TD SYNNEX CORPORATION": {
+  "source": "yahoo",
+  "ticker": "SNX"
+ },
+ "TE CONNECTIVITY PLC": {
+  "source": "yahoo",
+  "ticker": "TEL"
+ },
+ "TELEDYNE TECHNOLOGIES INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "TDY"
+ },
+ "TELUS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "T.TO"
+ },
+ "TEMPUS AI INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "TEM"
+ },
+ "TENET HEALTHCARE CORPORATION": {
+  "source": "yahoo",
+  "ticker": "THC"
+ },
+ "TERADYNE INC": {
+  "source": "yahoo",
+  "ticker": "TER"
+ },
+ "TERAWULF INC": {
+  "source": "yahoo",
+  "ticker": "WULF"
+ },
+ "TETRA TECH INC": {
+  "source": "yahoo",
+  "ticker": "TTEK"
+ },
+ "TEXAS INSTRUMENTS INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "TXN"
+ },
+ "TEXTRON INC": {
+  "source": "yahoo",
+  "ticker": "TXT"
+ },
+ "THE ALLSTATE CORPORATION": {
+  "source": "yahoo",
+  "ticker": "ALL"
+ },
+ "THE BANK OF NEW YORK MELLON CORPORATION": {
+  "source": "yahoo",
+  "ticker": "BNY"
+ },
+ "THE BANK OF NOVA SCOTIA": {
+  "source": "yahoo",
+  "ticker": "BNS.TO"
+ },
+ "THE BOEING COMPANY": {
+  "source": "yahoo",
+  "ticker": "BA"
+ },
+ "THE CIGNA GROUP": {
+  "source": "yahoo",
+  "ticker": "CI"
+ },
+ "THE COCA COLA COMPANY": {
+  "source": "yahoo",
+  "ticker": "KO"
+ },
+ "THE COOPER COMPANIES INC": {
+  "source": "yahoo",
+  "ticker": "COO"
+ },
+ "THE ENSIGN GROUP INC": {
+  "source": "yahoo",
+  "ticker": "ENSG"
+ },
+ "THE HARTFORD INSURANCE GROUP INC": {
+  "source": "yahoo",
+  "ticker": "HIG"
+ },
+ "THE HERSHEY COMPANY": {
+  "source": "yahoo",
+  "ticker": "HSY"
+ },
+ "THE J M SMUCKER COMPANY": {
+  "source": "yahoo",
+  "ticker": "SJM"
+ },
+ "THE KRAFT HEINZ COMPANY": {
+  "source": "yahoo",
+  "ticker": "KHC"
+ },
+ "THE MARZETTI COMPANY": {
+  "source": "yahoo",
+  "ticker": "MZTI"
+ },
+ "THE MIDDLEBY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "MIDD"
+ },
+ "THE PNC FINANCIAL SERVICES GROUP INC": {
+  "source": "yahoo",
+  "ticker": "PNC"
+ },
+ "THE PROCTER GAMBLE COMPANY": {
+  "source": "yahoo",
+  "ticker": "PG"
+ },
+ "THE SHERWIN WILLIAMS COMPANY": {
+  "source": "yahoo",
+  "ticker": "SHW"
+ },
+ "THE SOUTHERN COMPANY": {
+  "source": "yahoo",
+  "ticker": "SO"
+ },
+ "THE TJX COMPANIES INC": {
+  "source": "yahoo",
+  "ticker": "TJX"
+ },
+ "THE TORO COMPANY": {
+  "source": "yahoo",
+  "ticker": "TTC"
+ },
+ "THE WESTERN UNION COMPANY": {
+  "source": "yahoo",
+  "ticker": "WU"
+ },
+ "THE WILLIAMS COMPANIES INC": {
+  "source": "yahoo",
+  "ticker": "WMB"
+ },
+ "TMX GROUP LIMITED": {
+  "source": "yahoo",
+  "ticker": "X.TO"
+ },
+ "TORONTO DOMINION BANK THE": {
+  "source": "yahoo",
+  "ticker": "TD.NE"
+ },
+ "TOYOTA MOTOR CORPORATION": {
+  "source": "yahoo",
+  "ticker": "TM"
+ },
+ "TRANE TECHNOLOGIES PLC": {
+  "source": "yahoo",
+  "ticker": "TT"
+ },
+ "TRANSUNION": {
+  "source": "yahoo",
+  "ticker": "TRU"
+ },
+ "TREX COMPANY INC": {
+  "source": "yahoo",
+  "ticker": "TREX"
+ },
+ "TRIMBLE INC": {
+  "source": "yahoo",
+  "ticker": "TRMB"
+ },
+ "TTM TECHNOLOGIES INC": {
+  "source": "yahoo",
+  "ticker": "TTMI"
+ },
+ "TWILIO INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "TWLO"
+ },
+ "TXNM ENERGY INC": {
+  "source": "yahoo",
+  "ticker": "TXNM"
+ },
+ "TYLER TECHNOLOGIES INC": {
+  "source": "yahoo",
+  "ticker": "TYL"
+ },
+ "UDR INC": {
+  "source": "yahoo",
+  "ticker": "UDR"
+ },
+ "UL SOLUTIONS INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "ULS"
+ },
+ "UNION PACIFIC CORPORATION": {
+  "source": "yahoo",
+  "ticker": "UNP"
+ },
+ "UNITED PARCEL SERVICE INC CLASS B": {
+  "source": "yahoo",
+  "ticker": "UPS"
+ },
+ "UNITED RENTALS INC": {
+  "source": "yahoo",
+  "ticker": "URI"
+ },
+ "UNITED THERAPEUTICS CORPORATION": {
+  "source": "yahoo",
+  "ticker": "UTHR"
+ },
+ "UNIVERSAL DISPLAY CORPORATION": {
+  "source": "yahoo",
+  "ticker": "OLED"
+ },
+ "VALMONT INDUSTRIES INC": {
+  "source": "yahoo",
+  "ticker": "VMI"
+ },
+ "VANGUARD CANADIAN SHORT TERM BOND INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "VSB.TO"
+ },
+ "VANGUARD FTSE CANADIAN HIGH DIVIDEND YIELD INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "VDY.TO"
+ },
+ "VANGUARD U S DIVIDEND APPRECIATION INDEX ETF": {
+  "source": "yahoo",
+  "ticker": "VGG.TO"
+ },
+ "VEEVA SYSTEMS INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "1VEEV.MI"
+ },
+ "VENTAS INC": {
+  "source": "yahoo",
+  "ticker": "VTR"
+ },
+ "VERALTO CORPORATION": {
+  "source": "yahoo",
+  "ticker": "VLTO"
+ },
+ "VERISIGN INC": {
+  "source": "yahoo",
+  "ticker": "VRSN"
+ },
+ "VERTEX PHARMACEUTICALS INCORPORATED": {
+  "source": "yahoo",
+  "ticker": "VRTX"
+ },
+ "VICI PROPERTIES INC": {
+  "source": "yahoo",
+  "ticker": "VICI"
+ },
+ "VICOR CORPORATION": {
+  "source": "yahoo",
+  "ticker": "VICR"
+ },
+ "VIVMARK RESIDENTIAL": {
+  "source": "yahoo",
+  "ticker": "VMRK"
+ },
+ "VONTIER CORPORATION": {
+  "source": "yahoo",
+  "ticker": "VNT"
+ },
+ "VULCAN MATERIALS COMPANY": {
+  "source": "yahoo",
+  "ticker": "VMC"
+ },
+ "W P CAREY INC": {
+  "source": "yahoo",
+  "ticker": "WPY.MU"
+ },
+ "W W GRAINGER INC": {
+  "source": "yahoo",
+  "ticker": "GWW"
+ },
+ "WATTS WATER TECHNOLOGIES INC": {
+  "source": "yahoo",
+  "ticker": "WTS"
+ },
+ "WEC ENERGY GROUP INC": {
+  "source": "yahoo",
+  "ticker": "WEC"
+ },
+ "WESTERN DIGITAL CORPORATION": {
+  "source": "yahoo",
+  "ticker": "WDC"
+ },
+ "WEX INC": {
+  "source": "yahoo",
+  "ticker": "WEX"
+ },
+ "WILLIS TOWERS WATSON PLC": {
+  "source": "yahoo",
+  "ticker": "WTY.MU"
+ },
+ "WOODWARD INC": {
+  "source": "yahoo",
+  "ticker": "WWD"
+ },
+ "XCEL ENERGY INC": {
+  "source": "yahoo",
+  "ticker": "XEL"
+ },
+ "XPO INC": {
+  "source": "yahoo",
+  "ticker": "XPO"
+ },
+ "XYLEM INC": {
+  "source": "yahoo",
+  "ticker": "XYL"
+ },
+ "YUM BRANDS INC": {
+  "source": "yahoo",
+  "ticker": "YUM"
+ },
+ "ZEBRA TECHNOLOGIES CORPORATION": {
+  "source": "yahoo",
+  "ticker": "ZBRA"
+ },
+ "ZOETIS INC": {
+  "source": "yahoo",
+  "ticker": "ZTS"
+ },
+ "ZOOM COMMUNICATIONS INC CLASS A": {
+  "source": "yahoo",
+  "ticker": "ZM"
+ }
+}

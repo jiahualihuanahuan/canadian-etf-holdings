@@ -1,0 +1,334 @@
+etf_ticker,holding_ticker,holding_name,weight_pct
+NALT,,Australian Dollar September 26,52.19
+NALT,,Copper December 26,18.99
+NALT,,British Pound September 26,18.89
+NALT,,Gold 100 oz October 26,18.48
+NALT,,Gasoline RBOB September 26,13.25
+NALT,,Heating oil September 26,13.09
+NALT,,Silver December 26,10.21
+NALT,,Brent Crude Oil September 26,8.65
+NALT,,Corn December 26,6.82
+NALT,,Cash,-367.62
+NBBX,,Canada Government 2.00% 01-Jun-2028,5.13
+NBBX,,Canada Government 2.25% 01-Jun-2029,4.15
+NBBX,,Canada Government 2.75% 01-Jun-2033,3.08
+NBBX,,Bank of Montreal 3.19% 01-Mar-2028,3.04
+NBBX,,Canada Government 2.75% 01-Mar-2030,2.86
+NBBX,,Canada Government 3.25% 01-Dec-2033,2.57
+NBBX,,Canada Government 1.50% 01-Dec-2031,2.54
+NBBX,,Royal Bank of Canada 4.46% 17-Oct-2034,2.31
+NBBX,,Canadian Imperial Bank Commrce 3.65% 10-Dec-2028,2.22
+NBBX,,North West Redwater Partnershp 4.25% 01-Mar-2029,2.20
+NBCG,,Royal Bank of Canada,8.34
+NBCG,,Toronto-Dominion Bank,8.08
+NBCG,,Shopify Inc Cl A,4.61
+NBCG,,Cash and Cash Equivalents,3.95
+NBCG,,Canadian Pacific Kansas City Ltd,3.80
+NBCG,,Canadian Natural Resources Ltd,3.13
+NBCG,,Power Corp of Canada,2.69
+NBCG,,Enbridge Inc,2.52
+NBCG,,TC Energy Corp,2.31
+NBCG,,Franco-Nevada Corp,2.25
+NBCX,,Royal Bank of Canada,7.73
+NBCX,,Toronto-Dominion Bank,5.48
+NBCX,,Shopify Inc Cl A,4.86
+NBCX,,Bank of Montreal,3.25
+NBCX,,Bank of Nova Scotia,3.05
+NBCX,,Enbridge Inc,2.98
+NBCX,,Canadian Imperial Bank of Commerce,2.84
+NBCX,,Agnico Eagle Mines Ltd,2.79
+NBCX,,Canadian Natural Resources Ltd,2.77
+NBCX,,Canadian Pacific Kansas City Ltd,2.22
+NBEM,,Taiwan Semiconductor Manufactrg Co Ltd,12.44
+NBEM,,SK Hynix Inc,6.31
+NBEM,,Samsung Electronics Co Ltd,4.00
+NBEM,,MediaTek Inc,3.11
+NBEM,,Tencent Holdings Ltd,2.96
+NBEM,,Cash and Cash Equivalents,2.33
+NBEM,,Alibaba Group Holding Ltd,2.08
+NBEM,,ICICI Bank Ltd,1.37
+NBEM,,Anglogold Ashanti PLC,1.14
+NBEM,,Shinhan Financial Group Co Ltd,1.02
+NBGE,,Taiwan Semiconductor Manufactrg Co Ltd - ADR,9.77
+NBGE,,Alphabet Inc Cl A,9.15
+NBGE,,Mastercard Inc Cl A,6.20
+NBGE,,Moody's Corp,6.12
+NBGE,,Microsoft Corp,5.93
+NBGE,,ASML Holding NV,5.34
+NBGE,,Keyence Corp,4.33
+NBGE,,CME Group Inc Cl A,4.12
+NBGE,,Autozone Inc,3.89
+NBGE,,InterContinental Hotels Group PLC,3.78
+NBGE.F,,Taiwan Semiconductor Manufactrg Co Ltd - ADR,9.77
+NBGE.F,,Alphabet Inc Cl A,9.15
+NBGE.F,,Mastercard Inc Cl A,6.20
+NBGE.F,,Moody's Corp,6.12
+NBGE.F,,Microsoft Corp,5.93
+NBGE.F,,ASML Holding NV,5.34
+NBGE.F,,Keyence Corp,4.33
+NBGE.F,,CME Group Inc Cl A,4.12
+NBGE.F,,Autozone Inc,3.89
+NBGE.F,,InterContinental Hotels Group PLC,3.78
+NBIE,,Taiwan Semiconductor Manufactrg Co Ltd - ADR,9.85
+NBIE,,ASML Holding NV,7.85
+NBIE,,Keyence Corp,6.73
+NBIE,,L'Air Liquide SA,6.50
+NBIE,,InterContinental Hotels Group PLC,5.96
+NBIE,,London Stock Exchange Group PLC,5.90
+NBIE,,Cie Financiere Richemont SA,4.84
+NBIE,,Nestle SA Cl N,3.82
+NBIE,,L'Oreal SA,3.26
+NBIE,,Industria de Diseno Textil SA,3.09
+NBIE.F,,Taiwan Semiconductor Manufactrg Co Ltd - ADR,9.85
+NBIE.F,,ASML Holding NV,7.85
+NBIE.F,,Keyence Corp,6.73
+NBIE.F,,L'Air Liquide SA,6.50
+NBIE.F,,InterContinental Hotels Group PLC,5.96
+NBIE.F,,London Stock Exchange Group PLC,5.90
+NBIE.F,,Cie Financiere Richemont SA,4.84
+NBIE.F,,Nestle SA Cl N,3.82
+NBIE.F,,L'Oreal SA,3.26
+NBIE.F,,Industria de Diseno Textil SA,3.09
+NBIX,,ASML Holding NV,3.04
+NBIX,EFA,iShares MSCI EAFE ETF (EFA),2.99
+NBIX,,HSBC Holdings PLC,1.65
+NBIX,,Roche Holding AG,1.46
+NBIX,,Novartis AG Cl N,1.35
+NBIX,,Mitsubishi UFJ Financial Group Inc,1.20
+NBIX,,Shell PLC,1.18
+NBIX,,AstraZeneca PLC,1.16
+NBIX,,Nestle SA Cl N,1.12
+NBIX,,Siemens AG Cl N,1.10
+NBLD,NSCB,NBI Sustainable Canadian Bond ETF (NSCB),18.83
+NBLD,NBUX,NBI U.S. Equity Index Fund ETF Series (NBUX),17.68
+NBLD,NBCX,NBI Canadian Equity Index Fund ETF Series (NBCX),13.36
+NBLD,NUBF,NBI Unconstrained Fixed Income ETF (NUBF),9.34
+NBLD,NCPB,NBI Canadian Core Plus Bond Fund ETF (NCPB),9.34
+NBLD,NBIX,NBI International Equity Index Fund ETF (NBIX),7.64
+NBLD,NBEM,NBI Diversified Emerging Markets Equ Fd ETF (NBEM),7.05
+NBLD,NUSA,NBI Active U.S. Equity ETF (NUSA),5.88
+NBLD,NBCG,NBI Canadian Equity Growth Fund ETF Series (NBCG),4.47
+NBLD,NBIV,NBI International Value Fund ETF (NBIV),2.54
+NBQC,,WSP Global Inc,5.38
+NBQC,,Dollarama Inc,4.74
+NBQC,,Alimentation Couche-Tard Inc,4.72
+NBQC,,Richelieu Hardware Ltd,4.31
+NBQC,,Atkinsrealis Group Inc,4.23
+NBQC,,National Bank of Canada,4.18
+NBQC,,Savaria Corp,4.07
+NBQC,,Mainstreet Equity Corp,3.95
+NBQC,,iA Financial Corp Inc,3.43
+NBQC,,Bombardier Inc Cl A,3.36
+NBSC,,Puuilo Oyj,4.75
+NBSC,,Diploma PLC,4.66
+NBSC,,Federal Signal Corp,4.49
+NBSC,,Robertet SA,4.15
+NBSC,,Rational AG,4.14
+NBSC,,TechnologyOne Ltd,3.99
+NBSC,,Nordnet AB (publ),3.92
+NBSC,,Japan Elevator Service Holdings Co Ltd,3.83
+NBSC,,HMS Networks AB,3.64
+NBSC,,Houlihan Lokey Inc Cl A,3.39
+NREA,,Entergy Corp,6.03
+NREA,,American Electric Power Co Inc,5.56
+NREA,,Nextera Energy Inc,5.56
+NREA,,Xcel Energy Inc,4.98
+NREA,,Aena SME SA,4.52
+NREA,,Cheniere Energy Inc,3.98
+NREA,,Iberdrola SA,3.89
+NREA,,Targa Resources Corp,3.53
+NREA,,Enbridge Inc,3.42
+NREA,,Williams Cos Inc,3.20
+NSCB,,Canada Government 3.50% 01-Mar-2034,9.73
+NSCB,,Canada Government 3.25% 01-Mar-2036,4.43
+NSCB,,Hydro-Quebec 5.00% 15-Feb-2050,3.16
+NSCB,,Canada Government 3.50% 01-Dec-2056,2.69
+NSCB,,Ontario Province 4.10% 07-Oct-2054,2.60
+NSCB,,Canada Government 3.00% 01-Mar-2032,2.50
+NSCB,,PSP Capital Inc 4.40% 02-Dec-2030,2.46
+NSCB,,PSP Capital Inc 2.60% 01-Mar-2032,2.37
+NSCB,,Hydro-Quebec 4.00% 15-Feb-2055,2.27
+NSCB,,Province of Ontario 2.68% 19-Nov-2030,2.17
+NSCC,,Royal Bank of Canada 3.99% 22-Jul-2030,4.09
+NSCC,,Bank of Nova Scotia 3.84% 26-Sep-2029,3.43
+NSCC,,CGI Inc 4.15% 05-Sep-2029,2.09
+NSCC,,Bell Canada 3.00% 17-Dec-2030,1.87
+NSCC,,Sun Life Financial Inc 5.50% 04-Jul-2030,1.84
+NSCC,,Bank of Nova Scotia 2.95% 08-Mar-2027,1.75
+NSCC,,Federation Csses Desjardins Qc 5.48% 16-Aug-2028,1.71
+NSCC,,Dollarama Inc 2.44% 09-Jul-2029,1.70
+NSCC,,Verizon Communications Inc 2.50% 16-Feb-2030,1.66
+NSCC,,Telus Corp 4.85% 05-Oct-2043,1.61
+NSCE,,Royal Bank of Canada,5.96
+NSCE,,Canadian National Railway Co,5.08
+NSCE,,Canadian Pacific Kansas City Ltd,4.82
+NSCE,,Restaurant Brands International Inc,4.69
+NSCE,,National Bank of Canada,4.62
+NSCE,,Intact Financial Corp,4.52
+NSCE,,Toronto-Dominion Bank,4.46
+NSCE,,Bank of Montreal,4.33
+NSCE,,Loblaw Cos Ltd,4.25
+NSCE,,Waste Connections Inc,4.00
+NSDG,,NBI SmartData U.S. Equity Fund Series O,69.43
+NSDG,,NBI SmartData International Equity Fund Series O,29.88
+NSDG,,Cash and Cash Equivalents,0.69
+NSDI,,ASML Holding NV,2.90
+NSDI,,Roche Holding AG,1.71
+NSDI,,Siemens AG Cl N,1.50
+NSDI,,Allianz SE,1.36
+NSDI,,Cash and Cash Equivalents,1.35
+NSDI,,BHP Group Ltd,1.15
+NSDI,,Axa SA,1.06
+NSDI,,Sony Group Corp,1.04
+NSDI,,Industria de Diseno Textil SA,0.99
+NSDI,,Sap SE,0.98
+NSDI.F,,ASML Holding NV,2.90
+NSDI.F,,Roche Holding AG,1.71
+NSDI.F,,Siemens AG Cl N,1.50
+NSDI.F,,Allianz SE,1.36
+NSDI.F,,Cash and Cash Equivalents,1.35
+NSDI.F,,BHP Group Ltd,1.15
+NSDI.F,,Axa SA,1.06
+NSDI.F,,Sony Group Corp,1.04
+NSDI.F,,Industria de Diseno Textil SA,0.99
+NSDI.F,,Sap SE,0.98
+NSDU,,NVIDIA Corp,8.00
+NSDU,,Apple Inc,7.60
+NSDU,,Microsoft Corp,5.32
+NSDU,,Amazon.com Inc,3.73
+NSDU,,Broadcom Inc,3.17
+NSDU,,Alphabet Inc Cl A,2.99
+NSDU,,JPMorgan Chase & Co,1.99
+NSDU,,Meta Platforms Inc Cl A,1.88
+NSDU,,Alphabet Inc Cl C,1.85
+NSDU,,Tesla Inc,1.78
+NSDU.F,,NVIDIA Corp,8.00
+NSDU.F,,Apple Inc,7.60
+NSDU.F,,Microsoft Corp,5.32
+NSDU.F,,Amazon.com Inc,3.73
+NSDU.F,,Broadcom Inc,3.17
+NSDU.F,,Alphabet Inc Cl A,2.99
+NSDU.F,,JPMorgan Chase & Co,1.99
+NSDU.F,,Meta Platforms Inc Cl A,1.88
+NSDU.F,,Alphabet Inc Cl C,1.85
+NSDU.F,,Tesla Inc,1.78
+NSGE,,NVIDIA Corp,6.74
+NSGE,,Alphabet Inc Cl A,5.03
+NSGE,,Apple Inc,3.97
+NSGE,,Taiwan Semiconductor Manufactrg Co Ltd,3.71
+NSGE,,Visa Inc Cl A,3.07
+NSGE,,Cash and Cash Equivalents,2.58
+NSGE,,Merck & Co Inc,2.55
+NSGE,,Endesa SA,2.48
+NSGE,,Johnson & Johnson,2.34
+NSGE,,Sanofi SA,2.31
+NSSB,,Canada Government 2.25% 01-Dec-2029,13.22
+NSSB,,Royal Bank of Canada 3.99% 22-Jul-2030,3.38
+NSSB,,Bank of America Corp 3.62% 16-Mar-2027,2.79
+NSSB,,407 International Inc 6.47% 27-Jul-2029,2.57
+NSSB,,Ontario Power Generation Inc 3.22% 08-Jan-2030,2.54
+NSSB,,Toronto-Dominion Bank 5.49% 08-Sep-2028,2.47
+NSSB,,Hydro One Inc. 3.94% 25-Aug-2032,2.32
+NSSB,,Bell Canada 2.20% 29-Mar-2028,2.29
+NSSB,,Ivanhoe Cambridge II Inc 4.99% 02-Jun-2028,2.24
+NSSB,,Federation Csses Desjardins Qc 4.12% 25-Aug-2032,2.18
+NTGA,,Canada Housing Trust No 1 1.10% 15-Dec-2026,15.88
+NTGA,,Bank of Nova Scotia 1.85% 02-Nov-2026,8.79
+NTGA,,North West Redwater Partnershp 2.00% 01-Nov-2026,8.58
+NTGA,,Federation Csses Desjardins Qc 1.59% 10-Sep-2026,8.37
+NTGA,,Lower Mattagami Energy LP 2.31% 21-Oct-2026,7.72
+NTGA,,Canadian Imperial Bank Commrce 2.25% 07-Jan-2027,7.62
+NTGA,,Toronto-Dominion Bank 2.26% 07-Jan-2027,6.45
+NTGA,,Royal Bank of Canada 2.33% 28-Jan-2027,6.07
+NTGA,,Bank of America Corp 1.98% 15-Sep-2026,4.65
+NTGA,,Manulife Bank of Canada 1.54% 14-Sep-2026,4.22
+NTGB,,Alectra Inc 2.49% 17-Feb-2027,5.83
+NTGB,,Canada Government 1.00% 01-Jun-2027,5.59
+NTGB,,Royal Bank of Canada 2.33% 28-Jan-2027,5.40
+NTGB,,Energir Inc 2.10% 16-Apr-2027,5.39
+NTGB,,Ontario Province 1.05% 08-Sep-2027,4.84
+NTGB,,Canada Government 1.25% 01-Mar-2027,4.66
+NTGB,,Verizon Communications Inc 2.38% 22-Jan-2028,4.38
+NTGB,,Canadian Imperial Bank Commrce 2.25% 07-Jan-2027,4.21
+NTGB,,Canadian Pacific Railway Co 2.54% 28-Dec-2027,4.08
+NTGB,,North West Redwater Partnershp 2.80% 01-Mar-2027,4.06
+NTGC,,Toronto-Dominion Bank 1.89% 08-Mar-2028,6.97
+NTGC,,Greater Toronto Airports Auth 1.54% 03-Mar-2028,6.54
+NTGC,,Prince Edward Island Province 1.20% 11-Feb-2028,5.75
+NTGC,,Nova Scotia Province 1.10% 01-Jun-2028,5.71
+NTGC,,Goldman Sachs Group Inc 2.01% 28-Feb-2028,5.01
+NTGC,,PSP Capital Inc 1.50% 15-Mar-2028,4.77
+NTGC,,Altagas Ltd 2.08% 30-Mar-2028,4.48
+NTGC,,Telus Corp 2.35% 27-Nov-2027,4.46
+NTGC,,Verizon Communications Inc 2.38% 22-Jan-2028,4.30
+NTGC,,Reliance LP 2.67% 01-Aug-2028,4.28
+NTGD,,Enbridge Gas Inc 2.37% 09-Aug-2029,7.58
+NTGD,,Toronto Hydro Corp 2.43% 11-Dec-2029,6.36
+NTGD,,Ontario Power Generation Inc 2.98% 13-Jun-2029,5.97
+NTGD,,Greater Toronto Airports Auth 2.73% 03-Apr-2029,5.77
+NTGD,,PSP Capital Inc 2.05% 15-Jan-2030,5.06
+NTGD,,CPPIB Capital Inc 1.95% 30-Sep-2029,4.96
+NTGD,,Canadian National Railway Co 3.00% 08-Nov-2028,4.68
+NTGD,,CT REIT 3.03% 05-Feb-2029,4.60
+NTGD,,Rogers Communications Inc 3.25% 01-Feb-2029,4.42
+NTGD,,Telus Corp 3.30% 02-Feb-2029,4.37
+NTGE,,Canada Government 0.50% 01-Dec-2030,7.87
+NTGE,,Canada Housing Trust No 1 1.10% 15-Mar-2031,6.63
+NTGE,,Enbridge Gas Inc 2.90% 01-Apr-2030,5.33
+NTGE,,FortisBC Energy Inc. 3.38% 16-Oct-2030,5.00
+NTGE,,Ontario Province 1.35% 02-Dec-2030,4.88
+NTGE,,Verizon Communications Inc 2.50% 16-Feb-2030,4.36
+NTGE,,EPCOR Utilities Inc. 3.37% 01-Oct-2030,4.35
+NTGE,,National Bank of Canada 3.44% 04-Jun-2028,4.33
+NTGE,,Royal Bank of Canada 3.57% 09-Dec-2031,4.29
+NTGE,,Granite REIT Holdings LP 2.38% 18-Dec-2030,3.92
+NTGF,,Canada Government 1.50% 01-Dec-2031,8.62
+NTGF,,Canada Housing Trust No 1 1.10% 15-Mar-2031,7.26
+NTGF,,Energir LP 3.04% 09-Feb-2032,6.93
+NTGF,,Enbridge Gas Inc 2.35% 15-Sep-2031,6.58
+NTGF,,Epcor Utilities Inc 2.41% 30-Mar-2031,6.49
+NTGF,,Lower Mattagami Energy LP 2.43% 14-Feb-2031,6.46
+NTGF,,Bank of Montreal 3.54% 03-Mar-2032,6.12
+NTGF,,North West Redwater Partnershp 2.80% 01-Mar-2031,5.52
+NTGF,,Telus Corp 2.85% 13-Aug-2031,4.21
+NTGF,,Bell Canada 3.00% 17-Dec-2030,4.05
+NTHM,,Microsoft Corp,4.40
+NTHM,,Bloom Energy Corp Cl A,4.25
+NTHM,,KLA Corp,4.03
+NTHM,,BHP Group Ltd,2.73
+NTHM,,Showa Denko KK,2.52
+NTHM,,Meta Platforms Inc Cl A,2.23
+NTHM,,Tencent Holdings Ltd,2.19
+NTHM,,Freeport-McMoRan Inc,1.96
+NTHM,,Albemarle Corp,1.89
+NTHM,,Palantir Technologies Inc Cl A,1.67
+NUBF,,Interest Rate Swap 2.22% 16-Dec-2027,14.03
+NUBF,,Interest Rate Swap 4.06% 15-Sep-2028,13.52
+NUBF,,Interest Rate Swap 2.89% 14-Jun-2029,13.21
+NUBF,,Cash and Cash Equivalents,9.43
+NUBF,,Interest Rate Swap 2.39% 15-Dec-2028,5.45
+NUBF,,Interest Rate Swap 4.23% 15-Sep-2028,4.94
+NUBF,,"Credit default swap, due June 20, 2031",4.22
+NUBF,,"Interest Rate Swap, due September 16, 2031",4.14
+NUBF,,Interest Rate Swap 2.32% 11-Aug-2030,3.17
+NUBF,,Interest Rate Swap 3.12% 21-Jun-2038,2.94
+NUSA,,NVIDIA Corp,9.37
+NUSA,,Microsoft Corp,8.51
+NUSA,,Amazon.com Inc,6.37
+NUSA,,Alphabet Inc Cl A,6.22
+NUSA,,Broadcom Inc,4.75
+NUSA,,Apple Inc,4.03
+NUSA,,Lam Research Corp,3.83
+NUSA,,Valero Energy Corp,3.71
+NUSA,,Danaher Corp,3.63
+NUSA,,JPMorgan Chase & Co,3.61
+NUSA.F,,NVIDIA Corp,9.37
+NUSA.F,,Microsoft Corp,8.51
+NUSA.F,,Amazon.com Inc,6.37
+NUSA.F,,Alphabet Inc Cl A,6.22
+NUSA.F,,Broadcom Inc,4.75
+NUSA.F,,Apple Inc,4.03
+NUSA.F,,Lam Research Corp,3.83
+NUSA.F,,Valero Energy Corp,3.71
+NUSA.F,,Danaher Corp,3.63
+NUSA.F,,JPMorgan Chase & Co,3.61

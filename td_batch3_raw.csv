@@ -1,0 +1,688 @@
+etf_ticker,holding_name,weight_pct
+TCSB,"Federation des caisses Desjardins du Quebec Variable Rate Callable 5.279% May 15 2034",2.6
+TCSB,"Brookfield Renewable Partners ULC Callable 3.630% Jan 15 2027",2.5
+TCSB,"RioCan Real Estate Investment Trust Callable 5.455% Mar 1 2031",2.5
+TCSB,"TELUS Corporation Callable 4.950% Feb 18 2031",2.5
+TCSB,"Hyundai Capital Canada Inc. Callable 5.565% Mar 8 2028",2.5
+TCSB,"Royal Bank of Canada Variable Rate Callable 2.940% May 3 2032",2.5
+TCSB,"Rogers Communications Inc. Callable 5.800% Sep 21 2030",2.5
+TCSB,"Bell Canada Callable 3.800% Aug 21 2028",2.4
+TCSB,"Canadian Imperial Bank of Commerce Variable Rate Callable 5.300% Jan 16 2034",2.4
+TCSB,"Saputo Inc. Callable 5.492% Nov 20 2030",2.3
+TCSB,"Emera Inc. Callable 4.838% May 2 2030",2.3
+TCSB,"National Bank of Canada Variable Rate Callable 5.279% Feb 15 2034",2.2
+TCSB,"ARC Resources Limited Callable 3.465% Mar 10 2031",2.0
+TCSB,"The Bank of Nova Scotia Variable Rate Callable 5.679% Aug 2 2033",2.0
+TCSB,"Toyota Credit Canada Inc. 3.740% May 21 2030",2.0
+TCSB,"Inter Pipeline Limited Callable Series 15 5.760% Feb 17 2028",1.9
+TCSB,"National Bank of Canada Variable Rate Callable 5.426% Aug 16 2032",1.9
+TCSB,"Inter Pipeline Limited Callable Series 11 4.232% Jun 1 2027",1.9
+TCSB,"Granite REIT Holdings Limited Partnership Callable 3.999% Oct 4 2029",1.8
+TCSB,"Allied Properties Real Estate Investment Trust Callable Series G 3.131% May 15 2028",1.7
+TCSB,"The Toronto-Dominion Bank Variable Rate Callable 3.060% Jan 26 2032",1.7
+TCSB,"Pembina Pipeline Corporation Callable Series 15 3.310% Feb 1 2030",1.6
+TCSB,"SmartCentres Real Estate Investment Trust Callable 5.162% Aug 1 2030",1.6
+TCSB,"Ford Credit Canada Company Callable 5.582% May 23 2031",1.6
+TCSB,"TELUS Corporation Callable 2.350% Jan 27 2028",1.5
+TCSH,"Manulife Bank of Canada 2.860% Feb 16 2027",2.2
+TCSH,"Canadian Imperial Bank of Commerce 4.950% Jun 29 2026",2.1
+TCSH,"Toronto-Dominion Bank 5.419% Jul 10 2026",2.0
+TCSH,"Canadian Imperial Bank of Commerce 5.280% Nov 15 2028",2.0
+TCSH,"Bank of Nova Scotia 5.500% Aug 5 2028",1.9
+TCSH,"National Bank of Canada 5.222% Feb 14 2028",1.9
+TCSH,"Bank of Nova Scotia 4.850% Oct 31 2025",1.8
+TCSH,"National Bank of Canada 5.019% Feb 7 2028",1.8
+TCSH,"Canadian Imperial Bank of Commerce 5.349% Apr 20 2028",1.8
+TCSH,"Bank of Nova Scotia 4.700% Aug 1 2028",1.7
+TCSH,"Royal Bank of Canada 4.927% Jul 16 2025",1.7
+TCSH,"Bank of Montreal 4.041% Mar 24 2027",1.7
+TCSH,"Bank of Montreal 5.039% Jul 29 2026",1.7
+TCSH,"Bank of Montreal 4.537% Dec 18 2028",1.6
+TCSH,"National Bank of Canada 5.260% Jun 20 2025",1.5
+TCSH,"Bank of Nova Scotia 5.347% Jun 23 2026",1.5
+TCSH,"National Bank of Canada 4.978% Jun 15 2026",1.5
+TCSH,"National Bank of Canada 5.020% Feb 4 2026",1.4
+TCSH,"Bank of Montreal 5.312% Jan 14 2027",1.4
+TCSH,"Royal Bank of Canada 5.096% Jul 24 2026",1.4
+TCSH,"Bank of Nova Scotia 5.653% Aug 20 2026",1.4
+TCSH,"Laurentian Bank of Canada 4.290% Aug 13 2025",1.3
+TCSH,"Toronto-Dominion Bank 5.216% Jul 17 2026",1.3
+TCSH,"Laurentian Bank of Canada 5.200% Dec 12 2025",1.3
+TCSH,"Bank of Montreal 5.281% Aug 7 2026",1.2
+TDOC,"Johnson & Johnson",2.6
+TDOC,"Gilead Sciences Inc.",2.5
+TDOC,"Pfizer Inc.",2.5
+TDOC,"Merck & Company Inc.",2.5
+TDOC,"Bristol-Myers Squibb Company",2.4
+TDOC,"GSK PLC",2.4
+TDOC,"Novartis AG",2.3
+TDOC,"McKesson Corporation",2.3
+TDOC,"Amgen Inc.",2.3
+TDOC,"AstraZeneca PLC",2.2
+TDOC,"Sanofi",2.2
+TDOC,"AbbVie Inc.",2.1
+TDOC,"Roche Holding AG",2.1
+TDOC,"Vertex Pharmaceuticals Inc.",2.1
+TDOC,"Regeneron Pharmaceuticals Inc.",2.0
+TDOC,"Stryker Corporation",2.0
+TDOC,"HCA Healthcare Inc.",2.0
+TDOC,"Medtronic PLC",1.9
+TDOC,"Eli Lilly & Company",1.8
+TDOC,"The Cigna Group",1.8
+TDOC,"Abbott Laboratories",1.8
+TDOC,"Danaher Corporation",1.8
+TDOC,"Thermo Fisher Scientific Inc.",1.8
+TDOC,"UnitedHealth Group Inc.",1.8
+TDOC,"Intuitive Surgical Inc.",1.7
+TEC,"NVIDIA Corporation",13.0
+TEC,"Apple Inc.",11.7
+TEC,"Alphabet Inc.",10.0
+TEC,"Microsoft Corporation",8.7
+TEC,"Amazon.com Inc.",6.4
+TEC,"Broadcom Inc.",4.6
+TEC,"Meta Platforms Inc.",4.0
+TEC,"Tesla Inc.",3.5
+TEC,"Visa Inc.",1.6
+TEC,"ASML Holding NV",1.6
+TEC,"Netflix Inc.",1.4
+TEC,"Mastercard Inc.",1.3
+TEC,"Micron Technology Inc.",1.2
+TEC,"Advanced Micro Devices Inc.",1.1
+TEC,"Palantir Technologies Inc.",1.0
+TEC,"Cisco Systems Inc.",1.0
+TEC,"Applied Materials Inc.",0.9
+TEC,"Lam Research Corporation",0.9
+TEC,"Oracle Corporation",0.8
+TEC,"International Business Machines Corporation",0.7
+TEC,"Intel Corporation",0.6
+TEC,"KLA Corporation",0.6
+TEC,"Texas Instruments Inc.",0.6
+TEC,"SAP SE",0.6
+TEC,"Salesforce Inc.",0.6
+TECI,"KLA Corporation",11.2
+TECI,"Analog Devices Inc.",10.3
+TECI,"Arista Networks Inc.",8.5
+TECI,"Shopify Inc.",7.3
+TECI,"Advantest Corporation",6.1
+TECI,"Marvell Technology Inc.",5.5
+TECI,"Seagate Technology Holdings PLC",5.5
+TECI,"Autodesk Inc.",3.4
+TECI,"Monolithic Power Systems Inc.",3.3
+TECI,"Lumentum Holdings Inc.",3.2
+TECI,"Fujikura Limited",2.5
+TECI,"Coherent Corporation",2.3
+TECI,"ASM International NV",2.3
+TECI,"Strategy Inc.",2.2
+TECI,"Workday Inc.",1.8
+TECI,"Veeva Systems Inc.",1.7
+TECI,"Nebius Group NV",1.4
+TECI,"MongoDB Inc.",1.3
+TECI,"Lasertec Corporation",1.1
+TECI,"MACOM Technology Solutions Holdings Inc.",1.0
+TECI,"Okta Inc.",0.9
+TECI,"Nova Limited",0.8
+TECI,"Guidewire Software Inc.",0.8
+TECI,"QXO Inc.",0.8
+TECI,"Advanced Energy Industries Inc.",0.8
+TECX,"NVIDIA Corporation",13.0
+TECX,"Apple Inc.",11.7
+TECX,"Alphabet Inc.",10.0
+TECX,"Microsoft Corporation",8.7
+TECX,"Amazon.com Inc.",6.4
+TECX,"Broadcom Inc.",4.6
+TECX,"Meta Platforms Inc.",4.0
+TECX,"Tesla Inc.",3.5
+TECX,"Visa Inc.",1.6
+TECX,"ASML Holding NV",1.6
+TECX,"Netflix Inc.",1.4
+TECX,"Mastercard Inc.",1.3
+TECX,"Micron Technology Inc.",1.2
+TECX,"Advanced Micro Devices Inc.",1.1
+TECX,"Palantir Technologies Inc.",1.0
+TECX,"Cisco Systems Inc.",1.0
+TECX,"Applied Materials Inc.",0.9
+TECX,"Lam Research Corporation",0.9
+TECX,"Oracle Corporation",0.8
+TECX,"International Business Machines Corporation",0.7
+TECX,"Intel Corporation",0.6
+TECX,"KLA Corporation",0.6
+TECX,"Texas Instruments Inc.",0.6
+TECX,"SAP SE",0.6
+TECX,"Salesforce Inc.",0.6
+TEQT,"TD U.S. Equity Index ETF (TPU)",55.1
+TEQT,"TD Canadian Equity Index ETF",25.5
+TEQT,"TD International Equity Index ETF",19.3
+TEQT,"Cash (Bank Overdraft)",0.0
+TGED,"NVIDIA Corporation",5.9
+TGED,"Alphabet Inc.",4.1
+TGED,"GE Vernova Inc.",3.5
+TGED,"ACS Actividades de Construccion y Servicios SA",3.4
+TGED,"Cash (Bank Overdraft)",3.4
+TGED,"Corning Inc.",3.3
+TGED,"Johnson & Johnson",3.2
+TGED,"Imperial Oil Limited",3.1
+TGED,"Broadcom Inc.",2.9
+TGED,"Apple Inc.",2.8
+TGED,"Curtiss-Wright Corporation",2.7
+TGED,"Howmet Aerospace Inc.",2.6
+TGED,"KLA Corporation",2.5
+TGED,"Agnico Eagle Mines Limited",2.4
+TGED,"Ferrovial SE",2.2
+TGED,"Caterpillar Inc.",2.2
+TGED,"Cameco Corporation",2.1
+TGED,"Galderma Group AG",2.1
+TGED,"BrightSpring Health Services Inc.",2.1
+TGED,"HSBC Holdings PLC",2.1
+TGED,"JPMorgan Chase & Company",2.0
+TGED,"Unipol Assicurazioni SpA",1.9
+TGED,"Gilead Sciences Inc.",1.9
+TGED,"Microsoft Corporation",1.9
+TGED,"Costco Wholesale Corporation",1.8
+TGFI,"Cash (Bank Overdraft)",3.0
+TGFI,"U.S. Treasury Notes (USD) 3.500% Sep 30 2027",2.5
+TGFI,"U.S. Treasury Notes (USD) 3.875% Jul 31 2030",1.5
+TGFI,"Barclays PLC (USD) Variable Rate Callable 5.785% Feb 25 2036",1.4
+TGFI,"Ford Credit Canada Company Callable 5.441% Feb 9 2029",1.4
+TGFI,"Builders FirstSource Inc. (USD) Callable 6.375% Mar 1 2034",1.3
+TGFI,"Duke Energy Corporation (USD) Variable Rate Callable 6.450% Sep 1 2054",1.3
+TGFI,"NextEra Energy Capital Holdings Inc. (USD) Variable Rate Callable 6.750% Jun 15 2054",1.2
+TGFI,"Ivanhoe Mines Limited (USD) Callable 7.875% Jan 23 2030",1.0
+TGFI,"Rogers Communications Inc. Callable 5.900% Sep 21 2033",1.0
+TGFI,"Inter Pipeline Limited Callable Series 17 5.710% May 29 2030",1.0
+TGFI,"Morgan Stanley (USD) Variable Rate Callable 5.466% Jan 18 2035",0.9
+TGFI,"TELUS Corporation Callable 5.100% Feb 15 2034",0.9
+TGFI,"U.S. Treasury Bonds (USD) 4.750% Aug 15 2055",0.9
+TGFI,"OAK-Eagle Acquireco Inc. (USD) Callable 7.250% Jul 1 2033",0.9
+TGFI,"Capital Power Corporation Callable 5.973% Jan 25 2034",0.9
+TGFI,"Amneal Pharmaceuticals LLC (USD) Callable 6.875% Aug 1 2032",0.8
+TGFI,"Tenet Healthcare Corporation (USD) Callable 6.000% Nov 15 2033",0.8
+TGFI,"Bell Canada (USD) Variable Rate Callable 7.000% Sep 15 2055",0.8
+TGFI,"Owens-Brockway Glass Container Inc. (USD) Callable 7.250% May 15 2031",0.8
+TGFI,"BNP Paribas SA (USD) Variable Rate Callable 5.906% Nov 19 2035",0.8
+TGFI,"Caesars Entertainment Inc. (USD) Callable 6.500% Feb 15 2032",0.8
+TGFI,"Pacificorp (USD) Variable Rate Callable 7.125% Aug 15 2056",0.8
+TGFI,"Targa Resources Corporation (USD) Callable 6.500% Mar 30 2034",0.8
+TGFI,"NextEra Media Inc. (USD) Callable 7.250% Apr 15 2034",0.8
+TGGR,"Apple Inc.",6.2
+TGGR,"NVIDIA Corporation",5.6
+TGGR,"Alphabet Inc.",4.5
+TGGR,"Microsoft Corporation",4.5
+TGGR,"Taiwan Semiconductor Manufacturing Company Limited",3.3
+TGGR,"JPMorgan Chase & Company",2.5
+TGGR,"Meta Platforms Inc.",2.4
+TGGR,"ASML Holding NV",2.3
+TGGR,"KLA Corporation",2.3
+TGGR,"Costco Wholesale Corporation",2.2
+TGGR,"Lam Research Corporation",2.1
+TGGR,"Eli Lilly & Company",2.1
+TGGR,"AstraZeneca PLC",2.1
+TGGR,"Hoya Corporation",1.9
+TGGR,"American Express Company",1.9
+TGGR,"Mastercard Inc.",1.8
+TGGR,"Fastenal Company",1.8
+TGGR,"The Travelers Companies Inc.",1.8
+TGGR,"Industria de Diseno Textil SA",1.7
+TGGR,"Arista Networks Inc.",1.7
+TGGR,"Booking Holdings Inc.",1.6
+TGGR,"Yum! Brands Inc.",1.6
+TGGR,"Visa Inc.",1.6
+TGGR,"Games Workshop Group PLC",1.6
+TGGR,"Hess Midstream Limited Partnership",1.6
+TGRE,"Welltower Inc.",9.1
+TGRE,"Prologis Inc.",8.8
+TGRE,"Equinix Inc.",7.0
+TGRE,"American Tower Corporation",6.1
+TGRE,"Simon Property Group Inc.",4.6
+TGRE,"CBRE Group Inc.",4.2
+TGRE,"Digital Realty Trust Inc.",4.1
+TGRE,"Goodman Group",3.1
+TGRE,"Mitsubishi Estate Company Limited",2.7
+TGRE,"Iron Mountain Inc.",2.5
+TGRE,"Mitsui Fudosan Company Limited",2.3
+TGRE,"FirstService Corporation",2.2
+TGRE,"Public Storage",1.8
+TGRE,"Chartwell Retirement Residences",1.8
+TGRE,"VICI Properties Inc.",1.7
+TGRE,"Essex Property Trust Inc.",1.7
+TGRE,"Vicinity Limited",1.7
+TGRE,"Boardwalk Real Estate Investment Trust",1.6
+TGRE,"Sumitomo Realty & Development Company Limited",1.6
+TGRE,"Cash (Bank Overdraft)",1.6
+TGRE,"AvalonBay Communities Inc.",1.6
+TGRE,"Vonovia SE",1.5
+TGRE,"Choice Properties Real Estate Investment Trust",1.5
+TGRE,"Unibail-Rodamco-Westfield SE",1.5
+TGRE,"Ventas Inc.",1.4
+TGRO,"TD U.S. Equity Index ETF (TPU)",39.3
+TGRO,"TD Canadian Equity Index ETF",25.7
+TGRO,"TD International Equity Index ETF",19.6
+TGRO,"TD Canadian Aggregate Bond Index ETF",15.4
+TGRO,"Cash (Bank Overdraft)",0.1
+THE,"TD International Equity Index ETF",101.4
+THE,"Cash (Bank Overdraft)",0.2
+THE,"Foreign Exchange Forward Contracts",-0.6
+THU,"TD U.S. Equity Index ETF (TPU)",100.0
+THU,"Cash (Bank Overdraft)",2.2
+THU,"Foreign Exchange Forward Contracts",-2.2
+TILV,"Roche Holding AG",1.9
+TILV,"ENEOS Holdings Inc.",1.9
+TILV,"Singapore Technologies Engineering Limited",1.9
+TILV,"Orange SA",1.8
+TILV,"Koninklijke KPN NV",1.7
+TILV,"Oversea-Chinese Banking Corporation Limited",1.7
+TILV,"Singapore Exchange Limited",1.7
+TILV,"Swisscom AG",1.7
+TILV,"BOC Hong Kong (Holdings) Limited",1.6
+TILV,"Novartis AG",1.6
+TILV,"Woolworths Group Limited",1.6
+TILV,"Telstra Group Limited",1.6
+TILV,"Koninklijke Ahold Delhaize NV",1.5
+TILV,"AstraZeneca PLC",1.5
+TILV,"United Overseas Bank Limited",1.5
+TILV,"DBS Group Holdings Limited",1.5
+TILV,"Singapore Telecommunications Limited",1.5
+TILV,"Shell PLC",1.5
+TILV,"Tokio Marine Holdings Inc.",1.5
+TILV,"Orkla ASA",1.4
+TILV,"Japan Tobacco Inc.",1.4
+TILV,"KDDI Corporation",1.4
+TILV,"Zurich Insurance Group AG",1.4
+TILV,"SoftBank Corporation",1.4
+TILV,"Kirin Holdings Company Limited",1.4
+TINF,"Aena SME SA",5.6
+TINF,"NextEra Energy Inc.",5.4
+TINF,"Iberdrola SA",5.4
+TINF,"The Williams Companies Inc.",4.6
+TINF,"Enbridge Inc.",4.3
+TINF,"The Southern Company",3.9
+TINF,"TC Energy Corporation",3.4
+TINF,"Cheniere Energy Inc.",3.4
+TINF,"Enel SpA",3.3
+TINF,"Flughafen Zuerich AG",3.2
+TINF,"Grupo Aeroportuario del Pacifico SAB de CV",3.2
+TINF,"American Electric Power Company Inc.",3.2
+TINF,"National Grid PLC",2.8
+TINF,"Transurban Group",2.8
+TINF,"Grupo Aeroportuario del Sureste SAB de CV",2.6
+TINF,"Duke Energy Corporation",2.5
+TINF,"Qube Holdings Limited",2.5
+TINF,"Engie SA",2.4
+TINF,"E.ON SE",2.3
+TINF,"Grupo Aeroportuario del Centro Norte SAB de CV",2.2
+TINF,"Constellation Energy Corporation",2.1
+TINF,"Targa Resources Corporation",2.0
+TINF,"Entergy Corporation",1.7
+TINF,"Ferrovial SE",1.6
+TINF,"International Container Terminal Services Inc.",1.5
+TPE,"ASML Holding NV",2.4
+TPE,"AstraZeneca PLC",1.4
+TPE,"Roche Holding AG",1.4
+TPE,"Novartis AG",1.4
+TPE,"HSBC Holdings PLC",1.4
+TPE,"Shell PLC",1.3
+TPE,"Nestle SA",1.2
+TPE,"Toyota Motor Corporation",1.0
+TPE,"Commonwealth Bank of Australia",0.9
+TPE,"TotalEnergies SE",0.9
+TPE,"Mitsubishi UFJ Financial Group Inc.",0.9
+TPE,"Siemens AG",0.9
+TPE,"SAP SE",0.9
+TPE,"BHP Group Limited",0.9
+TPE,"Banco Santander SA",0.8
+TPE,"Allianz SE",0.8
+TPE,"Schneider Electric SE",0.7
+TPE,"Iberdrola SA",0.7
+TPE,"LVMH Moet Hennessy-Louis Vuitton SE",0.7
+TPE,"Cash (Bank Overdraft)",0.7
+TPE,"Deutsche Telekom AG",0.6
+TPE,"Rolls-Royce Holdings PLC",0.6
+TPE,"ABB Limited",0.6
+TPE,"Hitachi Limited",0.6
+TPE,"Siemens Energy AG",0.6
+TPRF,"TC Energy Corporation Variable Rate Callable Pref. Series 1 4.939%",3.4
+TPRF,"BCE Inc. Variable Rate Callable Pref. Series AK 3.306%",2.9
+TPRF,"Manulife Financial Corporation Variable Rate Callable Pref. Series 17 5.542%",2.8
+TPRF,"Brookfield Corporation Variable Rate Callable Pref. Series 24 3.237%",2.7
+TPRF,"Brookfield Renewable Power Preferred Equity Inc. Variable Rate Callable Pref. Series 3 6.519%",2.3
+TPRF,"Pembina Pipeline Corporation Variable Rate Callable Pref. Series 7 5.953%",2.3
+TPRF,"TC Energy Corporation Variable Rate Callable Pref. Series 7 5.985%",2.2
+TPRF,"National Bank of Canada Variable Rate Callable Pref. Series 30 6.191%",2.1
+TPRF,"Enbridge Inc. Variable Rate Callable Pref. Series 3 5.288%",2.0
+TPRF,"Fortis Inc. Variable Rate Callable Pref. Series M 5.493%",1.9
+TPRF,"BCE Inc. Variable Rate Callable Pref. Series AM 2.939%",1.9
+TPRF,"Intact Financial Corporation Variable Rate Callable Pref. Series 3 3.457%",1.9
+TPRF,"TC Energy Corporation Variable Rate Callable Pref. Series 9 5.080%",1.8
+TPRF,"Brookfield Corporation Variable Rate Callable Pref. Series 26 3.846%",1.8
+TPRF,"Brookfield Renewable Power Preferred Equity Inc. Variable Rate Callable Pref. Series 1 5.203%",1.8
+TPRF,"Pembina Pipeline Corporation Variable Rate Callable Pref. Series 15 6.164%",1.7
+TPRF,"Power Financial Corporation Callable Pref. Series K 4.950%",1.6
+TPRF,"Enbridge Inc. Variable Rate Callable Pref. Series 15 5.561%",1.6
+TPRF,"Enbridge Inc. Variable Rate Callable Pref. Series 11 5.477%",1.5
+TPRF,"TransAlta Corporation Variable Rate Callable Pref. Series C 5.854%",1.5
+TPRF,"Power Financial Corporation Variable Rate Callable Pref. Series P 4.591%",1.4
+TPRF,"Brookfield Office Properties Inc. Variable Rate Callable Pref. Series GG 5.546%",1.4
+TPRF,"Enbridge Inc. Variable Rate Callable Pref. Series 13 5.395%",1.3
+TPRF,"Great-West Lifeco Inc. Variable Rate Callable Pref. Series G 5.200%",1.2
+TPRF,"The Toronto-Dominion Bank Variable Rate Callable Perpetual Series 27 5.750% Dec 31 2049",1.2
+TPU,"NVIDIA Corporation",7.3
+TPU,"Apple Inc.",6.5
+TPU,"Alphabet Inc.",5.6
+TPU,"Microsoft Corporation",4.9
+TPU,"Amazon.com Inc.",3.6
+TPU,"Broadcom Inc.",2.6
+TPU,"Meta Platforms Inc.",2.2
+TPU,"Tesla Inc.",1.9
+TPU,"JPMorgan Chase & Company",1.4
+TPU,"Eli Lilly & Company",1.4
+TPU,"Exxon Mobil Corporation",1.3
+TPU,"Berkshire Hathaway Inc.",1.2
+TPU,"Johnson & Johnson",1.1
+TPU,"Walmart Inc.",1.0
+TPU,"Visa Inc.",0.9
+TPU,"Costco Wholesale Corporation",0.8
+TPU,"Netflix Inc.",0.8
+TPU,"Mastercard Inc.",0.7
+TPU,"Chevron Corporation",0.7
+TPU,"AbbVie Inc.",0.7
+TPU,"Micron Technology Inc.",0.7
+TPU,"The Procter & Gamble Company",0.6
+TPU,"Caterpillar Inc.",0.6
+TPU,"Advanced Micro Devices Inc.",0.6
+TPU,"The Home Depot Inc.",0.6
+TQCD,"Suncor Energy Inc.",3.9
+TQCD,"Canadian Imperial Bank of Commerce",3.5
+TQCD,"Power Corporation of Canada",3.4
+TQCD,"Great-West Lifeco Inc.",3.4
+TQCD,"TELUS Corporation",3.3
+TQCD,"The Bank of Nova Scotia",3.3
+TQCD,"Barrick Mining Corporation",3.2
+TQCD,"The Toronto-Dominion Bank",3.2
+TQCD,"Manulife Financial Corporation",3.2
+TQCD,"Royal Bank of Canada",3.1
+TQCD,"Pembina Pipeline Corporation",3.1
+TQCD,"Canadian National Railway Company",3.0
+TQCD,"Agnico Eagle Mines Limited",3.0
+TQCD,"Bank of Montreal",2.7
+TQCD,"Gibson Energy Inc.",2.6
+TQCD,"Sun Life Financial Inc.",2.6
+TQCD,"Enbridge Inc.",2.5
+TQCD,"Brookfield Infrastructure Partners Limited Partnership",2.4
+TQCD,"Nutrien Limited",2.4
+TQCD,"Brookfield Asset Management Limited",2.3
+TQCD,"Lundin Gold Inc.",2.0
+TQCD,"Freehold Royalties Limited",1.6
+TQCD,"Canadian Natural Resources Limited",1.4
+TQCD,"Kinross Gold Corporation",1.4
+TQCD,"Imperial Oil Limited",1.3
+TQGD,"NVIDIA Corporation",5.1
+TQGD,"Apple Inc.",3.9
+TQGD,"Microsoft Corporation",2.5
+TQGD,"Pfizer Inc.",1.8
+TQGD,"Altria Group Inc.",1.8
+TQGD,"Johnson & Johnson",1.7
+TQGD,"Accenture PLC",1.6
+TQGD,"Alphabet Inc.",1.6
+TQGD,"The Progressive Corporation",1.6
+TQGD,"United Parcel Service Inc.",1.6
+TQGD,"HP Inc.",1.6
+TQGD,"Comcast Corporation",1.5
+TQGD,"Merck & Company Inc.",1.5
+TQGD,"Nomura Holdings Inc.",1.5
+TQGD,"Aker BP ASA",1.5
+TQGD,"SITC International Holdings Company Limited",1.5
+TQGD,"AbbVie Inc.",1.4
+TQGD,"Annaly Capital Management Inc.",1.4
+TQGD,"Automatic Data Processing Inc.",1.3
+TQGD,"Dell Technologies Inc.",1.3
+TQGD,"Chevron Corporation",1.2
+TQGD,"AT&T Inc.",1.2
+TQGD,"Amgen Inc.",1.2
+TQGD,"Broadcom Inc.",1.2
+TQGD,"A.P. Moller - Maersk AS",1.2
+TQGM,"Oversea-Chinese Banking Corporation Limited",1.5
+TQGM,"Apple Inc.",1.5
+TQGM,"Amazon.com Inc.",1.5
+TQGM,"NVIDIA Corporation",1.5
+TQGM,"Alphabet Inc.",1.5
+TQGM,"Broadcom Inc.",1.5
+TQGM,"Microsoft Corporation",1.4
+TQGM,"ANA Holdings Inc.",1.4
+TQGM,"Meta Platforms Inc.",1.3
+TQGM,"Singapore Airlines Limited",1.3
+TQGM,"Walmart Inc.",1.2
+TQGM,"Altria Group Inc.",1.2
+TQGM,"ENEOS Holdings Inc.",1.2
+TQGM,"Fox Corporation",1.1
+TQGM,"Empire Company Limited",1.0
+TQGM,"Jardine Matheson Holdings Limited",0.9
+TQGM,"OMV AG",0.9
+TQGM,"Tesla Inc.",0.8
+TQGM,"Loblaw Companies Limited",0.8
+TQGM,"CK Hutchison Holdings Limited",0.8
+TQGM,"Idemitsu Kosan Company Limited",0.8
+TQGM,"George Weston Limited",0.8
+TQGM,"Exxon Mobil Corporation",0.8
+TQGM,"Fairfax Financial Holdings Limited",0.8
+TQGM,"Cisco Systems Inc.",0.7
+TQSM,"Ovintiv Inc.",1.8
+TQSM,"US Foods Holding Corporation",1.6
+TQSM,"HF Sinclair Corporation",1.6
+TQSM,"StoneX Group Inc.",1.3
+TQSM,"First BanCorp",1.3
+TQSM,"Mueller Industries Inc.",1.2
+TQSM,"Exelixis Inc.",1.2
+TQSM,"Grand Canyon Education Inc.",1.1
+TQSM,"Medpace Holdings Inc.",1.1
+TQSM,"AECOM",1.1
+TQSM,"Brady Corporation",1.1
+TQSM,"Janus Henderson Group PLC",1.0
+TQSM,"Equitable Holdings Inc.",1.0
+TQSM,"Dynatrace Inc.",1.0
+TQSM,"NewMarket Corporation",1.0
+TQSM,"Texas Roadhouse Inc.",1.0
+TQSM,"Flex Limited",1.0
+TQSM,"Curtiss-Wright Corporation",1.0
+TQSM,"Lincoln Electric Holdings Inc.",0.9
+TQSM,"Century Aluminum Company",0.9
+TQSM,"The Andersons Inc.",0.9
+TQSM,"Fidelity National Financial Inc.",0.9
+TQSM,"Toll Brothers Inc.",0.9
+TQSM,"Par Pacific Holdings Inc.",0.9
+TQSM,"Frontdoor Inc.",0.8
+TTP,"Royal Bank of Canada",6.7
+TTP,"The Toronto-Dominion Bank",4.7
+TTP,"Shopify Inc.",4.1
+TTP,"Enbridge Inc.",3.5
+TTP,"Agnico Eagle Mines Limited",3.0
+TTP,"Canadian Natural Resources Limited",2.9
+TTP,"Bank of Montreal",2.9
+TTP,"Brookfield Corporation",2.7
+TTP,"Canadian Imperial Bank of Commerce",2.6
+TTP,"The Bank of Nova Scotia",2.5
+TTP,"Suncor Energy Inc.",2.4
+TTP,"Canadian Pacific Kansas City Limited",2.1
+TTP,"Barrick Mining Corporation",2.0
+TTP,"TC Energy Corporation",1.9
+TTP,"Wheaton Precious Metals Corporation",1.8
+TTP,"Manulife Financial Corporation",1.7
+TTP,"Canadian National Railway Company",1.7
+TTP,"National Bank of Canada",1.5
+TTP,"Franco-Nevada Corporation",1.4
+TTP,"Cameco Corporation",1.4
+TTP,"Waste Connections Inc.",1.2
+TTP,"Alimentation Couche-Tard Inc.",1.2
+TTP,"Kinross Gold Corporation",1.1
+TTP,"Nutrien Limited",1.1
+TTP,"Fairfax Financial Holdings Limited",1.1
+TUED,"NVIDIA Corporation",8.5
+TUED,"Alphabet Inc.",5.5
+TUED,"Apple Inc.",5.0
+TUED,"GE Vernova Inc.",4.4
+TUED,"Broadcom Inc.",4.4
+TUED,"Microsoft Corporation",3.9
+TUED,"Corning Inc.",3.8
+TUED,"Caterpillar Inc.",3.6
+TUED,"Curtiss-Wright Corporation",3.6
+TUED,"Imperial Oil Limited",3.5
+TUED,"KLA Corporation",3.4
+TUED,"Johnson & Johnson",3.3
+TUED,"Howmet Aerospace Inc.",2.9
+TUED,"JPMorgan Chase & Company",2.9
+TUED,"Meta Platforms Inc.",2.7
+TUED,"Agnico Eagle Mines Limited",2.6
+TUED,"Cameco Corporation",2.5
+TUED,"Welltower Inc.",2.4
+TUED,"Gilead Sciences Inc.",2.3
+TUED,"Costco Wholesale Corporation",2.3
+TUED,"Eli Lilly & Company",2.2
+TUED,"BrightSpring Health Services Inc.",2.1
+TUED,"Cash (Bank Overdraft)",2.0
+TUED,"Huntington Ingalls Industries Inc.",1.8
+TUED,"The Bank of New York Mellon Corporation",1.7
+TUEX,"TD Active U.S. Enhanced Dividend ETF (TUED)",100.0
+TUEX,"Cash (Bank Overdraft)",2.2
+TUEX,"Foreign Exchange Forward Contracts",-2.2
+TUHY,"Cash (Bank Overdraft)",3.2
+TUHY,"OneMain Finance Corporation (USD) Callable 4.000% Sep 15 2030",2.4
+TUHY,"TransDigm Inc. (USD) Callable 7.125% Dec 1 2031",2.0
+TUHY,"Owens-Brockway Glass Container Inc. (USD) Callable 8.000% May 15 2031",1.8
+TUHY,"Arsenal AIC Parent LLC (USD) Callable 8.000% Oct 1 2030",1.7
+TUHY,"Performance Food Group Inc. (USD) Callable 6.125% Sep 15 2032",1.7
+TUHY,"Match Group Holdings II LLC (USD) Callable 4.625% Jun 1 2028",1.5
+TUHY,"Carnival Corporation (USD) Callable 5.750% Aug 1 2032",1.5
+TUHY,"Open Text Corporation (USD) Callable 3.875% Dec 1 2029",1.5
+TUHY,"PennyMac Financial Services Inc. (USD) Callable 6.750% Feb 15 2034",1.5
+TUHY,"Level 3 Financing Inc. (USD) Callable 6.875% Jun 30 2033",1.5
+TUHY,"Sirius XM Radio LLC (USD) Callable 5.000% Jul 1 2029",1.5
+TUHY,"Minerva Luxembourg SA (USD) Callable 4.375% Mar 18 2031",1.5
+TUHY,"Qikrete Holdings Inc. (USD) Callable 6.750% Mar 1 2033",1.4
+TUHY,"Energy Transfer Limited Partnership (USD) Variable Rate Callable Perpetual Series H 6.500% Dec 31 2049",1.4
+TUHY,"Windstream Services LLC/Windstream Escrow Finance Corporation (USD) Callable 8.250% Oct 1 2031",1.3
+TUHY,"Builders FirstSource Inc. (USD) Callable 6.375% Mar 1 2034",1.3
+TUHY,"Star Parent Inc. (USD) Callable 9.000% Oct 1 2030",1.3
+TUHY,"Vodafone Group PLC (USD) Variable Rate Callable 4.125% Jun 4 2081",1.2
+TUHY,"Bombardier Inc. (USD) Callable 7.000% Jun 1 2032",1.2
+TUHY,"Concentra Health Services Inc. (USD) Callable 6.875% Jul 15 2032",1.2
+TUHY,"NRG Energy Inc. (USD) Callable 6.250% Nov 1 2034",1.2
+TUHY,"Cloud Software Group Inc. (USD) Callable 8.250% Jun 30 2032",1.2
+TUHY,"Baytex Energy Corporation (USD) Callable 7.375% Mar 15 2032",1.2
+TUHY,"AltaGas Limited (USD) Variable Rate Callable 7.200% Oct 15 2054",1.2
+TULB,"U.S. Treasury Bonds (USD) 4.625% Nov 15 2055",19.1
+TULB,"U.S. Treasury Bonds (USD) 2.250% Aug 15 2049",9.9
+TULB,"U.S. Treasury Bonds (USD) 1.875% Nov 15 2051",9.9
+TULB,"U.S. Treasury Bonds (USD) 4.750% May 15 2055",9.2
+TULB,"U.S. Treasury Bonds (USD) 4.500% Nov 15 2054",7.5
+TULB,"U.S. Treasury Bonds (USD) 3.375% Nov 15 2048",7.3
+TULB,"U.S. Treasury Bonds (USD) 4.000% Nov 15 2052",6.8
+TULB,"U.S. Treasury Bonds (USD) 4.750% Nov 15 2053",6.2
+TULB,"U.S. Treasury Bonds (USD) 4.250% Feb 15 2054",5.7
+TULB,"U.S. Treasury Bonds (USD) 2.500% Feb 15 2045",5.1
+TULB,"U.S. Treasury Bonds (USD) 2.875% May 15 2043",4.4
+TULB,"U.S. Treasury Notes (USD) 4.000% Nov 15 2035",3.0
+TULB,"U.S. Treasury Bonds (USD) 4.750% Feb 15 2056",2.4
+TULB,"U.S. Treasury Bonds (USD) 3.125% Aug 15 2044",2.1
+TULB,"Cash (Bank Overdraft)",1.3
+TULB,"U.S. Treasury Bonds (USD) 3.250% May 15 2042",0.0
+TULB,"U.S. Treasury Notes (USD) 1.875% Feb 15 2032",0.0
+TULB,"U.S. Treasury Bonds (USD) 2.750% Nov 15 2042",0.0
+TULB,"U.S. Treasury Bonds (USD) 3.125% Feb 15 2043",0.0
+TULV,"Consolidated Edison Inc.",3.1
+TULV,"Johnson & Johnson",3.1
+TULV,"Cboe Global Markets Inc.",3.0
+TULV,"The Coca-Cola Company",3.0
+TULV,"CME Group Inc.",3.0
+TULV,"PepsiCo Inc.",3.0
+TULV,"The Hershey Company",2.9
+TULV,"Colgate-Palmolive Company",2.9
+TULV,"Verizon Communications Inc.",2.7
+TULV,"Public Service Enterprise Group Inc.",2.7
+TULV,"Merck & Company Inc.",2.7
+TULV,"Alphabet Inc.",2.6
+TULV,"Walmart Inc.",2.5
+TULV,"The Procter & Gamble Company",2.4
+TULV,"Fox Corporation",2.3
+TULV,"CenterPoint Energy Inc.",2.2
+TULV,"General Dynamics Corporation",2.1
+TULV,"Cisco Systems Inc.",2.1
+TULV,"Atmos Energy Corporation",2.1
+TULV,"NiSource Inc.",2.0
+TULV,"AbbVie Inc.",1.9
+TULV,"Boston Scientific Corporation",1.9
+TULV,"Exelon Corporation",1.9
+TULV,"General Mills Inc.",1.8
+TULV,"McKesson Corporation",1.7
+TUSB,"Cheniere Energy Partners Limited Partnership (USD) Callable 4.000% Mar 1 2031",3.6
+TUSB,"Athene Global Funding (USD) 2.550% Nov 19 2030",3.5
+TUSB,"Targa Resources Corporation (USD) Callable 4.900% Sep 15 2030",3.1
+TUSB,"Plains All American Pipeline Limited Partnership/Plains All American Finance Corporation (USD) Callable 3.800% Sep 15 2030",3.1
+TUSB,"General Motors Financial Company Inc. (USD) Callable 4.350% Jan 17 2027",2.6
+TUSB,"Capital One Financial Corporation (USD) Variable Rate Callable 5.700% Feb 1 2030",2.6
+TUSB,"Plains All American Pipeline Limited Partnership/Plains All American Finance Corporation (USD) Callable 4.500% Dec 15 2026",2.4
+TUSB,"Fifth Third Bancorp (USD) Variable Rate Callable 6.339% Jul 27 2029",2.4
+TUSB,"Oracle Corporation (USD) Callable 2.800% Apr 1 2027",2.4
+TUSB,"ONEOK Inc. (USD) Callable 6.350% Jan 15 2031",2.2
+TUSB,"Eastman Chemical Company (USD) Callable 4.500% Dec 1 2028",2.2
+TUSB,"EQT Corporation (USD) Callable 4.750% Jan 15 2031",2.2
+TUSB,"Wells Fargo & Company (USD) Variable Rate Callable 2.393% Jun 2 2028",2.1
+TUSB,"Bank of America Corporation (USD) Variable Rate Callable 1.898% Jul 23 2031",2.1
+TUSB,"Citigroup Inc. (USD) Variable Rate Callable 3.980% Mar 20 2030",2.1
+TUSB,"Hyundai Capital America (USD) Callable 6.375% Apr 8 2030",2.1
+TUSB,"Citigroup Inc. (USD) 4.450% Sep 29 2027",2.1
+TUSB,"Truist Financial Corporation (USD) Callable 3.875% Mar 19 2029",2.0
+TUSB,"Huntington Bancshares Inc. (USD) Variable Rate Callable 5.272% Jan 15 2031",2.0
+TUSB,"EQT Corporation (USD) Callable 7.000% Feb 1 2030",2.0
+TUSB,"Cheniere Energy Inc. (USD) Callable 4.625% Oct 15 2028",2.0
+TUSB,"Regions Financial Corporation (USD) Callable 1.800% Aug 12 2028",2.0
+TUSB,"Air Lease Corporation (USD) Callable 3.250% Oct 1 2029",1.9
+TUSB,"Morgan Stanley (USD) Variable Rate Callable 3.622% Apr 1 2031",1.8
+TUSB,"General Motors Company (USD) Callable 6.800% Oct 1 2027",1.8
+TUSD-U,"Enbridge Inc. (USD) 4.360% Apr 7 2026",6.4
+TUSD-U,"Canadian Master Trust (USD) 3.880% Jul 17 2026",5.3
+TUSD-U,"JPMorgan Chase & Company (USD) Variable Rate Callable 5.578% Apr 22 2027",4.2
+TUSD-U,"Fusion Trust (USD) 3.950% Jun 11 2026",4.2
+TUSD-U,"Toyota Motor Credit Corporation (USD) 4.450% May 18 2026",4.1
+TUSD-U,"Ridge Trust (USD) 3.910% Aug 4 2026",4.1
+TUSD-U,"SOUND Trust (USD) 3.900% Sep 8 2026",4.1
+TUSD-U,"Sure Trust (USD) 3.900% Sep 9 2026",4.1
+TUSD-U,"The Bank of Nova Scotia (USD) 5.350% Dec 7 2026",4.1
+TUSD-U,"The Goldman Sachs Group Inc. (USD) Callable 3.850% Jan 28 2027",3.5
+TUSD-U,"Canadian Imperial Bank of Commerce (USD) 1.250% Jun 22 2026",3.0
+TUSD-U,"Sure Trust (USD) 3.800% Jun 3 2026",2.9
+TUSD-U,"The Toronto-Dominion Bank (USD) 3.264% Dec 11 2026",2.6
+TUSD-U,"Storm King Funding (USD) 3.990% Jul 10 2026",2.3
+TUSD-U,"General Motors Financial Company Inc. (USD) Callable 2.350% Feb 26 2027",2.3
+TUSD-U,"Wells Fargo Bank NA (USD) Callable 5.450% Aug 7 2026",1.8
+TUSD-U,"Lakeshore Trust (USD) 4.310% May 4 2026",1.8
+TUSD-U,"The Toronto-Dominion Bank (USD) 5.532% Jul 17 2026",1.8
+TUSD-U,"General Motors Financial Company Inc. (USD) Callable 4.000% Oct 6 2026",1.7
+TUSD-U,"Enbridge Inc. (USD) 4.060% Apr 9 2026",1.7
+TUSD-U,"Toyota Motor Credit Corporation (USD) 4.550% Aug 7 2026",1.6
+TUSD-U,"SOUND Trust (USD) 3.850% Jun 23 2026",1.6
+TUSD-U,"Sumitomo Mitsui Financial Group Inc. (USD) 5.880% Jul 13 2026",1.3
+TUSD-U,"Stable Trust (USD) 3.830% May 6 2026",1.3
+TUSD-U,"Clarity Trust (USD) 4.640% Apr 14 2026",1.2
+TDB,"Government of Canada 3.250% Dec 1 2035",2.1
+TDB,"Government of Canada 3.250% Jun 1 2035",1.5
+TDB,"Government of Canada 2.750% Mar 1 2031",1.4
+TDB,"Government of Canada 1.250% Jun 1 2030",1.3
+TDB,"Government of Canada 2.750% Sep 1 2030",1.2
+TDB,"Government of Canada 2.750% May 1 2027",1.2
+TDB,"Government of Canada 3.500% Dec 1 2057",1.2
+TDB,"Government of Canada 2.500% Aug 1 2027",1.2
+TDB,"Government of Canada 2.750% Mar 1 2030",1.2
+TDB,"Government of Canada 2.500% Nov 1 2027",1.2
+TDB,"Government of Canada 3.500% Sep 1 2029",1.1
+TDB,"Government of Canada 1.250% Mar 1 2027",1.1
+TDB,"Government of Canada 1.500% Jun 1 2031",1.1
+TDB,"Government of Canada 0.500% Dec 1 2030",1.1
+TDB,"Government of Canada 4.000% Mar 1 2029",1.1
+TDB,"Government of Canada 3.250% Dec 1 2034",1.0
+TDB,"Government of Canada 3.000% Jun 1 2034",1.0
+TDB,"Government of Canada 2.000% Jun 1 2032",1.0
+TDB,"Government of Canada 2.000% Dec 1 2051",1.0
+TDB,"Government of Canada 1.500% Dec 1 2031",0.9
+TDB,"Government of Canada 3.500% Mar 1 2028",0.9
+TDB,"Government of Canada 2.750% Dec 1 2055",0.9
+TDB,"Government of Canada 3.250% Sep 1 2028",0.9
+TDB,"Canada Housing Trust No. 1 1.750% Jun 15 2030",0.8
+TDB,"Canada Housing Trust No. 1 4.250% Mar 15 2034",0.8

@@ -1,0 +1,278 @@
+etf_ticker,holding_ticker,holding_name,weight_pct
+GGEP,,"CME Group Inc., Class 'A'",9.6
+GGEP,,"Yum China Holdings Inc.",7.1
+GGEP,,"Reckitt Benckiser Group PLC",6.1
+GGEP,,"L'Oreal SA",6.1
+GGEP,,"Mastercard Inc., Class 'A'",5.6
+GGEP,,"EssilorLuxottica SA",5.3
+GGEP,,"Booking Holdings Inc.",5.1
+GGEP,,"Colgate-Palmolive Company",4.7
+GGEP,,"UnitedHealth Group Inc.",4.7
+GGEP,,"Microsoft Corporation",4.3
+GGEP,,"Illumina Inc.",3.6
+GGEP,,"MarketAxess Holdings Inc.",3.5
+GGEP,,"NIKE Inc., Class 'B'",3.5
+GGEP,,"Air Liquide SA",3.5
+GGEP,,"Verisk Analytics Inc., Class 'A'",3.3
+GGEP,,"Nestle SA",3.2
+GGEP,,"Adobe Inc.",3.0
+GGEP,,"RELX PLC",2.9
+GGEP,,"Accenture PLC, Class 'A'",2.8
+GGEP,,"Keyence Corporation",2.7
+GGEP,,"Siemens AG",2.6
+GGEP,,"Adyen NV",2.6
+GGEP,,"Automatic Data Processing Inc.",2.3
+GGEP,,"Apple Inc.",0.6
+GGEP,,"The Home Depot Inc.",0.2
+GGPY,,"CME Group Inc., Class 'A'",9.7
+GGPY,,"Yum China Holdings Inc.",7.3
+GGPY,,"L'Oreal SA",5.8
+GGPY,,"Mastercard Inc., Class 'A'",5.7
+GGPY,,"Reckitt Benckiser Group PLC",5.2
+GGPY,,"Booking Holdings Inc.",5.1
+GGPY,,"EssilorLuxottica SA",5.1
+GGPY,,"Colgate-Palmolive Company",4.8
+GGPY,,"UnitedHealth Group Inc.",4.5
+GGPY,,"Air Liquide SA",4.5
+GGPY,,"Microsoft Corporation",4.2
+GGPY,,"Illumina Inc.",3.9
+GGPY,,"MarketAxess Holdings Inc.",3.7
+GGPY,,"Verisk Analytics Inc., Class 'A'",3.5
+GGPY,,"Nestle SA",3.3
+GGPY,,"NIKE Inc., Class 'B'",3.3
+GGPY,,"RELX PLC",3.2
+GGPY,,"Adobe Inc.",2.9
+GGPY,,"Keyence Corporation",2.7
+GGPY,,"Accenture PLC, Class 'A'",2.6
+GGPY,,"Siemens AG",2.5
+GGPY,,"Automatic Data Processing Inc.",2.3
+GGPY,,"Adyen NV",2.1
+GGPY,,"Apple Inc.",1.2
+GGPY,,"The Home Depot Inc.",0.3
+GIDY,,"Apple Inc.",5.6
+GIDY,,"The Williams Companies Inc.",5.2
+GIDY,,"Broadcom Inc.",4.8
+GIDY,,"Costco Wholesale Corporation",4.8
+GIDY,,"AXA SA",4.4
+GIDY,,"Microsoft Corporation",4.2
+GIDY,,"ASML Holding NV",4.2
+GIDY,,"TotalEnergies SE",4.1
+GIDY,,"Allianz SE",4.1
+GIDY,,"Alphabet Inc., Class 'A'",3.9
+GIDY,,"Royal Bank of Canada",3.6
+GIDY,,"AstraZeneca PLC, ADR",3.2
+GIDY,,"Shell PLC, ADR",2.9
+GIDY,,"Johnson & Johnson",2.8
+GIDY,,"Schneider Electric SE",2.8
+GIDY,,"The TJX Companies Inc.",2.5
+GIDY,,"Republic Services Inc., Class 'A'",2.4
+GIDY,,"Equinix Inc.",2.4
+GIDY,,"The Hartford Insurance Group Inc.",2.3
+GIDY,,"AbbVie Inc.",2.2
+GIDY,,"Waste Management Inc.",2.2
+GIDY,,"McDonald's Corporation",2.1
+GIDY,,"Meta Platforms Inc., Class 'A'",1.9
+GIDY,,"Mastercard Inc., Class 'A'",1.7
+GIDY,,"Parker-Hannifin Corporation",1.5
+GIES,,"TotalEnergies SE",6.5
+GIES,,"National Grid PLC",5.6
+GIES,,"AstraZeneca PLC",5.1
+GIES,,"Sun Hung Kai Properties Limited",4.9
+GIES,,"DBS Group Holdings Limited",4.9
+GIES,,"BAE Systems PLC",4.9
+GIES,,"Nestle SA",4.9
+GIES,,"Mitsubishi UFJ Financial Group, Inc.",4.8
+GIES,,"ING Groep NV",4.7
+GIES,,"Air Liquide SA",4.6
+GIES,,"Murata Manufacturing Company Limited",4.5
+GIES,,"Compagnie Financiere Richemont SA",4.3
+GIES,,"SMC Corporation",4.2
+GIES,,"Sanofi",4.1
+GIES,,"Deutsche Boerse AG",3.9
+GIES,,"L'Oreal SA",3.7
+GIES,,"Tokyo Electron Limited",3.6
+GIES,,"Sampo Oyj, Class 'A'",3.3
+GIES,,"Novonesis (Novozymes A/S), Class 'B'",3.2
+GIES,,"Boliden AB",2.9
+GIES,,"Alcon AG",2.8
+GIES,,"LVMH Moet Hennessy-Louis Vuitton SE",2.6
+GIES,,"Siemens AG",2.6
+GIES,,"DSV A/S",1.7
+GIES,,"SAP SE",1.1
+GIGC,,"Enbridge Inc.",7.4
+GIGC,,"Government of Canada",7.1
+GIGC,,"Hydro One Inc.",6.4
+GIGC,,"Gibson Energy Inc.",5.0
+GIGC,,"Pembina Pipeline Corporation",4.7
+GIGC,,"Bell Canada",4.7
+GIGC,,"Rogers Communications Inc.",4.5
+GIGC,,"Inter Pipeline Limited",4.4
+GIGC,,"RioCan Real Estate Investment Trust",4.1
+GIGC,,"TELUS Corporation",3.8
+GIGC,,"TransCanada Pipelines Limited",3.5
+GIGC,,"Capital Power Corporation",3.3
+GIGC,,"Ontario Power Generation Inc.",2.9
+GIGC,,"Brookfield Renewable Partners ULC",2.5
+GIGC,,"Whitecap Resources Inc.",2.4
+GIGC,,"Brookfield Infrastructure Finance ULC",2.2
+GIGC,,"Canadian Pacific Railway Company",2.2
+GIGC,,"Videotron Limited",2.0
+GIGC,,"Granite REIT Holdings Limited Partnership",1.8
+GIGC,,"Fairfax Financial Holdings Limited",1.6
+GIGC,,"First Capital Real Estate Investment Trust",1.5
+GIGC,,"North West Redwater Partnership/NWR Financing Company Limited",1.3
+GIGC,,"Crombie Real Estate Investment Trust",1.3
+GIGC,,"Allied Properties Real Estate Investment Trust",1.1
+GIGC,,"Cenovus Energy Inc.",1.1
+GIGD,,"Apple Inc.",5.9
+GIGD,,"The Williams Companies Inc.",5.2
+GIGD,,"Broadcom Inc.",5.0
+GIGD,,"Costco Wholesale Corporation",4.8
+GIGD,,"AXA SA",4.5
+GIGD,,"ASML Holding NV",4.3
+GIGD,,"Microsoft Corporation",4.3
+GIGD,,"TotalEnergies SE",4.3
+GIGD,,"Allianz SE",4.0
+GIGD,,"Alphabet Inc., Class 'A'",3.8
+GIGD,,"Royal Bank of Canada",3.7
+GIGD,,"Shell PLC, ADR",2.9
+GIGD,,"Johnson & Johnson",2.9
+GIGD,,"Schneider Electric SE",2.8
+GIGD,,"Equinix Inc.",2.7
+GIGD,,"The TJX Companies Inc.",2.5
+GIGD,,"AstraZeneca PLC",2.4
+GIGD,,"Republic Services Inc., Class 'A'",2.4
+GIGD,,"Meta Platforms Inc., Class 'A'",2.4
+GIGD,,"The Hartford Insurance Group Inc.",2.2
+GIGD,,"Waste Management Inc.",2.0
+GIGD,,"Mastercard Inc., Class 'A'",1.9
+GIGD,,"McDonald's Corporation",1.9
+GIGD,,"Government of Canada, Treasury Bill",1.9
+GIGD,,"AbbVie Inc.",1.7
+GIGF,,"NVIDIA Corporation",8.3
+GIGF,,"Alphabet Inc., Class 'C'",7.5
+GIGF,,"Broadcom Inc.",6.0
+GIGF,,"Amazon.com Inc.",5.8
+GIGF,,"Microsoft Corporation",5.5
+GIGF,,"Costco Wholesale Corporation",4.9
+GIGF,,"Intuitive Surgical Inc.",3.9
+GIGF,,"ASML Holding NV",3.7
+GIGF,,"Apple Inc.",3.7
+GIGF,,"Schneider Electric SE",3.6
+GIGF,,"Vertiv Holdings Company, Class 'A'",3.2
+GIGF,,"Banco Santander S.A.",3.1
+GIGF,,"Parker-Hannifin Corporation",2.4
+GIGF,,"Meta Platforms Inc., Class 'A'",2.4
+GIGF,,"Eli Lilly & Company",2.3
+GIGF,,"The TJX Companies Inc.",2.2
+GIGF,,"AstraZeneca PLC",2.2
+GIGF,,"Amphenol Corporation, Class 'A'",2.2
+GIGF,,"Atlas Copco AB, Class 'B'",2.1
+GIGF,,"ICICI Bank Limited, ADR",1.9
+GIGF,,"Visa Inc., Class 'A'",1.8
+GIGF,,"JPMorgan Chase & Company",1.8
+GIGF,,"ServiceNow Inc.",1.7
+GIGF,,"Cadence Design Systems Inc.",1.5
+GIGF,,"Allianz SE",1.5
+GIIF,,"ASML Holding NV",7.4
+GIIF,,"Schneider Electric SE",5.7
+GIIF,,"Munchener Ruckversicherungs-Gesellschaft AG",5.7
+GIIF,,"Air Liquide SA",4.9
+GIIF,,"AXA SA",4.8
+GIIF,,"Hannover Rueck SE",4.6
+GIIF,,"BAE Systems PLC",4.5
+GIIF,,"AstraZeneca PLC",4.3
+GIIF,,"Compass Group PLC",4.1
+GIIF,,"Shell PLC, ADR",3.9
+GIIF,,"Taiwan Semiconductor Manufacturing Company Limited, ADR",3.8
+GIIF,,"Atlas Copco AB, Class 'B'",3.6
+GIIF,,"CRH PLC",3.6
+GIIF,,"Banco Santander S.A.",3.4
+GIIF,,"Mizuho Financial Group Inc., ADR",3.1
+GIIF,,"ICICI Bank Limited, ADR",3.0
+GIIF,,"National Grid PLC, ADR",2.6
+GIIF,,"Mitsubishi UFJ Financial Group, Inc., ADR",2.6
+GIIF,,"Unilever PLC",2.6
+GIIF,,"Dassault Aviation SA",2.5
+GIIF,,"Eurofins Scientific SE",2.0
+GIIF,,"Tokyo Electron Limited, ADR",1.9
+GIIF,,"BioMerieux SA",1.8
+GIIF,,"NTT Inc.",1.6
+GIIF,,"TotalEnergies SE",1.6
+GIUS,,"NVIDIA Corporation",9.5
+GIUS,,"Alphabet Inc., Class 'A'",8.7
+GIUS,,"Broadcom Inc.",7.8
+GIUS,,"Amazon.com Inc.",6.9
+GIUS,,"Apple Inc.",6.2
+GIUS,,"Microsoft Corporation",5.5
+GIUS,,"Costco Wholesale Corporation",4.2
+GIUS,,"Vertiv Holdings Company, Class 'A'",3.9
+GIUS,,"Cadence Design Systems Inc.",3.7
+GIUS,,"Intuitive Surgical Inc.",3.7
+GIUS,,"Monolithic Power Systems Inc.",3.5
+GIUS,,"Meta Platforms Inc., Class 'A'",3.3
+GIUS,,"Parker-Hannifin Corporation",2.8
+GIUS,,"Amphenol Corporation, Class 'A'",2.7
+GIUS,,"AMETEK Inc.",2.7
+GIUS,,"Palantir Technologies Inc., Class 'A'",2.7
+GIUS,,"Palo Alto Networks Inc.",2.5
+GIUS,,"Eli Lilly & Company",2.5
+GIUS,,"The TJX Companies Inc.",2.0
+GIUS,,"ServiceNow Inc.",2.0
+GIUS,,"Netflix, Inc.",1.8
+GIUS,,"Visa Inc., Class 'A'",1.6
+GIUS,,"Lam Research Corporation",1.6
+GIUS,,"W.W. Grainger Inc.",1.2
+GIUS,,"Oracle Corporation",1.1
+GSDB,,"Government of Canada",47.5
+GSDB,,"Hyundai Capital Canada Inc.",6.6
+GSDB,,"Enbridge Inc.",3.8
+GSDB,,"The Bank of Nova Scotia",2.5
+GSDB,,"Gibson Energy Inc.",2.5
+GSDB,,"Canada Housing Trust No. 1",2.4
+GSDB,,"Suncor Energy Inc.",2.3
+GSDB,,"Royal Bank of Canada",2.2
+GSDB,,"Capital Power Corporation",2.1
+GSDB,,"SmartCentres Real Estate Investment Trust",1.9
+GSDB,,"Vital Infrastructure Property Trust",1.9
+GSDB,,"Toyota Credit Canada Inc.",1.6
+GSDB,,"Inter Pipeline Limited",1.6
+GSDB,,"RioCan Real Estate Investment Trust",1.5
+GSDB,,"Allied Properties Real Estate Investment Trust",1.5
+GSDB,,"Choice Properties Real Estate Investment Trust",1.5
+GSDB,,"Rogers Communications Inc.",1.4
+GSDB,,"Ontario Power Generation Inc.",1.4
+GSDB,,"BMW Canada Inc.",1.4
+GSDB,,"Equitable Bank",1.3
+GSDB,,"Granite REIT Holdings Limited Partnership",1.2
+GSDB,,"ARC Resources Limited",1.2
+GSDB,,"Gildan Activewear Inc.",1.0
+GSDB,,"Sagen MI Canada Inc.",0.9
+GSDB,,"National Bank of Canada",0.8
+GSIF,,"Government of Canada",12.3
+GSIF,,"Enbridge Inc.",3.3
+GSIF,,"Moss Creek Resources Holdings Inc.",2.7
+GSIF,,"Vermilion Energy Inc.",2.7
+GSIF,,"Rithm Capital Corporation",2.6
+GSIF,,"Ally Financial Inc.",2.6
+GSIF,,"Rogers Communications Inc.",2.5
+GSIF,,"Magnera Corporation",2.5
+GSIF,,"The Chemours Company",2.2
+GSIF,,"Cleveland-Cliffs Inc.",2.1
+GSIF,,"Cogent Communications Group LLC/Finance Inc.",2.1
+GSIF,,"Algoma Steel Inc.",2.0
+GSIF,,"Block Communications Inc.",2.0
+GSIF,,"Getty Images Inc.",2.0
+GSIF,,"Enbridge Pipelines Inc.",1.9
+GSIF,,"South Bow Canadian Infrastructure Holdings Limited",1.7
+GSIF,,"Enerflex Inc.",1.7
+GSIF,,"Venture Global LNG, Inc.",1.6
+GSIF,,"ERO Copper Corporation",1.6
+GSIF,,"CES Energy Solutions Corporation",1.6
+GSIF,,"American Axle & Manufacturing Inc.",1.6
+GSIF,,"iHeartCommunications Inc.",1.5
+GSIF,,"Capital Power Corporation",1.5
+GSIF,,"Alta Equipment Group Inc.",1.4
+GSIF,,"ATS Corporation",1.4
+GSIF,,"Forward Currency Contracts, Net (short)",-1.5
+GUTB.U,,"United States, Treasury Bills",100.2
