@@ -11,7 +11,7 @@ Holdings for Canadian-listed ETFs, collected from official issuer websites. **Wo
 | `coverage_notes.csv` | **848 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, bond funds skipped, extraction pending) |
 | `missing_etfs_vs_master.csv` | **714 tickers** in universe without complete holdings in master |
 
-**Coverage:** 1,416 of 2,038 universe entries (69.5%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs with 10 or more holdings are intentionally skipped per project scope.
+**Coverage:** 1,416 of 2,038 universe entries (69.5%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs are included where official complete holdings are available.
 
 ## Sources
 
@@ -34,7 +34,7 @@ Fund-of-funds ETFs show their direct underlying holdings (e.g., XEQT holds XIC/X
 1. **714 tickers lack complete holdings.** Reasons documented in `coverage_notes.csv`:
    - Terminated/merged funds (e.g., Harvest HBFE/HLFE terminated 2024)
    - Issuers publishing Top-10/Top-25 only
-   - Bond/fixed-income ETFs with 10+ holdings (intentionally skipped per scope)
+   - Bond/fixed-income ETFs where only Top-N is published
    - Extraction pending
 2. **Weight sums** are preserved as published. Leveraged/inverse funds and derivatives may sum above 100%.
 3. **Blank holding tickers** mean the issuer did not publish a ticker (common for bonds, FX forwards, cash). We never invent tickers.
