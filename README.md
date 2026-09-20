@@ -6,12 +6,12 @@ Holdings for Canadian-listed ETFs, collected from official issuer websites. **Wo
 
 | File | Contents |
 |---|---|
-| `canadian_etf_holdings_MASTER.csv` | **290,562 holding rows** across **1,416 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
+| `canadian_etf_holdings_MASTER.csv` | **292,802 holding rows** across **1,419 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
 | `all_etfs_yahoo.csv` | **2,038-entry ETF universe** — ticker, name, provider |
-| `coverage_notes.csv` | **848 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, bond funds skipped, extraction pending) |
-| `missing_etfs_vs_master.csv` | **713 tickers** in universe without complete holdings in master |
+| `coverage_notes.csv` | **833 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, bond funds skipped, extraction pending) |
+| `missing_etfs_vs_master.csv` | **711 tickers** in universe without complete holdings in master |
 
-**Coverage:** 1,417 of 2,038 universe entries (69.5%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs are included where official complete holdings are available.
+**Coverage:** 1,419 of 2,038 universe entries (69.6%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs are included where official complete holdings are available.
 
 ## Sources
 
@@ -24,14 +24,14 @@ Holdings come from official issuer websites (CSV/XLSX downloads or published tab
 - **Manulife** (11 funds, 21 tickers) — browser-extracted from manulifeim.com
 - **First Trust** (7 funds) — browser-extracted
 - **Fidelity** (6 funds) — official downloads
-- **Fidelity** (FCCB, 1,101 holdings) — browser-extracted from fidelity.ca
+- **Fidelity** (FCCB 1,101 holdings; FCGB 1,963 holdings as of 2026-06-30 via official holdings API — weights truncated to 2dp by issuer, sum 90.04%, see coverage note) — fidelity.ca
 - **Mackenzie** (30+ funds) — browser-extracted from mackenzieinvestments.com
 
 Fund-of-funds ETFs show their direct underlying holdings (e.g., XEQT holds XIC/XUU/XEF). We do not duplicate look-through portfolios.
 
 ## Known limitations
 
-1. **713 tickers lack complete holdings.** Reasons documented in `coverage_notes.csv`:
+1. **711 tickers lack complete holdings.** Reasons documented in `coverage_notes.csv`:
    - Terminated/merged funds (e.g., Harvest HBFE/HLFE terminated 2024)
    - Issuers publishing Top-10/Top-25 only
    - Bond/fixed-income ETFs where only Top-N is published
