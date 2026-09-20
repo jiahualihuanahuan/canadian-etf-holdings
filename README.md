@@ -6,11 +6,12 @@ Holdings for Canadian-listed ETFs, collected from official issuer websites. **Wo
 
 | File | Contents |
 |---|---|
-| `canadian_etf_holdings_MASTER.csv` | **236,183 holding rows** across **946 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
-| `canadian_etf_list.csv` + `universe_expansion_new.csv` | **1,173 ETF universe** (provisional) — ticker, name, provider |
-| `coverage_notes.csv` | **829 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, extraction pending) |
+| `canadian_etf_holdings_MASTER.csv` | **285,488 holding rows** across **1,398 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
+| `all_etfs_yahoo.csv` | **2,038-entry ETF universe** — ticker, name, provider |
+| `coverage_notes.csv` | **837 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, bond funds skipped, extraction pending) |
+| `missing_etfs_vs_master.csv` | **719 tickers** in universe without complete holdings in master |
 
-**Coverage:** 946 of 1,173 provisional classes (80.6%) have complete holdings from issuer-published sources. The universe list is still being reconciled (terminated funds, renames, mergers, ticker reuse).
+**Coverage:** 1,398 of 2,038 universe entries (68.6%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs with 10 or more holdings are intentionally skipped per project scope.
 
 ## Sources
 
@@ -30,10 +31,11 @@ Fund-of-funds ETFs show their direct underlying holdings (e.g., XEQT holds XIC/X
 
 ## Known limitations
 
-1. **~227 classes lack complete holdings.** Reasons documented in `coverage_notes.csv`:
-   - Terminated/merged funds
+1. **719 tickers lack complete holdings.** Reasons documented in `coverage_notes.csv`:
+   - Terminated/merged funds (e.g., Harvest HBFE/HLFE terminated 2024)
    - Issuers publishing Top-10/Top-25 only
-   - Extraction pending (Mackenzie QEE — complete holdings not published; others)
+   - Bond/fixed-income ETFs with 10+ holdings (intentionally skipped per scope)
+   - Extraction pending
 2. **Weight sums** are preserved as published. Leveraged/inverse funds and derivatives may sum above 100%.
 3. **Blank holding tickers** mean the issuer did not publish a ticker (common for bonds, FX forwards, cash). We never invent tickers.
 4. **As-of dates** vary by issuer (most September 2026; some June/August 2026 for semi-annual filers).

@@ -1,598 +1,720 @@
-base_ticker,classes,class_tickers,description,provider
-BTCQ,1,BTCQ,3iQ Bitcoin ETF - USD,3iQ
-ETHQ,1,ETHQ,3iQ Ether Staking ETF,3iQ
-SOLQ,1,SOLQ,3iQ Solana Staking ETF,3iQ
-XRPQ,1,XRPQ,3iQ XRP ETF,3iQ
-AENP,1,AENP,AGF Enhanced U.S. Income Plus Fund - ETF Series,AGF
-AENU,1,AENU,AGF Enhanced U.S. Equity Income Fund,AGF
-AGLR,1,AGLR,AGF Global Real Assets Fund,AGF
-AGSL,1,AGSL,AGF Global Select Fund - ETF Series,AGF
-AMGR,1,AMGR,AGF American Growth Fund - ETF Series,AGF
-ASMD,1,ASMD,AGF U.S. Small-Mid Cap Fund,AGF
-ATAP,1,ATAP,AGF Global Sustainable Growth Equity ETF,AGF
-QBTL,1,QBTL,AGF US Market Neutral Anti-Beta CAD-Hedged ETF,AGF
-ARB,1,ARB,Accelerate Arbitrage Fund ETF,Accelerate
-ATSX,1,ATSX,Accelerate Canadian Long Short Equity Fund,Accelerate
-HDGE,1,HDGE,Accelerate Absolute Return Hedge Fund,Accelerate
-ONEC,1,ONEC,Accelerate OneChoice Alternative Portfolio ETF,Accelerate
-ACAA,1,ACAA,Arrow long/short Alternative Fund ETF,Arrow
-ADIV,1,ADIV,ARROW EC equity advantage ALTERNATIVE FUND ETF,Arrow
-RATE,1,RATE,Arrow EC Income Advantage Alternative Fund ETF,Arrow
-COMM,1,COMM,BMO Global Communications Index ETF,BMO
-DISC,1,DISC,BMO Global Consumer Discretionary Hedged to CAD Index ETF,BMO
-ESGA,1,ESGA,BMO MSCI Canada Selection Equity Index ETF,BMO
-ESGE,1,ESGE,BMO MSCI EAFE Selection Equity Index ETF,BMO
-ESGG,1,ESGG,BMO MSCI World ESG Leaders Index ETF,BMO
-ESGY,2,"ESGY,ESGY.F",BMO MSCI USA ESG Leaders Index ETF,BMO
-GRNI,1,GRNI,BMO Brookfield Global Renewables Infrastructure Fund ETF,BMO
-STPL,1,STPL,BMO Global Consumer Staples Hedged to CAD Index ETF,BMO
-WOMN,1,WOMN,BMO Women In Leadership Fund ETF,BMO
-ZACE,1,ZACE,BMO U.S. All Cap Equity Fund ETF,BMO
-ZAPR,1,ZAPR,BMO US Equity Buffer Hedged to CAD ETF - April,BMO
-ZBAL,2,"ZBAL,ZBAL.T",BMO Balanced ETF,BMO
-ZBCB,1,ZBCB,BMO Canadian Core Plus US Balanced ETF,BMO
-ZBDU,2,"ZBDU,ZBDU.F",BMO US Dividend Growth ETF,BMO
-ZBEC,1,ZBEC,BMO Canadian Equity Plus ETF,BMO
-ZBEU,2,"ZBEU,ZBEU.F",BMO US Equity Focused ETF,BMO
-ZBI,1,ZBI,BMO Canadian Bank Income Index ETF,BMO
-ZBK,1,ZBK,BMO Equal Weight U.S. Banks Index ETF,BMO
-ZBVU,1,ZBVU,BMO US Large Cap Disciplined Value ETF,BMO
-ZCDX,2,"ZCDX.U,ZCDX",BMO Credit Stress Opportunities ETF,BMO
-ZCOM,2,"ZCOM,ZCOM.F",BMO Broad Commodity ETF,BMO
-ZCON,1,ZCON,BMO Conservative ETF,BMO
-ZDH,1,ZDH,BMO International Dividend ETF,BMO
-ZDI,1,ZDI,BMO International Dividend ETF,BMO
-ZDIV,1,ZDIV,BMO MSCI Canada IMI High Dividend Yield Index ETF,BMO
-ZEA,1,ZEA,BMO MSCI EAFE Index ETF,BMO
-ZEQ,1,ZEQ,BMO MSCI Europe High Quality Hedged to CAD Index ETF,BMO
-ZEQL,3,"ZEQL,ZEQL.U,ZEQL.F",BMO MSCI USA Equal Weight Index ETF,BMO
-ZEQT,2,"ZEQT,ZEQT.T",BMO All-Equity ETF,BMO
-ZESG,1,ZESG,BMO Balanced ESG ETF,BMO
-ZESM,1,ZESM,BMO MSCI EAFE Small-Mid Cap Index ETF,BMO
-ZFC,1,ZFC,BMO SIA Focused Canadian Equity Fund ETF,BMO
-ZFN,1,ZFN,BMO SIA Focused North American Equity Fund ETF,BMO
-ZGDV,1,ZGDV,BMO Global Dividend Opportunities Fund Active ETF Series,BMO
-ZGEQ,1,ZGEQ,BMO Global Equity Fund Active ETF Series,BMO
-ZGHC,1,ZGHC,BMO Global Health Care Fund Active ETF Series,BMO
-ZGIF,1,ZGIF,BMO Global Infrastructure Fund Active ETF Series,BMO
-ZGIN,1,ZGIN,BMO Global Innovators Fund Active ETF Series,BMO
-ZGLD,2,"ZGLD,ZGLD.U",BMO Gold Bullion ETF,BMO
-ZGLH,1,ZGLH,BMO Gold Bullion Hedged to CAD ETF,BMO
-ZGQ,1,ZGQ,BMO MSCI All Country World High Quality Index ETF,BMO
-ZGRO,2,"ZGRO,ZGRO.T",BMO Growth ETF,BMO
-ZGRT,1,ZGRT,BMO Global REIT Fund Active ETF Series,BMO
-ZHC,1,ZHC,BMO Human Capital Factor US Equity ETF,BMO
-ZHU,1,ZHU,BMO Equal Weight US Health Care Index ETF,BMO
-ZIN,1,ZIN,BMO Equal Weight Industrials Index ETF,BMO
-ZIQ,1,ZIQ,BMO MSCI EAFE High Quality Index ETF,BMO
-ZIU,1,ZIU,BMO S&P/TSX 60 Index ETF,BMO
-ZJAN,1,ZJAN,BMO US Equity Buffer Hedged to CAD ETF - January,BMO
-ZJPN,2,"ZJPN,ZJPN.F",BMO Japan Index ETF,BMO
-ZJUL,1,ZJUL,BMO US Equity Buffer Hedged to CAD ETF – July,BMO
-ZLD,1,ZLD,BMO Low Volatility International Equity ETF,BMO
-ZLE,1,ZLE,BMO Low Volatility Emerging Markets Equity ETF,BMO
-ZLH,1,ZLH,BMO Low Volatility US Equity ETF,BMO
-ZLI,1,ZLI,BMO Low Volatility International Equity ETF,BMO
-ZLSC,1,ZLSC,BMO Long Short Canadian Equity ETF,BMO
-ZLSU,1,ZLSU,BMO Long Short US Equity ETF,BMO
-ZLU,2,"ZLU,ZLU.U",BMO Low Volatility US Equity ETF,BMO
-ZMBS,1,ZMBS,BMO Canadian MBS Index ETF,BMO
-ZMI,2,"ZMI,ZMI.U",BMO Monthly Income ETF,BMO
-ZMID,3,"ZMID,ZMID.U,ZMID.F",BMO S&P US Mid Cap Index ETF,BMO
-ZMLG,1,ZMLG,BMO Market+ Low Volatility Global Equity ETF,BMO
-ZMPC,1,ZMPC,BMO Market+ Canadian Equity ETF,BMO
-ZMPG,1,ZMPG,BMO Market+ Global Equity ETF,BMO
-ZMPI,1,ZMPI,BMO Market+ International Equity Fund,BMO
-ZMPU,3,"ZMPU.U,ZMPU,ZMPU.F",BMO Market+ US Equity ETF,BMO
-ZMPW,1,ZMPW,BMO Market+ All Country World Equity ETF,BMO
-ZNQ,2,"ZNQ,ZNQ.U",BMO NASDAQ 100 Equity Index ETF,BMO
-ZOCT,1,ZOCT,BMO US Equity Buffer Hedged to CAD ETF,BMO
-ZPAY,3,"ZPAY,ZPAY.F,ZPAY.U",BMO Premium Yield ETF,BMO
-ZPH,1,ZPH,BMO US Put Write ETF,BMO
-ZPW,2,"ZPW,ZPW.U",BMO US Put Write ETF,BMO
-ZSML,3,"ZSML,ZSML.F,ZSML.U",BMO S&P US Small Cap Index ETF,BMO
-ZUD,1,ZUD,BMO US Dividend ETF,BMO
-ZUQ,3,"ZUQ,ZUQ.F,ZUQ.U",BMO MSCI USA High Quality Index ETF,BMO
-ZVC,1,ZVC,BMO MSCI Canada Value Index ETF,BMO
-ZVU,1,ZVU,BMO MSCI USA Value Index ETF,BMO
-ZWA,2,"ZWA,ZWA.T",BMO Covered Call Dow Jones Industrial Average Hedged to CAD ETF,BMO
-ZWB,3,"ZWB,ZWB.U,ZWB.T",BMO Covered Call Canadian Banks ETF,BMO
-ZWEN,2,"ZWEN,ZWEN.T",BMO Covered Call Energy ETF,BMO
-ZWG,2,"ZWG,ZWG.T",BMO Global High Dividend Covered Call ETF,BMO
-ZWGD,2,"ZWGD,ZWGD.T",BMO Covered Call Spread Gold Bullion ETF,BMO
-ZWH,3,"ZWH,ZWH.U,ZWH.T",BMO US High Dividend Covered Call ETF,BMO
-ZWHC,2,"ZWHC,ZWHC.T",BMO Covered Call Health Care ETF,BMO
-ZWK,2,"ZWK,ZWK.T",BMO Covered Call US Banks ETF,BMO
-ZWP,2,"ZWP,ZWP.T",BMO Europe High Dividend Covered Call ETF,BMO
-ZWS,2,"ZWS,ZWS.T",BMO US High Dividend Covered Call Hedged to CAD ETF,BMO
-ZWT,2,"ZWT,ZWT.T",BMO Covered Call Technology ETF,BMO
-ZWU,2,"ZWU,ZWU.T",BMO Covered Call Utilities ETF,BMO
-ZXLB,2,"ZXLB,ZXLB.F",BMO SPDR Materials Select Sector Index ETF,BMO
-ZXLC,2,"ZXLC.F,ZXLC",BMO SPDR Communication Services Select Sector Index ETF,BMO
-ZXLE,2,"ZXLE,ZXLE.F",BMO SPDR Energy Select Sector Index ETF,BMO
-ZXLF,2,"ZXLF,ZXLF.F",BMO SPDR Financials Select Sector Index ETF,BMO
-ZXLI,2,"ZXLI,ZXLI.F",BMO SPDR Industrials Select Sector Index ETF,BMO
-ZXLK,2,"ZXLK,ZXLK.F",BMO SPDR Technology Select Sector Index ETF,BMO
-ZXLP,2,"ZXLP,ZXLP.F",BMO SPDR Consumer Staples Select Sector Index ETF,BMO
-ZXLR,2,"ZXLR.F,ZXLR",BMO SPDR Real Estate Select Sector Index ETF,BMO
-ZXLU,2,"ZXLU.F,ZXLU",BMO SPDR Utilities Select Sector Index ETF,BMO
-ZXLV,2,"ZXLV,ZXLV.F",BMO SPDR Health Care Select Sector Index ETF,BMO
-ZXLY,2,"ZXLY.F,ZXLY",BMO SPDR Consumer Discretionary Select Sector Index ETF,BMO
-ZZZD,1,ZZZD,BMO Tactical Dividend ETF Fund,BMO
-BITI,1,BITI,BetaPro Inverse Bitcoin ETF - CAD,BetaPro
-CFOD,1,CFOD,BetaPro S&P/TSX Capped Financials -2x Daily Bear ETF - CAD,BetaPro
-CFOU,1,CFOU,BetaPro S&P/TSX Capped Financials 2x Daily Bull ETF,BetaPro
-CNDD,1,CNDD,BetaPro S&P/TSX 60 -2x Daily Bear ETF - CAD,BetaPro
-CNDI,1,CNDI,BetaPro S&P/TSX 60 Daily Inverse ETF,BetaPro
-CNDU,1,CNDU,BetaPro S&P/TSX 60 2x Daily Bull ETF,BetaPro
-GDXD,1,GDXD,BetaPro Canadian Gold Miners -2x Daily Bear ETF - CAD,BetaPro
-GDXU,1,GDXU,BetaPro Canadian Gold Miners 2x Daily Bull ETF,BetaPro
-GLDD,1,GLDD,BetaPro Gold Bullion -2x Daily Bear ETF - CAD,BetaPro
-GLDU,1,GLDU,BetaPro Gold Bullion 2x Daily Bull ETF,BetaPro
-HQD,1,HQD,BetaPro NASDAQ-100 -2x Daily Bear ETF,BetaPro
-NRGD,1,NRGD,BetaPro S&P/TSX Capped Energy -2x Daily Bear ETF - CAD,BetaPro
-NRGU,1,NRGU,BetaPro S&P/TSX Capped Energy 2x Daily Bull ETF,BetaPro
-QQI,1,QQI,BetaPro Nasdaq-100 Daily Inverse ETF,BetaPro
-QQU,1,QQU,BetaPro NASDAQ-100 2x Daily Bull ETF,BetaPro
-SCND,1,SCND,BetaPro -3x S&P/TSX 60 Daily Leveraged Bear Alternative ETF,BetaPro
-SLVD,1,SLVD,BetaPro Silver -2x Daily Bear ETF,BetaPro
-SLVU,1,SLVU,BetaPro Silver 2x Daily Bull ETF,BetaPro
-SOXL,1,SOXL,BetaPro 3x Semiconductor Daily Leveraged Bull Alternative ETF,BetaPro
-SOXS,1,SOXS,BetaPro -3x Semiconductor Daily Leveraged Bear Alternative ETF,BetaPro
-SPXD,1,SPXD,BetaPro S&P 500 -2x Daily Bear ETF,BetaPro
-SPXI,1,SPXI,BetaPro S&P 500 Daily Inverse ETF,BetaPro
-SPXU,1,SPXU,BetaPro S&P 500 2x Daily Bull ETF,BetaPro
-SQQQ,1,SQQQ,BetaPro -3x Nasdaq-100 Daily Leveraged Bear Alternative ETF,BetaPro
-SSPX,1,SSPX,BetaPro -3x S&P 500 Daily Leveraged Bear Alternative ETF,BetaPro
-TCND,1,TCND,BetaPro 3x S&P/TSX 60 Daily Leveraged Bull Alternative ETF,BetaPro
-TQQQ,1,TQQQ,BetaPro 3x Nasdaq-100 Daily Leveraged Bull Alternative ETF,BetaPro
-TSPX,1,TSPX,BetaPro 3x S&P 500 Daily Leveraged Bull Alternative ETF,BetaPro
-BGC,1,BGC,Bristol Gate Concentrated Canadian Equity ETF,Bristol Gate
-BGU,2,"BGU,BGU.U",Bristol Gate Concentrated US Equity ETF,Bristol Gate
-BTCX,3,"BTCX.B,BTCX.U,BTCX",CI Galaxy Bitcoin ETF,CI
-CBCX,1,CBCX,CI Galaxy Blockchain ETF,CI
-CBUG,1,CBUG,CI Digital Security ETF,CI
-CCCX,3,"CCCX.B,CCCX.U,CCCX",CI Galaxy Core Multi-Crypto ETF,CI
-CCDN,1,CCDN,CI Canadian Equity Index ETF,CI
-CCOM,1,CCOM,CI Auspice Broad Commodity Fund,CI
-CEQP,1,CEQP,CI Equity+ Asset Allocation ETF,CI
-CESG,2,"CESG.B,CESG",CI MSCI World ESG Impact Index ETF,CI
-CGDI,1,CGDI,CI Global Dividend Private Pool ETF,CI
-CGDV,2,"CGDV.B,CGDV",CI Global Minimum Downside Volatility Index ETF,CI
-CGQD,1,CGQD.B,CI Global Quality Dividend Growth Index ETF,CI
-CGRA,1,CGRA,CI Global Real Asset Private Pool ETF,CI
-CGRE,1,CGRE,CI Global REIT Private Pool ETF,CI
-CGRN,2,"CGRN,CGRN.U",CI Global Sustainable Infrastructure Fund,CI
-CGXF,2,"CGXF,CGXF.U",CI Gold+ Giants Covered Call ETF,CI
-CHCL,1,CHCL.B,CI Global Healthcare Leaders Index ETF,CI
-CHNA,1,CHNA.B,CI ICBCUBS S&P China 500 Index ETF,CI
-CIAI,1,CIAI,CI Global Artificial Intelligence ETF,CI
-CIC,1,CIC,CI First Asset CanBanc Income Class ETF,CI
-CIEM,2,"CIEM,CIEM.U",CI Emerging Markets Alpha ETF,CI
-CINF,1,CINF,CI Global Infrastructure Private Pool ETF,CI
-CINV,2,"CINV,CINV.U",CI Global Alpha Innovation ETF,CI
-CLML,2,"CLML,CLML.U",CI Global Climate Leaders Fund,CI
-CMAG,2,"CMAG,CMAG.U",CI Munro Alternative Global Growth ETF,CI
-CMCX,3,"CMCX.B,CMCX.U,CMCX",CI Galaxy Multi-Crypto Navigator ETF,CI
-CMDO,2,"CMDO,CMDO.U",CI Alternative Diversified Opportunities Fund,CI
-CMEY,2,"CMEY,CMEY.U",CI Marret Alternative Enhanced Yield Fund ETF,CI
-CMGG,2,"CMGG,CMGG.U",CI Munro Global Growth Equity Fund,CI
-CMOM,2,"CMOM,CMOM.B",CI U.S. Enhanced Momentum Index ETF,CI
-CSMD,1,CSMD,CI U.S. Small/Mid Cap Equity Private Pool ETF,CI
-CUDV,2,"CUDV,CUDV.B",CI U.S. Minimum Downside Volatility Index ETF,CI
-CUSA,2,"CUSA.B,CUSA",CI U.S. 500 Index ETF,CI
-CUSM,1,CUSM.B,CI U.S. 1000 Index ETF,CI
-CUTL,2,"CUTL,CUTL.B",CI Utilities Giants Covered Call ETF,CI
-CVLU,2,"CVLU.B,CVLU",CI U.S. Enhanced Value Index ETF,CI
-EACC,1,EACC,Global X MSCI EAFE Covered Call ETF,CI
-EACL,1,EACL,Global X Enhanced MSCI EAFE Covered Call ETF,CI
-EAFX,1,EAFX,Global X MSCI EAFE Index ETF,CI
-EMCC,1,EMCC,Global X MSCI Emerging Markets Covered Call ETF (CA),CI
-EMCL,1,EMCL,Global X Enhanced MSCI Emerging Markets Covered Call ETF,CI
-EMMX,1,EMMX,Global X MSCI Emerging Markets Index ETF,CI
-EMV,1,EMV.B,CI Emerging Markets Dividend Index ETF,CI
-EQE,2,"EQE,EQE.F",CI S&P Europe 350 Equal Weight Index ETF,CI
-EQL,3,"EQL,EQL.F,EQL.U",CI Invesco S&P 500 Equal Weight Index ETF,CI
-EQLT,1,EQLT,CI S&P/TSX 60 Equal Weight Index ETF,CI
-ESG,2,"ESG,ESG.F",CI S&P 500 ESG Index ETF,CI
-ESGC,1,ESGC,CI S&P/TSX Composite ESG Index ETF,CI
-ETHX,3,"ETHX.B,ETHX.U,ETHX",CI Galaxy Ethereum ETF,CI
-FHI,3,"FHI,FHI.B,FHI.U",CI Health Care Giants Covered Call ETF,CI
-FLI,1,FLI,CI First Asset U.S. & Canada LifeCo Income ETF,CI
-FSF,1,FSF,CI Global Financial Sector ETF,CI
-ICAE,1,ICAE,CI S&P/TSX Canadian Dividend Aristocrats ESG Index ETF,CI
-IGET,2,"IGET,IGET.F",CI Morningstar Global Energy Transition Index ETF,CI
-IIAE,2,"IIAE.F,IIAE",CI S&P International Developed Dividend Aristocrats ESG Index ETF,CI
-IICE,2,"IICE,IICE.F",CI S&P International Developed ESG Index ETF,CI
-IIMF,2,"IIMF,IIMF.F",CI Invesco International Developed Dynamic-Multifactor Index ETF,CI
-INAI,2,"INAI,INAI.F",CI Morningstar Global Next Gen AI Index ETF,CI
-IUAE,2,"IUAE.F,IUAE",CI S&P US Dividend Aristocrats ESG Index ETF,CI
-IUMF,2,"IUMF,IUMF.F",CI Invesco Russell 1000 Multifactor Index ETF,CI
-JAPN,2,"JAPN.B,JAPN",CI Japan Equity Index ETF,CI
-LONG,1,LONG,CI Global Longevity Economy Fund ETF,CI
-NXF,3,"NXF,NXF.B,NXF.U",CI Energy Giants Covered Call ETF,CI
-QQC,2,"QQC,QQC.F",CI Invesco NASDAQ 100 Index ETF,CI
-QQCE,2,"QQCE,QQCE.F",CI ESG NASDAQ 100 Index ETF,CI
-QQEQ,2,"QQEQ,QQEQ.F",CI NASDAQ 100 Equal Weight Index ETF,CI
-QQJR,2,"QQJR,QQJR.F",CI Invesco NASDAQ Next Gen 100 Index ETF,CI
-RIT,1,RIT,CI First Asset Canadian REIT ETF,CI
-SOLX,3,"SOLX.B,SOLX.U,SOLX",CI Galaxy Solana ETF,CI
-ULV.C,1,ULV.C,CI Invesco S&P 500 Low Volatility Index ETF,CI
-VALT,3,"VALT,VALT.U,VALT.B",CI Gold Bullion Fund,CI
-CPIF,1,CPIF,Caldwell Lazard CorePlus Infrastructure Fund ETF,Caldwell
-UDA,1,UDA,Caldwell U.S. Dividend Advantage Fund ETF,Caldwell
-CAPG,1,CAPG,Capital Group Global Equity Select ETF,Capital Group
-CAPI,1,CAPI,Capital Group International Equity Select ETF,Capital Group
-CAPM,1,CAPM,Capital Group Multi-Sector Income Select ETF,Capital Group
-CAPN,1,CAPN,Capital Group International Developed Equity Select ETF,Capital Group
-CAPQ,1,CAPQ,Capital Group Global Developed Equity Select ETF,Capital Group
-CAPU,1,CAPU,Capital Group U.S. Equity Select ETF,Capital Group
-BIVC,1,BIVC,Capstone Biblically Informed Canadian Equity Fund ETF,Capstone
-BIVU,1,BIVU,Capstone Biblically Informed U.S. Equity Fund ETF,Capstone
-TPUT,1,TPUT,Corton Theta Alpha Fund ETF Units,Corton
-CAMO,2,"CAMO.B,CAMO",Evolve Global Defense & Aerospace Index ETF,Evolve
-CFIN,1,CFIN,Evolve Canadian Financials Yield Fund ETF,Evolve
-CUTE,1,CUTE,Evolve Canadian Utilities Yield Fund ETF,Evolve
-TECY,1,TECY,Evolve NASDAQ Technology UltraYield ETF,Evolve
-EVO,1,EVO,Evovest Global Equity ETF,Evovest
-AUGB,1,AUGB.F,First Trust Vest U.S. Equity Buffer ETF - August,First Trust
-BLCK,1,BLCK,First Trust Indxx Innovative Transaction and Process ETF,First Trust
-BUFR,1,BUFR,First Trust Vest Fund of Buffer ETFs (Canada) ETF,First Trust
-CIBR,1,CIBR,First Trust Nasdaq Cybersecurity ETF (CA),First Trust
-FBT,1,FBT,First Trust NYSE Arca Biotechnology ETF,First Trust
-FDL,1,FDL,First Trust Morningstar Dividend Leaders ETF,First Trust
-FDN,2,"FDN,FDN.F",First Trust Dow Jones Internet ETF,First Trust
-FEBB,1,FEBB.F,First Trust Vest U.S. Equity Buffer ETF - February,First Trust
-FINT,1,FINT,First Trust International Capital Strength ETF,First Trust
-FJFG,1,FJFG,First Trust JFL Global Equity ETF,First Trust
-FTLS,1,FTLS,First Trust Long/Short Equity ETF (CA),First Trust
-MAYB,1,MAYB.F,First Trust Vest U.S. Equity Buffer ETF - May,First Trust
-NOVB,1,NOVB.F,First Trust Vest U.S. Equity Buffer ETF - November,First Trust
-NXTG,1,NXTG,First Trust Indxx NextG ETF (CA),First Trust
-QCLN,1,QCLN,First Trust Nasdaq Clean Edge Green Energy ETF,First Trust
-RCTR,1,RCTR,First Trust Bloomberg Nuclear Power ETF (CA),First Trust
-SDVD,1,SDVD,First Trust Vest SMID Rising Dividend Achievers Target Income ETF,First Trust
-SDVY,2,"SDVY,SDVY.F",First Trust SMID Cap Rising Dividend Achievers ETF (CA),First Trust
-SGRD,1,SGRD,First Trust Nasdaq Clean Edge Smart Grid Infrastructure ETF,First Trust
-SKYY,1,SKYY,First Trust Cloud Computing ETF,First Trust
-FGBL,1,FGBL,Forstrong Global Balanced ETF,Forstrong
-FGRW,1,FGRW,Forstrong Global Growth ETF,Forstrong
-FINC,1,FINC,Forstrong Global Income ETF,Forstrong
-AGCC,1,AGCC,Global X Silver Covered Call ETF,Global X
-AIQ,1,AIQ,Global X Artificial Intelligence & Technology Index,Global X
-BCCC,1,BCCC,Global X Bitcoin Covered Call ETF (CA),Global X
-BCCL,1,BCCL,Global X Enhanced Bitcoin Covered Call ETF,Global X
-BKCC,1,BKCC,Global X Equal Weight Canadian Bank Covered Call ETF,Global X
-BKCL,1,BKCL,Global X Enhanced Equal Weight Canadian Banks Covered Call ETF,Global X
-BNKL,1,BNKL,Global X Enhanced Equal Weight Banks Index ETF,Global X
-CANL,1,CANL,Global X Enhanced S&P/TSX 60 Index ETF,Global X
-CHPS,1,CHPS,Global X Artificial Intelligence Semiconductor Index ETF,Global X
-CHQQ,1,CHQQ,Global X China Hang Seng TECH Index ETF,Global X
-CMCC,1,CMCC,Global X All-In-One Commodity Producers Equity Covered Call ETF,Global X
-CMCL,1,CMCL,Global X Enhanced All-In-One Commodity Producers Equity Covered Call ETF,Global X
-CNCC,1,CNCC,Global X S&P/TSX 60 Covered Call ETF,Global X
-CNCL,1,CNCL,Global X Enhanced S&P/TSX 60 Covered Call ETF,Global X
-CNDX,1,CNDX,Global X S&P/TSX 60 Index ETF,Global X
-COMX,1,COMX,Global X All-In-One Commodity Producers Equity ETF,Global X
-COPP,1,COPP,Global X Copper Producers Index ETF,Global X
-CPCC,1,CPCC,Global X Copper Producer Equity Covered Call ETF,Global X
-DIVY,1,DIVY,Global X Active U.S. Dividend ETF,Global X
-ENCC,1,ENCC,Global X Canadian Oil and Gas Equity Covered Call ETF,Global X
-ENCL,1,ENCL,Global X Enhanced Canadian Oil and Gas Equity Covered Call ETF,Global X
-EQCC,1,EQCC,Global X All-Equity Asset Allocation Covered Call ETF,Global X
-EQCL,1,EQCL,Global X Enhanced All-Equity Asset Allocation Covered Call ETF,Global X
-ETHI,1,ETHI,Global X Global Sustainability Leaders Index ETF,Global X
-GLCC,1,GLCC,Global X Gold Producer Equity Covered Call ETF,Global X
-GLCL,1,GLCL,Global X Enhanced Gold Producer Equity Covered Call ETF,Global X
-GLDX,1,GLDX,Global X Gold Producers Index ETF,Global X
-GRCC,1,GRCC,Global X Growth Asset Allocation Covered Call ETF,Global X
-HAC,1,HAC,Global X Seasonal Rotation ETF,Global X
-HAL,1,HAL,Global X Active Canadian Dividend ETF,Global X
-HAZ,1,HAZ,Global X Active Global Dividend ETF,Global X
-HBAL,1,HBAL,Global X Balanced Asset Allocation ETF,Global X
-HBGD,1,HBGD,Global X Big Data & Hardware Index ETF,Global X
-HBNK,1,HBNK,Global X Equal Weight Canadian Banks Index ETF,Global X
-HCON,1,HCON,Global X Conservative Asset Allocation ETF,Global X
-HCRE,1,HCRE,Global X Equal Weight Canadian REITs Index Corporate Class ETF,Global X
-HEQL,1,HEQL,Global X Enhanced All-Equity Asset Allocation ETF,Global X
-HEQT,1,HEQT,Global X All-Equity Asset Allocation ETF,Global X
-HEWB,1,HEWB,Global X Equal Weight Canadian Banks Index Corporate Class ETF,Global X
-HGRW,1,HGRW,Global X Growth Asset Allocation ETF,Global X
-HGY,1,HGY,Global X Gold Yield ETF,Global X
-HLIT,1,HLIT,Global X Lithium Producers Index ETF,Global X
-HMMJ,1,HMMJ,Global X Marijuana Life Sciences Index ETF,Global X
-HSAV,1,HSAV,Global X Cash Maximizer Corporate Class ETF,Global X
-HSH,1,HSH,Global X S&P 500 CAD Hedged Index Corporate Class ETF,Global X
-HSUV,1,HSUV.U,Global X USD Cash Maximizer Corporate Class ETF,Global X
-HUC,1,HUC,Global X Crude Oil ETF,Global X
-HUG,1,HUG,Global X Gold ETF,Global X
-HULC,1,HULC,Global X US Large Cap Index Corporate Class ETF,Global X
-HUN,1,HUN,Global X Natural Gas ETF,Global X
-HURA,1,HURA,Global X Uranium Index ETF,Global X
-HUZ,1,HUZ,Global X Silver ETF,Global X
-HXCN,1,HXCN,Global X S&P/TSX Capped Composite Index Corporate Class ETF,Global X
-HXDM,1,HXDM,Global X Intl Developed Markets Equity Index Corporate Class ETF,Global X
-HXE,1,HXE,Global X S&P/TSX Capped Energy Index Corporate Class ETF,Global X
-HXEM,1,HXEM,Global X Emerging Markets Equity Index Corporate Class ETF,Global X
-HXF,1,HXF,Global X S&P/TSX Capped Financials Index Corporate Class ETF,Global X
-HXH,1,HXH,Global X Canadian High Dividend Index Corporate Class ETF,Global X
-HXX,1,HXX,Global X Europe 50 Index Corporate Class ETF,Global X
-INOC,1,INOC,Global X Inovestor Canadian Equity Index ETF,Global X
-MART,1,MART,Global X Equal Weight Canadian Groceries & Staples Index ETF,Global X
-MEDX,1,MEDX,Global X Equal Weight Global Healthcare Index ETF,Global X
-MTRX,1,MTRX,Global X Artificial Intelligence Infrastructure Index ETF,Global X
-NRGY,1,NRGY,Global X Equal Weight Canadian Oil & Gas Index ETF,Global X
-NYSX,1,NYSX,Global X NYSE 100 Index ETF,Global X
-ORBX,1,ORBX,Global X Space Tech Index ETF,Global X
-PAVE,1,PAVE,Global X U.S. Infrastructure Development Index ETF,Global X
-PPLN,1,PPLN,Global X Equal Weight Canadian Pipeline Index ETF - CAD,Global X
-QQCC,1,QQCC,Global X Nasdaq-100 Covered Call ETF,Global X
-QQCL,1,QQCL,Global X Enhanced Nasdaq-100 Covered Call ETF,Global X
-QQQL,1,QQQL,Global X Enhanced NASDAQ-100 Index ETF,Global X
-QQQX,1,QQQX,Global X NASDAQ-100 Index ETF,Global X
-RBOT,1,RBOT,Global X Robotics & AI Index ETF,Global X
-REIT,1,REIT,Global X Equal Weight Canadian REITs Index ETF,Global X
-RING,1,RING,Global X Equal Weight Canadian Telecommunications Index ETF,Global X
-RNCC,1,RNCC,Global X Equal Weight Canadian Telecom Covered Call ETF,Global X
-RNCL,1,RNCL,Global X Enhanced Equal Weight Canadian Telecom Covered Call ETF,Global X
-RSCC,1,RSCC,Global X Russell 2000 Covered Call ETF (CA),Global X
-RSCL,1,RSCL,Global X Enhanced Russell 2000 Covered Call ETF,Global X
-RSSX,1,RSSX,Global X Russell 2000 Index ETF,Global X
-SAFE,1,SAFE,Global X Equal Weight Canadian Insurance Index ETF,Global X
-SHLD,1,SHLD,Global X Defence Tech Index ETF,Global X
-SLVX,1,SLVX,Global X Silver Miners Index ETF,Global X
-SVCC,1,SVCC,Global X Silver Miners Covered Call ETF,Global X
-SVCL,1,SVCL,Global X Enhanced Silver Miners Covered Call ETF,Global X
-TOKN,1,TOKN,Global X Tokenization Ecosystem Index ETF,Global X
-TTTX,1,TTTX,Global X Innovative Bluechip Top 10 Index ETF,Global X
-UBNK,1,UBNK,Global X Equal Weight U.S. Banks Index ETF,Global X
-UMRT,1,UMRT,Global X Equal Weight U.S. Groceries & Staples Index ETF,Global X
-URCC,1,URCC,Global X Uranium Covered Call ETF,Global X
-USCC,1,USCC.U,Global X S&P 500 Covered Call ETF (CA),Global X
-USCL,1,USCL,Global X Enhanced S&P 500 Covered Call ETF,Global X
-USSL,1,USSL,Global X Enhanced S&P 500 Index ETF,Global X
-USSX,1,USSX,Global X S&P 500 Index ETF,Global X
-UTIL,1,UTIL,Global X Equal Weight Canadian Utilities Index ETF,Global X
-BDAY,1,BDAY,Hamilton Enhanced Bitcoin DayMAX ETF,Hamilton
-CDAY,1,CDAY,Hamilton Enhanced Canadian Equity DayMAX ETF,Hamilton
-CMAX,1,CMAX,Hamilton Canadian Equity YIELD MAXIMIZER ETF,Hamilton
-CWIN,1,CWIN,HAMILTON CHAMPIONS Enhanced Canadian Dividend ETF,Hamilton
-IMAX,1,IMAX,Hamilton International Equity YIELD MAXIMIZER ETF,Hamilton
-MIX,1,MIX,Hamilton Enhanced Mixed Asset Allocation ETF,Hamilton
-QDAY,1,QDAY,Hamilton Enhanced Technology DayMAX ETF,Hamilton
-RMAX,1,RMAX,Hamilton REITs YIELD MAXIMIZER ETF,Hamilton
-SDAY,1,SDAY,Hamilton Enhanced U.S. Equity DayMAX ETF,Hamilton
-SWIN,1,SWIN,HAMILTON CHAMPIONS Enhanced U.S. Dividend ETF,Hamilton
-UMAX,1,UMAX,Hamilton Utilities Yield Maximizer ETF,Hamilton
-WHYP,2,"WHYP,WHYP.U",Westcourt Hamilton Yield Portfolio ETF,Hamilton
-AEME,1,AEME,Harvest Agnico Eagle Enhanced High Income Shares ETF,Harvest
-AMDY,1,AMDY,Harvest AMD Enhanced High Income Shares ETF,Harvest
-AMHE,2,"AMHE,AMHE.U",Harvest Amazon Enhanced High Income Shares ETF,Harvest
-AMZH,2,"AMZH,AMZH.U",Harvest Amazon High Income Shares ETF,Harvest
-APLE,1,APLE,Harvest Apple Enhanced High Income Shares ETF,Harvest
-AVGY,1,AVGY,Harvest Broadcom Enhanced High Income Shares ETF,Harvest
-BCEE,1,BCEE,Harvest BCE Enhanced High Income Shares ETF,Harvest
-BLKY,1,BLKY,Harvest Block Enhanced High Income Shares ETF,Harvest
-CCOE,1,CCOE,Harvest Cameco Enhanced High Income Shares ETF,Harvest
-CNQE,1,CNQE,Harvest CNQ Enhanced High Income Shares ETF,Harvest
-CNYE,1,CNYE,Harvest Coinbase Enhanced High Income Shares ETF,Harvest
-CONY,1,CONY,Harvest Coinbase High Income Shares ETF,Harvest
-COSY,1,COSY,Harvest Costco Enhanced High Income Shares ETF,Harvest
-CRCY,1,CRCY,Harvest Circle Enhanced High Income Shares ETF,Harvest
-CRWY,1,CRWY,Harvest CrowdStrike Enhanced High Income Shares ETF,Harvest
-ENBE,1,ENBE,Harvest Enbridge Enhanced High Income Shares ETF,Harvest
-GOGY,1,GOGY,Harvest Alphabet Enhanced High Income Shares ETF,Harvest
-HBIE,1,HBIE,Harvest Balanced Income & Growth Enhanced ETF,Harvest
-HBIG,1,HBIG,Harvest Balanced Income & Growth ETF,Harvest
-HBIX,1,HBIX,Harvest Bitcoin Enhanced Income ETF,Harvest
-HBTE,1,HBTE,Harvest Bitcoin Leaders Enhanced Income ETF,Harvest
-HHIC,1,HHIC,Harvest Canadian High Income Shares ETF,Harvest
-HHIH,1,HHIH,Harvest High Income Equity Shares ETF,Harvest
-HHII,1,HHII,Harvest International High Income Shares ETF,Harvest
-HHIS,2,"HHIS,HHIS.U",Harvest Diversified High Income Shares ETF,Harvest
-HIND,1,HIND,Harvest Industrial Leaders Income ETF,Harvest
-HODY,1,HODY,Harvest Robinhood Enhanced High Income Shares ETF,Harvest
-HPYB,1,HPYB,Harvest Premium Yield Canadian Bank ETF,Harvest
-HPYE,1,HPYE,Harvest Premium Yield Enhanced ETF,Harvest
-HPYG,1,HPYG,Harvest Premium Yield Gold ETF,Harvest
-HVOI,1,HVOI,Harvest Low Volatility Canadian Equity Income ETF,Harvest
-HVOL,1,HVOL,Harvest Low Volatility Canadian Equity ETF,Harvest
-JNJY,1,JNJY,Harvest JnJ Enhanced High Income Shares ETF,Harvest
-JPHE,1,JPHE,Harvest JPHE Enhanced High Income Shares ETF,Harvest
-LLHE,2,"LLHE,LLHE.U",Harvest Eli Lilly Enhanced High Income Shares ETF,Harvest
-LLYH,2,"LLYH,LLYH.U",Harvest Eli Lilly High Income Shares ETF,Harvest
-METE,1,METE,Harvest Meta Enhanced High Income Shares ETF,Harvest
-MSFH,2,"MSFH,MSFH.U",Harvest Microsoft High Income Shares ETF,Harvest
-MSHE,2,"MSHE,MSHE.U",Harvest Microsoft Enhanced High Income Shares ETF,Harvest
-MSTE,1,MSTE,Harvest Strategy Inc. Enhanced High Income Shares ETF,Harvest
-MSTY,1,MSTY,Harvest Strategy Inc. High Income Shares ETF,Harvest
-NFLY,1,NFLY,Harvest Netflix Enhanced High Income Shares ETF,Harvest
-NOVY,1,NOVY,Harvest Novo Enhanced High Income Shares ETF,Harvest
-NVDH,2,"NVDH,NVDH.U",Harvest NVIDIA High Income Shares ETF,Harvest
-NVHE,2,"NVHE,NVHE.U",Harvest NVIDIA Enhanced High Income Shares ETF,Harvest
-ORCY,1,ORCY,Harvest Oracle Enhanced High Income Shares ETF,Harvest
-PLTE,1,PLTE,Harvest Palantir Enhanced High Income Shares ETF,Harvest
-RDDY,1,RDDY,Harvest Reddit Enhanced High Income Shares ETF,Harvest
-RYHE,1,RYHE,Harvest Enhanced High Income RY-Linked Shares ETF,Harvest
-SHPE,1,SHPE,Harvest Shopify Enhanced High Income Shares ETF,Harvest
-SOFY,1,SOFY,Harvest SoFi Enhanced High Income Shares ETF,Harvest
-SPXE,1,SPXE,Harvest SpaceX Enhanced High Income Shares ETF,Harvest
-SUHE,1,SUHE,Harvest Suncor Enhanced High Income Shares ETF,Harvest
-TDHE,1,TDHE,Harvest Enhanced High Income TD-Linked Shares ETF,Harvest
-TEHE,1,TEHE,Harvest TELUS Enhanced High Income Shares ETF,Harvest
-TSLY,1,TSLY,Harvest Tesla Enhanced High Income Shares ETF,Harvest
-IGAF,1,IGAF,IA Clarington Loomis Global Allocation Fund ETF,IA Clarington
-IGEO,1,IGEO,IA Clarington Loomis Global Equity Opportunities Fund,IA Clarington
-IIME,1,IIME,IA Clarington International Multifactor Equity Fund ETF,IA Clarington
-IMFE,1,IMFE,IA Clarington Global Multifactor Equity Fund ETF Series Units,IA Clarington
-ITIN,1,ITIN,IA Clarington Thematic Innovation Class ETF Series,IA Clarington
-EQLI,3,"EQLI,EQLI.F,EQLI.U",Invesco S&P 500 Equal Weight Income Advantage ETF (CA),Invesco
-IESGC,1,IESGC,Invesco S&P/TSX Composite ESG Index ETF Class,Invesco
-IQQQJ,1,IQQQJ,Invesco NASDAQ Next Gen 100 Index ETF Fund,Invesco
-IQQQM,1,IQQQM,Invesco NASDAQ 100 Index ETF Fund,Invesco
-ITCD,1,ITCD,Invesco Canadian Plus Dividend Class,Invesco
-ITCE,1,ITCE,Invesco Pure Canadian Equity Fund,Invesco
-ITDY,1,ITDY,Invesco Diversified Yield Class,Invesco
-ITEM,2,"ITEM,ITEM.U",Invesco Emerging Markets Class,Invesco
-ITEP,2,"ITEP.U,ITEP",Invesco EQV European Equity Fund,Invesco
-ITFE,1,ITFE,Invesco Global Select Equity Class,Invesco
-ITGD,1,ITGD,Invesco Global Dividend Class,Invesco
-ITGE,2,"ITGE.U,ITGE",Invesco Global Focus Class,Invesco
-ITGO,1,ITGO,Invesco Global Balanced Class,Invesco
-ITGS,2,"ITGS.U,ITGS",Invesco Global Opportunities Class,Invesco
-ITIC,1,ITIC,Invesco International Companies Class,Invesco
-ITOP,1,ITOP,Invesco Pure Canadian Equity Class,Invesco
-ITTF,2,"ITTF,ITTF.U",Invesco Global Companies Fund,Invesco
-ITUC,2,"ITUC,ITUC.U",Invesco U.S. Companies Class,Invesco
-ITUS,2,"ITUS,ITUS.U",Invesco Main Street U.S. Small Cap Class,Invesco
-IVCP,1,IVCP,Invesco EQV Canadian Premier Equity Class,Invesco
-IVEG,2,"IVEG,IVEG.U",Invesco EQV European Equity Class,Invesco
-IVESG,1,IVESG,Invesco S&P 500 ESG Index ETF Fund,Invesco
-IVGBE,1,IVGBE,Invesco Global Balanced ESG ETF Fund,Invesco
-IVGG,2,"IVGG,IVGG.U",Invesco Global Class,Invesco
-IVGR,2,"IVGR,IVGR.U",Invesco Global Real Estate Fund,Invesco
-IVGSB,1,IVGSB,Invesco Global Select Balanced Fund,Invesco
-IVIG,2,"IVIG,IVIG.U",Invesco EQV International Equity Class,Invesco
-IVIP,2,"IVIP,IVIP.U",Invesco Emerging Markets Fund,Invesco
-QQCI,3,"QQCI,QQCI.U,QQCI.F",Invesco NASDAQ 100 Income Advantage ETF,Invesco
-JAVA,1,JAVA,JPMorgan US Value Active ETF,JPMorgan
-JCOR,1,JCOR,JPMorgan US Core Active ETF,JPMorgan
-JEPH,1,JEPH,JPMorgan US Equity Premium Income Active (Hedged) ETF,JPMorgan
-JEPI,1,JEPI,JPMorgan US Equity Premium Income Active ETF,JPMorgan
-JEPQ,1,JEPQ,JPMorgan Nasdaq Equity Premium Income Active ETF,JPMorgan
-JGLO,1,JGLO,JPMorgan Global Select Equity Active ETF (CA),JPMorgan
-JGRO,1,JGRO,JPMorgan US Growth Active ETF,JPMorgan
-JIDE,1,JIDE,JPMorgan International Developed Equity Active ETF,JPMorgan
-JPQH,1,JPQH,JPMorgan Nasdaq Equity Premium Income Active (Hedged) ETF,JPMorgan
-MLRG,1,MLRG,Madison US Large Cap ETF,Madison
-MMID,1,MMID,Madison US Mid Cap ETF,Madison
-MGEQ,1,MGEQ,Manulife Global Equity Class,Manulife
-ASHR,1,ASHR,Mulvihill Split Capital Share ETF,Mulvihill
-CBNK,1,CBNK,Mulvihill Canadian Bank Enhanced Yield ETF,Mulvihill
-MBNK,1,MBNK,Mulvihill Canadian Bank ETF,Mulvihill
-MPY,1,MPY,Mulvihill Premium Yield Fund - ETF,Mulvihill
-NSDC,1,NSDC,NBI SmartData Canadian Equity Fund ETF Series Units,National Bank
-COIL,1,COIL,All-Canadian Oil & Gas ETF,Other
-TERP,1,TERP,TRU.X Exogenous Risk Pool ETF,Other
-PFAA,1,PFAA,PICTON Multi-Strategy Alpha Alternative Fund ETF,Picton Mahoney
-PFAE,1,PFAE,PICTON Long Short Equity (130/30) Alternative Fund ETF,Picton Mahoney
-PFCO,1,PFCO,PICTON Credit Opportunities Alternative Fund ETF,Picton Mahoney
-PFIA,1,PFIA,PICTON Long Short Income Alternative Fund ETF,Picton Mahoney
-PFLS,1,PFLS,PICTON Long Short Equity Alternative Fund ETF,Picton Mahoney
-PFMN,1,PFMN,PICTON Market Neutral Equity Alternative Fund ETF,Picton Mahoney
-PFMS,1,PFMS,PICTON Multi-Strategy Alternative Fund ETF,Picton Mahoney
-APLY,1,APLY,Apple (AAPL) Yield Shares Purpose ETF,Purpose
-ATDY,1,ATDY,Purpose Couche-Tard (ATD) Yield Shares ETF,Purpose
-BNSY,1,BNSY,Purpose Scotiabank (BNS) Yield Shares ETF,Purpose
-BNY,1,BNY,Purpose Brookfield (BN) Yield Shares ETF,Purpose
-BRKY,1,BRKY,Berkshire Hathaway (BRK) Yield Shares Purpose ETF,Purpose
-BTCO,2,"BTCO.B,BTCO.U",Purpose Core Bitcoin ETF,Purpose
-BTCY,3,"BTCY,BTCY.B,BTCY.U",Purpose Bitcoin Yield ETF,Purpose
-CNQY,1,CNQY,Purpose Canadian Natural Resources (CNQ) Yield Shares ETF,Purpose
-CROC,1,CROC,Purpose Credit Opportunities Class ETF,Purpose
-CROP,2,"CROP,CROP.U",Purpose Credit Opportunities Fund,Purpose
-DOLY,1,DOLY,Purpose Dollarama (DOL) Yield Shares ETF,Purpose
-ENBY,1,ENBY,Purpose Enbridge (ENB) Yield Shares ETF,Purpose
-ETHH,3,"ETHH.B,ETHH,ETHH.U",Purpose Ether ETF,Purpose
-ETHO,2,"ETHO.B,ETHO.U",Purpose Core Ether ETF,Purpose
-ETHY,3,"ETHY,ETHY.B,ETHY.U",Purpose Ether Yield ETF,Purpose
-FLX,3,"FLX,FLX.U,FLX.B",Purpose Global Flexible Credit Fund,Purpose
-JPYS,1,JPYS,Yield Shares (JPYS) Purpose ETF,Purpose
-MSFY,1,MSFY,Microsoft (MSFT) Yield Shares Purpose ETF,Purpose
-PABF,1,PABF,Purpose Active Balanced Fund,Purpose
-PACF,1,PACF,Purpose Active Conservative Fund,Purpose
-PAGF,1,PAGF,Purpose Active Growth Fund,Purpose
-PAYF,1,PAYF,Purpose Enhanced Premium Yield Fund ETF,Purpose
-PGRX,1,PGRX,Purpose Global Resource Fund,Purpose
-PSU,1,PSU.U,Purpose US Cash Fund,Purpose
-RDE,1,RDE,Purpose Core Equity Income Fund,Purpose
-REM,1,REM,Purpose Emerging Markets Dividend ETF,Purpose
-RTA,1,RTA,Purpose Tactical Asset Allocation Fund,Purpose
-RTT,1,RTT,Purpose Tactical Thematic Fund,Purpose
-SHPY,1,SHPY,Purpose Shopify (SHOP) Yield Shares ETF,Purpose
-SOLL,3,"SOLL,SOLL.B,SOLL.U",Purpose Solana ETF,Purpose
-SPXY,1,SPXY,Purpose SpaceX (SPCX) Yield Shares ETF,Purpose
-TY,1,TY,Purpose Telus (T) Yield Shares ETF,Purpose
-XRPP,3,"XRPP,XRPP.B,XRPP.U",Purpose XRP ETF,Purpose
-YAMD,1,YAMD,AMD (AMD) Yield Shares Purpose ETF,Purpose
-YAMZ,1,YAMZ,Amazon (AMZN) Yield Shares Purpose ETF,Purpose
-YAVG,1,YAVG,Broadcom (AVGO) Yield Shares Purpose ETF,Purpose
-YCON,1,YCON,Coinbase (COIN) Yield Shares Purpose ETF,Purpose
-YCST,1,YCST,Costco (COST) Yield Shares Purpose ETF,Purpose
-YGOG,1,YGOG,Alphabet (GOOGL) Yield Shares Purpose ETF,Purpose
-YMAG,1,YMAG,Tech Innovators Yield Shares Purpose ETF,Purpose
-YMET,1,YMET,META (META) Yield Shares Purpose ETF,Purpose
-YNET,1,YNET,Netflix (NFLX) Yield Shares Purpose ETF,Purpose
-YNVD,1,YNVD,NVIDIA (NVDA) Yield Shares Purpose ETF,Purpose
-YPLT,1,YPLT,Palantir (PLTR) Yield Shares Purpose ETF,Purpose
-YTSL,1,YTSL,Tesla (TSLA) Yield Shares Purpose ETF,Purpose
-YUNH,1,YUNH,UnitedHealth Group (UNH) Yield Shares Purpose ETF,Purpose
-RBCY,1,RBCY,Purpose RBC (RY) Yield Shares ETF,RBC
-RCAN,1,RCAN,RBC Canadian Equity ETF,RBC
-RCDL,1,RCDL,RBC Enhanced Quant Canadian Dividend Leaders Fund,RBC
-RCEI,1,RCEI,RBC Canadian Equity Income Fund,RBC
-REMD,1,REMD,RBC Emerging Markets Dividend Fund,RBC
-RENG,1,RENG,RBC Global Energy Fund,RBC
-RGLE,1,RGLE,RBC Global Large-Cap Equity Fund,RBC
-RGPM,1,RGPM,RBC Global Precious Metals Fund,RBC
-RINT,1,RINT,RBC International Equity Fund,RBC
-RLST,1,RLST,RBC Life Science and Technology Fund,RBC
-RNAG,1,RNAG,RBC North American Growth Fund,RBC
-RNAV,1,RNAV,RBC North American Value Fund,RBC
-RNVL,1,RNVL,RBC Enhanced North American Value Fund,RBC
-RTEC,1,RTEC,RBC Global Technology Fund,RBC
-RUDL,1,RUDL,RBC Enhanced Quant U.S. Dividend Leaders Fund,RBC
-RUMG,1,RUMG,RBC U.S. Mid-Cap Growth Equity Fund,RBC
-RUSA,2,"RUSA,RUSA.U",RBC U.S. Large-Cap Equity ETF,RBC
-RKLC,1,RKLC,Rocklinc Principled Equity ETF,Rocklinc
-HALO,1,HALO,Russell Investments Fallen Angels ETF,Russell
-RIGE,1,RIGE,Russell Investments Global Equity Pool ETF,Russell
-RIIN,1,RIIN,Russell Investments Global Infrastructure Pool ETF,Russell
-RIRA,1,RIRA,Russell Investments Real Assets ETF,Russell
-RQCA,1,RQCA,Russell Investments Multi-Factor Canadian Equity Pool ETF,Russell
-RQIN,1,RQIN,Russell Investments Multi-Factor International Equity Pool ETF,Russell
-RQUS,1,RQUS,Russell Investments Multi-Factor US Equity Pool ETF,Russell
-SRSL,1,SRSL,BetaPro -3x Russell 2000 Daily Leveraged Bear Alternative ETF,Russell
-TRSL,1,TRSL,BetaPro 3x Russell 2000 Daily Leveraged Bull Alternative ETF,Russell
-SBLG,1,SBLG,SLGI MFS Blended Research Low Vol Global Fund ETF Series,SLGI
-SBLI,1,SBLI,SLGI MFS Blended Research Low Vol International Fund ETF Series,SLGI
-SLCA,1,SLCA,Sun Life Core Advantage Credit Private Pool ETF Series,Sun Life
-SLSC,1,SLSC,Sun Life Crescent Specialty Credit Private Pool ETF Series,Sun Life
-TCOM,1,TCOM,TD Alternative Commodities Pool ETF,TD
-TDY,1,TDY,Purpose TD (TD) Yield Shares ETF,TD
-TGAF,1,TGAF,Tralucent Global Alt (Long/Short) Equity Fund,Tralucent
-VCIP,1,VCIP,Vanguard Conservative Income ETF Portfolio,Vanguard
-VI,1,VI,Vanguard FTSE Developed All Cap ex North America Index ETF,Vanguard
-VIDY,1,VIDY,Vanguard FTSE Developed ex North America High Dividend Yield Index ETF,Vanguard
-VIGG,1,VIGG,Vanguard Developed ex-North America Dividend Appreciation Index ETF,Vanguard
-VIU,1,VIU,Vanguard FTSE Developed All Cap ex North America Index ETF,Vanguard
-VRIF,1,VRIF,Vanguard Retirement Income ETF Portfolio,Vanguard
-VUDH,1,VUDH,Vanguard U.S. High Dividend Yield Index ETF,Vanguard
-VUDV,1,VUDV,Vanguard U.S. High Dividend Yield Index ETF,Vanguard
-VVO,1,VVO,Vanguard Global Minimum Volatility ETF,Vanguard
-WAAV,1,WAAV,WaveFront All-Weather Alternative Fund,WaveFront
-WSHR,1,WSHR,Wealthsimple Shariah World Equity Index ETF,Wealthsimple
-WSRD,1,WSRD,Wealthsimple Developed Markets ex North America Socially Responsible Index ETF,Wealthsimple
-WSRI,1,WSRI,Wealthsimple North America Socially Responsible Index ETF,Wealthsimple
-CGL.C,1,CGL.C,iShares Gold Bullion ETF,iShares
-CIE,1,CIE,iShares International Fundamental Index ETF,iShares
-CJP,1,CJP,iShares Japan Fundamental Index ETF,iShares
-CLU,1,CLU,iShares US Fundamental Index ETF,iShares
-CLU.C,1,CLU.C,iShares US Fundamental Index ETF,iShares
-CRQ,1,CRQ,iShares Canadian Fundamental Index ETF,iShares
-CWO,1,CWO,iShares Emerging Markets Fundamental Index ETF,iShares
-IBIT,2,"IBIT,IBIT.U",iShares Bitcoin ETF,iShares
-IBQT,1,IBQT,iShares Equity + Bitcoin ETF Portfolio,iShares
-XEC,2,"XEC,XEC.U",iShares Core MSCI Emerging Markets IMI Index ETF,iShares
-XEMC,1,XEMC,iShares MSCI Emerging Markets ex China Index ETF (CA),iShares
-XEU,1,XEU,iShares MSCI Europe IMI Index ETF,iShares
-XFLI,2,"XFLI,XFLI.U",iShares Flexible Monthly Income ETF,iShares
-XFLX,1,XFLX,iShares Flexible Monthly Income ETF,iShares
-XINC,1,XINC,iShares Core Income Balanced ETF,iShares
-XINT,1,XINT,iShares Core MSCI All-International Equity Index ETF,iShares
-XQQU,2,"XQQU,XQQU.U",iShares NASDAQ 100 Index ETF,iShares
-XSPC,1,XSPC,iShares S&P 500 3% Capped Index ETF,iShares
-XTOH,1,XTOH,iShares Core S&P Total U.S. Stock Market Index ETF,iShares
-XTOT,1,XTOT.U,iShares Core S&P Total U.S. Stock Market Index ETF,iShares
-XUSC,2,"XUSC,XUSC.U",iShares S&P 500 3% Capped Index ETF,iShares
-XUSF,1,XUSF,iShares S&P U.S. Financials Index ETF,iShares
+etf_ticker
+ACAA
+ADIV
+AENP
+AENU
+AGLR
+AGSL
+AMDU
+AMGR
+AMHE.U
+AMZH.U
+ARB
+ASHR
+ASMD
+ATAP
+ATRB
+ATSX
+AUGB.F
+BASE.B
+BESG
+BGU.U
+BND.U
+BOND.B
+BOND.U
+BTCC.J
+BTCO.B
+BTCO.U
+BTCX.B
+BTCX.U
+BTCY.B
+BTCY.U
+CAGG
+CALL.B
+CALL.U
+CAMO.B
+CAPN
+CAPQ
+CAPU
+CAPW
+CARS.B
+CARS.U
+CASH.L
+CBIL.L
+CCBA
+CCBD
+CCCX.B
+CCCX.U
+CCGP
+CCIP
+CCUL
+CCUS
+CDLB
+CDLB.B
+CDLB.U
+CEQT
+CESG.B
+CFLX
+CFOD
+CFOU
+CFRT
+CGDV.B
+CGHY
+CGHY.U
+CGIN
+CGIN.U
+CGLO
+CGQD.B
+CGRB
+CGRB.U
+CGRN.U
+CGSB
+CGXF.U
+CHCL.B
+CHNA.B
+CHPS
+CHQQ
+CIEM.U
+CINT
+CINV.U
+CLML.U
+CMAG.U
+CMAR
+CMAR.U
+CMCX.B
+CMCX.U
+CMDO
+CMDO.U
+CMEY.U
+CMGG.U
+CMNY
+CMOM.B
+CNAO.U
+CNDD
+CNDI
+CNDU
+CNDX
+COPP
+CPCC
+CQLI
+CRED
+CRED.U
+CROC
+CROP
+CROP.U
+CSAV
+CSGE
+CSTB
+CTIP
+CTMA
+CTMB
+CTMC
+CUBD
+CUDV.B
+CUSA.B
+CUSM.B
+CUTL.B
+CVLU.B
+CXF
+CYBR.B
+CYBR.U
+DACL
+DACU
+DAGL
+DATA.B
+DGGB
+DGR.B
+DGR.U
+DIVY
+DUIG
+EAFX
+EBIT.U
+EBNK.B
+EBNK.U
+EDGE.U
+EGIF
+EMMX
+ENCC
+EQE.F
+EQL.F
+EQL.U
+EQLI.F
+EQLI.U
+ESG.F
+ESGB
+ESGF
+ESGY.F
+ESPX.B
+ESPX.U
+ETC.U
+ETHH.B
+ETHH.U
+ETHI
+ETHO.B
+ETHO.U
+ETHR.U
+ETHX.B
+ETHX.U
+ETHY.B
+ETHY.U
+EVO
+FCGB
+FCGS
+FCID
+FCIG
+FCIL
+FCIM
+FCIN
+FCIP
+FCIQ
+FCIV
+FCLC
+FCLS
+FCMO
+FCNS
+FCQH
+FCRR
+FCSB
+FCSW
+FCUB
+FCUD
+FCUH
+FCUL
+FCUQ
+FCUV
+FCVH
+FDN.F
+FEBB.F
+FEMO
+FEPY
+FETH
+FFAB
+FFIX
+FGCV
+FGEB
+FGEP
+FGLS
+FGO
+FGO.U
+FGSM
+FHG.F
+FHH.F
+FHI.B
+FHI.U
+FHQ.F
+FIG
+FIG.U
+FINN
+FIXD
+FJFB
+FJFG
+FLSA
+FLSE
+FLX
+FLX.B
+FLX.U
+FMAB
+FMAE
+FMNA
+FMPB
+FMPG
+FMPI
+FPR
+FSB
+FSB.U
+FTHI
+GDXD
+GDXU
+GLCC
+GLDX
+GRNI
+GTRI
+HAB
+HAD
+HAF
+HAL
+HALO
+HAZ
+HBB
+HBF.B
+HBF.U
+HBGD
+HBIL.U
+HBND.U
+HCRE
+HDGE
+HFR
+HHIS.U
+HHL.B
+HHL.U
+HISA.L
+HISU.V
+HLIT
+HLPR
+HMMJ
+HMP
+HND
+HNU
+HOD
+HOU
+HPF.U
+HPR
+HPYM.U
+HPYT.B
+HPYT.U
+HQD
+HSH
+HSUV.U
+HTA.B
+HTA.U
+HTB
+HUBL.U
+HULC
+HURA
+HXCN
+HXDM
+HXE
+HXEM
+HXF
+HXH
+HXQ
+HXS
+HXX
+HYBR
+HYLD.U
+IBIT.U
+ICCB
+ICGB
+ICPB
+IESGC
+IFRF
+IGET.F
+IIAE.F
+IICE.F
+IIME
+IIMF.F
+ILGB
+INAI.F
+INCM
+INCM.B
+INOC
+IQQQJ
+IQQQM
+ISCB
+ISIF
+ITAB
+ITCB
+ITCD
+ITDY
+ITEM.U
+ITEP.U
+ITFR
+ITGD
+ITGDI
+ITGE
+ITGE.U
+ITGS
+ITGS.U
+ITHY
+ITIC
+ITTF.U
+ITUC.U
+ITUS.U
+IUAE.F
+IUFR.U
+IUMF.F
+IVEG
+IVEG.U
+IVESG
+IVGBE
+IVGBF
+IVGG
+IVGG.U
+IVGR
+IVGR.U
+IVIG
+IVIG.U
+IVIP.U
+IWEB
+JAPN.B
+JBND
+JPIE
+JPST
+LBIT.U
+LEAD.B
+LEAD.U
+LETH.U
+LIFE.B
+LIFE.U
+LLHE.U
+LLYH.U
+LYUV.U
+MAYB.F
+MCAN
+MDIF
+MEDX
+METU
+MFUN
+MGEQ
+MIDB.B
+MIDB.U
+MMAC
+MNU.U
+MNY
+MSFH.U
+MSHE.U
+MTRX
+MUU
+NBIV
+NOVB.F
+NRGD
+NRGU
+NRGY
+NSDC
+NVDH.U
+NVHE.U
+NXF.B
+NXF.U
+NYSX
+ONEB
+OPPS
+ORBU
+ORBX
+PAYF
+PBAL
+PBY
+PFCB
+PFCO
+PFIA
+PFIG
+PFIN
+PFRD
+PGRX
+PLTU
+PLUS
+PREF
+PSY
+PXU.F
+PZW.F
+QASH
+QBB
+QBTL
+QCB
+QDXB
+QEBH
+QEBL
+QEE
+QEF
+QHY
+QIF
+QLB
+QMAX.U
+QQCE.F
+QQCI.F
+QQCI.U
+QQEQ.F
+QQI
+QQJR.F
+QQQT.B
+QQQT.U
+QQQX
+QQQY.U
+QQU
+QSB
+QTIP
+QTLT
+QUB
+QUIG
+QXM
+RAAA
+RATE
+RBND
+RBNU
+RBOT
+RCDB
+RCDL
+RCLO
+RCNS
+RCOR
+REMB
+RGCB
+RGQO
+RGQT
+RGQU
+RHYB
+RID.U
+RIFI
+RIGE
+RIIN
+RIRA
+RKLC
+RPD.U
+RPLS
+RPS
+RQCA
+RQIN
+RQO
+RQT
+RQU
+RQUS
+RSCL
+RUD.U
+RUDB.U
+RUDC.U
+RUQO
+RUQO.U
+RUQP.U
+RUQQ.U
+RUQR.U
+RUQS.U
+RUQT
+RUQT.U
+RUQU
+RUQU.U
+RUSA.U
+RUSB.U
+RUST
+SBLG
+SBLI
+SCND
+SDVY.F
+SITE
+SLCA
+SLGC
+SLSC
+SLVX
+SMAX.U
+SMVP.U
+SOLA.U
+SOLL.B
+SOLL.U
+SOLX.B
+SOLX.U
+SOXL
+SOXS
+SPFD
+SPXD
+SPXI
+SPXU
+SPXY
+SQQQ
+SRSL
+SSPX
+STLT
+STRT
+TBCK
+TBUF.U
+TBUG.U
+TCCB
+TCND
+TDOC.U
+TEC.U
+TECH.B
+TECH.U
+TERP
+TGAF
+TGED.U
+TLTX
+TLTX.F
+TLTX.U
+TOKN
+TPUT
+TQQQ
+TQSM.U
+TRSL
+TRVL.U
+TSPX
+TSTB
+TSTX
+TSTX.F
+TSTX.U
+TTLT
+TUED.U
+TUSB.U
+TUSD.U
+TUST
+UBIL.U
+UBIL.V
+UCSH.U
+UCSH.V
+ULV.F
+ULV.U
+UMNY.U
+USCC.U
+USSX
+VALT.B
+VALT.U
+VCB
+VCOR
+VGAB
+VGV
+VLB
+VVSG
+VXM.U
+WAAV
+WHYP.U
+WOMN
+WSGB
+XAGG.U
+XAW.U
+XCBU.U
+XDG.U
+XDU.U
+XEB
+XEC.U
+XEF.U
+XFLI.U
+XGGB
+XMC.U
+XMU.U
+XQQU.U
+XRP.U
+XRPP.B
+XRPP.U
+XSC
+XSHU.U
+XSMB
+XSTP.U
+XTLT.U
+XTOT.U
+XUS.U
+XUSC.U
+XUU.U
+ZAAA
+ZAAA.F
+ZAAA.U
+ZABS
+ZABS.F
+ZABS.U
+ZACE
+ZBAL.T
+ZBBZ
+ZBBZ.F
+ZBBZ.U
+ZBCB
+ZBDU
+ZBDU.F
+ZBEC
+ZBEU
+ZBEU.F
+ZBI
+ZBVU
+ZCB
+ZCDB
+ZCDX
+ZCDX.U
+ZCOM
+ZCOM.F
+ZCPB
+ZCS.L
+ZDB
+ZDY.U
+ZEQL.F
+ZEQL.U
+ZEQT.T
+ZFC
+ZFH
+ZFN
+ZFS.L
+ZGB
+ZGDV
+ZGEQ
+ZGHC
+ZGIF
+ZGIN
+ZGLD.U
+ZGRO.T
+ZGRT
+ZGSB
+ZHC
+ZHP
+ZIC
+ZIC.U
+ZJK
+ZJK.U
+ZJPN.F
+ZLU.U
+ZMBS
+ZMI.U
+ZMID.F
+ZMID.U
+ZMLG
+ZMP
+ZMPC
+ZMPG
+ZMPI
+ZMPU
+ZMPU.F
+ZMPU.U
+ZMPW
+ZMSB
+ZMU
+ZNQ.U
+ZPAY.F
+ZPAY.U
+ZPL
+ZPR.U
+ZPS.L
+ZPW.U
+ZQB
+ZSB
+ZSDB
+ZSML.F
+ZSML.U
+ZSP.U
+ZST
+ZST.L
+ZSU
+ZTIP
+ZTIP.F
+ZTIP.U
+ZTL
+ZTL.F
+ZTL.U
+ZTM
+ZTM.U
+ZTS
+ZTS.U
+ZUAG
+ZUAG.F
+ZUAG.U
+ZUCM
+ZUCM.U
+ZUP
+ZUP.U
+ZUQ.F
+ZUQ.U
+ZUS.U
+ZUS.V
+ZWA.T
+ZWB.T
+ZWB.U
+ZWC.T
+ZWE.T
+ZWEN.T
+ZWG.T
+ZWGD.T
+ZWH.T
+ZWH.U
+ZWHC.T
+ZWK.T
+ZWP.T
+ZWQT
+ZWS.T
+ZWT.T
+ZWU.T
+ZXCO
+ZXCP
+ZXCQ
+ZXLB.F
+ZXLC.F
+ZXLE.F
+ZXLF.F
+ZXLI.F
+ZXLK.F
+ZXLP.F
+ZXLR.F
+ZXLU.F
+ZXLV.F
+ZXLY.F
+ZZZD
