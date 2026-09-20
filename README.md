@@ -6,12 +6,12 @@ Holdings for Canadian-listed ETFs, collected from official issuer websites. **Wo
 
 | File | Contents |
 |---|---|
-| `canadian_etf_holdings_MASTER.csv` | **292,802 holding rows** across **1,419 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
+| `canadian_etf_holdings_MASTER.csv` | **292,846 holding rows** across **1,421 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
 | `all_etfs_yahoo.csv` | **2,038-entry ETF universe** — ticker, name, provider |
 | `coverage_notes.csv` | **833 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, bond funds skipped, extraction pending) |
-| `missing_etfs_vs_master.csv` | **711 tickers** in universe without complete holdings in master |
+| `missing_etfs_vs_master.csv` | **696 tickers** in universe without complete holdings in master |
 
-**Coverage:** 1,419 of 2,038 universe entries (69.6%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs are included where official complete holdings are available.
+**Coverage:** 1,421 of 2,038 universe entries (69.7%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs are included where official complete holdings are available.
 
 ## Sources
 
@@ -26,12 +26,13 @@ Holdings come from official issuer websites (CSV/XLSX downloads or published tab
 - **Fidelity** (6 funds) — official downloads
 - **Fidelity** (FCCB 1,101 holdings; FCGB 1,963 holdings as of 2026-06-30 via official holdings API — weights truncated to 2dp by issuer, sum 90.04%, see coverage note) — fidelity.ca
 - **Mackenzie** (30+ funds) — browser-extracted from mackenzieinvestments.com
+- **JPMorgan** (10 funds: JAVA, JCOR, JEPH, JEPI, JEPQ, JGLO, JGRO, JIDE, JPIE, JPST) — official daily holdings PDFs from am.jpmorgan.com
 
 Fund-of-funds ETFs show their direct underlying holdings (e.g., XEQT holds XIC/XUU/XEF). We do not duplicate look-through portfolios.
 
 ## Known limitations
 
-1. **711 tickers lack complete holdings.** Reasons documented in `coverage_notes.csv`:
+1. **696 tickers lack complete holdings.** Reasons documented in `coverage_notes.csv`:
    - Terminated/merged funds (e.g., Harvest HBFE/HLFE terminated 2024)
    - Issuers publishing Top-10/Top-25 only
    - Bond/fixed-income ETFs where only Top-N is published
