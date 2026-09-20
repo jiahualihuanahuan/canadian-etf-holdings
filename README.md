@@ -6,12 +6,12 @@ Holdings for Canadian-listed ETFs, collected from official issuer websites. **Wo
 
 | File | Contents |
 |---|---|
-| `canadian_etf_holdings_MASTER.csv` | **290,321 holding rows** across **1,412 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
+| `canadian_etf_holdings_MASTER.csv` | **290,562 holding rows** across **1,416 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
 | `all_etfs_yahoo.csv` | **2,038-entry ETF universe** — ticker, name, provider |
-| `coverage_notes.csv` | **837 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, bond funds skipped, extraction pending) |
-| `missing_etfs_vs_master.csv` | **717 tickers** in universe without complete holdings in master |
+| `coverage_notes.csv` | **848 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, bond funds skipped, extraction pending) |
+| `missing_etfs_vs_master.csv` | **714 tickers** in universe without complete holdings in master |
 
-**Coverage:** 1,412 of 2,038 universe entries (69.3%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs with 10 or more holdings are intentionally skipped per project scope.
+**Coverage:** 1,416 of 2,038 universe entries (69.5%) have complete holdings from issuer-published sources. Bond/fixed-income ETFs with 10 or more holdings are intentionally skipped per project scope.
 
 ## Sources
 
@@ -31,7 +31,7 @@ Fund-of-funds ETFs show their direct underlying holdings (e.g., XEQT holds XIC/X
 
 ## Known limitations
 
-1. **719 tickers lack complete holdings.** Reasons documented in `coverage_notes.csv`:
+1. **714 tickers lack complete holdings.** Reasons documented in `coverage_notes.csv`:
    - Terminated/merged funds (e.g., Harvest HBFE/HLFE terminated 2024)
    - Issuers publishing Top-10/Top-25 only
    - Bond/fixed-income ETFs with 10+ holdings (intentionally skipped per scope)
