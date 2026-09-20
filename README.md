@@ -2,15 +2,15 @@
 
 Holdings for Canadian-listed ETFs, collected from official issuer websites. **Work in progress** — extraction is ongoing.
 
-## Dataset (2026-09-19, partial)
+## Dataset (2026-09-20, partial)
 
 | File | Contents |
 |---|---|
-| `canadian_etf_holdings_MASTER.csv` | **232,693 holding rows** across **933 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
+| `canadian_etf_holdings_MASTER.csv` | **236,183 holding rows** across **946 tickers**: `etf_ticker, etf_name, holding_ticker, holding_name, weight_pct, as_of_date, source, provider` |
 | `canadian_etf_list.csv` + `universe_expansion_new.csv` | **1,173 ETF universe** (provisional) — ticker, name, provider |
-| `coverage_notes.csv` | **828 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, extraction pending) |
+| `coverage_notes.csv` | **829 coverage notes** — status for ETFs without complete holdings (terminated, Top-N only, extraction pending) |
 
-**Coverage:** 933 of 1,173 provisional classes (79.5%) have complete holdings from issuer-published sources. The universe list is still being reconciled (terminated funds, renames, mergers, ticker reuse).
+**Coverage:** 946 of 1,173 provisional classes (80.6%) have complete holdings from issuer-published sources. The universe list is still being reconciled (terminated funds, renames, mergers, ticker reuse).
 
 ## Sources
 
@@ -23,15 +23,17 @@ Holdings come from official issuer websites (CSV/XLSX downloads or published tab
 - **Manulife** (11 funds, 21 tickers) — browser-extracted from manulifeim.com
 - **First Trust** (7 funds) — browser-extracted
 - **Fidelity** (6 funds) — official downloads
+- **Fidelity** (FCCB, 1,101 holdings) — browser-extracted from fidelity.ca
+- **Mackenzie** (30+ funds) — browser-extracted from mackenzieinvestments.com
 
 Fund-of-funds ETFs show their direct underlying holdings (e.g., XEQT holds XIC/XUU/XEF). We do not duplicate look-through portfolios.
 
 ## Known limitations
 
-1. **~261 classes lack complete holdings.** Reasons documented in `coverage_notes.csv`:
+1. **~227 classes lack complete holdings.** Reasons documented in `coverage_notes.csv`:
    - Terminated/merged funds
    - Issuers publishing Top-10/Top-25 only
-   - Extraction pending (Fidelity mega-funds FCCB/FCGB, Mackenzie ~47 classes, others)
+   - Extraction pending (Mackenzie QEE — complete holdings not published; others)
 2. **Weight sums** are preserved as published. Leveraged/inverse funds and derivatives may sum above 100%.
 3. **Blank holding tickers** mean the issuer did not publish a ticker (common for bonds, FX forwards, cash). We never invent tickers.
 4. **As-of dates** vary by issuer (most September 2026; some June/August 2026 for semi-annual filers).

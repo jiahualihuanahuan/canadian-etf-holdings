@@ -679,7 +679,7 @@ FCCL,Complete: 73 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09
 FCCM,Complete: 65 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09-19)
 FCCQ,Complete: 64 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09-19)
 FCCV,Complete: 68 holdings as of 18-Sep-2026 via fidelity.ca extraction (2026-09-19)
-FCGB,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
+FCGB,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
 FCGB.U,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
 FCGC,Complete: 98 holdings as of 30-Jun-2026 via fidelity.ca extraction (2026-09-19)
 FCGI,Holdings extraction via browser in progress. Fidelity publishes complete holdings on institutional site.
@@ -769,28 +769,27 @@ MULV,Holdings extraction pending. Browser task encountered issues; manual extrac
 MWLV,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 MWMN,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 QAH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QASH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QBB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QCB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QASH,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
+QBB,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
+QCB,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
 QCE,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 QCH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 QCN,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 QDX,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QDXB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QDXB,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
 QDXH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QEBH,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QEBL,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QEE,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QHY,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QEBH,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
+QEBL,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
+QHY,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
 QINF,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QLB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QLB,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
 QQQQ,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 QRET,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QSB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QTIP,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QTLT,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QUB,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
-QUIG,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
+QSB,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
+QTIP,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
+QTLT,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
+QUB,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
+QUIG,Skipped per user instruction 2026-09-19: bond fund with hundreds of holdings
 QUU,Holdings extraction pending. Browser task encountered issues; manual extraction required from mackenzieinvestments.com.
 MCSM,Complete: 120 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
 MDIF,Holdings extraction via browser in progress from manulifeim.com.
@@ -827,3 +826,4 @@ ZXM.B,Complete: 217 holdings as of 2026-09-17 via funds.cifinancial.com download
 VXM,Complete: 217 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
 VXM.B,Complete: 217 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
 HCA,Complete: 7 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
+QEE,"Mackenzie: complete ticker-level holdings not published; fund page holdings feed shows ""Information is not currently available"" (2026-09-20). Only Top 25 with weights available via Q3 2025 QPD (as of 2025-12-31); not ingested as complete."
