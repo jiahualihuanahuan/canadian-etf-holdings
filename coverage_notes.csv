@@ -834,5 +834,3 @@ ZZZD,"BMO: official XLSX contained only 10 rows (95.3%, expected 11 holdings); e
 ZCDX,"BMO: bond/fixed-income fund (Credit Stress Opportunities, 23 holdings ≥10); skipped per bond rule"
 IVGBE,"CI/Invesco: Portfolio tab offers only Top-9 table (99.86%), no Download Holdings button; excluded as partial"
 ITDY,"CI/Invesco: Portfolio tab offers only Top-15 table (33.68%), no Download Holdings button; excluded as partial"
-PFCO,Picton: fixed-income fund (Credit Opportunities Alternative Fund); skipped per bond rule
-PFIA,Picton: fixed-income fund (Long Short Income Alternative Fund); skipped per bond rule
