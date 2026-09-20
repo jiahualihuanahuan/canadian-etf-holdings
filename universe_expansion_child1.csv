@@ -1,0 +1,135 @@
+ticker,etf_name,provider,source
+BMAX,Brompton Enhanced Multi-Asset Income ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+CLSA,Brompton Split Corp. Enhanced Equity Income ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+PAYG,Brompton Global Equity HighPay ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+PAYI,Brompton Utilities & Infrastructure HighPay ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+PAYU,Brompton U.S. Equity HighPay ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+PAYB,Brompton Financials HighPay ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+PAYT,Brompton Technology HighPay ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+KNGC,Brompton Canadian Cash Flow Kings ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+KNGG,Brompton Global Cash Flow Kings ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+KNGU,Brompton U.S. Cash Flow Kings ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+KNGX,Brompton International Cash Flow Kings ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+BDIV,Brompton Global Dividend Growth ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+BFIN,Brompton North American Financials Dividend ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+BFIN.U,Brompton North American Financials Dividend ETF (US Dollar),Brompton Funds,https://www.bromptongroup.com/all-products/
+BGIE,Brompton Global Infrastructure ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+BLOV,Brompton North American Low Volatility Dividend ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+EDGF,Brompton European Dividend Growth ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+HIG,Brompton Global Healthcare Income & Growth ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+HIG.U,Brompton Global Healthcare Income & Growth ETF (US Dollar),Brompton Funds,https://www.bromptongroup.com/all-products/
+TLF,Brompton Tech Leaders Income ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+TLF.U,Brompton Tech Leaders Income ETF (US Dollar),Brompton Funds,https://www.bromptongroup.com/all-products/
+BAAA,Brompton Wellington Square AAA CLO ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+BAAA.U,Brompton Wellington Square AAA CLO ETF (US Dollar),Brompton Funds,https://www.bromptongroup.com/all-products/
+BBBB,Brompton Wellington Square Investment Grade CLO ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+BBBB.U,Brompton Wellington Square Investment Grade CLO ETF (US Dollar),Brompton Funds,https://www.bromptongroup.com/all-products/
+BEPR,Brompton Flaherty & Crumrine Enhanced Investment Grade Preferred ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+BEPR.U,Brompton Flaherty & Crumrine Enhanced Investment Grade Preferred ETF (US Dollar),Brompton Funds,https://www.bromptongroup.com/all-products/
+BPRF,Brompton Flaherty & Crumrine Investment Grade Preferred ETF,Brompton Funds,https://www.bromptongroup.com/all-products/
+BPRF.U,Brompton Flaherty & Crumrine Investment Grade Preferred ETF (US Dollar),Brompton Funds,https://www.bromptongroup.com/all-products/
+SPLT,Brompton Split Corp. Preferred Share ETF - CAD,Brompton Funds,https://www.bromptongroup.com/all-products/
+SPLT.U,Brompton Split Corp. Preferred Share ETF (USD-Hedged),Brompton Funds,https://www.bromptongroup.com/all-products/
+GOHI,Ninepoint Alphabet HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+ABHI,Ninepoint Barrick HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+BCHI,Ninepoint BCE HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+CCHI,Ninepoint Cameco HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+CQHI,Ninepoint Canadian Natural Resources HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+CLHI,Ninepoint Celestica HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+CRHI,Ninepoint CNR HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+CSHI,Ninepoint Constellation Software HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+ENHI,Ninepoint Enbridge HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+ECHI,Ninepoint Enhanced Canadian HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+INHI,Ninepoint Intel HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+KGHI,Ninepoint Kinross Gold HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+NVHI,Ninepoint NVIDIA HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+PLHI,Ninepoint Palantir HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+RYHI,Ninepoint Royal Bank HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+SHHI,Ninepoint Shopify HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+SXHI,Ninepoint SpaceX HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+SUHI,Ninepoint Suncor HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+TDHI,Ninepoint TD HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+TSHI,Ninepoint Tesla HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+USHI,Ninepoint Enhanced U.S. Equity HighShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+NACO,Ninepoint Alternative Credit Opportunities Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+NBAL,Ninepoint Balanced+ Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+NSAV,Ninepoint Cash Management Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+CSUC,Ninepoint Constellation Software CoreShares ETF,Ninepoint Partners,https://www.ninepoint.com/funds/
+TKN,Ninepoint Crypto and AI Leaders ETF (CAD),Ninepoint Partners,https://www.ninepoint.com/funds/
+TKN.U,Ninepoint Crypto and AI Leaders ETF (USD),Ninepoint Partners,https://www.ninepoint.com/funds/
+NBND,Ninepoint Diversified Bond Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+NNRG,"Ninepoint Energy Fund (ETF Series, CAD)",Ninepoint Partners,https://www.ninepoint.com/funds/
+NNRG.U,"Ninepoint Energy Fund (ETF Series, USD)",Ninepoint Partners,https://www.ninepoint.com/funds/
+NRGI,Ninepoint Energy Income Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+INFR,Ninepoint Global Infrastructure Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+GBSL,"Ninepoint Global Select Fund (ETF Series, CAD)",Ninepoint Partners,https://www.ninepoint.com/funds/
+GBSL.U,"Ninepoint Global Select Fund (ETF Series, USD)",Ninepoint Partners,https://www.ninepoint.com/funds/
+GLDE,Ninepoint Gold & Precious Minerals Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+GBUL,Ninepoint Gold Bullion Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+NMNG,Ninepoint Mining Evolution Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+SBUL,Ninepoint Silver Bullion Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+TIF,Ninepoint Target Income Fund (ETF Series),Ninepoint Partners,https://www.ninepoint.com/funds/
+DXBB,Dynamic Active Bond ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXBC,Dynamic Active Canadian Bond ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXC,Dynamic Active Canadian Dividend ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXCB,Dynamic Active Corporate Bond ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXO,Dynamic Active Crossover Bond ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXDB,Dynamic Active Discount Bond ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXEM,Dynamic Active Emerging Markets ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXQ,Dynamic Active Enhanced Yield Covered Options ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXG,Dynamic Active Global Dividend ETF (CAD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXG.U,Dynamic Active Global Dividend ETF (USD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXGE,Dynamic Active Global Equity Income ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXF,Dynamic Active Global Financial Services ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXAU,Dynamic Active Global Gold ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXN,Dynamic Active Global Infrastructure ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXID,Dynamic Active Innovation and Disruption ETF (CAD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXID.U,Dynamic Active Innovation and Disruption ETF (USD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXW,Dynamic Active International Dividend ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXIF,Dynamic Active International ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXMO,Dynamic Active Mining Opportunities ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXP,Dynamic Active Preferred Shares ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXRE,Dynamic Active Real Estate ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXB,Dynamic Active Tactical Bond ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXDU.U,Dynamic Active U.S. Discount Bond ETF (USD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXU,Dynamic Active U.S. Dividend ETF (CAD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXU.U,Dynamic Active U.S. Dividend ETF (USD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXUS,Dynamic Active U.S. Equity ETF (CAD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXUS.U,Dynamic Active U.S. Equity ETF (USD),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXBU,Dynamic Active U.S. Investment Grade Corporate Bond ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXZ,Dynamic Active U.S. Mid-Cap ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXV,Dynamic Active Ultra Short Term Bond ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXMC,Dynamic Active Multi-Crypto ETF,Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXCO,Dynamic Credit Opportunities Fund (ETF Series),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXBG,Dynamic Global Fixed Income Fund (ETF Series),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXR,Dynamic Retirement Income Fund (ETF Series),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+DXCP,Dynamic Short Term Credit PLUS Fund (ETF Series),Dynamic Funds,https://www.newswire.ca/news-releases/dynamic-announces-final-year-end-reinvested-distributions-for-the-dynamic-active-etfs-and-etf-series-834655241.html
+GCFE,Guardian Canadian Focused Equity Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIES,Guardian International Equity Select Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GBFC,GuardBonds 2026 Investment Grade Bond Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GBFD,GuardBonds 2027 Investment Grade Bond Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GBLF,GuardBonds 1-3 Year Laddered Investment Grade Bond Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIGC,Guardian Investment Grade Corporate Bond Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GSIF,Guardian Strategic Income Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIIF,Guardian i3 International Core Equity Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIDY,Guardian i3 Global Dividend Premium Yield Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GBFE,GuardBonds 2028 Investment Grade Bond Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GBFF,GuardBonds 2029 Investment Grade Bond Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GCEI,Guardian Canadian Equity Income Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GFGE,Guardian Fundamental Global Equity Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GSDB,Guardian Short Duration Bond Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIGD,Guardian i3 Global Dividend Growth Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GICD,Guardian i3 Canadian Dividend Growth Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIAI,Guardian i3 AI Technology and Innovation Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIGF.F,Guardian i3 Global Core Equity ETF - Hedged ETF Units,Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIGF,Guardian i3 Global Core Equity ETF (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GGEP.F,Guardian Directed Equity Path Portfolio - Hedged ETF Units,Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GGEP,Guardian Directed Equity Path Portfolio (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GGPY.F,Guardian Directed Premium Yield Portfolio - Hedged ETF Units,Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GGPY,Guardian Directed Premium Yield Portfolio (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIUS.F,Guardian i3 US Core Equity ETF - Hedged ETF Units,Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GIUS,Guardian i3 US Core Equity ETF - Unhedged ETF Units,Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GCBD,Guardian Canadian Bond Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GCSC,Guardian Canadian Diversified Core Equity Fund (Unhedged ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GCTB,Guardian Ultra-Short Canadian T-Bill Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/
+GUTB.U,Guardian Ultra-Short U.S. T-Bill Fund (ETF Units),Guardian Capital LP,https://www.guardiancapital.com/investmentsolutions/etfs/

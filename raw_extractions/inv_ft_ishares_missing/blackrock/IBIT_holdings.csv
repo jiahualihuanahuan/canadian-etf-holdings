@@ -1,0 +1,14 @@
+﻿Fund Holdings as of,"Sep 17, 2026"
+ 
+Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,Price,Location,Exchange,Currency,FX Rate,Market Currency
+"IBIT","ISHARES BITCOIN TRUST ETF CL1","-","Alternative","486,941,105.51","99.98","486,941,105.51","8,040,434.00","60.56","United States","NASDAQ","CAD","0.71","USD"
+"CAD","CAD CASH","-","Cash","81,895.70","0.02","81,895.70","81,895.70","100.00","Canada","-","CAD","1.00","CAD"
+"USD","USD CASH","-","Cash","14,964.09","0.00","14,964.09","10,698.95","139.86","United States","-","CAD","0.71","USD"
+ 
+Fund Holdings as of,"Sep 17, 2026"
+ 
+Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,Price,Location,Exchange,Currency,FX Rate,Market Currency
+"BTC","BITCOIN","-","Alternative","486,941,105.51","99.98","486,941,105.51","785,023.81","-","United States","-","CAD","-","BTC"
+"CAD","CAD CASH","-","Cash","81,895.70","0.02","81,895.70","819.00","100.00","Canada","-","CAD","1.00","CAD"
+"USD","USD CASH","-","Cash","14,964.09","0.00","14,964.09","10,698.95","-","United States","-","CAD","-","USD"
+ 

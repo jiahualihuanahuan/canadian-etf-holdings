@@ -1,0 +1,10 @@
+ticker,status,current_name,notes
+QCD,ACTIVE,AGF Systematic Canadian Equity ETF (AGF Investments),Renamed from AGFiQ Jan 27 2023; trades TSX
+QEF,ACTIVE,AGF Systematic Global ESG Factors ETF (AGF Investments),Renamed Jan 27 2023; trades Cboe Canada (NEO) as QEF.NE
+QEM,TERMINATED,,Terminated May 28 2024 (announced Mar 28 2024); final distribution paid
+QGL,TERMINATED,,Terminated Oct 2020; delisted from TSX
+QIE,TERMINATED,,Terminated effective close Apr 29 2025; final distributions paid Apr 2025
+QIF,ACTIVE,AGF Systematic Global Infrastructure ETF (AGF Investments),Renamed Jan 27 2023; trades Cboe Canada (NEO) as QIF.NE
+QMA,TERMINATED,,Terminated/delisted TSX Dec 15 2021 (announced Oct 15 2021)
+QMY,TERMINATED,,Terminated/delisted TSX Dec 15 2021 (announced Oct 15 2021)
+QUS,ACTIVE,AGF Systematic US Equity ETF (AGF Investments),Renamed Jan 27 2023; trades TSX; AUM ~$155M

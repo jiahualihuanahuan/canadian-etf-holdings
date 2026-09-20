@@ -1,0 +1,8220 @@
+[
+ {
+  "ticker": "AGCC",
+  "fund_name": "Global X Silver Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ISHARES SILVER TRUST",
+    "ticker": "",
+    "weight": "99.59",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.41",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "AIQ",
+  "fund_name": "Global X Artificial Intelligence & Technology Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X ARTIFICIAL INTELLIGENCE & TECHNOLOGY ETF",
+    "ticker": "AIQ",
+    "weight": "99.89",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.11",
+    "section": "long"
+   },
+   {
+    "name": "PALANTIR TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "4.12",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "3.62",
+    "section": "long"
+   },
+   {
+    "name": "ORACLE CORP",
+    "ticker": "",
+    "weight": "3.39",
+    "section": "long"
+   },
+   {
+    "name": "SPACE EXPLORATION TECHNOLOGIES",
+    "ticker": "",
+    "weight": "3.31",
+    "section": "long"
+   },
+   {
+    "name": "NETFLIX INC",
+    "ticker": "",
+    "weight": "3.21",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "3.14",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "3.03",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "2.91",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "2.88",
+    "section": "long"
+   },
+   {
+    "name": "SAMSUNG ELECTRONICS CO LTD",
+    "ticker": "",
+    "weight": "2.81",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "BCCC",
+  "fund_name": "Global X Bitcoin Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ISHARES BITCOIN TRUST",
+    "ticker": "",
+    "weight": "99.83",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.18",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "BCCL",
+  "fund_name": "Global X Enhanced Bitcoin Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X BITCOIN COVERED CALL ETF/CANADA",
+    "ticker": "BCCC",
+    "weight": "99.07",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.93",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "BITI",
+  "fund_name": "BetaPro Inverse Bitcoin ETF",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "BKCC",
+  "fund_name": "Global X Equal Weight Canadian Bank Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X EQUAL WEIGHT CANADIAN BANKS INDEX ETF",
+    "ticker": "HBNK",
+    "weight": "37.41",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "10.86",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "10.84",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "10.80",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "10.38",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "9.90",
+    "section": "long"
+   },
+   {
+    "name": "NATIONAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "9.71",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.22",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "17.38",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "17.37",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "17.24",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "16.56",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "15.77",
+    "section": "long"
+   },
+   {
+    "name": "NATIONAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "15.48",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.32",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "BKCL",
+  "fund_name": "Global X Enhanced Equal Weight Canadian Banks Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X EQUAL WEIGHT CANADIAN BANK COVERED CALL E",
+    "ticker": "",
+    "weight": "99.67",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.33",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "17.32",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "17.32",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "17.18",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "16.51",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "15.72",
+    "section": "long"
+   },
+   {
+    "name": "NATIONAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "15.43",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.64",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "BNKL",
+  "fund_name": "Global X Enhanced Equal Weight Banks Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X EQUAL WEIGHT CANADIAN BANKS INDEX ETF",
+    "ticker": "HBNK",
+    "weight": "99.91",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.09",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "17.47",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "17.40",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "17.19",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "16.51",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "15.69",
+    "section": "long"
+   },
+   {
+    "name": "NATIONAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "15.41",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.35",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CANL",
+  "fund_name": "Global X Enhanced S&P/TSX 60 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P/TSX 60 INDEX ETF",
+    "ticker": "CNDX",
+    "weight": "98.55",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "1.45",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "9.39",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "6.65",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "5.91",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "3.93",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "3.70",
+    "section": "long"
+   },
+   {
+    "name": "ENBRIDGE INC",
+    "ticker": "",
+    "weight": "3.69",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "3.44",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "3.43",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LIMITED",
+    "ticker": "",
+    "weight": "3.39",
+    "section": "long"
+   },
+   {
+    "name": "BROOKFIELD CORPORATION",
+    "ticker": "",
+    "weight": "2.89",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CFOD",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CFOU",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CHPS",
+  "fund_name": "Global X Artificial Intelligence Semiconductor Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "22.23",
+    "section": "long"
+   },
+   {
+    "name": "TAIWAN SEMICONDUCTOR MANUFACTU",
+    "ticker": "",
+    "weight": "17.93",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "13.22",
+    "section": "long"
+   },
+   {
+    "name": "ADVANCED MICRO DEVICES INC",
+    "ticker": "",
+    "weight": "10.83",
+    "section": "long"
+   },
+   {
+    "name": "ASML HOLDING NV",
+    "ticker": "",
+    "weight": "9.42",
+    "section": "long"
+   },
+   {
+    "name": "LAM RESEARCH CORP",
+    "ticker": "",
+    "weight": "5.32",
+    "section": "long"
+   },
+   {
+    "name": "APPLIED MATERIALS INC",
+    "ticker": "",
+    "weight": "5.14",
+    "section": "long"
+   },
+   {
+    "name": "ARM HOLDINGS PLC",
+    "ticker": "",
+    "weight": "3.65",
+    "section": "long"
+   },
+   {
+    "name": "KLA CORP",
+    "ticker": "",
+    "weight": "3.24",
+    "section": "long"
+   },
+   {
+    "name": "MARVELL TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "2.61",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CHQQ",
+  "fund_name": "Global X China Hang Seng TECH Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NETEASE INC",
+    "ticker": "",
+    "weight": "9.22",
+    "section": "long"
+   },
+   {
+    "name": "TENCENT HOLDINGS LTD",
+    "ticker": "",
+    "weight": "8.91",
+    "section": "long"
+   },
+   {
+    "name": "XIAOMI CORP",
+    "ticker": "",
+    "weight": "8.83",
+    "section": "long"
+   },
+   {
+    "name": "MEITUAN",
+    "ticker": "",
+    "weight": "8.74",
+    "section": "long"
+   },
+   {
+    "name": "BYD CO LTD",
+    "ticker": "",
+    "weight": "8.53",
+    "section": "long"
+   },
+   {
+    "name": "ALIBABA GROUP HOLDING LTD",
+    "ticker": "",
+    "weight": "8.26",
+    "section": "long"
+   },
+   {
+    "name": "LENOVO GROUP LTD",
+    "ticker": "",
+    "weight": "6.24",
+    "section": "long"
+   },
+   {
+    "name": "JD.COM INC",
+    "ticker": "",
+    "weight": "5.45",
+    "section": "long"
+   },
+   {
+    "name": "BAIDU INC",
+    "ticker": "",
+    "weight": "4.43",
+    "section": "long"
+   },
+   {
+    "name": "KUAISHOU TECHNOLOGY",
+    "ticker": "",
+    "weight": "3.12",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CMCC",
+  "fund_name": "Global X All-In-One Commodity Producers Equity Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X GOLD PRODUCER EQUITY COVERED CALL ETF",
+    "ticker": "GLCC",
+    "weight": "26.55",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X CANADIAN OIL AND GAS EQUITY COVERED CALL",
+    "ticker": "",
+    "weight": "24.16",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X COPPER PRODUCER EQUITY COVERED CALL ETF",
+    "ticker": "CPCC",
+    "weight": "21.43",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X SILVER MINERS COVERED CALL ETF",
+    "ticker": "SVCC",
+    "weight": "8.83",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X LITHIUM & BATTERY T",
+    "ticker": "",
+    "weight": "5.94",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X URANIUM COVERED CALL ETF",
+    "ticker": "URCC",
+    "weight": "5.54",
+    "section": "long"
+   },
+   {
+    "name": "ANTERO RESOURCES CORP",
+    "ticker": "",
+    "weight": "2.51",
+    "section": "long"
+   },
+   {
+    "name": "DEVON ENERGY CORP",
+    "ticker": "",
+    "weight": "2.47",
+    "section": "long"
+   },
+   {
+    "name": "EQT CORP",
+    "ticker": "",
+    "weight": "2.29",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.28",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CMCL",
+  "fund_name": "Global X Enhanced All-In-One Commodity Producers Equity Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X GOLD PRODUCER EQUITY COVERED CALL ETF",
+    "ticker": "GLCC",
+    "weight": "26.46",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X CANADIAN OIL AND GAS EQUITY COVERED CALL",
+    "ticker": "",
+    "weight": "24.91",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X COPPER PRODUCER EQUITY COVERED CALL ETF",
+    "ticker": "CPCC",
+    "weight": "19.79",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X SILVER MINERS COVERED CALL ETF",
+    "ticker": "SVCC",
+    "weight": "9.26",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X LITHIUM & BATTERY T",
+    "ticker": "",
+    "weight": "6.82",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X URANIUM COVERED CALL ETF",
+    "ticker": "URCC",
+    "weight": "5.91",
+    "section": "long"
+   },
+   {
+    "name": "EQT CORP",
+    "ticker": "",
+    "weight": "2.30",
+    "section": "long"
+   },
+   {
+    "name": "DEVON ENERGY CORP",
+    "ticker": "",
+    "weight": "2.29",
+    "section": "long"
+   },
+   {
+    "name": "ANTERO RESOURCES CORP",
+    "ticker": "",
+    "weight": "1.94",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.34",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CNCC",
+  "fund_name": "Global X S&P/TSX 60 Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P/TSX 60 INDEX ETF",
+    "ticker": "CNDX",
+    "weight": "99.95",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.22",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "9.53",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "6.74",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "5.99",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "3.98",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "3.75",
+    "section": "long"
+   },
+   {
+    "name": "ENBRIDGE INC",
+    "ticker": "",
+    "weight": "3.74",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "3.49",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "3.48",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LIMITED",
+    "ticker": "",
+    "weight": "3.44",
+    "section": "long"
+   },
+   {
+    "name": "BROOKFIELD CORPORATION",
+    "ticker": "",
+    "weight": "2.93",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CNCL",
+  "fund_name": "Global X Enhanced S&P/TSX 60 Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P/TSX 60 COVERED CALL ETF",
+    "ticker": "CNCC",
+    "weight": "97.78",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "2.22",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "9.32",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "6.59",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "5.86",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "3.89",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "3.67",
+    "section": "long"
+   },
+   {
+    "name": "ENBRIDGE INC",
+    "ticker": "",
+    "weight": "3.66",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "3.41",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "3.41",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LIMITED",
+    "ticker": "",
+    "weight": "3.36",
+    "section": "long"
+   },
+   {
+    "name": "BROOKFIELD CORPORATION",
+    "ticker": "",
+    "weight": "2.87",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CNDD",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CNDI",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CNDU",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CNDX",
+  "fund_name": "Global X S&P/TSX 60 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "9.53",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "6.74",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "6.00",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "3.99",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "3.75",
+    "section": "long"
+   },
+   {
+    "name": "ENBRIDGE INC",
+    "ticker": "",
+    "weight": "3.74",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "3.49",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "3.48",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LIMITED",
+    "ticker": "",
+    "weight": "3.44",
+    "section": "long"
+   },
+   {
+    "name": "BROOKFIELD CORPORATION",
+    "ticker": "",
+    "weight": "2.94",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "COMX",
+  "fund_name": "Global X All-In-One Commodity Producers Equity ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X EQUAL WEIGHT CANADIAN OIL & GAS INDEX ETF",
+    "ticker": "NRGY",
+    "weight": "25.80",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X GOLD PRODUCERS INDEX ETF",
+    "ticker": "GLDX",
+    "weight": "24.98",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X COPPER MINERS ETF",
+    "ticker": "COPX",
+    "weight": "20.90",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X SILVER MINERS INDEX ETF",
+    "ticker": "SLVX",
+    "weight": "9.02",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X US NATURAL GAS ETF",
+    "ticker": "LNGX",
+    "weight": "7.32",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X LITHIUM & BATTERY T",
+    "ticker": "",
+    "weight": "5.77",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X URANIUM ETF",
+    "ticker": "URA",
+    "weight": "5.49",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.73",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "COPP",
+  "fund_name": "Global X Copper Producers Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "1ST QUANTUM MINERALS LTD",
+    "ticker": "",
+    "weight": "11.53",
+    "section": "long"
+   },
+   {
+    "name": "FREEPORT-MCMORAN INC",
+    "ticker": "",
+    "weight": "11.05",
+    "section": "long"
+   },
+   {
+    "name": "SOUTHERN COPPER CORP",
+    "ticker": "",
+    "weight": "10.71",
+    "section": "long"
+   },
+   {
+    "name": "TECK RESOURCES LTD",
+    "ticker": "",
+    "weight": "9.85",
+    "section": "long"
+   },
+   {
+    "name": "HUDBAY MINERALS INC",
+    "ticker": "",
+    "weight": "9.13",
+    "section": "long"
+   },
+   {
+    "name": "IVANHOE MINES LTD",
+    "ticker": "",
+    "weight": "8.87",
+    "section": "long"
+   },
+   {
+    "name": "LUNDIN MINING CORP",
+    "ticker": "",
+    "weight": "8.42",
+    "section": "long"
+   },
+   {
+    "name": "CAPSTONE COPPER CORP",
+    "ticker": "",
+    "weight": "6.31",
+    "section": "long"
+   },
+   {
+    "name": "BHP GROUP LTD",
+    "ticker": "",
+    "weight": "4.92",
+    "section": "long"
+   },
+   {
+    "name": "RIO TINTO PLC",
+    "ticker": "",
+    "weight": "4.44",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CPCC",
+  "fund_name": "Global X Copper Producer Equity Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X COPPER MINERS ETF",
+    "ticker": "COPX",
+    "weight": "17.22",
+    "section": "long"
+   },
+   {
+    "name": "FREEPORT-MCMORAN INC",
+    "ticker": "",
+    "weight": "10.32",
+    "section": "long"
+   },
+   {
+    "name": "TECK RESOURCES LTD",
+    "ticker": "",
+    "weight": "9.58",
+    "section": "long"
+   },
+   {
+    "name": "SOUTHERN COPPER CORP",
+    "ticker": "",
+    "weight": "9.43",
+    "section": "long"
+   },
+   {
+    "name": "1ST QUANTUM MINERALS LTD",
+    "ticker": "",
+    "weight": "8.84",
+    "section": "long"
+   },
+   {
+    "name": "LUNDIN MINING CORP",
+    "ticker": "",
+    "weight": "8.23",
+    "section": "long"
+   },
+   {
+    "name": "HUDBAY MINERALS INC",
+    "ticker": "",
+    "weight": "6.56",
+    "section": "long"
+   },
+   {
+    "name": "IVANHOE MINES LTD",
+    "ticker": "",
+    "weight": "5.48",
+    "section": "long"
+   },
+   {
+    "name": "CAPSTONE COPPER CORP",
+    "ticker": "",
+    "weight": "5.28",
+    "section": "long"
+   },
+   {
+    "name": "BHP GROUP LTD",
+    "ticker": "",
+    "weight": "4.56",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "DIVY",
+  "fund_name": "Global X Active U.S. Dividend ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "7.24",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "5.58",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "3.18",
+    "section": "long"
+   },
+   {
+    "name": "ELI LILLY & CO",
+    "ticker": "",
+    "weight": "3.08",
+    "section": "long"
+   },
+   {
+    "name": "MASTERCARD INC",
+    "ticker": "",
+    "weight": "2.51",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "2.46",
+    "section": "long"
+   },
+   {
+    "name": "LAM RESEARCH CORP",
+    "ticker": "",
+    "weight": "2.42",
+    "section": "long"
+   },
+   {
+    "name": "ACCENTURE PLC",
+    "ticker": "",
+    "weight": "2.28",
+    "section": "long"
+   },
+   {
+    "name": "HOME DEPOT INC/THE",
+    "ticker": "",
+    "weight": "2.23",
+    "section": "long"
+   },
+   {
+    "name": "DELL TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "2.11",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "ENCC",
+  "fund_name": "Global X Canadian Oil and Gas Equity Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X EQUAL WEIGHT CANADIAN OIL & GAS INDEX ETF",
+    "ticker": "NRGY",
+    "weight": "32.67",
+    "section": "long"
+   },
+   {
+    "name": "CENOVUS ENERGY INC",
+    "ticker": "",
+    "weight": "6.77",
+    "section": "long"
+   },
+   {
+    "name": "WHITECAP RESOURCES INC",
+    "ticker": "",
+    "weight": "6.24",
+    "section": "long"
+   },
+   {
+    "name": "ARC RESOURCES LTD",
+    "ticker": "",
+    "weight": "5.98",
+    "section": "long"
+   },
+   {
+    "name": "SUNCOR ENERGY INC",
+    "ticker": "",
+    "weight": "5.57",
+    "section": "long"
+   },
+   {
+    "name": "IMPERIAL OIL LTD",
+    "ticker": "",
+    "weight": "5.47",
+    "section": "long"
+   },
+   {
+    "name": "SOUTH BOW CORP",
+    "ticker": "",
+    "weight": "5.34",
+    "section": "long"
+   },
+   {
+    "name": "PEMBINA PIPELINE CORP",
+    "ticker": "",
+    "weight": "5.26",
+    "section": "long"
+   },
+   {
+    "name": "KEYERA CORP",
+    "ticker": "",
+    "weight": "5.26",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "5.16",
+    "section": "long"
+   },
+   {
+    "name": "CENOVUS ENERGY INC",
+    "ticker": "",
+    "weight": "10.16",
+    "section": "long"
+   },
+   {
+    "name": "WHITECAP RESOURCES INC",
+    "ticker": "",
+    "weight": "9.30",
+    "section": "long"
+   },
+   {
+    "name": "ARC RESOURCES LTD",
+    "ticker": "",
+    "weight": "8.91",
+    "section": "long"
+   },
+   {
+    "name": "SOUTH BOW CORP",
+    "ticker": "",
+    "weight": "8.57",
+    "section": "long"
+   },
+   {
+    "name": "KEYERA CORP",
+    "ticker": "",
+    "weight": "8.45",
+    "section": "long"
+   },
+   {
+    "name": "PEMBINA PIPELINE CORP",
+    "ticker": "",
+    "weight": "8.41",
+    "section": "long"
+   },
+   {
+    "name": "SUNCOR ENERGY INC",
+    "ticker": "",
+    "weight": "8.32",
+    "section": "long"
+   },
+   {
+    "name": "IMPERIAL OIL LTD",
+    "ticker": "",
+    "weight": "8.13",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "7.69",
+    "section": "long"
+   },
+   {
+    "name": "TC ENERGY CORP",
+    "ticker": "",
+    "weight": "7.55",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "ENCL",
+  "fund_name": "Global X Enhanced Canadian Oil And Gas Equity Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X CANADIAN OIL AND GAS EQUITY COVERED CALL",
+    "ticker": "",
+    "weight": "99.57",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.43",
+    "section": "long"
+   },
+   {
+    "name": "CENOVUS ENERGY INC",
+    "ticker": "",
+    "weight": "10.12",
+    "section": "long"
+   },
+   {
+    "name": "WHITECAP RESOURCES INC",
+    "ticker": "",
+    "weight": "9.26",
+    "section": "long"
+   },
+   {
+    "name": "ARC RESOURCES LTD",
+    "ticker": "",
+    "weight": "8.87",
+    "section": "long"
+   },
+   {
+    "name": "SOUTH BOW CORP",
+    "ticker": "",
+    "weight": "8.53",
+    "section": "long"
+   },
+   {
+    "name": "KEYERA CORP",
+    "ticker": "",
+    "weight": "8.42",
+    "section": "long"
+   },
+   {
+    "name": "PEMBINA PIPELINE CORP",
+    "ticker": "",
+    "weight": "8.37",
+    "section": "long"
+   },
+   {
+    "name": "SUNCOR ENERGY INC",
+    "ticker": "",
+    "weight": "8.28",
+    "section": "long"
+   },
+   {
+    "name": "IMPERIAL OIL LTD",
+    "ticker": "",
+    "weight": "8.10",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "7.66",
+    "section": "long"
+   },
+   {
+    "name": "TC ENERGY CORP",
+    "ticker": "",
+    "weight": "7.52",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "EQCC",
+  "fund_name": "Global X All-Equity Asset Allocation Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P 500 COVERED CALL ETF",
+    "ticker": "USCC",
+    "weight": "33.00",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EAFE COVERED CALL ETF",
+    "ticker": "EACC",
+    "weight": "25.98",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P/TSX 60 COVERED CALL ETF",
+    "ticker": "CNCC",
+    "weight": "21.24",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS COVERED CALL ETF/TO",
+    "ticker": "EMCC",
+    "weight": "8.78",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X NASDAQ 100 COVERED CALL ETF/CANADA",
+    "ticker": "QQCC",
+    "weight": "6.83",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X RUSSELL 2000 COVERED CALL ETF/CANADA",
+    "ticker": "RSCC",
+    "weight": "4.10",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.07",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "3.25",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "2.83",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "2.47",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "2.29",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "2.20",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "2.02",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "1.57",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "1.43",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "1.33",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EMERGING",
+    "ticker": "",
+    "weight": "1.29",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "EQCL",
+  "fund_name": "Global X Enhanced All-Equity Asset Allocation Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P 500 COVERED CALL ETF",
+    "ticker": "USCC",
+    "weight": "34.74",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EAFE COVERED CALL ETF",
+    "ticker": "EACC",
+    "weight": "24.57",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P/TSX 60 COVERED CALL ETF",
+    "ticker": "CNCC",
+    "weight": "20.28",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS COVERED CALL ETF/TO",
+    "ticker": "EMCC",
+    "weight": "8.60",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X NASDAQ 100 COVERED CALL ETF/CANADA",
+    "ticker": "QQCC",
+    "weight": "6.81",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X RUSSELL 2000 COVERED CALL ETF/CANADA",
+    "ticker": "RSCC",
+    "weight": "4.94",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.06",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "3.39",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "2.95",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "2.39",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "2.33",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "2.29",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "1.93",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "1.64",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "1.37",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "1.27",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EMERGING",
+    "ticker": "",
+    "weight": "1.27",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "ETHI",
+  "fund_name": "Global X Global Sustainability Leaders Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "4.19",
+    "section": "long"
+   },
+   {
+    "name": "VISA INC COM CL A",
+    "ticker": "",
+    "weight": "4.16",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "4.13",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "3.96",
+    "section": "long"
+   },
+   {
+    "name": "MASTERCARD INC",
+    "ticker": "",
+    "weight": "3.84",
+    "section": "long"
+   },
+   {
+    "name": "ASML HOLDING NV",
+    "ticker": "",
+    "weight": "3.41",
+    "section": "long"
+   },
+   {
+    "name": "TOYOTA MOTOR CORP",
+    "ticker": "",
+    "weight": "3.03",
+    "section": "long"
+   },
+   {
+    "name": "HOME DEPOT INC/THE",
+    "ticker": "",
+    "weight": "2.89",
+    "section": "long"
+   },
+   {
+    "name": "ELI LILLY & CO",
+    "ticker": "",
+    "weight": "2.43",
+    "section": "long"
+   },
+   {
+    "name": "ALLIANZ SE",
+    "ticker": "",
+    "weight": "1.97",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "GDXD",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "GDXU",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "GLCC",
+  "fund_name": "Global X Gold Producer Equity Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X GOLD PRODUCERS INDEX ETF",
+    "ticker": "GLDX",
+    "weight": "32.99",
+    "section": "long"
+   },
+   {
+    "name": "NEWMONT CORP",
+    "ticker": "",
+    "weight": "7.50",
+    "section": "long"
+   },
+   {
+    "name": "BARRICK MINING CORP",
+    "ticker": "",
+    "weight": "7.10",
+    "section": "long"
+   },
+   {
+    "name": "ANGLOGOLD ASHANTI PLC",
+    "ticker": "",
+    "weight": "6.99",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LIMITED",
+    "ticker": "",
+    "weight": "6.59",
+    "section": "long"
+   },
+   {
+    "name": "GOLD FIELDS LTD",
+    "ticker": "",
+    "weight": "6.38",
+    "section": "long"
+   },
+   {
+    "name": "KINROSS GOLD CORP",
+    "ticker": "",
+    "weight": "5.16",
+    "section": "long"
+   },
+   {
+    "name": "PAN AMERICAN SILVER CORP",
+    "ticker": "",
+    "weight": "3.56",
+    "section": "long"
+   },
+   {
+    "name": "COEUR MINING INC",
+    "ticker": "",
+    "weight": "3.33",
+    "section": "long"
+   },
+   {
+    "name": "LUNDIN GOLD INC",
+    "ticker": "",
+    "weight": "2.82",
+    "section": "long"
+   },
+   {
+    "name": "NEWMONT CORP",
+    "ticker": "",
+    "weight": "11.27",
+    "section": "long"
+   },
+   {
+    "name": "ANGLOGOLD ASHANTI PLC",
+    "ticker": "",
+    "weight": "10.62",
+    "section": "long"
+   },
+   {
+    "name": "BARRICK MINING CORP",
+    "ticker": "",
+    "weight": "10.54",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LIMITED",
+    "ticker": "",
+    "weight": "9.74",
+    "section": "long"
+   },
+   {
+    "name": "GOLD FIELDS LTD",
+    "ticker": "",
+    "weight": "9.49",
+    "section": "long"
+   },
+   {
+    "name": "KINROSS GOLD CORP",
+    "ticker": "",
+    "weight": "8.02",
+    "section": "long"
+   },
+   {
+    "name": "PAN AMERICAN SILVER CORP",
+    "ticker": "",
+    "weight": "5.27",
+    "section": "long"
+   },
+   {
+    "name": "COEUR MINING INC",
+    "ticker": "",
+    "weight": "5.01",
+    "section": "long"
+   },
+   {
+    "name": "LUNDIN GOLD INC",
+    "ticker": "",
+    "weight": "4.16",
+    "section": "long"
+   },
+   {
+    "name": "ALAMOS GOLD INC NEW",
+    "ticker": "",
+    "weight": "3.68",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "GLCL",
+  "fund_name": "Global X Enhanced Gold Producer Equity Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X GOLD PRODUCER EQUITY COVERED CALL ETF",
+    "ticker": "GLCC",
+    "weight": "99.89",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.11",
+    "section": "long"
+   },
+   {
+    "name": "NEWMONT CORP",
+    "ticker": "",
+    "weight": "11.26",
+    "section": "long"
+   },
+   {
+    "name": "ANGLOGOLD ASHANTI PLC",
+    "ticker": "",
+    "weight": "10.61",
+    "section": "long"
+   },
+   {
+    "name": "BARRICK MINING CORP",
+    "ticker": "",
+    "weight": "10.52",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LIMITED",
+    "ticker": "",
+    "weight": "9.73",
+    "section": "long"
+   },
+   {
+    "name": "GOLD FIELDS LTD",
+    "ticker": "",
+    "weight": "9.48",
+    "section": "long"
+   },
+   {
+    "name": "KINROSS GOLD CORP",
+    "ticker": "",
+    "weight": "8.02",
+    "section": "long"
+   },
+   {
+    "name": "PAN AMERICAN SILVER CORP",
+    "ticker": "",
+    "weight": "5.27",
+    "section": "long"
+   },
+   {
+    "name": "COEUR MINING INC",
+    "ticker": "",
+    "weight": "5.00",
+    "section": "long"
+   },
+   {
+    "name": "LUNDIN GOLD INC",
+    "ticker": "",
+    "weight": "4.16",
+    "section": "long"
+   },
+   {
+    "name": "ALAMOS GOLD INC NEW",
+    "ticker": "",
+    "weight": "3.68",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "GLDD",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "GLDU",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "GLDX",
+  "fund_name": "Global X Gold Producers Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NEWMONT CORP",
+    "ticker": "",
+    "weight": "11.43",
+    "section": "long"
+   },
+   {
+    "name": "ANGLOGOLD ASHANTI PLC",
+    "ticker": "",
+    "weight": "11.02",
+    "section": "long"
+   },
+   {
+    "name": "BARRICK MINING CORP",
+    "ticker": "",
+    "weight": "10.41",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LIMITED",
+    "ticker": "",
+    "weight": "9.56",
+    "section": "long"
+   },
+   {
+    "name": "GOLD FIELDS LTD",
+    "ticker": "",
+    "weight": "9.44",
+    "section": "long"
+   },
+   {
+    "name": "KINROSS GOLD CORP",
+    "ticker": "",
+    "weight": "8.69",
+    "section": "long"
+   },
+   {
+    "name": "PAN AMERICAN SILVER CORP",
+    "ticker": "",
+    "weight": "5.19",
+    "section": "long"
+   },
+   {
+    "name": "COEUR MINING INC",
+    "ticker": "",
+    "weight": "5.08",
+    "section": "long"
+   },
+   {
+    "name": "LUNDIN GOLD INC",
+    "ticker": "",
+    "weight": "4.07",
+    "section": "long"
+   },
+   {
+    "name": "ALAMOS GOLD INC NEW",
+    "ticker": "",
+    "weight": "3.63",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "GRCC",
+  "fund_name": "Global X Growth Asset Allocation Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P 500 COVERED CALL ETF",
+    "ticker": "USCC",
+    "weight": "27.59",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EAFE COVERED CALL ETF",
+    "ticker": "EACC",
+    "weight": "20.32",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MID-TERM GOVERNMENT BOND PREMIUM YIELD ET",
+    "ticker": "",
+    "weight": "17.83",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P/TSX 60 COVERED CALL ETF",
+    "ticker": "CNCC",
+    "weight": "17.72",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS COVERED CALL ETF/TO",
+    "ticker": "EMCC",
+    "weight": "7.10",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X NASDAQ 100 COVERED CALL ETF/CANADA",
+    "ticker": "QQCC",
+    "weight": "5.71",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X RUSSELL 2000 COVERED CALL ETF/CANADA",
+    "ticker": "RSCC",
+    "weight": "3.43",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.31",
+    "section": "long"
+   },
+   {
+    "name": "BMO LONG FEDERAL BD INDEX ETF",
+    "ticker": "ZFL",
+    "weight": "3.55",
+    "section": "long"
+   },
+   {
+    "name": "BMO SHORT FEDERAL BOND INDEX ETF",
+    "ticker": "ZFS",
+    "weight": "2.83",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "2.72",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES 20+ YEAR TREASURY BO",
+    "ticker": "",
+    "weight": "2.60",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "2.37",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "1.93",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "1.92",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "1.84",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN TREASURY BILL 02-12-2026",
+    "ticker": "",
+    "weight": "1.77",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "1.69",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HAC",
+  "fund_name": "Global X Seasonal Rotation ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X 0-3 MONTH U.S. T-BILL ETF",
+    "ticker": "UBIL.U",
+    "weight": "17.91",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX",
+    "weight": "15.63",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 0-3 MONTH T-BILL ETF",
+    "ticker": "CBIL",
+    "weight": "13.62",
+    "section": "long"
+   },
+   {
+    "name": "SPDR GOLD SHARES",
+    "ticker": "",
+    "weight": "10.97",
+    "section": "long"
+   },
+   {
+    "name": "SPDR DJIA TRUST",
+    "ticker": "",
+    "weight": "9.46",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.U",
+    "weight": "8.02",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X EQUAL WEIGHT CANADIAN OIL & GAS INDEX ETF",
+    "ticker": "NRGY",
+    "weight": "7.38",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES 7-10 YEAR TREASURY B",
+    "ticker": "",
+    "weight": "6.86",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P 500 INDEX ETF",
+    "ticker": "USSX.U",
+    "weight": "4.87",
+    "section": "long"
+   },
+   {
+    "name": "UTILITIES SELECT SECTOR SPDR",
+    "ticker": "",
+    "weight": "4.18",
+    "section": "long"
+   },
+   {
+    "name": "US DOLLAR FORWARDS - CURRENCY HEDGE",
+    "ticker": "",
+    "weight": "0.28",
+    "section": "short"
+   },
+   {
+    "name": "CASH, CASH EQUIVALENTS, MARGIN & OTHER",
+    "ticker": "",
+    "weight": "0.83",
+    "section": "short"
+   }
+  ],
+  "sections": [
+   "Long Positions",
+   "Short Positions"
+  ],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HAL",
+  "fund_name": "Global X Active Canadian Dividend ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "6.80",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "5.97",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "5.32",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "5.00",
+    "section": "long"
+   },
+   {
+    "name": "MANULIFE FINANCIAL CORP",
+    "ticker": "",
+    "weight": "4.79",
+    "section": "long"
+   },
+   {
+    "name": "SUNCOR ENERGY INC",
+    "ticker": "",
+    "weight": "4.50",
+    "section": "long"
+   },
+   {
+    "name": "KINROSS GOLD CORP",
+    "ticker": "",
+    "weight": "3.96",
+    "section": "long"
+   },
+   {
+    "name": "CONSTELLATION SOFTWARE INC",
+    "ticker": "",
+    "weight": "3.73",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "3.26",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "3.16",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HAZ",
+  "fund_name": "Global X Active Global Dividend ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "VISA INC COM CL A",
+    "ticker": "",
+    "weight": "6.05",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "5.24",
+    "section": "long"
+   },
+   {
+    "name": "MASTERCARD INC",
+    "ticker": "",
+    "weight": "5.10",
+    "section": "long"
+   },
+   {
+    "name": "LAM RESEARCH CORP",
+    "ticker": "",
+    "weight": "4.41",
+    "section": "long"
+   },
+   {
+    "name": "KLA CORP",
+    "ticker": "",
+    "weight": "3.31",
+    "section": "long"
+   },
+   {
+    "name": "JPMORGAN CHASE & CO",
+    "ticker": "",
+    "weight": "2.47",
+    "section": "long"
+   },
+   {
+    "name": "APPLIED MATERIALS INC",
+    "ticker": "",
+    "weight": "2.13",
+    "section": "long"
+   },
+   {
+    "name": "RECRUIT HOLDINGS CO LTD",
+    "ticker": "",
+    "weight": "2.02",
+    "section": "long"
+   },
+   {
+    "name": "ACCENTURE PLC",
+    "ticker": "",
+    "weight": "1.99",
+    "section": "long"
+   },
+   {
+    "name": "DELL TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "1.87",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HBAL",
+  "fund_name": "Global X Balanced Asset Allocation ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X CANADIAN SELECT UNIVERSE BOND INDEX CORPO",
+    "ticker": "",
+    "weight": "24.57",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P 500 INDEX ETF",
+    "ticker": "USSX",
+    "weight": "21.86",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EAFE INDEX ETF",
+    "ticker": "EAFX",
+    "weight": "15.59",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P/TSX 60 INDEX ETF",
+    "ticker": "CNDX",
+    "weight": "12.66",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X US 7-10 YEAR TREASURY BOND INDEX CORPORAT",
+    "ticker": "",
+    "weight": "10.50",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS INDEX ETF",
+    "ticker": "EMMX",
+    "weight": "5.26",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X NASDAQ-100 INDEX ETF",
+    "ticker": "QQQX",
+    "weight": "4.81",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X RUSSELL 2000 INDEX ETF",
+    "ticker": "RSSX",
+    "weight": "2.88",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.F",
+    "weight": "1.79",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.08",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "2.18",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "1.89",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "1.54",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "1.48",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "1.47",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "1.21",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "1.05",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.62% 15-FEB-2035",
+    "ticker": "",
+    "weight": "0.90",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.38% 15-MAY-2034",
+    "ticker": "",
+    "weight": "0.90",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.25% 15-MAY-2036",
+    "ticker": "",
+    "weight": "0.89",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HBGD",
+  "fund_name": "Global X Big Data & Hardware Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL UNICHIP CORP",
+    "ticker": "",
+    "weight": "3.26",
+    "section": "long"
+   },
+   {
+    "name": "BITMINE IMMERSION TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "2.90",
+    "section": "long"
+   },
+   {
+    "name": "SHARPLINK GAMING INC",
+    "ticker": "",
+    "weight": "2.69",
+    "section": "long"
+   },
+   {
+    "name": "HASHKEY HOLDINGS LTD",
+    "ticker": "",
+    "weight": "2.55",
+    "section": "long"
+   },
+   {
+    "name": "CIRCLE INTERNET GROUP INC",
+    "ticker": "",
+    "weight": "2.48",
+    "section": "long"
+   },
+   {
+    "name": "HEWLETT PACKARD ENTERPRISE CO",
+    "ticker": "",
+    "weight": "2.46",
+    "section": "long"
+   },
+   {
+    "name": "GETAC HOLDINGS CORP",
+    "ticker": "",
+    "weight": "2.43",
+    "section": "long"
+   },
+   {
+    "name": "ORACLE CORP",
+    "ticker": "",
+    "weight": "2.43",
+    "section": "long"
+   },
+   {
+    "name": "BULLISH",
+    "ticker": "",
+    "weight": "2.41",
+    "section": "long"
+   },
+   {
+    "name": "DELL TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "2.40",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HBNK",
+  "fund_name": "Global X Equal Weight Canadian Banks Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "BANK OF NOVA SCOTIA",
+    "ticker": "",
+    "weight": "17.48",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "17.41",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "17.21",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "16.52",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BK OF COMM",
+    "ticker": "",
+    "weight": "15.70",
+    "section": "long"
+   },
+   {
+    "name": "NATIONAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "15.42",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.26",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HCON",
+  "fund_name": "Global X Conservative Asset Allocation ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X CANADIAN SELECT UNIVERSE BOND INDEX CORPO",
+    "ticker": "",
+    "weight": "39.86",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P 500 INDEX ETF",
+    "ticker": "USSX",
+    "weight": "17.38",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X US 7-10 YEAR TREASURY BOND INDEX CORPORAT",
+    "ticker": "",
+    "weight": "16.99",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EAFE INDEX ETF",
+    "ticker": "EAFX",
+    "weight": "10.64",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P/TSX 60 INDEX ETF",
+    "ticker": "CNDX",
+    "weight": "8.39",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS INDEX ETF",
+    "ticker": "EMMX",
+    "weight": "3.22",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X RUSSELL 2000 INDEX ETF",
+    "ticker": "RSSX",
+    "weight": "2.17",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.F",
+    "weight": "1.27",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.09",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.62% 15-FEB-2035",
+    "ticker": "",
+    "weight": "1.46",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.38% 15-MAY-2034",
+    "ticker": "",
+    "weight": "1.46",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.25% 15-MAY-2036",
+    "ticker": "",
+    "weight": "1.44",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.25% 15-NOV-2034",
+    "ticker": "",
+    "weight": "1.44",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.25% 15-MAY-2035",
+    "ticker": "",
+    "weight": "1.44",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.25% 15-AUG-2035",
+    "ticker": "",
+    "weight": "1.42",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "1.40",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.0% 15-NOV-2035",
+    "ticker": "",
+    "weight": "1.40",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.0% 15-FEB-2034",
+    "ticker": "",
+    "weight": "1.40",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY 4.12% 15-FEB-2036",
+    "ticker": "",
+    "weight": "1.40",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HCRE",
+  "fund_name": "Global X Equal Weight Canadian REITs Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "PRIMARIS REAL ESTATE INVESTMEN",
+    "ticker": "",
+    "weight": "6.71",
+    "section": "long"
+   },
+   {
+    "name": "KILLAM APARTMENT REAL ESTATE I",
+    "ticker": "",
+    "weight": "6.00",
+    "section": "long"
+   },
+   {
+    "name": "DREAM INDUSTRIAL REAL ESTATE I",
+    "ticker": "",
+    "weight": "5.97",
+    "section": "long"
+   },
+   {
+    "name": "RIOCAN REAL ESTATE INVESTMENT",
+    "ticker": "",
+    "weight": "5.93",
+    "section": "long"
+   },
+   {
+    "name": "FIRST CAPITAL REAL ESTATE INVE",
+    "ticker": "",
+    "weight": "5.88",
+    "section": "long"
+   },
+   {
+    "name": "GRANITE REAL ESTATE INVESTMENT",
+    "ticker": "",
+    "weight": "5.67",
+    "section": "long"
+   },
+   {
+    "name": "CT REAL ESTATE INVESTMENT TRUS",
+    "ticker": "",
+    "weight": "5.63",
+    "section": "long"
+   },
+   {
+    "name": "CROMBIE REAL ESTATE INVESTMENT",
+    "ticker": "",
+    "weight": "5.62",
+    "section": "long"
+   },
+   {
+    "name": "SMARTCENTRES REAL ESTATE INVES",
+    "ticker": "",
+    "weight": "5.58",
+    "section": "long"
+   },
+   {
+    "name": "SLATE GROCERY REIT",
+    "ticker": "",
+    "weight": "5.52",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HEQL",
+  "fund_name": "Global X Enhanced All-Equity Asset Allocation ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X ALL-EQUITY ASSET ALLOCATION ETF",
+    "ticker": "HEQT",
+    "weight": "99.88",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.13",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "3.35",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "2.92",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "2.36",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "2.36",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "2.27",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "1.98",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "1.62",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "1.40",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "1.30",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EMERGING",
+    "ticker": "",
+    "weight": "1.28",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HEQT",
+  "fund_name": "Global X All-Equity Asset Allocation ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P 500 INDEX ETF",
+    "ticker": "USSX",
+    "weight": "33.83",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EAFE INDEX ETF",
+    "ticker": "EAFX",
+    "weight": "24.98",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P/TSX 60 INDEX ETF",
+    "ticker": "CNDX",
+    "weight": "20.76",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS INDEX ETF",
+    "ticker": "EMMX",
+    "weight": "8.71",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X NASDAQ-100 INDEX ETF",
+    "ticker": "QQQX",
+    "weight": "7.27",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X RUSSELL 2000 INDEX ETF",
+    "ticker": "RSSX",
+    "weight": "4.32",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.14",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "3.35",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "2.92",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "2.37",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "2.36",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "2.27",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "1.98",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "1.62",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "1.40",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "1.30",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EMERGING",
+    "ticker": "",
+    "weight": "1.28",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HEWB",
+  "fund_name": "Global X Equal Weight Canadian Banks Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "BANK OF NOVA SCOTIA/THE",
+    "ticker": "",
+    "weight": "17.53",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO-DOMINION BANK/THE",
+    "ticker": "",
+    "weight": "17.46",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "17.25",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "16.56",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BANK OF COMM",
+    "ticker": "",
+    "weight": "15.74",
+    "section": "long"
+   },
+   {
+    "name": "NATIONAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "15.46",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HGRW",
+  "fund_name": "Global X Growth Asset Allocation ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P 500 INDEX ETF",
+    "ticker": "USSX",
+    "weight": "28.20",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EAFE INDEX ETF",
+    "ticker": "EAFX",
+    "weight": "19.88",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X S&P/TSX 60 INDEX ETF",
+    "ticker": "CNDX",
+    "weight": "16.96",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X CANADIAN SELECT UNIVERSE BOND INDEX CORPO",
+    "ticker": "",
+    "weight": "12.18",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS INDEX ETF",
+    "ticker": "EMMX",
+    "weight": "7.08",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X NASDAQ-100 INDEX ETF",
+    "ticker": "QQQX",
+    "weight": "6.05",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X US 7-10 YEAR TREASURY BOND INDEX CORPORAT",
+    "ticker": "",
+    "weight": "4.87",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X RUSSELL 2000 INDEX ETF",
+    "ticker": "RSSX",
+    "weight": "3.76",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.F",
+    "weight": "0.79",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.21",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "2.79",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "2.43",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "1.97",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "1.89",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "1.88",
+    "section": "long"
+   },
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "1.62",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "1.35",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO DOMINION BANK",
+    "ticker": "",
+    "weight": "1.14",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "1.07",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EMERGING",
+    "ticker": "",
+    "weight": "1.04",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HGY",
+  "fund_name": "Global X Gold Yield ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "SPDR GOLD MINISHARES TRUST",
+    "ticker": "",
+    "weight": "99.86",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.23",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HLIT",
+  "fund_name": "Global X Lithium Producers Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "RIO TINTO PLC",
+    "ticker": "",
+    "weight": "11.26",
+    "section": "long"
+   },
+   {
+    "name": "SOCIEDAD QUIMICA Y MINERA DE C",
+    "ticker": "",
+    "weight": "11.04",
+    "section": "long"
+   },
+   {
+    "name": "MINERAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "10.65",
+    "section": "long"
+   },
+   {
+    "name": "ALBEMARLE CORP",
+    "ticker": "",
+    "weight": "10.12",
+    "section": "long"
+   },
+   {
+    "name": "ETERNAL MATERIALS CO LTD",
+    "ticker": "",
+    "weight": "7.75",
+    "section": "long"
+   },
+   {
+    "name": "GANFENG LITHIUM CO LTD",
+    "ticker": "",
+    "weight": "6.33",
+    "section": "long"
+   },
+   {
+    "name": "CHINA CONCH VENTURE HOLDINGS L",
+    "ticker": "",
+    "weight": "4.51",
+    "section": "long"
+   },
+   {
+    "name": "ERAMET SA",
+    "ticker": "",
+    "weight": "3.79",
+    "section": "long"
+   },
+   {
+    "name": "SIGMA LITHIUM CORP",
+    "ticker": "",
+    "weight": "3.54",
+    "section": "long"
+   },
+   {
+    "name": "PHOENIX SILICON INTERNATIONAL CORP",
+    "ticker": "",
+    "weight": "3.44",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HMMJ",
+  "fund_name": "Global X Marijuana Life Sciences Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "CRONOS GROUP INC",
+    "ticker": "",
+    "weight": "11.54",
+    "section": "long"
+   },
+   {
+    "name": "JAZZ PHARMACEUTICALS PLC",
+    "ticker": "",
+    "weight": "10.09",
+    "section": "long"
+   },
+   {
+    "name": "CANOPY GROWTH CORPORATION",
+    "ticker": "",
+    "weight": "9.22",
+    "section": "long"
+   },
+   {
+    "name": "TILRAY BRANDS INC",
+    "ticker": "",
+    "weight": "9.05",
+    "section": "long"
+   },
+   {
+    "name": "SNDL INC",
+    "ticker": "",
+    "weight": "8.90",
+    "section": "long"
+   },
+   {
+    "name": "INNOVATIVE INDUSTRIAL PROPERTI",
+    "ticker": "",
+    "weight": "8.73",
+    "section": "long"
+   },
+   {
+    "name": "AURORA CANNABIS INC",
+    "ticker": "",
+    "weight": "6.88",
+    "section": "long"
+   },
+   {
+    "name": "CHICAGO ATLANTIC BDC INC",
+    "ticker": "",
+    "weight": "5.92",
+    "section": "long"
+   },
+   {
+    "name": "HIGH TIDE INC",
+    "ticker": "",
+    "weight": "5.76",
+    "section": "long"
+   },
+   {
+    "name": "CORBUS PHARMACEUTICALS HOLDINGS INC",
+    "ticker": "",
+    "weight": "4.78",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HQD",
+  "fund_name": "BetaPro NASDAQ-100\u00ae -2x Daily Bear ETF",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HSAV",
+  "fund_name": "Global X Cash Maximizer Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NATIONAL BANK CASH ACCT",
+    "ticker": "",
+    "weight": "61.47",
+    "section": "long"
+   },
+   {
+    "name": "CIBC MELLON CASH ACCOUNT",
+    "ticker": "",
+    "weight": "26.86",
+    "section": "long"
+   },
+   {
+    "name": "CIBC CASH ACCOUNT",
+    "ticker": "",
+    "weight": "11.67",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HSH",
+  "fund_name": "Global X S&P 500 CAD Hedged Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.09",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.04",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "5.70",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "5.41",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "3.85",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.65",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "1.90",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "1.64",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "1.57",
+    "section": "long"
+   },
+   {
+    "name": "JPMORGAN CHASE & CO",
+    "ticker": "",
+    "weight": "1.44",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HSUV",
+  "fund_name": "Global X USD Cash Maximizer Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NATIONAL BANK CASH ACCT",
+    "ticker": "",
+    "weight": "59.20",
+    "section": "long"
+   },
+   {
+    "name": "CIBC MELLON CASH ACCOUNT",
+    "ticker": "",
+    "weight": "28.84",
+    "section": "long"
+   },
+   {
+    "name": "CIBC CASH ACCOUNT",
+    "ticker": "",
+    "weight": "11.96",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HUC",
+  "fund_name": "Global X Crude Oil ETF",
+  "as_of": "September 18, 2026",
+  "holdings": [
+   {
+    "name": "WINTER-TERM CRUDE OIL DECEMBER",
+    "ticker": "",
+    "weight": "100.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HUG",
+  "fund_name": "Global X Gold ETF",
+  "as_of": "September 18, 2026",
+  "holdings": [
+   {
+    "name": "GOLD BULLION DECEMBER",
+    "ticker": "",
+    "weight": "100.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HULC",
+  "fund_name": "Global X US Large Cap Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "7.72",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "6.81",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "5.60",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "5.56",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "3.75",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.60",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "1.89",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "1.69",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "1.62",
+    "section": "long"
+   },
+   {
+    "name": "ELI LILLY & CO",
+    "ticker": "",
+    "weight": "1.47",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HUN",
+  "fund_name": "Global X Natural Gas ETF",
+  "as_of": "September 18, 2026",
+  "holdings": [
+   {
+    "name": "WINTER-TERM NATURAL GAS JANUARY",
+    "ticker": "",
+    "weight": "100.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HURA",
+  "fund_name": "Global X Uranium Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "CAMECO CORP",
+    "ticker": "",
+    "weight": "19.78",
+    "section": "long"
+   },
+   {
+    "name": "NAC KAZATOMPROM JSC",
+    "ticker": "",
+    "weight": "19.12",
+    "section": "long"
+   },
+   {
+    "name": "SPROTT PHYSICAL URANIUM TR",
+    "ticker": "",
+    "weight": "14.00",
+    "section": "long"
+   },
+   {
+    "name": "OKLO INC",
+    "ticker": "",
+    "weight": "6.20",
+    "section": "long"
+   },
+   {
+    "name": "NEXGEN ENERGY LTD",
+    "ticker": "",
+    "weight": "6.08",
+    "section": "long"
+   },
+   {
+    "name": "URANIUM ENERGY CORP",
+    "ticker": "",
+    "weight": "5.32",
+    "section": "long"
+   },
+   {
+    "name": "YELLOW CAKE PLC",
+    "ticker": "",
+    "weight": "4.05",
+    "section": "long"
+   },
+   {
+    "name": "PALADIN ENERGY LTD",
+    "ticker": "",
+    "weight": "3.29",
+    "section": "long"
+   },
+   {
+    "name": "ENERGY FUELS INC",
+    "ticker": "",
+    "weight": "3.23",
+    "section": "long"
+   },
+   {
+    "name": "CENTRUS ENERGY CORP",
+    "ticker": "",
+    "weight": "2.85",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HUZ",
+  "fund_name": "Global X Silver ETF",
+  "as_of": "September 18, 2026",
+  "holdings": [
+   {
+    "name": "SILVER DECEMBER",
+    "ticker": "",
+    "weight": "100.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HXCN",
+  "fund_name": "Global X S&P/TSX Capped Composite Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "7.65",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO-DOMINION BANK/THE",
+    "ticker": "",
+    "weight": "5.41",
+    "section": "long"
+   },
+   {
+    "name": "SHOPIFY INC",
+    "ticker": "",
+    "weight": "4.81",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "3.20",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA/THE",
+    "ticker": "",
+    "weight": "3.01",
+    "section": "long"
+   },
+   {
+    "name": "ENBRIDGE INC",
+    "ticker": "",
+    "weight": "2.96",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "2.80",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BANK OF COMM",
+    "ticker": "",
+    "weight": "2.79",
+    "section": "long"
+   },
+   {
+    "name": "AGNICO EAGLE MINES LTD",
+    "ticker": "",
+    "weight": "2.76",
+    "section": "long"
+   },
+   {
+    "name": "BROOKFIELD CORP",
+    "ticker": "",
+    "weight": "2.35",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HXDM",
+  "fund_name": "Global X Intl Developed Markets Equity Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ASML HOLDING NV",
+    "ticker": "",
+    "weight": "2.93",
+    "section": "long"
+   },
+   {
+    "name": "HSBC HOLDINGS PLC",
+    "ticker": "",
+    "weight": "1.59",
+    "section": "long"
+   },
+   {
+    "name": "ROCHE HOLDING AG",
+    "ticker": "",
+    "weight": "1.43",
+    "section": "long"
+   },
+   {
+    "name": "NOVARTIS AG",
+    "ticker": "",
+    "weight": "1.25",
+    "section": "long"
+   },
+   {
+    "name": "SHELL PLC",
+    "ticker": "",
+    "weight": "1.14",
+    "section": "long"
+   },
+   {
+    "name": "NESTLE SA",
+    "ticker": "",
+    "weight": "1.12",
+    "section": "long"
+   },
+   {
+    "name": "SIEMENS AG",
+    "ticker": "",
+    "weight": "1.10",
+    "section": "long"
+   },
+   {
+    "name": "MITSUBISHI UFJ FINANCIAL GROUP",
+    "ticker": "",
+    "weight": "1.10",
+    "section": "long"
+   },
+   {
+    "name": "ASTRAZENECA PLC",
+    "ticker": "",
+    "weight": "1.10",
+    "section": "long"
+   },
+   {
+    "name": "BHP GROUP LTD",
+    "ticker": "",
+    "weight": "1.08",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HXE",
+  "fund_name": "Global X S&P/TSX Capped Energy Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "25.55",
+    "section": "long"
+   },
+   {
+    "name": "SUNCOR ENERGY INC",
+    "ticker": "",
+    "weight": "24.80",
+    "section": "long"
+   },
+   {
+    "name": "CENOVUS ENERGY INC",
+    "ticker": "",
+    "weight": "13.61",
+    "section": "long"
+   },
+   {
+    "name": "IMPERIAL OIL LTD",
+    "ticker": "",
+    "weight": "6.19",
+    "section": "long"
+   },
+   {
+    "name": "TOURMALINE OIL CORP",
+    "ticker": "",
+    "weight": "5.27",
+    "section": "long"
+   },
+   {
+    "name": "WHITECAP RESOURCES INC",
+    "ticker": "",
+    "weight": "4.94",
+    "section": "long"
+   },
+   {
+    "name": "ARC RESOURCES LTD",
+    "ticker": "",
+    "weight": "4.28",
+    "section": "long"
+   },
+   {
+    "name": "PRAIRIESKY ROYALTY LTD",
+    "ticker": "",
+    "weight": "1.93",
+    "section": "long"
+   },
+   {
+    "name": "TAMARACK VALLEY ENERGY LTD",
+    "ticker": "",
+    "weight": "1.48",
+    "section": "long"
+   },
+   {
+    "name": "PEYTO EXPLORATION & DEVELOPMEN",
+    "ticker": "",
+    "weight": "1.17",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HXEM",
+  "fund_name": "Global X Emerging Markets Equity Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "TAIWAN SEMICONDUCTOR MANUFACTU",
+    "ticker": "",
+    "weight": "15.15",
+    "section": "long"
+   },
+   {
+    "name": "SAMSUNG ELECTRONICS CO LTD",
+    "ticker": "",
+    "weight": "8.09",
+    "section": "long"
+   },
+   {
+    "name": "SK HYNIX INC",
+    "ticker": "",
+    "weight": "5.47",
+    "section": "long"
+   },
+   {
+    "name": "TENCENT HOLDINGS LTD",
+    "ticker": "",
+    "weight": "2.88",
+    "section": "long"
+   },
+   {
+    "name": "ALIBABA GROUP HOLDING LTD",
+    "ticker": "",
+    "weight": "1.98",
+    "section": "long"
+   },
+   {
+    "name": "MEDIATEK INC",
+    "ticker": "",
+    "weight": "1.45",
+    "section": "long"
+   },
+   {
+    "name": "DELTA ELECTRONICS INC",
+    "ticker": "",
+    "weight": "0.92",
+    "section": "long"
+   },
+   {
+    "name": "CHINA CONSTRUCTION BANK CORP",
+    "ticker": "",
+    "weight": "0.84",
+    "section": "long"
+   },
+   {
+    "name": "HON HAI PRECISION INDUSTRY CO",
+    "ticker": "",
+    "weight": "0.78",
+    "section": "long"
+   },
+   {
+    "name": "HDFC BANK LTD",
+    "ticker": "",
+    "weight": "0.69",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HXF",
+  "fund_name": "Global X S&P/TSX Capped Financials Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ROYAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "22.50",
+    "section": "long"
+   },
+   {
+    "name": "TORONTO-DOMINION BANK/THE",
+    "ticker": "",
+    "weight": "15.92",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "9.41",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA/THE",
+    "ticker": "",
+    "weight": "8.86",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BANK OF COMM",
+    "ticker": "",
+    "weight": "8.23",
+    "section": "long"
+   },
+   {
+    "name": "BROOKFIELD CORP",
+    "ticker": "",
+    "weight": "6.93",
+    "section": "long"
+   },
+   {
+    "name": "MANULIFE FINANCIAL CORP",
+    "ticker": "",
+    "weight": "5.57",
+    "section": "long"
+   },
+   {
+    "name": "NATIONAL BANK OF CANADA",
+    "ticker": "",
+    "weight": "4.66",
+    "section": "long"
+   },
+   {
+    "name": "SUN LIFE FINANCIAL INC",
+    "ticker": "",
+    "weight": "3.43",
+    "section": "long"
+   },
+   {
+    "name": "POWER CORP OF CANADA",
+    "ticker": "",
+    "weight": "2.76",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HXH",
+  "fund_name": "Global X Canadian High Dividend Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "TORONTO-DOMINION BANK/THE",
+    "ticker": "",
+    "weight": "10.10",
+    "section": "long"
+   },
+   {
+    "name": "ENBRIDGE INC",
+    "ticker": "",
+    "weight": "8.54",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "7.61",
+    "section": "long"
+   },
+   {
+    "name": "SUNCOR ENERGY INC",
+    "ticker": "",
+    "weight": "6.00",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF MONTREAL",
+    "ticker": "",
+    "weight": "5.92",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF NOVA SCOTIA/THE",
+    "ticker": "",
+    "weight": "5.54",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN IMPERIAL BANK OF COMM",
+    "ticker": "",
+    "weight": "4.83",
+    "section": "long"
+   },
+   {
+    "name": "TC ENERGY CORP",
+    "ticker": "",
+    "weight": "4.80",
+    "section": "long"
+   },
+   {
+    "name": "FORTIS INC/CANADA",
+    "ticker": "",
+    "weight": "4.67",
+    "section": "long"
+   },
+   {
+    "name": "RESTAURANT BRANDS INTERNATIONA",
+    "ticker": "",
+    "weight": "4.34",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "HXX",
+  "fund_name": "Global X Europe 50 Index Corporate Class ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ASML HOLDING NV",
+    "ticker": "",
+    "weight": "8.66",
+    "section": "long"
+   },
+   {
+    "name": "SIEMENS AG",
+    "ticker": "",
+    "weight": "4.69",
+    "section": "long"
+   },
+   {
+    "name": "SAP SE",
+    "ticker": "",
+    "weight": "4.32",
+    "section": "long"
+   },
+   {
+    "name": "BANCO SANTANDER SA",
+    "ticker": "",
+    "weight": "4.16",
+    "section": "long"
+   },
+   {
+    "name": "TOTALENERGIES SE",
+    "ticker": "",
+    "weight": "3.84",
+    "section": "long"
+   },
+   {
+    "name": "ALLIANZ SE",
+    "ticker": "",
+    "weight": "3.83",
+    "section": "long"
+   },
+   {
+    "name": "SCHNEIDER ELECTRIC SE",
+    "ticker": "",
+    "weight": "3.80",
+    "section": "long"
+   },
+   {
+    "name": "BANCO BILBAO VIZCAYA ARGENTARI",
+    "ticker": "",
+    "weight": "3.15",
+    "section": "long"
+   },
+   {
+    "name": "UNICREDIT SPA",
+    "ticker": "",
+    "weight": "2.84",
+    "section": "long"
+   },
+   {
+    "name": "IBERDROLA SA",
+    "ticker": "",
+    "weight": "2.82",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "INOC",
+  "fund_name": "Global X Inovestor Canadian Equity Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "K92 MINING INC",
+    "ticker": "",
+    "weight": "5.51",
+    "section": "long"
+   },
+   {
+    "name": "DPM METALS INC",
+    "ticker": "",
+    "weight": "5.17",
+    "section": "long"
+   },
+   {
+    "name": "WESDOME GOLD MINES LTD",
+    "ticker": "",
+    "weight": "5.08",
+    "section": "long"
+   },
+   {
+    "name": "MINEROS SA",
+    "ticker": "",
+    "weight": "4.92",
+    "section": "long"
+   },
+   {
+    "name": "ALTIUS MINERALS CORP",
+    "ticker": "",
+    "weight": "4.49",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "4.38",
+    "section": "long"
+   },
+   {
+    "name": "CONSTELLATION SOFTWARE INC",
+    "ticker": "",
+    "weight": "4.35",
+    "section": "long"
+   },
+   {
+    "name": "CGI INC",
+    "ticker": "",
+    "weight": "4.24",
+    "section": "long"
+   },
+   {
+    "name": "ARC RESOURCES LTD",
+    "ticker": "",
+    "weight": "4.00",
+    "section": "long"
+   },
+   {
+    "name": "RESTAURANT BRANDS INTL INC",
+    "ticker": "",
+    "weight": "3.98",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "MART",
+  "fund_name": "Global X Equal Weight Canadian Groceries & Staples Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "EMPIRE CO LTD",
+    "ticker": "",
+    "weight": "20.41",
+    "section": "long"
+   },
+   {
+    "name": "METRO INC",
+    "ticker": "",
+    "weight": "20.18",
+    "section": "long"
+   },
+   {
+    "name": "LOBLAW COMPANIES LTD",
+    "ticker": "",
+    "weight": "19.83",
+    "section": "long"
+   },
+   {
+    "name": "DOLLARAMA INC",
+    "ticker": "",
+    "weight": "19.80",
+    "section": "long"
+   },
+   {
+    "name": "ALIMENTATION COUCHE-TARD INC",
+    "ticker": "",
+    "weight": "19.73",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.05",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "MEDX",
+  "fund_name": "Global X Equal Weight Global Healthcare Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "THERMO FISHER SCIENTIFIC INC",
+    "ticker": "",
+    "weight": "5.87",
+    "section": "long"
+   },
+   {
+    "name": "AMGEN INC",
+    "ticker": "",
+    "weight": "5.57",
+    "section": "long"
+   },
+   {
+    "name": "MERCK & CO INC",
+    "ticker": "",
+    "weight": "5.51",
+    "section": "long"
+   },
+   {
+    "name": "VERTEX PHARMACEUTICALS INC",
+    "ticker": "",
+    "weight": "5.50",
+    "section": "long"
+   },
+   {
+    "name": "ABBOTT LABORATORIES",
+    "ticker": "",
+    "weight": "5.46",
+    "section": "long"
+   },
+   {
+    "name": "BRISTOL-MYERS SQUIBB CO",
+    "ticker": "",
+    "weight": "5.25",
+    "section": "long"
+   },
+   {
+    "name": "DANAHER CORP",
+    "ticker": "",
+    "weight": "5.22",
+    "section": "long"
+   },
+   {
+    "name": "JOHNSON & JOHNSON",
+    "ticker": "",
+    "weight": "5.16",
+    "section": "long"
+   },
+   {
+    "name": "GILEAD SCIENCES INC",
+    "ticker": "",
+    "weight": "5.10",
+    "section": "long"
+   },
+   {
+    "name": "ABBVIE INC",
+    "ticker": "",
+    "weight": "5.08",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "MTRX",
+  "fund_name": "Global X Artificial Intelligence Infrastructure Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ARISTA NETWORKS INC",
+    "ticker": "",
+    "weight": "6.03",
+    "section": "long"
+   },
+   {
+    "name": "FREEPORT-MCMORAN INC",
+    "ticker": "",
+    "weight": "5.77",
+    "section": "long"
+   },
+   {
+    "name": "SOUTHERN COPPER CORP",
+    "ticker": "",
+    "weight": "5.73",
+    "section": "long"
+   },
+   {
+    "name": "ANTOFAGASTA PLC",
+    "ticker": "",
+    "weight": "5.53",
+    "section": "long"
+   },
+   {
+    "name": "SCHNEIDER ELECTRIC SE",
+    "ticker": "",
+    "weight": "5.33",
+    "section": "long"
+   },
+   {
+    "name": "AMPHENOL CORP",
+    "ticker": "",
+    "weight": "5.03",
+    "section": "long"
+   },
+   {
+    "name": "TECK RESOURCES LTD",
+    "ticker": "",
+    "weight": "4.99",
+    "section": "long"
+   },
+   {
+    "name": "CAMECO CORP",
+    "ticker": "",
+    "weight": "4.85",
+    "section": "long"
+   },
+   {
+    "name": "ABB LTD",
+    "ticker": "",
+    "weight": "4.74",
+    "section": "long"
+   },
+   {
+    "name": "DELTA ELECTRONICS INC",
+    "ticker": "",
+    "weight": "4.45",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "NRGD",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "NRGU",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "NRGY",
+  "fund_name": "Global X Equal Weight Canadian Oil & Gas Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "CENOVUS ENERGY INC",
+    "ticker": "",
+    "weight": "10.38",
+    "section": "long"
+   },
+   {
+    "name": "WHITECAP RESOURCES INC",
+    "ticker": "",
+    "weight": "9.35",
+    "section": "long"
+   },
+   {
+    "name": "ARC RESOURCES LTD",
+    "ticker": "",
+    "weight": "8.98",
+    "section": "long"
+   },
+   {
+    "name": "SOUTH BOW CORP",
+    "ticker": "",
+    "weight": "8.46",
+    "section": "long"
+   },
+   {
+    "name": "SUNCOR ENERGY INC",
+    "ticker": "",
+    "weight": "8.42",
+    "section": "long"
+   },
+   {
+    "name": "KEYERA CORP",
+    "ticker": "",
+    "weight": "8.34",
+    "section": "long"
+   },
+   {
+    "name": "PEMBINA PIPELINE CORP",
+    "ticker": "",
+    "weight": "8.28",
+    "section": "long"
+   },
+   {
+    "name": "IMPERIAL OIL LTD",
+    "ticker": "",
+    "weight": "8.17",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN NATURAL RESOURCES LTD",
+    "ticker": "",
+    "weight": "7.76",
+    "section": "long"
+   },
+   {
+    "name": "TC ENERGY CORP",
+    "ticker": "",
+    "weight": "7.37",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "NYSX",
+  "fund_name": "Global X NYSE 100 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "9.72",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "8.80",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "7.00",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "6.92",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "4.80",
+    "section": "long"
+   },
+   {
+    "name": "TAIWAN SEMICONDUCTOR MANUFACTU",
+    "ticker": "",
+    "weight": "3.81",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "3.56",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "3.26",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "3.24",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "3.05",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "ORBX",
+  "fund_name": "Global X Space Tech Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+    "ticker": "",
+    "weight": "21.43",
+    "section": "long"
+   },
+   {
+    "name": "AST SPACEMOBILE INC",
+    "ticker": "",
+    "weight": "9.45",
+    "section": "long"
+   },
+   {
+    "name": "ROCKET LAB CORP",
+    "ticker": "",
+    "weight": "8.64",
+    "section": "long"
+   },
+   {
+    "name": "VIASAT INC",
+    "ticker": "",
+    "weight": "5.58",
+    "section": "long"
+   },
+   {
+    "name": "IRIDIUM COMMUNICATIONS INC",
+    "ticker": "",
+    "weight": "5.55",
+    "section": "long"
+   },
+   {
+    "name": "GLOBALSTAR INC",
+    "ticker": "",
+    "weight": "5.23",
+    "section": "long"
+   },
+   {
+    "name": "FIREFLY AEROSPACE INC",
+    "ticker": "",
+    "weight": "4.25",
+    "section": "long"
+   },
+   {
+    "name": "MDA SPACE LTD COM",
+    "ticker": "",
+    "weight": "4.18",
+    "section": "long"
+   },
+   {
+    "name": "REDWIRE CORP",
+    "ticker": "",
+    "weight": "3.94",
+    "section": "long"
+   },
+   {
+    "name": "INTUITIVE MACHINES INC",
+    "ticker": "",
+    "weight": "3.89",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "PAVE",
+  "fund_name": "Global X U.S. Infrastructure Development Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X US INFRASTRUCTURE",
+    "ticker": "",
+    "weight": "99.94",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.06",
+    "section": "long"
+   },
+   {
+    "name": "DEERE & CO",
+    "ticker": "",
+    "weight": "3.39",
+    "section": "long"
+   },
+   {
+    "name": "FASTENAL CO",
+    "ticker": "",
+    "weight": "3.36",
+    "section": "long"
+   },
+   {
+    "name": "EMERSON ELECTRIC CO",
+    "ticker": "",
+    "weight": "3.32",
+    "section": "long"
+   },
+   {
+    "name": "NUCOR CORP",
+    "ticker": "",
+    "weight": "3.26",
+    "section": "long"
+   },
+   {
+    "name": "PARKER-HANNIFIN CORP",
+    "ticker": "",
+    "weight": "3.13",
+    "section": "long"
+   },
+   {
+    "name": "UNION PACIFIC CORP",
+    "ticker": "",
+    "weight": "3.11",
+    "section": "long"
+   },
+   {
+    "name": "NORFOLK SOUTHERN CORP",
+    "ticker": "",
+    "weight": "3.10",
+    "section": "long"
+   },
+   {
+    "name": "EATON CORP PLC",
+    "ticker": "",
+    "weight": "3.05",
+    "section": "long"
+   },
+   {
+    "name": "CRH PLC",
+    "ticker": "",
+    "weight": "3.03",
+    "section": "long"
+   },
+   {
+    "name": "CSX CORP",
+    "ticker": "",
+    "weight": "3.01",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "PPLN",
+  "fund_name": "Global X Equal Weight Canadian Pipelines Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "KEYERA CORP",
+    "ticker": "",
+    "weight": "21.18",
+    "section": "long"
+   },
+   {
+    "name": "SOUTH BOW CORP",
+    "ticker": "",
+    "weight": "20.75",
+    "section": "long"
+   },
+   {
+    "name": "PEMBINA PIPELINE CORP",
+    "ticker": "",
+    "weight": "19.88",
+    "section": "long"
+   },
+   {
+    "name": "ENBRIDGE INC",
+    "ticker": "",
+    "weight": "19.03",
+    "section": "long"
+   },
+   {
+    "name": "TC ENERGY CORP",
+    "ticker": "",
+    "weight": "18.75",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.42",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "QQCC",
+  "fund_name": "Global X Nasdaq-100 Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X NASDAQ-100 INDEX ETF",
+    "ticker": "QQQX.U",
+    "weight": "100.13",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.15",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.54",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.44",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "6.08",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "6.03",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "4.77",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "4.46",
+    "section": "long"
+   },
+   {
+    "name": "ADVANCED MICRO DEVICES INC",
+    "ticker": "",
+    "weight": "3.39",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "2.94",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.80",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "2.71",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "QQCL",
+  "fund_name": "Global X Enhanced Nasdaq-100 Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X NASDAQ 100 COVERED CALL ETF/CANADA",
+    "ticker": "QQCC",
+    "weight": "99.70",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.51",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.41",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "6.06",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "6.01",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "4.75",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "4.45",
+    "section": "long"
+   },
+   {
+    "name": "ADVANCED MICRO DEVICES INC",
+    "ticker": "",
+    "weight": "3.38",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "2.93",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.80",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "2.70",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "QQI",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "QQQL",
+  "fund_name": "Global X Enhanced Nasdaq-100 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X NASDAQ-100 INDEX ETF",
+    "ticker": "QQQX",
+    "weight": "99.88",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.12",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.52",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.42",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "6.07",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "6.01",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "4.76",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "4.45",
+    "section": "long"
+   },
+   {
+    "name": "ADVANCED MICRO DEVICES INC",
+    "ticker": "",
+    "weight": "3.38",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "2.93",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.80",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "2.70",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "QQQX",
+  "fund_name": "Global X Nasdaq-100 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.53",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.43",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "6.07",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "6.02",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "4.76",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "4.46",
+    "section": "long"
+   },
+   {
+    "name": "ADVANCED MICRO DEVICES INC",
+    "ticker": "",
+    "weight": "3.38",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "2.93",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.80",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "2.71",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "QQU",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "RBOT",
+  "fund_name": "Global X Robotics & AI Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "KEYENCE CORP",
+    "ticker": "",
+    "weight": "10.78",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "9.65",
+    "section": "long"
+   },
+   {
+    "name": "ABB LTD",
+    "ticker": "",
+    "weight": "9.18",
+    "section": "long"
+   },
+   {
+    "name": "FANUC CORP",
+    "ticker": "",
+    "weight": "7.65",
+    "section": "long"
+   },
+   {
+    "name": "INTUITIVE SURGICAL INC",
+    "ticker": "",
+    "weight": "6.08",
+    "section": "long"
+   },
+   {
+    "name": "SMC CORP",
+    "ticker": "",
+    "weight": "4.56",
+    "section": "long"
+   },
+   {
+    "name": "SHENZHEN INOVANCE TECHNOLOGY C",
+    "ticker": "",
+    "weight": "4.07",
+    "section": "long"
+   },
+   {
+    "name": "DAIFUKU CO LTD",
+    "ticker": "",
+    "weight": "3.12",
+    "section": "long"
+   },
+   {
+    "name": "ROBOTECHNIK INTELLIGENT TECHNOLOGY CO LTD",
+    "ticker": "",
+    "weight": "2.74",
+    "section": "long"
+   },
+   {
+    "name": "COGNEX CORP",
+    "ticker": "",
+    "weight": "2.27",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "REIT",
+  "fund_name": "Global X Equal Weight Canadian REITs Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "1ST CAPITAL REIT",
+    "ticker": "",
+    "weight": "11.15",
+    "section": "long"
+   },
+   {
+    "name": "RIOCAN REIT",
+    "ticker": "",
+    "weight": "10.73",
+    "section": "long"
+   },
+   {
+    "name": "DREAM INDUSTRIAL REIT",
+    "ticker": "",
+    "weight": "10.33",
+    "section": "long"
+   },
+   {
+    "name": "GRANITE REAL ESTATE INVESTMENT TRUST",
+    "ticker": "",
+    "weight": "10.29",
+    "section": "long"
+   },
+   {
+    "name": "SMARTCENTRES REIT",
+    "ticker": "",
+    "weight": "10.11",
+    "section": "long"
+   },
+   {
+    "name": "CHOICE PROPERTIES REIT",
+    "ticker": "",
+    "weight": "9.91",
+    "section": "long"
+   },
+   {
+    "name": "H&R REIT",
+    "ticker": "",
+    "weight": "9.52",
+    "section": "long"
+   },
+   {
+    "name": "CHARTWELL RETIREMENT RESIDENCE",
+    "ticker": "",
+    "weight": "9.44",
+    "section": "long"
+   },
+   {
+    "name": "BOARDWALK REAL ESTATE INVT",
+    "ticker": "",
+    "weight": "9.33",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN APARTMENT PPTYS REIT",
+    "ticker": "",
+    "weight": "8.64",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "RING",
+  "fund_name": "Global X Equal Weight Canadian Telecommunications Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "BCE INC",
+    "ticker": "",
+    "weight": "34.85",
+    "section": "long"
+   },
+   {
+    "name": "ROGERS COMMUNICATIONS INC",
+    "ticker": "",
+    "weight": "34.29",
+    "section": "long"
+   },
+   {
+    "name": "TELUS CORP",
+    "ticker": "",
+    "weight": "30.38",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.49",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "RNCC",
+  "fund_name": "Global X Equal Weight Canadian Telecommunications Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X EQUAL WEIGHT CANADIAN TELECOMMUNICATIONS",
+    "ticker": "",
+    "weight": "52.73",
+    "section": "long"
+   },
+   {
+    "name": "BCE INC",
+    "ticker": "",
+    "weight": "16.43",
+    "section": "long"
+   },
+   {
+    "name": "ROGERS COMMUNICATIONS INC",
+    "ticker": "",
+    "weight": "16.15",
+    "section": "long"
+   },
+   {
+    "name": "TELUS CORP",
+    "ticker": "",
+    "weight": "14.34",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.36",
+    "section": "long"
+   },
+   {
+    "name": "BCE INC",
+    "ticker": "",
+    "weight": "34.84",
+    "section": "long"
+   },
+   {
+    "name": "ROGERS COMMUNICATIONS INC",
+    "ticker": "",
+    "weight": "34.27",
+    "section": "long"
+   },
+   {
+    "name": "TELUS CORP",
+    "ticker": "",
+    "weight": "30.39",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.62",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "RNCL",
+  "fund_name": "Global X Enhanced Equal Weight Canadian Telecommunications Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X EQUAL WEIGHT CANADIAN TELECOMMUNICATIONS",
+    "ticker": "",
+    "weight": "98.68",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "1.32",
+    "section": "long"
+   },
+   {
+    "name": "BCE INC",
+    "ticker": "",
+    "weight": "34.38",
+    "section": "long"
+   },
+   {
+    "name": "ROGERS COMMUNICATIONS INC",
+    "ticker": "",
+    "weight": "33.81",
+    "section": "long"
+   },
+   {
+    "name": "TELUS CORP",
+    "ticker": "",
+    "weight": "29.99",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "1.93",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "RSCC",
+  "fund_name": "Global X Russell 2000 Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X RUSSELL 2000 INDEX ETF",
+    "ticker": "RSSX.U",
+    "weight": "99.85",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.27",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.53",
+    "section": "long"
+   },
+   {
+    "name": "JFROG LTD",
+    "ticker": "",
+    "weight": "0.35",
+    "section": "long"
+   },
+   {
+    "name": "MOOG INC",
+    "ticker": "",
+    "weight": "0.34",
+    "section": "long"
+   },
+   {
+    "name": "UMB FINANCIAL CORP",
+    "ticker": "",
+    "weight": "0.33",
+    "section": "long"
+   },
+   {
+    "name": "GLAUKOS CORP",
+    "ticker": "",
+    "weight": "0.33",
+    "section": "long"
+   },
+   {
+    "name": "BRINKER INTERNATIONAL INC",
+    "ticker": "",
+    "weight": "0.32",
+    "section": "long"
+   },
+   {
+    "name": "BRIGHTSPRING HEALTH SERVICES I",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "KRYSTAL BIOTECH INC",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "CYTOKINETICS INC",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "PROTAGONIST THERAPEUTICS INC",
+    "ticker": "",
+    "weight": "0.29",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "RSCL",
+  "fund_name": "Global X Enhanced Russell 2000 Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "JFROG LTD",
+    "ticker": "",
+    "weight": "0.35",
+    "section": "long"
+   },
+   {
+    "name": "MOOG INC",
+    "ticker": "",
+    "weight": "0.34",
+    "section": "long"
+   },
+   {
+    "name": "UMB FINANCIAL CORP",
+    "ticker": "",
+    "weight": "0.33",
+    "section": "long"
+   },
+   {
+    "name": "GLAUKOS CORP",
+    "ticker": "",
+    "weight": "0.33",
+    "section": "long"
+   },
+   {
+    "name": "BRINKER INTERNATIONAL INC",
+    "ticker": "",
+    "weight": "0.32",
+    "section": "long"
+   },
+   {
+    "name": "BRIGHTSPRING HEALTH SERVICES I",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "KRYSTAL BIOTECH INC",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "CYTOKINETICS INC",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "PROTAGONIST THERAPEUTICS INC",
+    "ticker": "",
+    "weight": "0.29",
+    "section": "long"
+   },
+   {
+    "name": "TWIST BIOSCIENCE CORP",
+    "ticker": "",
+    "weight": "0.29",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "RSSX",
+  "fund_name": "Global X Russell 2000 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X RUSSELL 2000 ETF",
+    "ticker": "RSSL",
+    "weight": "99.94",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.06",
+    "section": "long"
+   },
+   {
+    "name": "JFROG LTD",
+    "ticker": "",
+    "weight": "0.35",
+    "section": "long"
+   },
+   {
+    "name": "MOOG INC",
+    "ticker": "",
+    "weight": "0.34",
+    "section": "long"
+   },
+   {
+    "name": "UMB FINANCIAL CORP",
+    "ticker": "",
+    "weight": "0.33",
+    "section": "long"
+   },
+   {
+    "name": "GLAUKOS CORP",
+    "ticker": "",
+    "weight": "0.33",
+    "section": "long"
+   },
+   {
+    "name": "BRINKER INTERNATIONAL INC",
+    "ticker": "",
+    "weight": "0.32",
+    "section": "long"
+   },
+   {
+    "name": "BRIGHTSPRING HEALTH SERVICES I",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "KRYSTAL BIOTECH INC",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "CYTOKINETICS INC",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   },
+   {
+    "name": "PROTAGONIST THERAPEUTICS INC",
+    "ticker": "",
+    "weight": "0.29",
+    "section": "long"
+   },
+   {
+    "name": "TWIST BIOSCIENCE CORP",
+    "ticker": "",
+    "weight": "0.29",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SAFE",
+  "fund_name": "Global X Equal Weight Canadian Insurance Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "MANULIFE FINANCIAL CORP",
+    "ticker": "",
+    "weight": "25.55",
+    "section": "long"
+   },
+   {
+    "name": "GREAT WEST LIFECO INC",
+    "ticker": "",
+    "weight": "25.12",
+    "section": "long"
+   },
+   {
+    "name": "SUN LIFE FINANCIAL INC",
+    "ticker": "",
+    "weight": "25.03",
+    "section": "long"
+   },
+   {
+    "name": "INTACT FINANCIAL CORP",
+    "ticker": "",
+    "weight": "23.99",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.31",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SCND",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SHLD",
+  "fund_name": "Global X Defence Tech Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X DEFENSE TECH ETF",
+    "ticker": "SHLD",
+    "weight": "99.94",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.06",
+    "section": "long"
+   },
+   {
+    "name": "PALANTIR TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "10.81",
+    "section": "long"
+   },
+   {
+    "name": "RTX CORP",
+    "ticker": "",
+    "weight": "9.32",
+    "section": "long"
+   },
+   {
+    "name": "GENERAL DYNAMICS CORP",
+    "ticker": "",
+    "weight": "8.59",
+    "section": "long"
+   },
+   {
+    "name": "LOCKHEED MARTIN CORP",
+    "ticker": "",
+    "weight": "8.35",
+    "section": "long"
+   },
+   {
+    "name": "NORTHROP GRUMMAN CORP",
+    "ticker": "",
+    "weight": "7.71",
+    "section": "long"
+   },
+   {
+    "name": "BAE SYSTEMS PLC",
+    "ticker": "",
+    "weight": "4.62",
+    "section": "long"
+   },
+   {
+    "name": "RHEINMETALL AG",
+    "ticker": "",
+    "weight": "4.04",
+    "section": "long"
+   },
+   {
+    "name": "HANWHA AEROSPACE CO LTD",
+    "ticker": "",
+    "weight": "3.82",
+    "section": "long"
+   },
+   {
+    "name": "L3HARRIS TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "3.80",
+    "section": "long"
+   },
+   {
+    "name": "THALES SA",
+    "ticker": "",
+    "weight": "3.73",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SLVD",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SLVU",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SLVX",
+  "fund_name": "Global X Silver Miners Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "WHEATON PRECIOUS METALS CORP",
+    "ticker": "",
+    "weight": "23.25",
+    "section": "long"
+   },
+   {
+    "name": "PAN AMERICAN SILVER CORP",
+    "ticker": "",
+    "weight": "11.38",
+    "section": "long"
+   },
+   {
+    "name": "COEUR MINING INC",
+    "ticker": "",
+    "weight": "11.08",
+    "section": "long"
+   },
+   {
+    "name": "HECLA MINING CO",
+    "ticker": "",
+    "weight": "4.89",
+    "section": "long"
+   },
+   {
+    "name": "1ST MAJESTIC SILVER CORP",
+    "ticker": "",
+    "weight": "4.62",
+    "section": "long"
+   },
+   {
+    "name": "INDUSTRIAS PENOLES SAB DE CV",
+    "ticker": "",
+    "weight": "4.49",
+    "section": "long"
+   },
+   {
+    "name": "SSR MINING INC",
+    "ticker": "",
+    "weight": "4.25",
+    "section": "long"
+   },
+   {
+    "name": "FRESNILLO PLC",
+    "ticker": "",
+    "weight": "4.19",
+    "section": "long"
+   },
+   {
+    "name": "OR ROYALTIES INC",
+    "ticker": "",
+    "weight": "3.88",
+    "section": "long"
+   },
+   {
+    "name": "CIA DE MINAS BUENAVENTURA SAA",
+    "ticker": "",
+    "weight": "3.55",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SOXL",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SOXS",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SPXD",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SPXI",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SPXU",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SQQQ",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SSPX",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SVCC",
+  "fund_name": "Global X Silver Miners Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X SILVER MINERS INDEX ETF",
+    "ticker": "SLVX",
+    "weight": "100.82",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.20",
+    "section": "long"
+   },
+   {
+    "name": "WHEATON PRECIOUS METALS CORP",
+    "ticker": "",
+    "weight": "0.01",
+    "section": "long"
+   },
+   {
+    "name": "SSR MINING INC",
+    "ticker": "",
+    "weight": "0.00",
+    "section": "long"
+   },
+   {
+    "name": "WHEATON PRECIOUS METALS CORP",
+    "ticker": "",
+    "weight": "23.45",
+    "section": "long"
+   },
+   {
+    "name": "PAN AMERICAN SILVER CORP",
+    "ticker": "",
+    "weight": "11.47",
+    "section": "long"
+   },
+   {
+    "name": "COEUR MINING INC",
+    "ticker": "",
+    "weight": "11.17",
+    "section": "long"
+   },
+   {
+    "name": "HECLA MINING CO",
+    "ticker": "",
+    "weight": "4.93",
+    "section": "long"
+   },
+   {
+    "name": "1ST MAJESTIC SILVER CORP",
+    "ticker": "",
+    "weight": "4.65",
+    "section": "long"
+   },
+   {
+    "name": "INDUSTRIAS PENOLES SAB DE CV",
+    "ticker": "",
+    "weight": "4.53",
+    "section": "long"
+   },
+   {
+    "name": "SSR MINING INC",
+    "ticker": "",
+    "weight": "4.28",
+    "section": "long"
+   },
+   {
+    "name": "FRESNILLO PLC",
+    "ticker": "",
+    "weight": "4.22",
+    "section": "long"
+   },
+   {
+    "name": "OR ROYALTIES INC",
+    "ticker": "",
+    "weight": "3.91",
+    "section": "long"
+   },
+   {
+    "name": "CIA DE MINAS BUENAVENTURA SAA",
+    "ticker": "",
+    "weight": "3.58",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "SVCL",
+  "fund_name": "Global X Enhanced Silver Miners Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X SILVER MINERS COVERED CALL ETF",
+    "ticker": "SVCC",
+    "weight": "99.30",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.70",
+    "section": "long"
+   },
+   {
+    "name": "WHEATON PRECIOUS METALS CORP",
+    "ticker": "",
+    "weight": "23.29",
+    "section": "long"
+   },
+   {
+    "name": "PAN AMERICAN SILVER CORP",
+    "ticker": "",
+    "weight": "11.39",
+    "section": "long"
+   },
+   {
+    "name": "COEUR MINING INC",
+    "ticker": "",
+    "weight": "11.09",
+    "section": "long"
+   },
+   {
+    "name": "HECLA MINING CO",
+    "ticker": "",
+    "weight": "4.90",
+    "section": "long"
+   },
+   {
+    "name": "1ST MAJESTIC SILVER CORP",
+    "ticker": "",
+    "weight": "4.62",
+    "section": "long"
+   },
+   {
+    "name": "INDUSTRIAS PENOLES SAB DE CV",
+    "ticker": "",
+    "weight": "4.50",
+    "section": "long"
+   },
+   {
+    "name": "SSR MINING INC",
+    "ticker": "",
+    "weight": "4.25",
+    "section": "long"
+   },
+   {
+    "name": "FRESNILLO PLC",
+    "ticker": "",
+    "weight": "4.19",
+    "section": "long"
+   },
+   {
+    "name": "OR ROYALTIES INC",
+    "ticker": "",
+    "weight": "3.88",
+    "section": "long"
+   },
+   {
+    "name": "CIA DE MINAS BUENAVENTURA SAA",
+    "ticker": "",
+    "weight": "3.56",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "TCND",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "TOKN",
+  "fund_name": "Global X Tokenization Ecosystem Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "COINBASE GLOBAL INC",
+    "ticker": "",
+    "weight": "9.32",
+    "section": "long"
+   },
+   {
+    "name": "ROBINHOOD MARKETS INC",
+    "ticker": "",
+    "weight": "8.07",
+    "section": "long"
+   },
+   {
+    "name": "BLOCK INC",
+    "ticker": "",
+    "weight": "7.28",
+    "section": "long"
+   },
+   {
+    "name": "FISERV INC",
+    "ticker": "",
+    "weight": "7.21",
+    "section": "long"
+   },
+   {
+    "name": "NU HOLDINGS LTD/CAYMAN ISLANDS",
+    "ticker": "",
+    "weight": "7.03",
+    "section": "long"
+   },
+   {
+    "name": "BITMINE IMMERSION TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "5.80",
+    "section": "long"
+   },
+   {
+    "name": "CIRCLE INTERNET GROUP INC",
+    "ticker": "",
+    "weight": "5.52",
+    "section": "long"
+   },
+   {
+    "name": "FUTU HOLDINGS LTD",
+    "ticker": "",
+    "weight": "4.81",
+    "section": "long"
+   },
+   {
+    "name": "SOFI TECHNOLOGIES INC",
+    "ticker": "",
+    "weight": "4.05",
+    "section": "long"
+   },
+   {
+    "name": "VISA INC COM CL A",
+    "ticker": "",
+    "weight": "3.51",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "TQQQ",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "TSPX",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "TTTX",
+  "fund_name": "Global X Innovative Bluechip Top 10 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "12.11",
+    "section": "long"
+   },
+   {
+    "name": "ELI LILLY & CO",
+    "ticker": "",
+    "weight": "10.90",
+    "section": "long"
+   },
+   {
+    "name": "AMGEN INC",
+    "ticker": "",
+    "weight": "10.88",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "10.76",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "10.35",
+    "section": "long"
+   },
+   {
+    "name": "TAIWAN SEMICONDUCTOR MANUFACTU",
+    "ticker": "",
+    "weight": "9.91",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "9.64",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "9.46",
+    "section": "long"
+   },
+   {
+    "name": "CONTEMPORARY AMPEREX TECHNOLOG",
+    "ticker": "",
+    "weight": "7.84",
+    "section": "long"
+   },
+   {
+    "name": "BYD CO LTD",
+    "ticker": "",
+    "weight": "7.79",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "UBNK",
+  "fund_name": "Global X Equal Weight U.S. Banks Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "MORGAN STANLEY",
+    "ticker": "",
+    "weight": "17.86",
+    "section": "long"
+   },
+   {
+    "name": "BANK OF AMERICA CORP",
+    "ticker": "",
+    "weight": "17.18",
+    "section": "long"
+   },
+   {
+    "name": "GOLDMAN SACHS GROUP INC/THE",
+    "ticker": "",
+    "weight": "17.00",
+    "section": "long"
+   },
+   {
+    "name": "JPMORGAN CHASE & CO",
+    "ticker": "",
+    "weight": "16.28",
+    "section": "long"
+   },
+   {
+    "name": "CITIGROUP INC",
+    "ticker": "",
+    "weight": "16.14",
+    "section": "long"
+   },
+   {
+    "name": "WELLS FARGO & CO",
+    "ticker": "",
+    "weight": "15.19",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.35",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "UMRT",
+  "fund_name": "Global X Equal Weight U.S. Groceries & Staples Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "TARGET CORP",
+    "ticker": "",
+    "weight": "28.06",
+    "section": "long"
+   },
+   {
+    "name": "COSTCO WHOLESALE CORP",
+    "ticker": "",
+    "weight": "24.31",
+    "section": "long"
+   },
+   {
+    "name": "KROGER CO/THE",
+    "ticker": "",
+    "weight": "24.05",
+    "section": "long"
+   },
+   {
+    "name": "WALMART INC",
+    "ticker": "",
+    "weight": "22.98",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.61",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "URCC",
+  "fund_name": "Global X Uranium Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X URANIUM ETF",
+    "ticker": "URA",
+    "weight": "70.91",
+    "section": "long"
+   },
+   {
+    "name": "BHP GROUP LTD",
+    "ticker": "",
+    "weight": "5.90",
+    "section": "long"
+   },
+   {
+    "name": "NEXGEN ENERGY LTD",
+    "ticker": "",
+    "weight": "4.53",
+    "section": "long"
+   },
+   {
+    "name": "CAMECO CORP",
+    "ticker": "",
+    "weight": "4.51",
+    "section": "long"
+   },
+   {
+    "name": "CENTRUS ENERGY CORP",
+    "ticker": "",
+    "weight": "4.43",
+    "section": "long"
+   },
+   {
+    "name": "URANIUM ENERGY CORP",
+    "ticker": "",
+    "weight": "4.12",
+    "section": "long"
+   },
+   {
+    "name": "NUSCALE POWER CORP",
+    "ticker": "",
+    "weight": "3.77",
+    "section": "long"
+   },
+   {
+    "name": "OKLO INC",
+    "ticker": "",
+    "weight": "2.81",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.49",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "USCC",
+  "fund_name": "Global X S&P 500 Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P 500 INDEX ETF",
+    "ticker": "USSX.U",
+    "weight": "100.04",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.20",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.08",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.03",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "5.71",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "5.40",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "3.84",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.65",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "1.90",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "1.63",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "1.57",
+    "section": "long"
+   },
+   {
+    "name": "JPMORGAN CHASE & CO",
+    "ticker": "",
+    "weight": "1.44",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "USCL",
+  "fund_name": "Global X Enhanced S&P 500 Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P 500 COVERED CALL ETF",
+    "ticker": "USCC",
+    "weight": "99.93",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.07",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.08",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.03",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "5.70",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "5.40",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "3.84",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.65",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "1.90",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "1.63",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "1.56",
+    "section": "long"
+   },
+   {
+    "name": "JPMORGAN CHASE & CO",
+    "ticker": "",
+    "weight": "1.44",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "USSL",
+  "fund_name": "Global X Enhanced S&P 500 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X S&P 500 INDEX ETF",
+    "ticker": "USSX",
+    "weight": "99.61",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.39",
+    "section": "long"
+   },
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.05",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.00",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "5.68",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "5.38",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "3.83",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.64",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "1.89",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "1.63",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "1.56",
+    "section": "long"
+   },
+   {
+    "name": "JPMORGAN CHASE & CO",
+    "ticker": "",
+    "weight": "1.44",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "USSX",
+  "fund_name": "Global X S&P 500 Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NVIDIA CORP",
+    "ticker": "",
+    "weight": "8.08",
+    "section": "long"
+   },
+   {
+    "name": "APPLE INC",
+    "ticker": "",
+    "weight": "7.03",
+    "section": "long"
+   },
+   {
+    "name": "MICROSOFT CORP",
+    "ticker": "",
+    "weight": "5.70",
+    "section": "long"
+   },
+   {
+    "name": "ALPHABET INC",
+    "ticker": "",
+    "weight": "5.40",
+    "section": "long"
+   },
+   {
+    "name": "AMAZON.COM INC",
+    "ticker": "",
+    "weight": "3.84",
+    "section": "long"
+   },
+   {
+    "name": "BROADCOM INC",
+    "ticker": "",
+    "weight": "2.65",
+    "section": "long"
+   },
+   {
+    "name": "META PLATFORMS INC",
+    "ticker": "",
+    "weight": "1.90",
+    "section": "long"
+   },
+   {
+    "name": "MICRON TECHNOLOGY INC",
+    "ticker": "",
+    "weight": "1.63",
+    "section": "long"
+   },
+   {
+    "name": "TESLA INC",
+    "ticker": "",
+    "weight": "1.57",
+    "section": "long"
+   },
+   {
+    "name": "JPMORGAN CHASE & CO",
+    "ticker": "",
+    "weight": "1.44",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "UTIL",
+  "fund_name": "Global X Equal Weight Canadian Utilities Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "BROOKFIELD RENEWABLE PARTNERS",
+    "ticker": "",
+    "weight": "14.88",
+    "section": "long"
+   },
+   {
+    "name": "ALTAGAS LTD",
+    "ticker": "",
+    "weight": "14.84",
+    "section": "long"
+   },
+   {
+    "name": "BROOKFIELD INFRASTRUCTURE",
+    "ticker": "",
+    "weight": "14.46",
+    "section": "long"
+   },
+   {
+    "name": "FORTIS INC",
+    "ticker": "",
+    "weight": "14.43",
+    "section": "long"
+   },
+   {
+    "name": "EMERA INC",
+    "ticker": "",
+    "weight": "13.97",
+    "section": "long"
+   },
+   {
+    "name": "HYDRO ONE LIMITED",
+    "ticker": "",
+    "weight": "13.71",
+    "section": "long"
+   },
+   {
+    "name": "CAPITAL POWER CORP",
+    "ticker": "",
+    "weight": "13.32",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.39",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "CASH",
+  "fund_name": "Global X High Interest Savings ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NATIONAL BANK CASH ACCT",
+    "ticker": "",
+    "weight": "49.53",
+    "section": "long"
+   },
+   {
+    "name": "SCOTIABANK CASH ACCOUNT",
+    "ticker": "",
+    "weight": "28.03",
+    "section": "long"
+   },
+   {
+    "name": "CIBC CASH ACCOUNT",
+    "ticker": "",
+    "weight": "14.76",
+    "section": "long"
+   },
+   {
+    "name": "SCOTIABANK CASH ACCT",
+    "ticker": "",
+    "weight": "4.52",
+    "section": "long"
+   },
+   {
+    "name": "CIBC MELLON CASH ACCOUNT",
+    "ticker": "",
+    "weight": "3.17",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "CBIL",
+  "fund_name": "Global X 0-3 Month T-Bill ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "CANADIAN TREASURY BILL 02-12-2026",
+    "ticker": "",
+    "weight": "28.34",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN TREASURY BILL 21-10-2026",
+    "ticker": "",
+    "weight": "19.16",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN TREASURY BILL 09-09-2026",
+    "ticker": "",
+    "weight": "17.40",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN TREASURY BILL 23-09-2026",
+    "ticker": "",
+    "weight": "14.35",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN TREASURY BILL 04-11-2026",
+    "ticker": "",
+    "weight": "12.91",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN TREASURY BILL 16-12-2026",
+    "ticker": "",
+    "weight": "4.66",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN TREASURY BILL 18-11-2026",
+    "ticker": "",
+    "weight": "1.77",
+    "section": "long"
+   },
+   {
+    "name": "CANADIAN TREASURY BILL 07-10-2026",
+    "ticker": "",
+    "weight": "1.41",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "UBIL",
+  "fund_name": "Global X 0-3 Month U.S. T-Bill ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "UNITED STATES TREASURY BILL 19-11-2026",
+    "ticker": "",
+    "weight": "29.10",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 05-11-2026",
+    "ticker": "",
+    "weight": "17.10",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 08-10-2026",
+    "ticker": "",
+    "weight": "13.66",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 15-10-2026",
+    "ticker": "",
+    "weight": "13.56",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 12-11-2026",
+    "ticker": "",
+    "weight": "11.39",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 24-09-2026",
+    "ticker": "",
+    "weight": "6.34",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 03-09-2026",
+    "ticker": "",
+    "weight": "4.39",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 08-12-2026",
+    "ticker": "",
+    "weight": "3.20",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 24-12-2026",
+    "ticker": "",
+    "weight": "0.41",
+    "section": "long"
+   },
+   {
+    "name": "UNITED STATES TREASURY BILL 27-11-2026",
+    "ticker": "",
+    "weight": "0.22",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "UCSH",
+  "fund_name": "Global X USD High Interest Savings ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "NATIONAL BANK CASH ACCT",
+    "ticker": "",
+    "weight": "49.65",
+    "section": "long"
+   },
+   {
+    "name": "SCOTIA CASH ACCOUNT",
+    "ticker": "",
+    "weight": "49.27",
+    "section": "long"
+   },
+   {
+    "name": "CIBC BANK CASH ACCT",
+    "ticker": "",
+    "weight": "1.08",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.00",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "LPAY",
+  "fund_name": "Global X Long-Term U.S. Treasury Premium Yield ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X 20+ YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TLTX.U",
+    "weight": "64.59",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES 20+ YEAR TREASURY BO",
+    "ticker": "",
+    "weight": "14.16",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.U",
+    "weight": "13.53",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 0-3 MONTH U.S. T-BILL ETF",
+    "ticker": "UBIL.U",
+    "weight": "7.42",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.30",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "MPAY",
+  "fund_name": "Global X Mid-Term U.S. Treasury Premium Yield ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X 0-3 MONTH U.S. T-BILL ETF",
+    "ticker": "UBIL.U",
+    "weight": "35.08",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 20+ YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TLTX.U",
+    "weight": "29.03",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.U",
+    "weight": "25.95",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES 20+ YEAR TREASURY BO",
+    "ticker": "",
+    "weight": "9.68",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.26",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "PAYL",
+  "fund_name": "Global X Long-Term Government Bond Premium Yield ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "BMO LONG FEDERAL BD INDEX ETF",
+    "ticker": "ZFL",
+    "weight": "49.47",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES 20+ YEAR TREASURY BO",
+    "ticker": "",
+    "weight": "15.95",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 20+ YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TLTX.F",
+    "weight": "13.68",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.F",
+    "weight": "13.02",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 0-3 MONTH T-BILL ETF",
+    "ticker": "CBIL",
+    "weight": "7.54",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.34",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "PAYM",
+  "fund_name": "Global X Mid-Term Government Bond Premium Yield ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X 0-3 MONTH T-BILL ETF",
+    "ticker": "CBIL",
+    "weight": "35.01",
+    "section": "long"
+   },
+   {
+    "name": "BMO LONG FEDERAL BD INDEX ETF",
+    "ticker": "ZFL",
+    "weight": "19.89",
+    "section": "long"
+   },
+   {
+    "name": "BMO SHORT FEDERAL BOND INDEX ETF",
+    "ticker": "ZFS",
+    "weight": "15.90",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES 20+ YEAR TREASURY BO",
+    "ticker": "",
+    "weight": "14.55",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.F",
+    "weight": "10.03",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 20+ YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TLTX.F",
+    "weight": "4.34",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.28",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "PAYS",
+  "fund_name": "Global X Short-Term Government Bond Premium Yield ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X 0-3 MONTH T-BILL ETF",
+    "ticker": "CBIL",
+    "weight": "68.71",
+    "section": "long"
+   },
+   {
+    "name": "BMO SHORT FEDERAL BOND INDEX ETF",
+    "ticker": "ZFS",
+    "weight": "14.36",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES 20+ YEAR TREASURY BO",
+    "ticker": "",
+    "weight": "8.37",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.F",
+    "weight": "6.43",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 20+ YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TLTX.F",
+    "weight": "1.89",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.24",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "SPAY",
+  "fund_name": "Global X Short-Term U.S. Treasury Premium Yield ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X 0-3 MONTH U.S. T-BILL ETF",
+    "ticker": "UBIL.U",
+    "weight": "68.36",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 1-3 YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TSTX.U",
+    "weight": "20.84",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES 20+ YEAR TREASURY BO",
+    "ticker": "",
+    "weight": "7.20",
+    "section": "long"
+   },
+   {
+    "name": "GLOBAL X 20+ YEAR US TREASURY BOND INDEX ETF",
+    "ticker": "TLTX.U",
+    "weight": "3.36",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.24",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "STLT",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "TTLT",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "VOLX",
+  "fund_name": "404",
+  "as_of": null,
+  "holdings": [],
+  "sections": [],
+  "page_ok": false,
+  "notes": [
+   "no Top Holdings section"
+  ],
+  "fetch": "http-404",
+  "is_bond_candidate": true
+ },
+ {
+  "ticker": "EACC",
+  "fund_name": "Global X MSCI EAFE Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X MSCI EAFE INDEX ETF",
+    "ticker": "EAFX",
+    "weight": "100.27",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.25",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "9.49",
+    "section": "long"
+   },
+   {
+    "name": "ASML HOLDING NV",
+    "ticker": "",
+    "weight": "2.63",
+    "section": "long"
+   },
+   {
+    "name": "HSBC HOLDINGS PLC",
+    "ticker": "",
+    "weight": "1.51",
+    "section": "long"
+   },
+   {
+    "name": "ROCHE HOLDING AG",
+    "ticker": "",
+    "weight": "1.28",
+    "section": "long"
+   },
+   {
+    "name": "NOVARTIS AG",
+    "ticker": "",
+    "weight": "1.16",
+    "section": "long"
+   },
+   {
+    "name": "SHELL PLC",
+    "ticker": "",
+    "weight": "1.09",
+    "section": "long"
+   },
+   {
+    "name": "ASTRAZENECA PLC",
+    "ticker": "",
+    "weight": "1.04",
+    "section": "long"
+   },
+   {
+    "name": "SIEMENS AG",
+    "ticker": "",
+    "weight": "1.01",
+    "section": "long"
+   },
+   {
+    "name": "NESTLE SA",
+    "ticker": "",
+    "weight": "1.01",
+    "section": "long"
+   },
+   {
+    "name": "MITSUBISHI UFJ FINANCIAL GROUP",
+    "ticker": "",
+    "weight": "0.99",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "EACL",
+  "fund_name": "Global X Enhanced MSCI EAFE Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X MSCI EAFE COVERED CALL ETF",
+    "ticker": "EACC",
+    "weight": "99.85",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.15",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "9.47",
+    "section": "long"
+   },
+   {
+    "name": "ASML HOLDING NV",
+    "ticker": "",
+    "weight": "2.63",
+    "section": "long"
+   },
+   {
+    "name": "HSBC HOLDINGS PLC",
+    "ticker": "",
+    "weight": "1.51",
+    "section": "long"
+   },
+   {
+    "name": "ROCHE HOLDING AG",
+    "ticker": "",
+    "weight": "1.28",
+    "section": "long"
+   },
+   {
+    "name": "NOVARTIS AG",
+    "ticker": "",
+    "weight": "1.16",
+    "section": "long"
+   },
+   {
+    "name": "SHELL PLC",
+    "ticker": "",
+    "weight": "1.08",
+    "section": "long"
+   },
+   {
+    "name": "ASTRAZENECA PLC",
+    "ticker": "",
+    "weight": "1.04",
+    "section": "long"
+   },
+   {
+    "name": "SIEMENS AG",
+    "ticker": "",
+    "weight": "1.01",
+    "section": "long"
+   },
+   {
+    "name": "NESTLE SA",
+    "ticker": "",
+    "weight": "1.01",
+    "section": "long"
+   },
+   {
+    "name": "MITSUBISHI UFJ FINANCIAL GROUP",
+    "ticker": "",
+    "weight": "0.99",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "EAFX",
+  "fund_name": "Global X MSCI EAFE Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ISHARES CORE MSCI EAFE ETF",
+    "ticker": "IEFA",
+    "weight": "9.46",
+    "section": "long"
+   },
+   {
+    "name": "ASML HOLDING NV",
+    "ticker": "",
+    "weight": "2.62",
+    "section": "long"
+   },
+   {
+    "name": "HSBC HOLDINGS PLC",
+    "ticker": "",
+    "weight": "1.51",
+    "section": "long"
+   },
+   {
+    "name": "ROCHE HOLDING AG",
+    "ticker": "",
+    "weight": "1.28",
+    "section": "long"
+   },
+   {
+    "name": "NOVARTIS AG",
+    "ticker": "",
+    "weight": "1.16",
+    "section": "long"
+   },
+   {
+    "name": "SHELL PLC",
+    "ticker": "",
+    "weight": "1.08",
+    "section": "long"
+   },
+   {
+    "name": "ASTRAZENECA PLC",
+    "ticker": "",
+    "weight": "1.04",
+    "section": "long"
+   },
+   {
+    "name": "SIEMENS AG",
+    "ticker": "",
+    "weight": "1.01",
+    "section": "long"
+   },
+   {
+    "name": "NESTLE SA",
+    "ticker": "",
+    "weight": "1.01",
+    "section": "long"
+   },
+   {
+    "name": "MITSUBISHI UFJ FINANCIAL GROUP",
+    "ticker": "",
+    "weight": "0.99",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "EMCC",
+  "fund_name": "Global X MSCI Emerging Markets Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS INDEX ETF",
+    "ticker": "EMMX",
+    "weight": "100.00",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.25",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EMERGING",
+    "ticker": "",
+    "weight": "14.72",
+    "section": "long"
+   },
+   {
+    "name": "TAIWAN SEMICONDUCTOR MANUFACTU",
+    "ticker": "",
+    "weight": "12.57",
+    "section": "long"
+   },
+   {
+    "name": "SAMSUNG ELECTRONICS CO LTD",
+    "ticker": "",
+    "weight": "6.73",
+    "section": "long"
+   },
+   {
+    "name": "SK HYNIX INC",
+    "ticker": "",
+    "weight": "4.64",
+    "section": "long"
+   },
+   {
+    "name": "TENCENT HOLDINGS LTD",
+    "ticker": "",
+    "weight": "2.27",
+    "section": "long"
+   },
+   {
+    "name": "ALIBABA GROUP HOLDING LTD",
+    "ticker": "",
+    "weight": "1.58",
+    "section": "long"
+   },
+   {
+    "name": "MEDIATEK INC",
+    "ticker": "",
+    "weight": "1.15",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.94",
+    "section": "long"
+   },
+   {
+    "name": "DELTA ELECTRONICS INC",
+    "ticker": "",
+    "weight": "0.62",
+    "section": "long"
+   },
+   {
+    "name": "HON HAI PRECISION INDUSTRY CO",
+    "ticker": "",
+    "weight": "0.62",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "EMCL",
+  "fund_name": "Global X Enhanced MSCI Emerging Markets Covered Call ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "GLOBAL X MSCI EMERGING MARKETS COVERED CALL ETF/TO",
+    "ticker": "EMCC",
+    "weight": "99.33",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.68",
+    "section": "long"
+   },
+   {
+    "name": "ISHARES CORE MSCI EMERGING",
+    "ticker": "",
+    "weight": "14.62",
+    "section": "long"
+   },
+   {
+    "name": "TAIWAN SEMICONDUCTOR MANUFACTU",
+    "ticker": "",
+    "weight": "12.49",
+    "section": "long"
+   },
+   {
+    "name": "SAMSUNG ELECTRONICS CO LTD",
+    "ticker": "",
+    "weight": "6.68",
+    "section": "long"
+   },
+   {
+    "name": "SK HYNIX INC",
+    "ticker": "",
+    "weight": "4.61",
+    "section": "long"
+   },
+   {
+    "name": "TENCENT HOLDINGS LTD",
+    "ticker": "",
+    "weight": "2.25",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "1.61",
+    "section": "long"
+   },
+   {
+    "name": "ALIBABA GROUP HOLDING LTD",
+    "ticker": "",
+    "weight": "1.57",
+    "section": "long"
+   },
+   {
+    "name": "MEDIATEK INC",
+    "ticker": "",
+    "weight": "1.14",
+    "section": "long"
+   },
+   {
+    "name": "DELTA ELECTRONICS INC",
+    "ticker": "",
+    "weight": "0.62",
+    "section": "long"
+   },
+   {
+    "name": "HON HAI PRECISION INDUSTRY CO",
+    "ticker": "",
+    "weight": "0.61",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ },
+ {
+  "ticker": "EMMX",
+  "fund_name": "Global X MSCI Emerging Markets Index ETF",
+  "as_of": "August 31, 2026",
+  "holdings": [
+   {
+    "name": "ISHARES CORE MSCI EMERGING",
+    "ticker": "",
+    "weight": "14.72",
+    "section": "long"
+   },
+   {
+    "name": "TAIWAN SEMICONDUCTOR MANUFACTU",
+    "ticker": "",
+    "weight": "12.57",
+    "section": "long"
+   },
+   {
+    "name": "SAMSUNG ELECTRONICS CO LTD",
+    "ticker": "",
+    "weight": "6.73",
+    "section": "long"
+   },
+   {
+    "name": "SK HYNIX INC",
+    "ticker": "",
+    "weight": "4.64",
+    "section": "long"
+   },
+   {
+    "name": "TENCENT HOLDINGS LTD",
+    "ticker": "",
+    "weight": "2.27",
+    "section": "long"
+   },
+   {
+    "name": "ALIBABA GROUP HOLDING LTD",
+    "ticker": "",
+    "weight": "1.58",
+    "section": "long"
+   },
+   {
+    "name": "MEDIATEK INC",
+    "ticker": "",
+    "weight": "1.15",
+    "section": "long"
+   },
+   {
+    "name": "CASH & CASH EQUIVALENTS",
+    "ticker": "",
+    "weight": "0.70",
+    "section": "long"
+   },
+   {
+    "name": "DELTA ELECTRONICS INC",
+    "ticker": "",
+    "weight": "0.62",
+    "section": "long"
+   },
+   {
+    "name": "HON HAI PRECISION INDUSTRY CO",
+    "ticker": "",
+    "weight": "0.62",
+    "section": "long"
+   }
+  ],
+  "sections": [],
+  "page_ok": true,
+  "notes": [],
+  "fetch": "http-200",
+  "is_bond_candidate": false
+ }
+]
