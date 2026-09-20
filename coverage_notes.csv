@@ -591,8 +591,8 @@ QMVP,Complete: 25 holdings as of 2026-08-31 via hamiltonetfs.com extraction (202
 UMVP,Complete: 13 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
 HEB,Complete: 7 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
 HFN,Complete: 13 holdings as of 2026-08-31 via hamiltonetfs.com extraction (2026-09-19)
-HBFE,Holdings not yet extracted. Provider: Harvest ETFs
-HLFE,Holdings not yet extracted. Provider: Harvest ETFs
+HBFE,"Harvest: fund terminated effective 2024-06-26, delisted; no holdings published (press release 2024-04-25, harvestportfolios.com)"
+HLFE,"Harvest: fund terminated effective 2026-06-25, delisted from TSX; no holdings published (press release 2026-06-26, harvestportfolios.com)"
 DLR,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
 DLR.U,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
 HXT,"Mixed disclosure. Some funds publish complete holdings, others Top-10 only. HAU/HMU/HMD terminated."
@@ -638,7 +638,7 @@ KXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/
 GXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 PXF,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
 EXM,First Asset acquired by CI Global Asset Management. Many tickers terminated/merged. Check CI site for successor funds.
-CAGG,Holdings not yet extracted. Provider: CI Global Asset Management
+CAGG,"CI: bond index fund with ~1,158 holdings; skipped per user instruction 2026-09-20: bond fund with hundreds of holdings"
 DRG.B,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
 EHE.B,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
 DRG,WisdomTree Canada ETFs acquired by CI Global Asset Management; now CI funds. Check CI site.
@@ -818,7 +818,7 @@ UDIV.U,Complete: 108 holdings as of 2026-08-31 via manulifeim.com extraction (20
 UYLD,Complete: 315 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
 UYLD.B,Complete: 315 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
 UYLD.U,Complete: 315 holdings as of 2026-08-31 via manulifeim.com extraction (2026-09-19)
-CEQT,Holdings not yet extracted. Provider: CI Global Asset Management
+CEQT,Complete: 7 holdings as of 2026-06-30 via funds.cifinancial.com download (2026-09-20)
 TXF.B,Complete: 54 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
 TXF.U,Complete: 54 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
 ZXM,Complete: 217 holdings as of 2026-09-17 via funds.cifinancial.com download (2026-09-19)
